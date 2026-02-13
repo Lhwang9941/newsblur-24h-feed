@@ -2,7 +2,40 @@ import requests
 import os
 import trafilatura
 from datetime import datetime, timedelta, timezone
-from bs4 import BeautifulSoup
+import pytz
+from urllib.parse import urlparse
+
+# ===== country inference function (STEP 2 GOES HERE) =====
+def infer_country_from_url(url):
+    domain = urlparse(url).netloc.lower()
+
+    mapping = {
+        ".kr": ("South Korea", "Asia/Seoul"),
+        ".jp": ("Japan", "Asia/Tokyo"),
+        ".cn": ("China", "Asia/Shanghai"),
+        ".ru": ("Russia", "Europe/Moscow"),
+        ".fr": ("France", "Europe/Paris"),
+        ".de": ("Germany", "Europe/Berlin"),
+        ".uk": ("United Kingdom", "Europe/London"),
+        ".co.uk": ("United Kingdom", "Europe/London"),
+        ".it": ("Italy", "Europe/Rome"),
+        ".es": ("Spain", "Europe/Madrid"),
+        ".pt": ("Portugal", "Europe/Lisbon"),
+        ".ua": ("Ukraine", "Europe/Kyiv"),
+        ".pl": ("Poland", "Europe/Warsaw"),
+        ".se": ("Sweden", "Europe/Stockholm"),
+        ".no": ("Norway", "Europe/Oslo"),
+        ".fi": ("Finland", "Europe/Helsinki"),
+        ".com": ("Unknown", "UTC"),
+        ".org": ("Unknown", "UTC"),
+        ".net": ("Unknown", "UTC")
+    }
+
+    for tld, data in mapping.items():
+        if domain.endswith(tld):
+            return data
+
+    return ("Unknown", "UTC")
 
 # ===== FULL ARTICLE SCRAPER =====
 def fetch_full_article(url):
