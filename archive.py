@@ -180,6 +180,8 @@ with open("last_24h_news.txt", "w", encoding="utf-8") as f:
         ts_utc = datetime.fromtimestamp(int(s["story_timestamp"]), tz=timezone.utc)
 
         # Country + local timezone
+        kst = pytz.timezone("Asia/Seoul")
+        
         country, tz_name = infer_country_from_url(permalink)
         local_tz = pytz.timezone(tz_name)
 
