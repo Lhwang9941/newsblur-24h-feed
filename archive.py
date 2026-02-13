@@ -57,7 +57,7 @@ for s in stories:
 print(f"Collected {len(selected)} stories from last 24h")
 
 # ---- SAVE TEXT FILE ----
-with open("newsblur_24h_unread.txt", "w", encoding="utf-8") as f:
+with open("last_24h_news.txt", "w", encoding="utf-8") as f:
     for s in selected:
         f.write(s.get("story_title", "") + "\n")
         f.write(s.get("story_permalink", "") + "\n\n")
