@@ -69,19 +69,52 @@ while True:
 print(f"Total collected from last 24h: {len(ALL_SELECTED)}")
 
 # ---- TEXT CLEANING FUNCTION ----
+import re
+from bs4 import BeautifulSoup
+
 def clean_html(html):
     soup = BeautifulSoup(html, "html.parser")
 
-    # remove images, figures, videos, embeds
-    for tag in soup(["img", "figure", "video", "iframe", "picture", "source", "svg"]):
+    # remove non-content elements
+    for tag in soup([
+        "img", "figure", "video", "iframe", "picture", "source", "svg",
+        "script", "style", "nav", "footer", "header", "form", "aside",
+        "noscript", "button", "input"
+    ]):
         tag.decompose()
 
-    text = soup.get_text(separator="\n")
+    # remove comments
+    for c in soup.find_all(string=lambda text: isinstance(text, type(soup.comment))):
+        c.extract()
 
-    # normalize whitespace
-    lines = [l.strip() for l in text.splitlines()]
-    lines = [l for l in lines if l]
-    return "\n".join(lines)
+    # extract paragraphs properly
+    paragraphs = []
+
+    for p in soup.find_all(["p", "div", "article", "section"]):
+        text = p.get_text(" ", strip=True)
+
+        # clean excessive whitespace
+        text = re.sub(r"\s+", " ", text).strip()
+
+        # skip junk blocks
+        if len(text) < 40:
+            continue
+
+        # skip navigation-like lines
+        if text.lower().startswith(("share", "advertisement", "related", "sponsored", "cookie")):
+            continue
+
+        paragraphs.append(text)
+
+    # de-duplicate consecutive paragraphs
+    cleaned = []
+    prev = None
+    for p in paragraphs:
+        if p != prev:
+            cleaned.append(p)
+        prev = p
+
+    return "\n\n".join(cleaned)
 
 # ---- SAVE TXT ----
 with open("last_24h_news.txt", "w", encoding="utf-8") as f:
