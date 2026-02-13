@@ -143,12 +143,15 @@ with open("last_24h_news.txt", "w", encoding="utf-8") as f:
     for s in ALL_SELECTED:
         title = s.get("story_title", "").strip()
         permalink = s.get("story_permalink", "")
-        raw_content = s.get("story_content", "")
 
         ts = datetime.fromtimestamp(int(s["story_timestamp"]), tz=timezone.utc)
         time_str = ts.strftime("%Y-%m-%d %H:%M:%S GMT")
 
-        body = clean_html(raw_content)
+        # 🔽 NEW: scrape full article from URL
+        body = fetch_full_article(permalink)
+
+        if not body:
+            body = title  # fallback safety
 
         f.write(title + "\n")
         f.write(time_str + "\n")
