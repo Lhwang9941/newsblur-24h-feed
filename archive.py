@@ -1,87 +1,68 @@
-import os
 import requests
+import os
 from datetime import datetime, timedelta, timezone
-from trafilatura import fetch_url, extract
 
-# ===== CONFIG =====
 NB_USERNAME = os.getenv("NB_USERNAME")
 NB_PASSWORD = os.getenv("NB_PASSWORD")
-OUTPUT_FILE = "last_24h_news.txt"
-WINDOW_HOURS = 24
-# ==================
 
 session = requests.Session()
-session.headers.update({
-    "User-Agent": "Mozilla/5.0",
-    "Accept": "application/json"
-})
 
-# ---------- LOGIN ----------
-login = session.post("https://www.newsblur.com/api/login", data={
-    "username": NB_USERNAME,
-    "password": NB_PASSWORD
-}, allow_redirects=True)
+# ---- LOGIN ----
+login_resp = session.post(
+    "https://newsblur.com/api/login",
+    data={
+        "username": NB_USERNAME,
+        "password": NB_PASSWORD
+    }
+)
 
-if login.status_code != 200:
-    print("Login failed:", login.status_code)
-    print(login.text[:500])
+if login_resp.status_code != 200:
+    print("Login failed:", login_resp.text)
     exit(1)
 
 print("Logged in")
 
-# ---------- FETCH FEED ----------
-feed_url = "https://www.newsblur.com/api/reader/river_stories"
-response = session.get(feed_url, allow_redirects=True)
+# ---- FETCH UNREAD STORIES ----
+url = "https://newsblur.com/reader/river_stories"
+params = {
+    "read_filter": "unread",
+    "order": "newest",
+    "page": 1
+}
 
-# ---- DEBUG SAFETY CHECK ----
-content_type = response.headers.get("Content-Type", "")
-if "application/json" not in content_type:
+response = session.get(url, params=params)
+
+# ---- DEBUG GUARD ----
+if not response.headers.get("Content-Type", "").startswith("application/json"):
     print("ERROR: API did not return JSON")
     print("Status:", response.status_code)
-    print("Content-Type:", content_type)
+    print("Content-Type:", response.headers.get("Content-Type"))
     print("Body preview:", response.text[:500])
     exit(1)
 
 data = response.json()
+
 stories = data.get("stories", [])
 
-print(f"Fetched {len(stories)} stories")
-
 now = datetime.now(timezone.utc)
-window_start = now - timedelta(hours=WINDOW_HOURS)
+cutoff = now - timedelta(hours=24)
 
-blocks = []
+selected = []
 
-for story in stories:
-    ts = story.get("story_timestamp")
-    if not ts:
-        continue
+for s in stories:
+    ts = datetime.fromtimestamp(s["story_timestamp"], tz=timezone.utc)
+    if ts >= cutoff:
+        selected.append(s)
 
-    story_time = datetime.fromtimestamp(ts, tz=timezone.utc)
+print(f"Collected {len(selected)} stories from last 24h")
 
-    if not (window_start <= story_time <= now):
-        continue
+# ---- SAVE TEXT FILE ----
+with open("newsblur_24h_unread.txt", "w", encoding="utf-8") as f:
+    for s in selected:
+        f.write(s.get("story_title", "") + "\n")
+        f.write(s.get("story_permalink", "") + "\n\n")
+        content = s.get("story_content", "")
+        f.write(content + "\n")
+        f.write("\n" + "="*80 + "\n\n")
 
-    url = story.get("story_permalink")
-    if not url:
-        continue
-
-    downloaded = fetch_url(url)
-    text = extract(downloaded) or ""
-
-    block = f"""
-==============================
-SOURCE: {story.get('story_authors','')}
-DATE: {story.get('story_date','')}
-TITLE: {story.get('story_title','')}
-URL: {url}
-------------------------------
-{text.strip() if text else '[NO TEXT EXTRACTED]'}
-==============================
-"""
-    blocks.append(block)
-
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write("\n".join(blocks))
-
-print(f"Saved {len(blocks)} stories to {OUTPUT_FILE}")
+print("Saved to newsblur_24h_unread.txt")
