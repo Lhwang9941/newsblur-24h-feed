@@ -4,6 +4,27 @@ import trafilatura
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 
+# ===== FULL ARTICLE SCRAPER =====
+def fetch_full_article(url):
+    try:
+        downloaded = trafilatura.fetch_url(url)
+        if not downloaded:
+            return None
+
+        result = trafilatura.extract(
+            downloaded,
+            include_comments=False,
+            include_tables=False,
+            include_links=False,
+            include_images=False,
+            include_images=False,
+            favor_precision=True
+        )
+
+        return result
+    except:
+        return None
+
 NB_USERNAME = os.getenv("NB_USERNAME")
 NB_PASSWORD = os.getenv("NB_PASSWORD")
 
