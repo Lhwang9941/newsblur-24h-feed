@@ -50,7 +50,7 @@ cutoff = now - timedelta(hours=24)
 selected = []
 
 for s in stories:
-    ts = datetime.fromtimestamp(s["story_timestamp"], tz=timezone.utc)
+    ts = datetime.fromtimestamp(int(s["story_timestamp"]), tz=timezone.utc)
     if ts >= cutoff:
         selected.append(s)
 
