@@ -11,18 +11,16 @@ def fetch_full_article(url):
         if not downloaded:
             return None
 
-        result = trafilatura.extract(
+        text = trafilatura.extract(
             downloaded,
             include_comments=False,
             include_tables=False,
-            include_links=False,
-            include_images=False,
-            include_images=False,
-            favor_precision=True
+            include_images=False
         )
 
-        return result
-    except:
+        return text
+    except Exception as e:
+        print("SCRAPE ERROR:", e)
         return None
 
 NB_USERNAME = os.getenv("NB_USERNAME")
