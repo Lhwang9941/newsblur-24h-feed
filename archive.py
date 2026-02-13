@@ -1,5 +1,6 @@
 import requests
 import os
+import trafilatura
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 
