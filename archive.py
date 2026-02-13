@@ -174,19 +174,34 @@ with open("last_24h_news.txt", "w", encoding="utf-8") as f:
     for s in ALL_SELECTED:
         title = s.get("story_title", "").strip()
         permalink = s.get("story_permalink", "")
+        publisher = s.get("story_feed_title", "Unknown Publisher")
 
-        ts = datetime.fromtimestamp(int(s["story_timestamp"]), tz=timezone.utc)
-        time_str = ts.strftime("%Y-%m-%d %H:%M:%S GMT")
+        # UTC timestamp
+        ts_utc = datetime.fromtimestamp(int(s["story_timestamp"]), tz=timezone.utc)
 
-        # 🔽 NEW: scrape full article from URL
+        # Country + local timezone
+        country, tz_name = infer_country_from_url(permalink)
+        local_tz = pytz.timezone(tz_name)
+
+        local_time = ts_utc.astimezone(local_tz)
+        kst_time = ts_utc.astimezone(kst)
+
+        date_str = local_time.strftime("%Y-%m-%d")
+        local_time_str = local_time.strftime("%H:%M:%S %Z")
+        kst_time_str = kst_time.strftime("%H:%M:%S KST")
+
         body = fetch_full_article(permalink)
-
         if not body:
-            body = title  # fallback safety
+            body = title
 
+        # ===== FORMAT OUTPUT =====
         f.write(title + "\n")
-        f.write(time_str + "\n")
-        f.write(permalink + "\n\n")
+        f.write(country + "\n")
+        f.write(publisher + "\n")
+        f.write(date_str + "\n")
+        f.write(local_time_str + "\n")
+        f.write(kst_time_str + "\n\n")
+
         f.write(body + "\n")
         f.write("\n" + "="*100 + "\n\n")
 
