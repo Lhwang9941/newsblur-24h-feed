@@ -1,36 +1,53 @@
-Doubt cast over ‘efficacy’ of common taping method
-United Kingdom
-Unknown Publisher
-2026-04-01
-07:17:19 BST
-15:17:19 KST
-
-Doubt cast over ‘efficacy’ of common taping method
-- A new review suggests there is "uncertain efficacy" regarding the commonly used kinesio tape (KT) for muscle and bone problems.
-- Kinesio taping has been extensively used since the 1970s for musculoskeletal disorders and to increase mobility.
-- A team from China examined 153 systematic reviews across 29 conditions, involving 15,812 patients, to assess KT's effectiveness.
-- The review found that KT may reduce pain intensity and improve function in the immediate and short term, but the evidence for this is uncertain.
-- Researchers concluded that KT likely has little to no effect on pain in the medium term, function in the short and medium term, muscle strength, range of motion, or disease-specific symptoms, with most evidence rated as very low certainty.
-
-====================================================================================================
-
-Russia’s Higher Education Ministry reportedly tells universities to send 2% of students to military
+What’s it like to be an astronaut with former astronaut Daniel Tani |Euronews Tech Talks
 Unknown
 Unknown Publisher
 2026-04-01
-06:15:29 UTC
-15:15:29 KST
+08:00:40 UTC
+17:00:40 KST
 
-Russia’s Higher Education Ministry reportedly tells universities to send 2% of students to military
-This translation was generated with AI
-At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was translated from Russian using an AI model configured to follow Meduza’s editorial standards — the result of extensive work to ensure our English-language coverage is prompt and accurate.
-If you find any errors in this translation, please contact us at [email protected].
-To read Meduza’s exclusive content in English, please subscribe to our newsletter.
-Russia’s Higher Education and Science Ministry told the rectors of the country’s largest universities that at least 2 percent of students must sign contracts with the Defense Ministry, the independent Russian political newsletter Faridaily reported, citing a source acquainted with the rector of a Moscow university. A source in the leadership of a Siberian university confirmed the information.
-The meeting was held in early 2026.
-About 2.2 million men were enrolled in Russian universities as of 2025. If universities meet the quota, 44,000 of these students would sign contracts with the Defense Ministry. If the same requirement applies to technical colleges, that number would rise to 76,000, Faridaily wrote.
-Reports that universities had begun recruiting students to sign Defense Ministry contracts and deploy to the war in Ukraine emerged in late 2025. Students have been lured with additional payments from their universities and threatened with being denied the chance to retake failed exams. Most recruitment has targeted the drone forces.
-The Defense Ministry plans to recruit 78,800 people into its drone forces by the end of 2026, the independent Russian investigative outlet iStories reported. Documents obtained by the outlet said 58,000 of those recruits were to come from students, graduates of drone-piloting courses, former servicemen from aviation units, and women with relevant training. The remaining 20,800 were to be drawn from conscripts and active-duty servicemen transferred from other units.
+On the day of the launch of the Artemis II mission, which is set to take four astronauts into space to circle the Moon, Euronews Tech Talks sits down with former NASA astronaut Daniel Tani, who shares his memories of being in space.
+Unlike many children born and raised at the time of the Moon landing, Daniel Tani did not dream of becoming an astronaut.
+He was more interested in building objects, like clock radios and toothbrushes. Eventually, though, his life choices and career path directed him towards space.
+He earned an engineering degree, started working in the space sector and decided to apply for NASA.
+After some rejections, in April 1996, he received a phone call: “It's a very traditional phone call in which they don't ever say the word astronaut. All they say is: ‘You want to come down and work for us?’” Tani explained.
+“And so I go: ‘Absolutely, yes, sir, yes ma’am’ and then you hang up, and you go: ‘I wonder what I just accepted’”.
+Tani spent over 130 days in space, most of which were on the International Space Station (ISS), and he conducted six extra-vehicular activities, also known as spacewalks.
+Although his days in orbit are now behind him, the memories of seeing the world from a different perspective remain deeply rooted in his mind, and he joined Euronews Tech Talks to share them.
+Looking at Earth from the outside
+First of all, Tani highlighted that conducting a spacewalk is very unpleasant.
+“The suit you’re in is bulky, heavy and very uncomfortable,” he said, adding that.
+to get used to being in the suit, astronauts need to spend a lot of time in it.
+“Even if the space walk is six or seven hours, you’re in that suit for 10 or 12 hours, and that’s painful”.
+Despite the discomfort, the experience of conducting an extra-vehicular activity is worth it,
+“The privilege of opening the hatch and floating out and holding on to the space station, you're going 17,500 miles an hour, you look around, and it’s the darkness of space, the beautiful vehicle of the space station,” Tani said. “And then 250 miles below your feet there’s Baja California, and then I recognise Italy”.
+But the main memory Tani has about his first spacewalk is the pressure not to make any mistakes.
+The future of space cooperation
+Tani spent much of his time in space aboard the ISS, humanity’s home in orbit and a joint project among the United States, Russia, Japan, Canada, and Europe.
+Because of its ageing structure, the ISS is expected to be decommissioned and deorbited around 2030–2031, with new space stations developed by commercial actors set to take its place.
+“It [the ISS] has been an incredible example of how international cooperation on a project for good can survive all the political bumps and bruises that happen,” Tani said.
+The ISS stems from a US project called Space Station Freedom, developed in the 1980s.
+In the 1990s, following the end of the Cold War and the dissolution of the Soviet Union, the project became more international, bringing together partners from different parts of the world.
+Today, even politically unaligned countries such as Russia and the United States continue to cooperate in orbit, and the question remains whether this cooperation will continue in the future.
+“I'm sad about that because of the station, but I'm also sad because now the leaders of these countries aren't gonna be meeting as regularly about a particular thing,” he said.
+The end of the ISS comes at an interesting time for space.
+The growing presence of private actors in orbit, such as Elon Musk’s SpaceX, questions surrounding the use of space resources like rare materials, and rising competition driven by an increasing number of countries gaining access to space, are shaping the space sector.
+“Some competition is good, lowers prices and makes things faster. But it also brings up hard feelings and divisions. So I think we'll have to figure out how to balance those,” Tani said.
+
+====================================================================================================
+
+Artemis II: What time is Nasa’s launch and how to watch live
+United Kingdom
+Unknown Publisher
+2026-04-01
+09:00:39 BST
+17:00:39 KST
+
+Artemis II: What time is Nasa’s launch and how to watch live
+- The Artemis II mission is scheduled to launch today, marking the first human journey to the Moon since the Apollo missions in 1972.
+- NASA's countdown has commenced at Kennedy Space Center in Florida, with the mission targeted to launch at 6:24 p.m. EST (or 11.24pm GMT) on Wednesday, April 1.
+- Live broadcast coverage of the SLS rocket's tanking operations will commence on 1 April at 7:4 a.m EST on NASA’s YouTube channel, offering live views and audio commentary as propellant is loaded.
+- Full coverage will then transition to NASA+ from 12:50 p.m. EST.
+- Like all rocket launches, the launch could be postponed if weather conditions prove unfavourable or another technical issue emerges.
 
 ====================================================================================================
 
