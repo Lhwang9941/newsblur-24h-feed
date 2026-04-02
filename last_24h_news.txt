@@ -1,91 +1,73 @@
-When Virality Is The Message: The New Age of AI Propaganda
+UConn star sophomore Sarah Strong named the AP Player of the Year in women’s college basketball
 Unknown
 Unknown Publisher
 2026-04-02
-19:35:44 UTC
-04:35:44 KST
+20:23:02 UTC
+05:23:02 KST
 
-Welcome to the world of AI-driven propaganda. In March 2026, AI-generated videos depicting American President Donald Trump and Israeli Prime Minister Benjamin Netanyahu as LEGO minifigures began flooding social media. Some were set to original rap tracks with surprisingly catchy hooks, likely also AI-generated. They told stories of the horrors of war: little shoes and a plastic backpack near rubble evoked the bombing of the Shajareh Tayyebeh girls' school in Minab, Iran. Some connected the war to Trump’s ties to the convicted sex offender, Jeffrey Epstein. They mockingly evoked the brutal defeat of American forces, with LEGO toy soldiers walking into rivers of blood, or returning home in tiny caskets draped in American flags.
-Media coverage attributed the videos, some of which were broadcast on Iranian state television in addition to spreading online, to the Revayat-e Fath Institute. The name translates to “The Narration of Victory"; coverage linked the content to the Islamic Revolutionary Guard Corps, which has been implicated in other influence operations and hacking campaigns. However, most of the viral videos bear the logo of the “Explosive News Team,” a self-described grassroots group who have claimed credit on X for being “that Iranian Lego animation guys.” On the afternoon of March 28, they complained that their YouTube and Instagram accounts had been taken down. In email correspondence with The New Yorker, they claim to be student-run and totally independent; Revayat-e Fath, they say, is the Persian title of their videos.
-Are Explosive News “patriotic trolls” producing heartfelt content to support Iran’s ruling regime, paid mercenaries leveraged for plausible deniability, or a state-run account posturing as independent? Social media platforms that have taken their accounts down will have to justify their decisions in integrity reports. Other videos are more obviously state-linked: an Iranian Embassy X account posted an AI animation mocking Trump using visuals styled after the Pixar movie “Inside Out.”
-Generative AI has made it cheap and easy to produce polished propaganda at scale, and just as easy to blur the line between official messaging and opportunistic imitation. Packaging war in the visual language of entertainment makes conflict propaganda more likely to spread, regardless of who made it. Social media is an open playing field: any government, proxy group, or anonymous account can compete for the same audience, and because users are active participants, the most compelling content wins the most reach regardless of its origin or intent.
-The trend is international. The White House has been creating AI-generated content, too. It posted a video promoting Operation Epic Fury that opened with a cursor clicking “Start” in the unmistakable style of Nintendo’s Wii Sports gaming system, then cut between war footage (ordnance detonating against Iranian targets) and cartoon bowling strikes.
-Other videos shared by the White House spliced scenes from Call of Duty with real airstrike footage, clips from Grand Theft Auto: San Andreas and Braveheart, and audio nods to Top Gun and Mortal Kombat. The Iranian videos tell stories of horror and of Trump’s humiliation; the White House clips project dominance and military might. But both package war in the familiar language of entertainment.
-Governments communicating through memes and toy animations during an actual shooting war may feel like a bizarre aberration. But this is what overt propaganda looks like in a platform age.
-The underlying logic works like this: borrow the visual language of games, memes, and children’s toys; place them in contexts jarring enough to capture attention; and let engaged audiences do the rest. Social media users don’t need to endorse a message to spread it. They only need to find it compelling enough to watch and share.
-For more than a decade, states have treated social media as core infrastructure for influence. They run full-spectrum propaganda strategies that push messaging through multiple channels simultaneously: state television, official accounts, covert troll networks, and sympathetic influencers who may not even know they’re part of the operation. The result is not just a broadcast. It turns the audience into a distribution channel larger than any the state could build on its own. Propaganda today is participatory; things don’t just “go viral” on their own — people engage with content.
-The template was arguably set in 2015, when the Islamic State (ISIS) terrorist group released No Respite, a four-minute English language recruitment video that premiered about a week after the Bataclan attacks in Paris. Every frame was built to look like something a Western teenager steeped in gaming culture would find appealing: tight cuts, pacing straight out of an action-movie trailer. It was made both to mock the coalition forces and to make ISIS feel like an aspirational brand. Platforms played whack-a-mole as “swarms” of intrigued users shared it. Researchers began to speculate about the future of memetic warfare.
-LEGO-specific propaganda entered the state-media repertoire universe in April 2020 when Chinese’s Xinhua News Agency released “Once Upon a Virus,” a video in which LEGO minifig terra cotta warriors and doctors in masks sparred with an increasingly feverish, belligerently chaotic Statue of Liberty about the coronavirus pandemic. “We are always correct, even though we contradict ourselves,” she says, hooked up to an IV. Posted on YouTube and Twitter—both of which are blocked within China, but which it uses for overseas messaging—it was viewed millions of times.
-There were glaring strategic omissions in the video: Chinese doctor Legos warning the Statue of Liberty that the virus was bad seemed brazenly ironic to those of us who followed China’s aggressive policing of doctors as the pathogen began to spread. But the format wrapped a simple message—“the U.S. is failing”—in a mockingly funny, childlike aesthetic that made it easy to watch, and frictionless to share.
-The video bypassed the skepticism that a state media editorial, or even just real human actors, would have triggered, while poking at real incoherencies in America’s pandemic response. You didn’t have to like the Chinese Communist Party’s worldview to forward it to a friend. You could pass it along in frustrated agreement with a grain of truth, or simply because it was surreal: “Can you believe the Chinese government made this?”
-Russia picked up the LEGO aesthetic as well. Ahead of Moldova’s 2025 parliamentary elections, Russian propagandists circulated images of fabricated LEGO sets depicting soldiers with Ukrainian and Moldovan flags, designed to stoke fears that Moldova would be dragged into the war if it supported certain parties. The plastic brick, it turns out, is remarkably versatile as an instrument of statecraft.
-What connects all of these cases—ISIS’ action-trailer aesthetic, China, Russia, and Iran’s LEGOs, the U.S.’ video game edits—is a shared recognition of how information moves online.
-The currency of social media is not authority or accuracy, it is engagement. The content that travels fastest combines familiarity with novelty: a trope people instantly recognize, deployed in a setting jarring enough to make them react. That is why propaganda now so often arrives as a meme, parody, or spectacle. Users do not have to agree with it to help distribute it. They only have to engage with it.
-Ridicule and satire are especially popular in this environment because both are captivating, and very difficult to counter. A factual rebuttal to a LEGO animation or Wii-style bombing meme almost inevitably looks plodding, humorless, and tonally mismatched. The downstream consequence of all this is that the spectacle reaches more people than the reality.
-White House press secretary Karoline Leavitt bragged that the White House's videos had generated more than 2 billion impressions. Some analyst commentary argued that Iran’s LEGO videos had outpaced Trump’s. Regardless of who is winning the virality contest, both figures dwarf the reach of any individual news report about the actual events in question. Stories of a bombed school, military casualties, and burning oil fields are processed through memes. Increasingly, people encounter war first as content, and only later, if at all, as news.
-As propaganda theorist Jacques Ellul argued in the early 1960s, propaganda evolves with the communication systems that carry it. In a social media environment shaped by algorithms, virality, and now generative AI, propaganda increasingly takes the form not of doctrine, nor even of messaging optimized to persuade, but as content made to travel.
-State-run accounts can generate an endless stream of Lego animation, or even deepfaked battle footage, for as long as audiences appear interested in engaging with it. Copycat accounts—some state-linked, others simply chasing revenue or clout—can flood the zone with variants. That blurs attribution and complicates moderation, forcing platforms to make difficult and increasingly opaque judgments about accounts like Explosive News. What counts as state propaganda, what counts as coordinated manipulation, and what remains in bounds?
-When the topic of propaganda is raised, the question that most often follows relates to persuasion: Do these videos actually change minds? Sometimes they may. The Iranian LEGO videos are clearly designed to undermine support for the war.
-But that is too narrow a measure of success. The deeper effect is environmental. Viral propaganda creates the atmosphere through which a conflict is perceived: it shapes what feels salient, what seems ridiculous, who seems triumphant, what feels righteous.
-The White House videos aren’t trying to convert opponents; they’re performing dominance for an audience that already supports the war (even as more than half of the American public does not). But when the meme becomes the primary text and the news itself remains in the background, the spectacle doesn’t have to change your mind. It just has to win the war for the attention of your target audience.
+UConn star sophomore Sarah Strong named the AP Player of the Year in women’s college basketball
+UConn star sophomore Sarah Strong named the AP Player of the Year in women’s college basketball
+PHOENIX (AP) — Sarah Strong of UConn was named The Associated Press women’s basketball Player of the Year on Thursday after leading the Huskies to an undefeated season, setting the stage for a run to the Final Four.
+Strong became just the fifth player to win the award in her sophomore year, joining Oklahoma’s Courtney Paris (2007), UConn stars Maya Moore (2009) and Breanna Stewart (2014), and USC’s JuJu Watkins, who won it last year. The AP started giving out the award in 1995.
+It’s the 13th time that a Huskies player has won the award with Paige Bueckers being the last to do it before Strong in 2021.
+Strong received 25 votes from a national media panel that votes for the Top 25 each week. Vanderbilt’s Mikayla Blakes garnered four votes and UCLA’s Lauren Betts got the other two. Voting was completed before the NCAA Tournament began.
+“Anybody that’s watched us play would probably tell you that she’s the heart and soul of our team,” UConn coach Geno Auriemma said. “She elevates the play of everyone on our team.”
+He called Strong “the most low-key superstar you ever saw.”
+“You don’t see that look in her eyes, you know, like, oh, my God, there’s always just, a calmness,” he said. “That’s the best way I can describe it. That allows her to just be free and fluid and play without worry. ”
+Auriemma has coached some of the greatest in the game including Breanna Stewart, Sue Bird, Maya Moore and Diana Taurasi. Strong fits in with them.
+“The great ones, the great ones all had it. I never saw (Taurasi) nervous,” he said. ‘You know that they came in as freshmen and you can tell by the look in their eyes, ’I can handle this. This is what I think. This is why I came here.’ You know some may pretend, but you know deep down you’re not ready for that moment. She’s ready for that one.”
+Strong is averaging 18.6 points, 7.6 rebounds, 3.4 steals and 1.6 blocks a game while helping UConn go 38-0. She’s shooting 59.4% from the field, 40.4% from 3 and 84.8% from the the foul line while playing just 27 minutes a game.
+The sensational sophomore raised her game when the Huskies faced Top 25 opponents, averaging over 20 points and 10 rebounds per game. She reached 1,000 career points in her 59th career game, the third-fastest player in school history to reach the milestone.
+Strong was the Big East Player of the Year as well as the Most Outstanding Player of the Fort Worth Regional.
+___
+AP March Madness bracket: https://apnews.com/hub/ncaa-womens-bracket and coverage: https://apnews.com/hub/march-madness
 
 ====================================================================================================
 
-Universities of Wisconsin president defies board’s demand to resign or be fired
-United Kingdom
-Unknown Publisher
-2026-04-02
-20:35:34 BST
-04:35:34 KST
-
-Universities of Wisconsin president defies board’s demand to resign or be fired
-‘I do not believe my resignation at this time is in the best interests of either the Universities of Wisconsin or the state of Wisconsin,’ Rothman said
-- Bookmark
-- CommentsGo to comments
-The president of the 25-campus University of Wisconsin system, Jay Rothman, is embroiled in a high-stakes standoff with the Board of Regents, claiming he has been ordered to resign or face termination without any stated reason. Rothman, who has led the 165,000-student system since 2022, has firmly refused to step aside, citing a matter of principle.
-In a letter addressed to Board President Amy Bogost dated March 26, Rothman detailed the ultimatum, stating he was told his options were to resign or retire, and that if he declined, the board "was prepared to terminate my employment despite all that has been accomplished."
-He emphasized that he had not been "provided any substantive reason or reasons for the Board’s finding of no confidence in my leadership."
-The Board of Regents convened a closed emergency meeting on Wednesday night to discuss personnel matters, though details remain scarce.
-Amy Bogost, the board president, issued a statement to The Associated Press, saying, "The Board is responsible for the leadership of the Universities of Wisconsin and is having discussions about its future. We don’t comment on personnel matters."
-Rothman, when contacted via email on Thursday, declined further comment, stating, "I believe my letter speaks for itself."
-Rothman reiterated his refusal to resign in a second letter sent to two other regents on Wednesday.
-He stated that these regents had urged him to step down during a Tuesday meeting, warning that if he did not, the board was prepared to meet over the weekend to fire him. He noted that these regents also failed to provide a reason for their demand.
-"I find this process to be nearly (if not completely) indefensible," Rothman wrote, adding that his request for an opportunity to discuss the situation with the full board was denied.
-Rothman’s tenure has been marked by significant challenges and initiatives. He has focused on increasing state funding amidst federal cuts, navigated complex debates over free speech on campus, particularly during pro-Palestinian protests, and addressed declining enrollment, which led to the closure of eight branch campuses.
-A notable moment occurred in 2023 when the Board of Regents initially rejected a deal with the Republican-controlled Wisconsin Legislature concerning diversity, equity, and inclusion efforts, a decision that was later reversed.
-In his March letter, Rothman also highlighted upcoming leadership changes, including the need to replace the chancellor of the flagship Madison campus, Jennifer Mnookin, who is departing to become president of Columbia University.
-"I do not believe my resignation at this time is in the best interests of either the Universities of Wisconsin or the state of Wisconsin," Rothman asserted. He expressed surprise at being told an "unidentified majority of the Board of Regents had lost confidence" in his leadership, especially after dedicating his "heart and soul to the mission."
-He recounted asking for reasons, only to be told, "each Regent has his or her own perspective on the matter," without any "tangible reasons for the Board’s determination."
-Before assuming the presidency in 2022, Rothman served as the chair and CEO of the Milwaukee-based Foley & Lardner law firm, notably without prior experience in higher education administration.
-Join our commenting forum
-Join thought-provoking conversations, follow other Independent readers and see their replies
-Comments
-
-====================================================================================================
-
-Rubio raises concerns over China’s detention of Panama-flagged ships
+France bans planned gathering of Muslims in Paris area, citing security risk
 Unknown
 Unknown Publisher
 2026-04-02
-19:34:46 UTC
-04:34:46 KST
+20:18:59 UTC
+05:18:59 KST
 
-Advertisement
-Rubio raises concerns over China’s detention of Panama-flagged ships
-Panama’s decision to strip Panama Ports Company of its concessions is a test of US backing for countries challenging China, experts say
-2-MIN READ2-MIN
-Listen
-US Secretary of State Marco Rubio has voiced “serious concerns” over China’s intensified inspections of Panama-flagged vessels, vowing that the US “stands firmly” with Panama amid the Latin American country’s escalating fallout with Beijing.
-Rubio said China’s recent actions “raise serious concerns about the use of economic tools to undermine the rule of law in Panama, a sovereign nation and vital partner for global commerce”.
-“Detentions, delays, or other impediments to the movement of vessels undermine the stability of global supply chains, increase costs for businesses and consumers, and erode confidence in the international trading system,” the top US diplomat said, according to a State Department statement.
-Advertisement
-“The United States stands firmly with Panama and looks forward to increasing our economic and security cooperation with this important partner.”
-The Chinese embassy in Washington did not immediately respond to a request for comment about Rubio’s statement.
-Washington has accused Beijing of ramping up inspections of and detaining Panama-flagged container ships in retaliation for Panama’s decision to strip Panama Ports Company – a subsidiary of Hong Kong conglomerate CK Hutchison – of concessions to operate ports at both ends of the Panama Canal.
-Advertisement
-Select Voice
-Select Speed
-1.00x
+France bans planned gathering of Muslims in Paris area, citing security risk
+Sign up now: Get ST's newsletters delivered to your inbox
+PARIS, April 2 - France banned a gathering of Muslims that was planned in the Paris area for the coming days, due to it representing a security risk, the country's top police officer said on Thursday.
+"At the request of the Interior Minister Laurent Nunez, I have issued an order prohibiting the 40th edition of the Annual Meeting of Muslims of France, from April 3 to April 6 at the Paris–Le Bourget Exhibition Centre," the Paris police chief Patrice Faure said in a post on X.
+"This decision is set within a national and international context marked by heightened tensions and an increased level of terrorist alert, risks of public disorder, and the large police presence on the streets in the coming days," he said.
+The decision comes after France increased security at sensitive sites across Paris after a foiled bomb attack on Bank of America's offices last weekend, in the wake of the U.S.-Israeli war on Iran.
+Asked to comment on the situation, Makhlouf Mameche, head of the organisation that planned the event, confirmed the banning order and added his organisation would be making a legal appeal against the decision. REUTERS
+
+====================================================================================================
+
+Trump imposes 100 per cent tariff on Australian drugs – but with caveats
+Unknown
+Unknown Publisher
+2026-04-02
+20:18:08 UTC
+05:18:08 KST
+
+Trump imposes 100 per cent tariff on Australian drugs – but with caveats
+Washington: The Trump administration is imposing a 100 per cent tariff on imports of patented drugs, with Australian-made pharmaceuticals subject to the highest possible rate despite carve-outs for other countries.
+However, Australia’s largest biotech firm, CSL, is set to be exempt from the new duties, which do not apply to products derived from blood plasma.
+President Donald Trump signed an executive order on Thursday afternoon (Washington time) enacting a long-signalled intention to impose tariffs on foreign pharmaceuticals in a bid to re-shore production in the US and reduce prices for American consumers.
+The standard rate is 100 per cent, although several countries received a discount as part of broader trade deals, with the European Union, Japan, South Korea and Switzerland all subject to a 15 per cent tariff, and the United Kingdom even lower.
+“While we are always working with our trading partners and close allies like Australia, Australia does not have a special pharma tariff rate,” a White House official told this masthead.
+Trump’s executive order reduces the tariff to 20 per cent for companies that move production to the US.
+ASX-listed biotech giant CSL – which has plants in the US, Australia and Europe – last year announced a $US1.5 billion ($2.17 billion) expansion of its American operations. Workers broke ground last month at the company’s manufacturing facility in Kankakee, Illinois – with the expansion set to be completed by 2031.
+A White House official said CSL would need to submit its plan to the US Commerce Department, which has the discretion to grant exemptions.
+However, the text of Trump’s executive order said the tariff will be set to zero for “plasma derived therapies”, which should cover most or all of CSL’s exports to the US.
+CSL did not immediately respond to a request for comment. Australian Trade Minister Don Farrell was also contacted.
+Senior Trump administration officials, speaking on a briefing call to reporters, said large companies would have 120 days until the new tariffs kick in. Smaller companies will have six months.
+They said any new facilities must be completed by the end of Trump’s term in January 2029.
+“In those 120 days, our expectation is they will announce re-shoring plans which will reduce [the tariffs] to 20 per cent,” one senior administration official said.
+“We expect the lion’s share of the world’s patented pharmaceuticals to be building in America. This was not a secret, we’ve been talking about this endlessly over the past six months. Everybody knows it’s coming.”
+These sectoral tariffs are imposed under Section 232 of the Trade Expansion Act, rather than the president’s emergency powers, and so were not ruled unlawful by the Supreme Court’s decision in February.
+Trump has also adjusted tariffs on steel, aluminium and copper, which are currently set at 50 per cent and involve complex formulas for the steel component of various products.
+Officials said that if a product has less than 15 per cent steel, the additional tariff will now be set to zero – but other tariffs still apply. If the product exceeds 15 per cent steel, the steel tariff will be 25 per cent on the total value of the product.
+There are also moves to reduce what US officials said was an attempt to “fool the tariff process” by claiming the products were worth less than their real value.
+Get a note directly from our foreign correspondents on what’s making headlines around the world. Sign up for our weekly What in the World newsletter.
 
 ====================================================================================================
 
