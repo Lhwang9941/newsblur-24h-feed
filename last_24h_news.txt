@@ -1,63 +1,62 @@
-Melania Trump’s former top aide calls ‘BS’ on Trump not knowing about first lady’s Epstein statement
-United Kingdom
-Unknown Publisher
-2026-04-10
-23:14:31 BST
-07:14:31 KST
-
-Melania Trump’s former top aide calls ‘BS’ on Trump not knowing about first lady’s Epstein statement
-First lady Melania Trump distanced herself from Jeffrey Epstein and Ghislaine Maxwell in a White House address on Thursday
-- Bookmark
-- CommentsGo to comments
-Stephanie Grisham, first lady Melania Trump’s former chief of staff, told CNN on Thursday that she believes President Donald Trump was lying when he said he did not know his wife would give an address discussing Jeffrey Epstein.
-“I’m gonna say, I call BS on our president saying he knew nothing about it, because at the very least I imagine [Melania Trump] would have given him a heads up if she had sent an advisory out yesterday,” Grisham said on CNN’s The Lead.
-On Thursday, the first lady gave a White House address denying that she had any connections to Epstein and insisting that any claims to the contrary "need to end today."
-Melania Trump said that she was not a victim of Epstein and said they only briefly "crossed paths" in 2000 but noted that they had overlapping social circles.
-She also called for Congress to allow the Epstein survivors to testify.
-The announcement caught reporters and the public off-guard and led to speculation that the first lady was trying to get ahead of an upcoming story. The president was apparently unaware that she'd speak on Epstein, telling MS NOW reporter Jacqueline Alemany that he did not know the topic of her address ahead of time.
-It was that statement that Grisham claimed was "BS."
-She also said the first lady's remarks were likely not off-the-cuff, claiming she’s typically very strategic in her communications.
-"Melania Trump thinks about everything she does, and she thinks about it for a very long time, and she does things very strategically. She knew full well that walking out there into the White House residence, behind that podium like that, would make absolute waves,” Grisham said. “And so she chose this time — again, I don't know why... But she chose this very specifically and she definitely thought on it for a few days.”
-Grisham said she had no idea why Melania Trump chose Thursday to make her statement.
-“I don‘t know why,” she said. “Perhaps again, it‘s a story, or she just got an inquiry, or she saw something obscure that nobody else did see. And it just made her upset.”
-When asked if Trump could have stopped the first lady from speaking out even if he'd wanted to, Grisham said "absolutely not."
-"She's a very strong, very independent woman," Grisham said.
-Documents show the first lady emailing Maxwell in 2002 in a message signed “Love, Melania.”
-Her message “cannot be categorized as anything more than casual correspondence,” according to the first lady.
-“The lies linking me with the disgraceful Jeffrey Epstein need to end today,” she said Thursday.
-The first lady's current adviser, Marc Beckman, said the public needs to "refocus" away from Epstein and instead focus on Melania Trump's accomplishments.
-"First, enough is enough," Beckman said during a Friday episode of Fox & Friends. "This has been ongoing, and it's time for the public to refocus their attention on what achievements our first lady has done."
-He continued, saying the first lady has been "helping people over and over again."
-"Americans are benefiting from her efforts, people in the foster care community, people from an educational perspective. Her achievements have been so wide," he said.
-Whether its international, with the Russian and Ukrainian reunifications and beyond, and we want to focus the attention on her good work and what she's accomplished as first lady."
-The Independent has requested comment from the White House.
-Join our commenting forum
-Join thought-provoking conversations, follow other Independent readers and see their replies
-Comments
-
-====================================================================================================
-
-Netanyahu requests postponing his corruption trial for ‘secret security and political reasons' reasons
+Security researchers find 213 vulnerabilities in Russia’s state-backed messaging app Max
 Unknown
 Unknown Publisher
 2026-04-10
-22:13:06 UTC
-07:13:06 KST
+23:13:36 UTC
+08:13:36 KST
 
-Abdel Ra'ouf D. A. R. Arnaout
+Security researchers find 213 vulnerabilities in Russia’s state-backed messaging app Max
+Security researchers have identified 213 vulnerabilities in Russia’s state-backed messaging app Max through a bug bounty program, Positive Technologies CTO Alexei Batyuk said at the international Svyaz-2026 exhibition, the Russian business daily Kommersant reported.
+“Practice has shown that this method is quite effective, because white-hat hackers and cyber researchers are motivated to find vulnerabilities and get paid for it,” Batyuk said.
+The bug bounty search has been underway since July 1, 2025. As of April 10, the Bug Bounty Standoff365 platform’s Max page had accepted 288 vulnerability reports, with total payouts approaching 22 million rubles.
+A white-hat hacker familiar with the vulnerability search told Kommersant that the most commonly found flaws allow unauthorized access to other users’ data or actions by substituting an object identifier — for example, a message ID, chat ID, or user ID.
+Max’s press service stated that all user data is reliably protected. “Bug bounty is a global standard and a sign of mature security: independent white-hat hackers help find and quickly fix vulnerabilities for a reward before malicious actors can exploit them,” company representatives said.
+Russian authorities have been actively promoting Max, a messaging app backed by the Russian state and launched by VK in March 2025. Against this backdrop, Roskomnadzor has been blocking other popular messaging apps, including Telegram and WhatsApp.
+Max has repeatedly drawn criticism over concerns that it may surveil users, as well as over security vulnerabilities.
+At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.
+If you find any errors in this translation, please contact us at [email protected].
+To read Meduza’s exclusive content in English, please subscribe to our newsletter.
+
+====================================================================================================
+
+Iran parliament speaker says ‘good intentions but no trust’ ahead of US talks
+Unknown
+Unknown Publisher
+2026-04-10
+23:12:38 UTC
+08:12:38 KST
+
+Asiye Yilmaz
 11 April 2026•Update: 11 April 2026
-Israeli Prime Minister Benjamin Netanyahu requested a postponement of his corruption trial Friday for at least two weeks, citing "secret security and political reasons," according to the Israeli Broadcasting Corporation.
-Netanyahu did not specify the reasons for his request, and it remains unclear whether the Jerusalem District Court will grant it in full or in part.
-The court decided Thursday to resume the trial Sunday, after it was suspended due to the US-Israeli attack on Iran, which began Feb. 28.
-The US and Iran announced a two-week ceasefire Tuesday, brokered by Pakistan, as a step toward a possible broader agreement to halt the conflict that has left thousands dead and wounded.
-US President Donald Trump said the ceasefire followed a “workable” 10-point proposal presented by Iran, with negotiations expected to determine whether a longer-term agreement can be reached.
-Netanyahu faces bribery, fraud and breach of trust charges in three cases known as Cases 1000, 2000 and 4000. Prosecutors filed indictments in the cases in November 2019.
-Case 1000 centers on allegations that Netanyahu and members of his family received expensive gifts from wealthy businessmen in exchange for favors and assistance in various matters.
-In Case 2000, he is accused of negotiating with Arnon Mozes, the publisher of the privately owned Yedioth Ahronoth newspaper, to secure favorable media coverage.
-Case 4000 involves allegations that Netanyahu advanced regulatory decisions benefiting Shaul Elovitch, the former owner of the Walla news website and a former executive at the Bezeq telecommunications company, in exchange for positive coverage.
-Netanyahu’s trial began in 2020 and remains ongoing. He denies the charges, calling them a “political campaign aimed at toppling” him.
-In addition to the corruption trial, Netanyahu has been wanted since 2024 to appear before the International Criminal Court on accusations of war crimes and crimes against humanity in the Gaza Strip.
-*Writing by Rasa Evrensel in Istanbul
+Iranian Parliament Speaker Mohammad Baqher Qalibaf said Saturday that Tehran has “good intentions but no trust” ahead of negotiations with the US, according to the Tasnim News Agency.
+“Unfortunately, our experience of negotiating with the Americans has always been met with failure and breach of contract,” Qalibaf said when he touched down at the Islamabad Airport. “Twice in less than a year, in the middle of negotiations, despite the good intentions of the Iranian side, they attacked us and committed numerous war crimes.”
+Qalibaf stressed that Iran is ready to reach an agreement if the US demonstrates sincerity.
+“In the upcoming negotiations, if the American side is ready to make a real agreement and grant the rights of the Iranian people, they will see our readiness to make an agreement as well,” he said.
+He warned that Tehran would respond firmly if talks were used as a cover for insincere actions.
+“In the current war, we have shown them that if they want to use negotiations to carry out a fruitless show and deception operation, we are ready to realize our rights with faith in God and relying on the power of our people,” said Qalibaf.
+US Vice President JD Vance said before departing for the talks with Iran in Pakistan: "If the Iranians are willing to negotiate in good faith, we are certainly willing to extend the open hand.”
+“If they’re going to try to play us, they’re going to find that the negotiating team is not that receptive,” he warned.
+Pakistan, together with Türkiye, China, Saudi Arabia, and Egypt, managed to secure a two-week ceasefire on Wednesday between Washington and Tehran, 40 days after the US and Israel initiated attacks against Iran on Feb. 28.
+As part of the deal, the two sides agreed to meet in Islamabad for talks to negotiate a lasting peace.
+
+====================================================================================================
+
+Watch Artemis II astronauts hurtle home from moon towards splashdown
+Unknown
+Unknown Publisher
+2026-04-10
+23:09:41 UTC
+08:09:41 KST
+
+Watch Artemis II astronauts hurtle home from moon towards splashdown
+The crew is preparing for a fiery re-entry through Earth’s atmosphere in the final phase of their historic 10-day mission
+00:00
+WATCH LIVE: Artemis II astronauts prepare for splashdown
+The four Artemis II astronauts, returning from the world’s first crewed moon voyage in over half a century, hurtled back towards Earth on Friday as they prepared their Orion spacecraft for the final phase of their descent and splashdown in the Pacific Ocean off Southern California.
+On Friday afternoon, the autonomously piloted Orion crew capsule executed one last eight-second firing of its jet thrusters to fine-tune the flight course, a critical manoeuvre to ensure a safe return.
+Nasa’s celebrated 10-day mission was expected to culminate with the gumdrop-shaped Orion vehicle jettisoning the service module housing its main rocket system, followed by a fiery re-entry through Earth’s atmosphere and a six-minute radio blackout before the capsule parachutes into the sea.
+If all goes well, US astronauts Reid Wiseman, Victor Glover and Christina Koch, along with Canadian astronaut Jeremy Hansen, will end up bobbing safely in the ocean aboard their Orion capsule, dubbed Integrity, shortly after 8pm off the coast of San Diego.
+The quartet blasted off from Cape Canaveral, Florida, on April 1, lofted into an initial Earth orbit by Nasa’s giant Space Launch System rocket before sailing on around the far side of the moon, venturing deeper into space than any humans before them.
 
 ====================================================================================================
 
