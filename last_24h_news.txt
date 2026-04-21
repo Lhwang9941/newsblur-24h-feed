@@ -1,101 +1,65 @@
-What is open and what is closed on Anzac Day 2026?
-Unknown
-Unknown Publisher
-2026-04-21
-21:32:07 UTC
-06:32:07 KST
-
-What is open and what is closed on Anzac Day 2026?
-Anzac Day falls on a Saturday this year, which means in Queensland we don’t get an extra day off.
-However, restrictions to opening hours and alcohol sales apply just as if the Saturday were a weekday Anzac Day public holiday.
-That means non-exempt businesses must remain shut on the day, and some exempt ones can’t open until 1pm or 1.30pm.
-Who is shut all day?
-Large retailers, including supermarkets, department stores and hardware shops, are “non-exempt shops”, and must remain closed on Anzac Day.
-So that means no Coles, Woolies, Aldi, Bunnings, Myer, David Jones, Kmart, Target, or Big W (except the Woolworths at Brisbane Airport, which is open from 1pm).
-Car dealerships must also remain shut all day.
-Factories and offices must remain closed unless they are involved in essential services, power and water, supplying milk, or preparing food in restaurants and cafes.
-Who is opening at 1pm?
-Independent retail shops are permitted to commence trading from 1pm on Anzac Day, unless they are predominantly food and/or grocery stores, in which case they can theoretically trade without restriction.
-IGAs are independent grocery stores, which is why you’ll find some are open on Anzac Day.
-Who is open as usual?
-Shops that can open as usual are listed on the Business Queensland website and include food and grocery stores, service stations, butchers, bakers, chemists, florists, greengrocers, fishmongers and many others.
-Cafes and other restaurants are considered “cooked provisions shops” and therefore exempt. So yes, you’ll be able to get a coffee.
-However, many such “exempt” businesses choose to remain shut anyway, or not to open until 1pm. Check ahead to be sure.
-What about pubs?
-Pubs, bars and other licensed premises are subject to special conditions.
-On the day before Anzac Day (Friday, April 24), the sale and supply of alcohol and gambling must stop at midnight (gambling is allowed until 3am for casinos). Patrons have until 12.30am to finish their drinks.
-On Anzac Day, RSLs and services clubs are allowed to serve alcohol from 5am, but other licensed premises have to wait until 1pm, unless they also serve meals, in which case it’s 10am.
-Takeaway alcohol is not permitted on April 25 until 1pm.
-Gambling is not permitted in licensed premises until noon.
-Where can I play two-up?
-Two-up is only permitted on designated days such as Anzac Day and only at RSLs or services clubs, or a venue that has received approval from an RSL sub-branch.
-What about cinemas etc?
-Places of “public amusement” such as cinemas, galleries and sporting venues are not allowed to open until 1.30pm.
-Anzac Day commemorations
-Dawn Service at the Shrine of Remembrance
-The major dawn service in Anzac Square is a solemn tradition dating back to 1916, one year after the Gallipoli landing. Expect hymns, wreath-laying, a dignitary’s address, the Ode of Remembrance, One Minute’s Silence, and The Last Post. Arrival at 3.30am is recommended, so set the alarm.
-Extra early-morning trains, buses, rail buses and ferries will operate to take people to the Brisbane city dawn service. Free travel is available to veterans, serving personnel in uniform, and those wearing medals. Check Translink.
-RSLs are also hosting dawn services – find one near you here.
-Anzac Square, Brisbane, 4.28am, free.
-The parade features former and current Australian Defence Force members and veterans and other support organisations. It starts on George Street at the corner of Elizabeth, turns right at Adelaide Street, and right again at Creek Street, finishing at Eagle Street. Road closures will be in place. The governor gives an address in King George Square at 9.45am.
-Brisbane CBD, 9.45am-12.30pm, free.
-The parade begins at the corner of Brisbane and Waghorn streets, proceeds down Brisbane Street, turns left into Nicholas Street and ends at Tulmur Place. Dawn services are also being held in several suburbs of greater Ipswich.
-Ipswich CBD, 10.45am, free.
-The parade will assemble at Veterans Lawn roadside next to the car park of the Aquatic Centre, Nind Street, Southport, and proceed on the Gold Coast Highway adjacent to Veterans Lawn between Nerang and Nind Street. There are also dawn services at Currumbin (Elephant Rock), Burleigh Heads (Memorial Park) and Surfers Paradise (Cavill Park), among others.
-Gold Coast Highway, Southport, 8.30am, free.
-Start the day with a summary of the day’s most important and interesting stories, analysis and insights. Sign up for our Morning Edition newsletter.
-
-====================================================================================================
-
-US-China AI race must strike a balance between security and openness
-Unknown
-Unknown Publisher
-2026-04-21
-21:30:08 UTC
-06:30:08 KST
-
-US-China AI race must strike a balance between security and openness
-Raising barriers to entry in tech in the name of national security could stifle global AI development
-Whether fully substantiated or not, such beliefs are increasingly shaping the policy lens through which technology competition between the two countries is understood in the US – less as a matter of innovation, and more as one of national security.
-At first glance, the debate over model distillation concerns technical pathways and intellectual property boundaries. Distillation is a widely used machine learning technique that enables smaller models to approximate the performance of larger ones, reducing computational costs and accelerating adoption. Its legal status remains ambiguous, and even US firms have used similar methods among themselves.
-However, in today’s geopolitical environment, the issue has been reframed. Some US policymakers and companies argue that distilled models could be misused for cyber operations, disinformation campaigns or even military applications. What was once a question of optimisation has been elevated to one of national security.
-
-====================================================================================================
-
-Iran, Russia and China behind most major cyberattacks targeting UK, security chief warns
+Climate change has extended Europe’s pollen season by two weeks
 United Kingdom
 Unknown Publisher
 2026-04-21
-22:30:08 BST
-06:30:08 KST
+23:30:00 BST
+07:30:00 KST
 
-Iran, Russia and China behind most major cyberattacks targeting UK, security chief warns
-Businesses must be prepared to defend themselves against cyber attacks, Dr Horne is expected to warn
+Climate change has extended Europe’s pollen season by two weeks
+Longer pollen seasons increasing exposure for tens of millions of people with hay fever and other allergies
 - Bookmark
 - CommentsGo to comments
-Hostile states, including China, Iran, and Russia, are responsible for the majority of nationally significant cyber attacks targeting Britain, the head of the UK’s National Cyber Security Centre (NCSC) is set to reveal.
-Dr Richard Horne will address the annual CyberUK conference in Glasgow on Wednesday, highlighting how rapid technological advancements and escalating international tensions are fostering "what feels like tumultuous uncertainty" for the nation.
-Businesses must be prepared to defend themselves against cyber incursions without resorting to ransom payments, Dr Horne is expected to warn.
-He will caution that the UK could face attacks "at scale" should it become embroiled in an international conflict. The NCSC, an arm of GCHQ, currently manages approximately four nationally significant incidents each week. While these figures remain "fairly steady," Dr Horne will underscore that most originate from hostile state actors such as China, Iran, and Russia.
-“Criminal activity such as ransomware remains the most prevalent threat to the vast majority of organisations.
-“But the majority of the nationally significant incidents that my teams are handling now originate directly or indirectly from nation states.
-“We know that China’s intelligence and military agencies now display an eye-watering level of sophistication in their cyber operations.
-“This, combined with their whole-of-state approach, means we face more than just a capable cyber threat but a peer competitor in cyber space.
-“We know that Iran is almost certainly using cyber activity to support the repression of British individuals on our streets who are seen as a threat to the regime.
-“And we know that Russia is taking the cyber lessons it has learnt in a theatre of war and is moving them beyond the battlefield.
-“The tactics and techniques honed in conflict are now being directed at states it considers hostile.”
-There is “sustained Russian hybrid activity targeting assets across the UK and Europe”, he is expected to say.
-Earlier this month, hackers linked to Russia’s GRU military intelligence agency were blamed for exploiting a weakness in commonly used internet routers to steal users’ sensitive information.
-The NCSC said the APT28 group, also known as Fancy Bear, had been able to redirect internet traffic to enable hackers to harvest people’s email login passwords and other data.
-Dr Horne will tell the conference that businesses should be able to protect themselves against hacks and other cyber attacks without needing to pay ransoms to recover.
-“Were we to be in, or near, a conflict situation, the UK would likely face hacktivist attacks at scale, with similar effects and sophistication to the ransomware attacks we see today, but no option to pay a ransom to help recover.
-“Defending against that means every organisation embedding cyber security into their corporate mission, ensuring they understand the full extent of risk they face.”
-Britain needs to embrace the use of AI as quickly as enemies use it to attack, he will say, and businesses need to plan for the future when quantum computers will be able to break commonly used encryption processes.
-Dr Horne will tell delegates cyber security is a key part of defence amid increased international tensions.
-“We are living through the most seismic geopolitical shift in modern history,” he will say.
-“As Blaise Metreweli, the chief of MI6, said in December, our world is more dangerous and contested now than it has been for decades.
-“We are operating in a space between peace and war. Let’s be clear, cyber space is part of that contest.”
-CyberUK is the annual UK government cyber security conference.
+Pollen seasons across Europe are now one to two weeks longer than they were in the 1990s and heat-related deaths have risen across almost the entire continent, according to a major report.
+The longer pollen seasons are increasing exposure for tens of millions of people with hay fever and other allergies, a team of global researchers have found. At the same time, extreme heat warnings have also risen 318 per cent over the same period.
+Out of all European regions monitored by researchers, around 99.6 per cent saw heat-related deaths rise between 2015 and 2024 compared with 1991-2000, with an average increase of 52 extra deaths per million people each year.
+The hours each year when outdoor physical activity carries a risk of heat illness have grown by 88 per cent compared with the 1990s, and heat exposure among infants and people over 65 has risen by 254 per cent in terms of person-days.
+Across the workforce, heat is estimated to be cutting labour supply by around 24 hours per worker per year compared with historical baselines, with outdoor workers in construction and agriculture among those most exposed.
+The potential for dengue transmission in Europe has also increased by 297 per cent since 1981-2010, contributing to a rise in local outbreaks of the mosquito-borne virus, which was once almost entirely confined to travellers returning from tropical regions. The tiger mosquito that carries it has been expanding its range northward as European summers grow warmer.
+The findings were published in the 2026 Europe report of the Lancet Countdown on health and climate change – a collaboration of 65 experts from research institutions and United Nations organisations published in the Lancet Public Health journal.
+The health burden falls unevenly across income groups, researchers warned. Low-income households are 10.9 percentage points more likely than middle-income households to experience food insecurity driven by heatwaves and droughts, and more than one million additional people were affected by moderate or severe food insecurity in 2023 compared with the annual average for 1981-2010. People in the most deprived areas face higher wildfire risks and have less access to green space.
+Deaths linked to air pollution from burning wood and other biomass at home were 4 per cent higher in 2022 than in 2000, a rise the researchers attribute partly to growing use of wood as a heating source as energy prices have climbed.
+"Climate change health impacts are already apparent in Europe, and these will accelerate without proper scaling up of adaptation measures and global mitigation efforts,” the authors wrote.
+The report, however, acknowledges some progress.
+Coal use and carbon intensity both fell in 2023, and renewables supplied 21.5 per cent of Europe's electricity, up from 8.4 per cent in 2016. Clean energy investment reached €427 billion in 2023, 86 per cent higher than in 2015.
+But fossil fuel subsidies hit a record €444bn the same year, driven by government responses to the energy price crisis that followed Russia's invasion of Ukraine.
+Despite committing to phase out such subsidies by 2025 in several international agreements, only Denmark has adopted a comprehensive national plan to do so. The report warns that unless others follow, progress toward 2030 net zero targets will be compromised.
+"Unless the rest of Europe follows Denmark's example, this setback will likely compromise reaching 2030 net zero goals,” the authors wrote.
+Without stronger global action to cut emissions and better protect communities, the health harms documented will accelerate, the authors conclude.
+"Redirecting financial flows to climate action is essential to reinforce Europe's strategic direction and commitment to climate leadership. Part of these flows should finance the adaptation of low-income countries' health-care systems, which currently receive very little funding for this purpose,” the authors wrote.
+Join our commenting forum
+Join thought-provoking conversations, follow other Independent readers and see their replies
+Comments
+
+====================================================================================================
+
+Beverley Callard ‘absolutely gutted’ after leaving I’m a Celebrity for health reasons
+United Kingdom
+Unknown Publisher
+2026-04-21
+23:27:39 BST
+07:27:39 KST
+
+Beverley Callard ‘absolutely gutted’ after leaving I’m a Celebrity for health reasons
+Callard broke down in tears after announcing to her campmates that she had to leave the jungle during Tuesday night’s episode
+- Bookmark
+- CommentsGo to comments
+Veteran soap star Beverley Callard was forced to withdraw from I’m A Celebrity…South Africa due to health reasons.
+The actor, widely recognised for her long-standing role as Liz McDonald in Coronation Street, shared the news with her fellow campmates during Tuesday night’s pre-recorded episode.
+Visibly emotional, Callard expressed that she was "absolutely gutted" to be leaving the all-star ITV reality series, having appeared alongside a number of other celebrities.
+Appearing emotional she said: “Hi guys. I’ve just got something to tell you all
+“I didn’t feel very well this morning. I had a bit of a funny turn, and they’ve said I can’t come back in. I’ve got to come out.
+“I don’t want to go, I’m really sorry.
+“I’m absolutely gutted. I wanted to finish.
+“I wanted to prove that older women could do it.”
+She was immediately consoled by her fellow campmates including former Gogglebox star Scarlett Moffatt who later told the Bush telegraph: “Selfishly, I would want Bev to stay, because she’s like everyone’s camp mam, but her health is more important.
+Singer Sinitta also said: “Beverley is my inspiration.
+“You know that thing where you think, well, if Beverley can do it, I can do it. She gives me that. She’s an amazing woman.”
+The series was reportedly filmed in autumn last year.
+In February, Callard revealed she was diagnosed with breast cancer and that she would be receiving further treatment.
+On Sunday, April 19, Callard said she has been “completely wiped out” by her cancer results.
+“Because it's in the lymph nodes, it's still a worry,” she said in a previous post.
+In an update shared last week, the actor said she is trying to be "brave and strong" after a "weird" cancer update.
+I’m A Celebrity… South Africa airs at 9pm on weeknights on ITV1, STV, ITVX and STV Player.
 Join our commenting forum
 Join thought-provoking conversations, follow other Independent readers and see their replies
 Comments
