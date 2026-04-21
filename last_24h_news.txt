@@ -1,38 +1,104 @@
-Harvey Weinstein's rape retrial opens in New York
+What is open and what is closed on Anzac Day 2026?
 Unknown
 Unknown Publisher
 2026-04-21
-19:55:24 UTC
-04:55:24 KST
+21:32:07 UTC
+06:32:07 KST
 
-Harvey Weinstein's rape retrial opens in New York
+What is open and what is closed on Anzac Day 2026?
+Anzac Day falls on a Saturday this year, which means in Queensland we don’t get an extra day off.
+However, restrictions to opening hours and alcohol sales apply just as if the Saturday were a weekday Anzac Day public holiday.
+That means non-exempt businesses must remain shut on the day, and some exempt ones can’t open until 1pm or 1.30pm.
+Who is shut all day?
+Large retailers, including supermarkets, department stores and hardware shops, are “non-exempt shops”, and must remain closed on Anzac Day.
+So that means no Coles, Woolies, Aldi, Bunnings, Myer, David Jones, Kmart, Target, or Big W (except the Woolworths at Brisbane Airport, which is open from 1pm).
+Car dealerships must also remain shut all day.
+Factories and offices must remain closed unless they are involved in essential services, power and water, supplying milk, or preparing food in restaurants and cafes.
+Who is opening at 1pm?
+Independent retail shops are permitted to commence trading from 1pm on Anzac Day, unless they are predominantly food and/or grocery stores, in which case they can theoretically trade without restriction.
+IGAs are independent grocery stores, which is why you’ll find some are open on Anzac Day.
+Who is open as usual?
+Shops that can open as usual are listed on the Business Queensland website and include food and grocery stores, service stations, butchers, bakers, chemists, florists, greengrocers, fishmongers and many others.
+Cafes and other restaurants are considered “cooked provisions shops” and therefore exempt. So yes, you’ll be able to get a coffee.
+However, many such “exempt” businesses choose to remain shut anyway, or not to open until 1pm. Check ahead to be sure.
+What about pubs?
+Pubs, bars and other licensed premises are subject to special conditions.
+On the day before Anzac Day (Friday, April 24), the sale and supply of alcohol and gambling must stop at midnight (gambling is allowed until 3am for casinos). Patrons have until 12.30am to finish their drinks.
+On Anzac Day, RSLs and services clubs are allowed to serve alcohol from 5am, but other licensed premises have to wait until 1pm, unless they also serve meals, in which case it’s 10am.
+Takeaway alcohol is not permitted on April 25 until 1pm.
+Gambling is not permitted in licensed premises until noon.
+Where can I play two-up?
+Two-up is only permitted on designated days such as Anzac Day and only at RSLs or services clubs, or a venue that has received approval from an RSL sub-branch.
+What about cinemas etc?
+Places of “public amusement” such as cinemas, galleries and sporting venues are not allowed to open until 1.30pm.
+Anzac Day commemorations
+Dawn Service at the Shrine of Remembrance
+The major dawn service in Anzac Square is a solemn tradition dating back to 1916, one year after the Gallipoli landing. Expect hymns, wreath-laying, a dignitary’s address, the Ode of Remembrance, One Minute’s Silence, and The Last Post. Arrival at 3.30am is recommended, so set the alarm.
+Extra early-morning trains, buses, rail buses and ferries will operate to take people to the Brisbane city dawn service. Free travel is available to veterans, serving personnel in uniform, and those wearing medals. Check Translink.
+RSLs are also hosting dawn services – find one near you here.
+Anzac Square, Brisbane, 4.28am, free.
+The parade features former and current Australian Defence Force members and veterans and other support organisations. It starts on George Street at the corner of Elizabeth, turns right at Adelaide Street, and right again at Creek Street, finishing at Eagle Street. Road closures will be in place. The governor gives an address in King George Square at 9.45am.
+Brisbane CBD, 9.45am-12.30pm, free.
+The parade begins at the corner of Brisbane and Waghorn streets, proceeds down Brisbane Street, turns left into Nicholas Street and ends at Tulmur Place. Dawn services are also being held in several suburbs of greater Ipswich.
+Ipswich CBD, 10.45am, free.
+The parade will assemble at Veterans Lawn roadside next to the car park of the Aquatic Centre, Nind Street, Southport, and proceed on the Gold Coast Highway adjacent to Veterans Lawn between Nerang and Nind Street. There are also dawn services at Currumbin (Elephant Rock), Burleigh Heads (Memorial Park) and Surfers Paradise (Cavill Park), among others.
+Gold Coast Highway, Southport, 8.30am, free.
+Start the day with a summary of the day’s most important and interesting stories, analysis and insights. Sign up for our Morning Edition newsletter.
 
 ====================================================================================================
 
-US, Iran Peace Talks Uncertain With Vance Trip Scrapped
+US-China AI race must strike a balance between security and openness
 Unknown
 Unknown Publisher
 2026-04-21
-19:53:39 UTC
-04:53:39 KST
+21:30:08 UTC
+06:30:08 KST
 
-US, Iran Peace Talks Uncertain With Vance Trip Scrapped
+US-China AI race must strike a balance between security and openness
+Raising barriers to entry in tech in the name of national security could stifle global AI development
+Whether fully substantiated or not, such beliefs are increasingly shaping the policy lens through which technology competition between the two countries is understood in the US – less as a matter of innovation, and more as one of national security.
+At first glance, the debate over model distillation concerns technical pathways and intellectual property boundaries. Distillation is a widely used machine learning technique that enables smaller models to approximate the performance of larger ones, reducing computational costs and accelerating adoption. Its legal status remains ambiguous, and even US firms have used similar methods among themselves.
+However, in today’s geopolitical environment, the issue has been reframed. Some US policymakers and companies argue that distilled models could be misused for cyber operations, disinformation campaigns or even military applications. What was once a question of optimisation has been elevated to one of national security.
 
 ====================================================================================================
 
-Midwife makes ambulance admission during inquest into baby’s death
+Iran, Russia and China behind most major cyberattacks targeting UK, security chief warns
 United Kingdom
 Unknown Publisher
 2026-04-21
-20:50:37 BST
-04:50:37 KST
+22:30:08 BST
+06:30:08 KST
 
-Ambulance should have been called before baby’s home birth, inquest hears
-- Baby Poppy Hope Lomas died aged seven days on 26 October 2022, following complications from a "high-risk" home birth.
-- Midwife Sasha Field stated at an inquest that an ambulance should have been called approximately 90 minutes before Poppy's birth, when her heart rate slowed.
-- Poppy's mother, Gemma Lomas, claimed she was encouraged to have a home vaginal birth after caesarean (VBAC) despite a previous C-section, and was not fully informed of the risks.
-- Senior Coroner Andrew Walker suggested that Ms Lomas should not have been put in a position to have a high-risk birth at home without hospital equipment.
-- Guidance from the Royal College of Obstetricians and Gynaecologists states that VBACs should occur in a suitably staffed and equipped delivery suite.
+Iran, Russia and China behind most major cyberattacks targeting UK, security chief warns
+Businesses must be prepared to defend themselves against cyber attacks, Dr Horne is expected to warn
+- Bookmark
+- CommentsGo to comments
+Hostile states, including China, Iran, and Russia, are responsible for the majority of nationally significant cyber attacks targeting Britain, the head of the UK’s National Cyber Security Centre (NCSC) is set to reveal.
+Dr Richard Horne will address the annual CyberUK conference in Glasgow on Wednesday, highlighting how rapid technological advancements and escalating international tensions are fostering "what feels like tumultuous uncertainty" for the nation.
+Businesses must be prepared to defend themselves against cyber incursions without resorting to ransom payments, Dr Horne is expected to warn.
+He will caution that the UK could face attacks "at scale" should it become embroiled in an international conflict. The NCSC, an arm of GCHQ, currently manages approximately four nationally significant incidents each week. While these figures remain "fairly steady," Dr Horne will underscore that most originate from hostile state actors such as China, Iran, and Russia.
+“Criminal activity such as ransomware remains the most prevalent threat to the vast majority of organisations.
+“But the majority of the nationally significant incidents that my teams are handling now originate directly or indirectly from nation states.
+“We know that China’s intelligence and military agencies now display an eye-watering level of sophistication in their cyber operations.
+“This, combined with their whole-of-state approach, means we face more than just a capable cyber threat but a peer competitor in cyber space.
+“We know that Iran is almost certainly using cyber activity to support the repression of British individuals on our streets who are seen as a threat to the regime.
+“And we know that Russia is taking the cyber lessons it has learnt in a theatre of war and is moving them beyond the battlefield.
+“The tactics and techniques honed in conflict are now being directed at states it considers hostile.”
+There is “sustained Russian hybrid activity targeting assets across the UK and Europe”, he is expected to say.
+Earlier this month, hackers linked to Russia’s GRU military intelligence agency were blamed for exploiting a weakness in commonly used internet routers to steal users’ sensitive information.
+The NCSC said the APT28 group, also known as Fancy Bear, had been able to redirect internet traffic to enable hackers to harvest people’s email login passwords and other data.
+Dr Horne will tell the conference that businesses should be able to protect themselves against hacks and other cyber attacks without needing to pay ransoms to recover.
+“Were we to be in, or near, a conflict situation, the UK would likely face hacktivist attacks at scale, with similar effects and sophistication to the ransomware attacks we see today, but no option to pay a ransom to help recover.
+“Defending against that means every organisation embedding cyber security into their corporate mission, ensuring they understand the full extent of risk they face.”
+Britain needs to embrace the use of AI as quickly as enemies use it to attack, he will say, and businesses need to plan for the future when quantum computers will be able to break commonly used encryption processes.
+Dr Horne will tell delegates cyber security is a key part of defence amid increased international tensions.
+“We are living through the most seismic geopolitical shift in modern history,” he will say.
+“As Blaise Metreweli, the chief of MI6, said in December, our world is more dangerous and contested now than it has been for decades.
+“We are operating in a space between peace and war. Let’s be clear, cyber space is part of that contest.”
+CyberUK is the annual UK government cyber security conference.
+Join our commenting forum
+Join thought-provoking conversations, follow other Independent readers and see their replies
+Comments
 
 ====================================================================================================
 
