@@ -1,44 +1,76 @@
-Report: ICE detains Russian Buddhist lama who spoke out against war in Ukraine, deportation possible
+Utah-based firm develops Razorback autonomous combat vehicle
 Unknown
 Unknown Publisher
 2026-04-30
-12:04:38 UTC
-21:04:38 KST
+14:57:05 UTC
+23:57:05 KST
 
-Report: ICE detains Russian Buddhist lama who spoke out against war in Ukraine, deportation possible
-U.S. Immigration and Customs Enforcement agents have detained Baldan Bazarov, a Russian Buddhist lama and former abbot of the Kyrensky datsan in the Tunkinsky District of Buryatia, the Russian news outlet People of Baikal reports. The detention took place on April 29. Bazarov may face deportation, the outlet said.
-No further details about the circumstances of his detention have been made available.
-After Russia’s invasion of Ukraine began, Bazarov spoke out openly against the war. “Buddha said: you cannot kill even a mosquito, even a bedbug. Every living creature is sacred. All the more so — [you cannot kill] a person,” People of Baikal quoted the lama as saying.
-Bazarov emigrated to the United States because of his position and applied for political asylum, according to the outlet. In the United States he worked odd jobs — as a hotel cleaner, a courier, and in a laundry. In the past year he had been living in California and working as a driver.
-During Donald Trump’s second presidential term, the United States has tightened its immigration policies. Among those being expelled in large numbers are anti-war Russians who have been denied asylum — many of whom face persecution if returned to Russia.
-At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.
-If you find any errors in this translation, please contact us at [email protected].
-To read Meduza’s exclusive content in English, please subscribe to our newsletter.
+- Hypercraft launched Razorback, an autonomous UGV with a 300 hp diesel hybrid-electric drivetrain, 2,400 lb payload, 280-mile range, and 38 kW exportable power.
+- The software-defined, MOSA-compliant platform supports counter-UAS, contested logistics, EW relay, casualty evacuation, and mobile power generation without a human crew.
+A Utah defense technology company has launched an autonomous ground vehicle that carries 2,400 pounds of payload, travels 280 miles on a single charge, and exports 38 kilowatts of power to charge drones, run directed energy weapons, and sustain forward command posts. It’s all without a human on board.
+Hypercraft, based in Provo, Utah, announced the official launch of Razorback, a next-generation autonomous unmanned ground vehicle designed as a software-defined mission platform for high-consequence environments.
+The company describes Razorback as a flexible, distributed autonomous operations node — a platform that replaces fixed logistics infrastructure and personnel-heavy forward operations with a vehicle that can autonomously deliver supplies, generate power, relay communications, conduct counter-UAS missions, and evacuate casualties across the same contested terrain that makes those missions dangerous for human crews in the first place.
+The powertrain architecture that enables those capabilities is a diesel hybrid-electric system featuring a 50 kilowatt range extender with 95 kilowatt peak output, driving a combined 300 horsepower four-motor torque-vectoring system. Four independent motors mean that if one or more are damaged in combat, the vehicle continues operating — a redundancy design that reflects the reality that autonomous platforms operating forward will take hits and need to keep moving anyway. The same redundancy logic applies to the range extender and energy storage system: damage to either does not end the mission. At 60 miles per hour top speed and a 280-mile operational range, Razorback covers ground at a pace that keeps it relevant to the tactical formations it supports rather than trailing behind them.
+The 38 kilowatt exportable power capability is the feature that most clearly distinguishes Razorback from unmanned ground vehicles whose design stops at mobility and payload. Forward operations in contested environments run on power — drone charging stations, directed energy weapons, ISR sensor nodes, electronic warfare systems, and command post equipment all require continuous electrical supply that is difficult and dangerous to sustain through conventional generator and fuel logistics. A vehicle that arrives at a forward position carrying both supplies and the power infrastructure to sustain operations at that position does two jobs simultaneously, reducing the logistics footprint and the human exposure required to maintain it. The tactical microgrid concept Hypercraft has built into Razorback treats the vehicle as a mobile energy node rather than simply a cargo carrier — a distinction that matters considerably for the kind of distributed, austere operations that modern ground forces are increasingly required to conduct.
+The software-defined architecture is the design choice that Hypercraft argues makes Razorback future-proof in a way that conventional hardware-defined platforms are not. The central-zonal computing architecture decouples hardware from software, enabling over-the-air updates and rapid mission-set swaps without physical modification to the vehicle. A Razorback configured for contested logistics resupply can be reconfigured for electronic warfare relay or counter-UAS operations through software updates rather than physical reconfiguration — a capability that matters in operational environments where mission requirements change faster than logistics pipelines can deliver new hardware. The open architecture based on high-performance computing enables AI integration, edge processing, and accelerated incorporation of autonomy systems as they mature, meaning the platform’s autonomous capabilities can grow with the technology rather than being frozen at the capability level that existed when the vehicle was built.
+The counter-UAS mission set reflects how thoroughly the drone threat has penetrated military planning at every level. Razorback’s low-signature profile for sensors and interceptors provides 360-degree protection against Group 1 and 2 UAS threats — the small tactical drones that have demonstrated their lethality against ground forces in multiple recent conflicts. A counter-UAS platform that is itself autonomous eliminates the crew exposure problem that comes with manned counter-drone systems operating in contested environments, and its mobility allows it to reposition in response to threat geometry rather than providing static point defense from a fixed location.
+The casualty evacuation mission set is operationally important in ways that go beyond the immediate humanitarian function. Medical evacuation under fire has historically required exposing additional personnel to the same threat environment that created the casualty — a rescue attempt that generates additional casualties. An autonomous vehicle that can power life-sustaining medical equipment, reach a forward casualty position, and extract the injured without putting a medic or crew member at risk addresses one of the most emotionally and operationally costly problems in ground combat. The 2,400-pound payload capacity is more than sufficient for casualty evacuation loads, and the 280-mile range covers the evacuation distances that forward operations in distributed environments can generate.
+Brian Bowers, CEO at Hypercraft, framed the platform’s positioning directly: “Razorback isn’t just a vehicle; it’s the new tactical standard. Razorback responds to the dynamic demands of modern warfare, unifying high-capacity power export in a high-performance off-road vehicle with advanced autonomous capabilities to ensure that forward operations succeed in an ever-changing environment.”
+The mobility specifications that underpin all of those mission sets — 4-wheel hydraulic steering and neutral steer, 37-inch tires, and a 148-inch chassis — are engineered for the austere terrain that defines the operational environments where Razorback’s capabilities are most needed. A vehicle that can carry 2,400 pounds and generate 38 kilowatts but cannot traverse the ground between the forward line of troops and the objective it’s supporting is a vehicle that doesn’t get used. The mobility package ensures the platform can actually reach the positions its mission sets require.
 
 ====================================================================================================
 
-Oil prices hit highest level since Iran war's start
-Unknown
+What Labour’s Renters’ Rights Act means for tenants and landlords
+United Kingdom
 Unknown Publisher
 2026-04-30
-12:04:11 UTC
-21:04:11 KST
+15:55:14 BST
+23:55:14 KST
 
-Oil prices hit highest level since Iran war's start
-
-====================================================================================================
-
-Israeli importer drops shipment of allegedly Russian-stolen Ukrainian grain
-Unknown
-Unknown Publisher
-2026-04-30
-12:02:14 UTC
-21:02:14 KST
-
-Ukraine on Thursday welcomed the announcement that a vessel carrying grain allegedly originating from Ukraine's occupied territories will not unload cargo in Israel.
-Loading...
-The announcement follows a Haaretz exposé released Sunday, revealing how grain stolen by Russia from the territories it occupies in Ukraine is being smuggled into Israel. Zenziper, a key supplier of Israel's wheat, was set to receive a shipment of what Ukraine says is stolen grain
-Ukraine on Thursday welcomed the announcement that a vessel carrying grain allegedly originating from Ukraine's occupied territories will not unload cargo in Israel.
+What Labour’s Renters’ Rights Act means for tenants and landlords
+From new eviction protections to the right to own pets – here’s what to know about the new rental laws
+- Bookmark
+- CommentsGo to comments
+Labour’s flagship rental reforms come into effect on 1 May, bringing sweeping and permanent changes to the UK’s rental landscape.
+From Friday, dozens of changes will come into effect that will majorly change how landlords and tenants – and the contracts between them – operate.
+Guidance from the government stated: “The act will improve the current system for both the 11 million private renters and 2.3 million landlords in England. It will give renters much greater security and stability so they can stay in their homes for longer, build lives in their communities, and avoid the risk of homelessness.
+“Reform of the sector is long overdue, and we will act where previous governments have failed. While the majority of landlords provide a good service, the private rented sector currently provides the least affordable, poorest quality and most insecure housing of all tenures.”
+Here is everything renters and landlords need to know:
+Section 21 ‘no fault’ evictions abolished
+One of the act’s headline measures, this change will remove landlords’ power to evict tenants at two months’ notice without having to give any reason.
+After years of campaigning, the scrapping of section 21 notices was first announced by the Conservatives in 2019, and put into a bill in 2023. After months of delays, this bill never passed due to the general election but was revived and updated by Labour.
+The government said the measure will provide “more security for tenants” and empower them to challenge poor practice and unfair rent increases without fear of eviction.”
+“We will implement this new system in one stage, giving all tenants security immediately,” it added.
+An end to fixed-term contracts
+This represents a major change to the rental landscape, affecting millions of households. From tomorrow, fixed-term contracts will cease to exist and will all become periodic rolling contracts without an end date.
+This applies to all current fixed-term contracts, which latest figures show make up a majority of all tenancies in the UK.
+Tenants will also be able to leave with two months’ notice at any time.
+Fairer possession grounds
+Under the new legislation, tenants will be given greater security through safeguards that give them more time to find a new home if the landlord evicts them to move in or sell.
+Labour said the measures will be “fair to both parties”. Landlords will gain new grounds to evict tenants if they are selling the property or moving themselves or a relative in, and will still be able to evict tenants for rent arrears or antisocial behaviour.
+Protect against backdoor eviction via rent rises
+The Renters’ Rights Act will give tenants the power to appeal above-market rent increases which are designed to force them out of the property.
+Landlords will retain the power to increase rents but only once a year and always within market rates. An independent tribunal can make a judgement on this if it is taken to appeal.
+The act will also end the practice of rental bidding – commonplace in large cities – by prohibiting landlords from asking for or accepting offers above the advertised rent.
+More power to challenge rent rises
+The legislation will also change the current tribunal process for tenants to challenge rent rises, making it easier for them to do so.
+Changes will see tribunals lose the power to decide to increase the rent above what the landlord has asked for, removing a key risk from the process for tenants.
+If approved, rent increases will also no longer be backdated from the date given by the landlord, but begin after the tribunal’s decision. The tribunal will also be able to delay the new rent by up to two months to prevent undue hardship.
+Further protection from discrimination
+The act will make it illegal for landlords to discriminate against potential tenants for receiving benefits or having children, who aren’t protected under current legislation.
+Tenants will also have strengthened rights to request a pet in the property, which the landlord must consider and cannot unreasonably refuse. Landlords will be able to request pet insurance is purchased to cover any possible damages.
+The act will also:
+- Allow renters to request pets in their home, which the landlord cannot unreasonably refuse.
+- Restrict up front rent requests to no more than one month maximum
+- Strengthen rent repayment orders, which allow tenants to reclaim up to 12 months of rent in the case of housing offences. These will be extended to superior landlords (i.e the property owner), see the maximum penalty doubled to, and force repeat offenders to repay the maximum amount.
+Guidance and support for renters
+- Shelter can give advice on housing law, tenants’ rights and more plus a free helpline if for those facing homelessness on 0800 800 4444
+- Crisis can provide practical one-to-one support to help access benefits, healthcare, employment opportunities and more
+- StepChange offers free, flexible debt advice to anyone who needs it. It provides tailored advice through its website
+- Citizens Advice offer free advice on housing, the law, debt and benefits
+Join our commenting forum
+Join thought-provoking conversations, follow other Independent readers and see their replies
+Comments
 
 ====================================================================================================
 
