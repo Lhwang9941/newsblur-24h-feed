@@ -1,96 +1,113 @@
-AI may be able to detect signs of pancreatic cancer before tumors are visible on scans, study suggests
+Former Disney Channel castmate speaks out after Olivia Rodrigo’s SNL monologue roast
 United Kingdom
 Unknown Publisher
 2026-05-03
-18:31:01 BST
-02:31:01 KST
+19:42:38 BST
+03:42:38 KST
 
-The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission.
-AI may be able to detect signs of pancreatic cancer before tumors are visible on scans, study suggests
-The technology identifies patterns in the pancreas that are invisible to the human eye
-- Bookmark
-- CommentsGo to comments
-A new artificial intelligence model can detect signs of pancreatic cancer on CT scans up to three years before a clinical diagnosis, according to a study.
-The technology, developed by researchers at the Mayo Clinic, identifies “subvisual” patterns in the pancreas that are invisible to the human eye, the study published in the journal Gut found.
-By the time most patients develop symptoms like abdominal pain or weight loss, the cancer has typically reached an advanced stage. Pancreatic cancer currently has a five-year survival rate of just 13 percent.
-The AI framework, called Radiomics-based Early Detection MODel, was trained using nearly 1,000 CT scans from patients who were originally screened for unrelated conditions but later developed pancreatic cancer.
-In a head-to-head comparison with board-certified radiologists, the AI was significantly more effective at spotting early markers of the disease.
-Pancreatic tumors are notoriously difficult to find because the organ is located deep within the abdomen, making physical exams ineffective. There is also no routine screening available for the general public.
-On an independent test set of 493 scans, the model identified occult cancer with a 73 percent sensitivity rate — nearly double the 39 percent achieved by human doctors. For scans taken more than two years before a formal diagnosis, the AI was nearly three times as sensitive as the radiologists.
-“We knew, based on the biology of the disease, that this is not something which is coming all of a sudden in three months,” Dr. Ajit Goenka, a Mayo Clinic radiologist and study author, said. “We knew that the signal was there. We just needed to find a way to be able to detect it.”
-The AI model works by analyzing “radiomic” features — minute textural disruptions in the organ’s tissue. Goenka said that the model could identify abnormal cells that protect cancer from the immune system, a signature scientists have long recognized but struggled to visualize on standard imaging.
-Dr. Daniel Jeong, a radiologist at Moffitt Cancer Center who was not involved in the research, spoke about the limitations of current manual reviews.
-“I analyze these images every day,” Jeong told NBC News. “We’re really looking for a measurable mass that could represent the cancer. So these tumors need to grow to a certain level to become visible.”
-The research marks a significant milestone, but experts caution that the tool is not yet ready for widespread use. The model is currently being evaluated in a clinical trial that requires three to five years of patient monitoring to confirm its accuracy in real-time.
-Researchers suggest the technology could eventually serve as a triage tool for high-risk individuals, such as those with a family history of the disease or new-onset diabetes.
-“In a disease where we have been just wandering in darkness for decades, this is a milestone that shows us the finish line, but we still have to get to the finish line,” Goenka said.
-The study joins several recent advancements in the field, including early-stage trials for mRNA vaccines and experimental drugs that have shown promise in extending life expectancy for those with advanced cases.
-Join our commenting forum
-Join thought-provoking conversations, follow other Independent readers and see their replies
-Comments
+Former Disney Channel castmate speaks out after Olivia Rodrigo’s SNL monologue roast
+- Olivia Rodrigo, while hosting Saturday Night Live, joked about her past Disney show Bizaardvark and co-star Jake Paul's career aspirations.
+- Rodrigo humorously contrasted her childhood ambition to create music exploring complex themes with Paul's stated desire to “beat up old guys on Netflix,” referencing his 2024 fight with Mike Tyson.
+- Jake Paul responded positively on X, expressing pride in Rodrigo's success and acknowledging their shared vision from their Disney days. “We had the vision [crying laughing emoji] i told you that you would sell stadiums out and then we both did proud of you fr [for real],” Paul said.
+- The SNL cold open sketch featured Colin Jost as Defense Secretary Pete Hegseth and Aziz Ansari as FBI Director Kash Patel, mocking their recent public appearances.
+- Ansari's Patel character, in the sketch, made exaggerated claims about the FBI's effectiveness and referenced an 'attempted assassination of President Trump' and a six-week timeline to locate Osama bin Laden.
 
 ====================================================================================================
 
-Netanyahu pledges almost 120 billion in domestic arms production over decade
-Unknown
+Zelensky thanks King for ‘strong words’ on Ukraine during state visit
+United Kingdom
 Unknown Publisher
 2026-05-03
-17:30:34 UTC
-02:30:34 KST
+19:37:40 BST
+03:37:40 KST
 
-Prime Minister Benjamin Netanyahu said on Sunday that Israel would invest 350 billion shekels (almost $120 billion) over the next decade to expand domestic arms production, including manufacturing aircraft locally, despite no formal government deliberations or professional recommendations backing the plan.
-Loading...
+Zelensky thanks King for ‘strong words’ on Ukraine during state visit
+- Ukrainian President Volodymyr Zelensky expressed gratitude to King Charles for his "strong words" in support of Ukraine during the monarch's recent state visit to the United States.
+- Mr Zelensky conveyed his appreciation during a meeting with Labour leader Sir Keir Starmer in Yerevan, Armenia, ahead of the European Political Community (EPC) summit.
+- King Charles, in his address to Congress last week, emphasised the importance of NATO and international backing for Kyiv, an intervention widely interpreted as a subtle challenge to Donald Trump's perceived waning interest in the conflict.
+- During the same meeting, Mr Zelensky also thanked Sir Keir Starmer for the United Kingdom's sanctions against Russia and its efforts to counter Moscow's "shadow fleet," which he cited as a "great example" for other allies.
+- Sir Keir Starmer, who arrived in Armenia on Sunday, is expected to use the EPC summit to advocate for closer ties with the European Union on defence, security, and economic matters.
 
 ====================================================================================================
 
-What is EPIC City, the controversial planned Muslim residential community in Texas?
+Push to regulate chargeback as 'fraud' cripples small online businesses
 Unknown
 Unknown Publisher
 2026-05-03
-17:30:26 UTC
-02:30:26 KST
+18:37:14 UTC
+03:37:14 KST
 
-A planned Muslim residential community named EPIC City in Texas has received significant media attention, with some Texas officials claiming it will be an Islamic city or governed by Sharia law.
-The developers and Muslim American groups deny these claims and say it will be a “Muslim neighborhood” and not a separately-governed space.
-So what is true?
-EPIC city is a planned large-scale development project in Texas, promoted by a private development group associated with the East Plano Islamic Center (EPIC) area community.
-The “city” is a plan to develop a 402-acre tract of land in Hunt and Collin Counties that, when built, will host more than 1,000 residential lots, a faith-based K-12 school, commercial and retail centers, and a mosque. It has now been quietly rebranded “The Meadow.”
-It is not a new city, and will not have its own government. It will remain under Texas state law.
-Marketing materials lead to HUD investigation
-However, marketing materials that promoted the development have referred to it as an exclusively “Muslim community” that will serve as “the epicenter of Islam in America.”
-This prompted the Department of Housing and Urban Development’s (HUD) Office of Fair Housing and Equal Opportunity (FHEO) to launch an investigation to determine whether EPIC City's plans violated the Fair Housing Act by engaging in religious and national-origin discrimination.
-This included reviews into whether the project used discriminatory financial terms that required lot owners to subsidize a mosque and Islamic educational centers.
-“It is deeply concerning that the East Plano Islamic Center may have violated the Fair Housing Act and participated in religious discrimination,” said HUD Secretary Scott Turner.
-“As HUD Secretary, I will not stand for illegal religious or national origin discrimination in housing and will ensure that this matter receives a thorough investigation so that this community is open to all Texans.”
-Texas state officials, Governor Greg Abbott and Attorney General Ken Paxton, have been repeatedly attempting to block the project, believing it to be a potential for Sharia law.
-Paxton has filed multiple active lawsuits against them, including for securities fraud and illegal maneuvers involving their municipal utility district. These are multiple separate cases, and there is no single unified case against EPIC City.
-Abbott has already directed multiple state agencies to get to the bottom of it. He claimed that the Texas Rangers also opened up a criminal investigation.
-“Sharia law is not allowed in Texas,” he has said on multiple occasions.
-Last week, Travis County District Judge Amy Clark Meachum ruled that the Texas Workforce Commission must honor a settlement agreement and back off its fair housing scrutiny of EPIC City.
-This was after EPIC filed an underlying lawsuit to force the Texas Workforce Commission (“TWC”) to approve certain fair housing documents despite an ongoing federal investigation involving EPIC.
-Abbott, however, said on X/Twitter Thursday, “This erroneous court ruling has already been appealed and halted. Additionally, the so-called city is the subject of other litigation and countless investigations. It will never see the light of day.”
-Paxton has appealed the ruling, suspending the temporary injunction pending appeal, and ensuring that the Texas Workforce Commission will not be forced to take unlawful action while the case proceeds.
-“Following my appeal of the flawed ruling that would have required the Texas Workforce Commission to unlawfully approve fair housing documents for EPIC, I am glad to see that the developers will not receive such services as this lawsuit is proceeding,” said Attorney General Paxton.
-“EPIC city developers have sought out any possible way to evade the law and further their development scheme. I will be relentless in ensuring that any attempt by EPIC City to move its development forward in violation of the law is stopped.”
-On the same day, a state court judge in Collin County temporarily blocked further actions by a utility district slated to serve EPIC City.
-“The state is just asking for a pause until we can figure out what’s going on,” Wesley Williams with the Texas attorney general’s office told Judge Nowak. “There’s a lot of secrecy surrounding this board.”
-The Texas chapter of the Council on American-Islamic Relations (CAIR-Texas) has, however, defended the project and called the allegations against it “Islamophobic witch hunts and politically driven regulatory harassment.”
-In a statement on Thursday, CAIR-Tx said: “For over a year, state leaders have abused their authority in a bigoted attempt to deny Texas Muslims their constitutional right to develop an inclusive, family-oriented community.”
-“We applaud the court for holding state agencies accountable and recognizing that the law applies equally to everyone, including the State of Texas.”
-According to archived materials found by The Jerusalem Post, the project has moved from public-facing to more private over the last year, likely due to the public scrutiny.
-While its website is currently inactive, its February 2023 site described the project as “a safe purpose-built community to serve the growing needs of the Muslim community.”
-In the investor pitch, now also not available, it said that anyone wishing to purchase a lot must note that the “price of the lots covers land purchase cost, land development of roads and utilities, construction of EPIC 2.0 Masjid [mosque], and Construction of EPIC QCA School.
-It also said that while many owners are free to choose any financing institution they prefer, “to provide convenience for our investors, we are working with Islamic Financing companies to ensure that Islamic Financing is available.”
-Elsewhere, the terms and conditions say the developer intends to donate portions of the Land to EPIC for the mosque and the private school, and also intends to donate to EPIC 100% of the net proceeds from the sale of Lots to the mosque.
-The developer is essentially saying: “We will build the infrastructure, sell the lots, and give the profits and some land to EPIC to support its mosque and school.”
-None of this is outright illegal. However, it becomes illegal if people are excluded based on religion. Any project must also comply with fair housing, zoning, and development regulations.
-What does this mean? A project cannot require buyers to be Muslim, it cannot exclude non-Muslims, it cannot advertise it as “Muslim-only housing,” and it cannot enforce religious membership as a condition of ownership.
-Additionally, if buyers are indirectly funding a religious institution through land purchases, regulators may assess whether risks are clearly disclosed and whether profits are properly marketed.
-It is this aspect that Abbott and Paxton have been investigating.
-One of the main figures, the face of the project, is Yasir Qadhi (formerly Abu Ammaar Yasir Qadhi), who is both the dean of The Islamic Seminary of America and resident scholar of the East Plano Islamic Center.
-A former Salafist, he was criticized in 2010 for saying “Hitler never intended to mass-destroy the Jews” and “that Hitler never actually intended to massacre the Jews, he actually wanted to expel them to neighboring lands.” He later apologized for this and went on a trip to Auschwitz as part of a delegation.
-Regarding EPIC City, Qadhi said it will be a “role model community of thousands of Muslims living well-integrated.”
-“We are not forming a cult. We’re not forming big barriers between the rest of society. We’re going to be giving back to this state and this country, and we’re going to be showing what it means to be a Muslim neighborhood.”
+Chargeback 'fraud' crippling small online businesses grappling with higher inflation
+In short:
+Small business owners say they are falling victim to a modern type of theft: fraudulent chargebacks.
+It happens when a customer lodges a claim with their bank, saying an item they paid for by card was damaged or did not arrive. It can be difficult for business owners to dispute the claim if they disagree.
+What's next:
+An online petition with more than 1,600 signatures is calling on the government for better protection against fraudulent chargebacks.
+Bronte Goodieson did not know what a chargeback was until hundreds of dollars were taken out of her account.
+The local artist from Sydney had sent off three paintings to an online customer in July last year when she got an email from e-commerce platform Shopify a few days later, flagging a problem with a recent order.
+"It was a Sunday afternoon. I was just on a walk and I was checking my emails and it was like $460 is going back to this customer," she told ABC News.
+"So I checked it … and [the customers] haven't emailed me … they didn't contact me to show me what was wrong with the product."
+She is one of the many small businesses impacted by chargeback, a practice that was introduced in the 70s, around the same time as card payments, to protect customers from online fraud.
+It is where a customer disputes a charge with their own bank following a debit or credit card transaction, claiming a transaction is fraudulent, the item was not received or is defective. The bank then withdraws the money immediately and gives the business owner an option to dispute it if they wish, but it comes at a cost.
+An increasing number of business owners say the practice is being misused as a modern type of theft, across a range of industries.
+ABC News has spoken to small business owners affected across the transport, beauty, retail and accommodation sectors.
+Claiming evidence but there is no evidence
+In an email, Shopify notified Ms Goodieson that one of her customers had reported a defective or damaged product, and that evidence had been collected and would be sent to the customer's bank.
+Ms Goodieson would also be charged a fee.
+But when she contacted the customer about the chargeback, it was a different story.
+"When I messaged the person, I said, 'Hey, was the product damaged? What happened? And they just said, 'No. It's fine. We love it. We just contacted the bank because I didn't know what day it was coming,'"Ms Goodieson said.
+Though it turned out to be a case of miscommunication, it made Ms Goodieson question Shopify's claims about having evidence.
+"I was guilty of something that was damaged that wasn't even damaged … I wish they could hear people out before you are automatically fighting to get your money back," she said.
+"As much as business is about money and finance, it's also really heartbreaking … if I don't go to work and get paid, if I don't sell something, that is rent for the week gone.
+"I looked up TikTok just to see if anyone else has been through this … [and] I'd seen it happened to other people and was like, 'Oh my God! This is so scary.'"
+In a statement to the ABC, a spokesperson for Shopify said: "When a customer disputes a payment, the issuing bank initiates the chargeback process through the card network. That's an industry-wide rule.
+"Shopify provides tools to help merchants prevent and fight chargebacks, including automated evidence submission, chargeback alerts, and fraud analysis."
+While Ms Goodieson was able to eventually get her money back because the customer transferred it back to her account, other business owners have not been so lucky.
+With online payments making up almost 50 per cent of Australian retail sales, industry experts are concerned fraudulent chargebacks are crippling businesses already struggling with higher costs from the war in the Middle East and soon-to-be debit and credit surcharge bans.
+Rachael opened her tanning salon about 18 months ago on the Gold Coast and says she has already experienced nearly a dozen fraudulent chargebacks.
+Despite disputing each claim, none have been successful.
+"When you first open a business, that excitement of seeing an email come through that someone's signing up or coming into your salon, that's a great feeling,"she said.
+"Then four weeks later, that feeling is gone when you get another email saying that it's being disputed."
+Prior to opening the salon, Rachael, who has asked we only use her first name out of fear more customers may try the practice, spent many years working underground in the mines.
+She says opening the salon was a chance for her to spend more time with her kids.
+"It hasn't been easy … flying in, flying out away from your family, especially the last few years of trying to get to a point to be even able to open the doors," she said.
+"It's a hard thought to know that you worked so hard to get somewhere, only to sort of feel like you may have to go back."
+Not worth the dispute
+Every time a chargeback dispute is lodged, the small business is charged a fee on top of having to refund the customer.
+According to Mastercard, the average chargeback amount for merchants in Australia is $91, which payments expert Brad Kelly says often is not worth disputing.
+Mr Kelly co-founded the Independent Payments Forum, which represents about 120,000 small businesses and their payment systems.
+"If you are a merchant and you get a dispute, then to defend that will cost you $25 straight off the bat," he said.
+"Would you spend $25 for a $91 transaction? And you can see the answer's probably not. So the problem is that you've got a fairly low ticket price, a fairly high penalty for defending it, and this is why it gets let through."
+He said it was mainly small businesses, which had less power, that were affected.
+"Big business merchants have got much more leverage, they have deeper relationships with banks and gateways and all these other moving parts in the system," Mr Kelly said.
+The other issue, according to Mr Kelly, is that banks do not want to upset their cardholders and risk a fine from the financial regulator.
+"If you go to AFCA [Australian Financial Complaints Authority], they will charge the bank for your complaint if it goes that far. So the bank would make a decision and say, 'OK, if we just refund this dispute and the cost to us to go to AFCA is $500 or $1,000.' That's a purely economic decision" Mr Kelly said.
+"So there's an element of what's right and what's good versus what's economically feasible … the banks don't want to upset their customers."
+According to the Australian Bureau of Statistics, chargeback decisions normally favour the customer, with 72 per cent who claim card fraud fully reimbursed by their card issuer in 2023–24, totalling $477 million.
+However, the regulations come from a time when chargebacks were rare.
+"We have a system which is running on legacy and that legacy dates back to the 80s and those rules have been around 40-odd years, that hasn't been updated," Mr Kelly said.
+"The original reason for these dispute processes and the resolution has since passed.
+"We are now in an era where just about everyone uses online transactions for something. There needs to be an update of how that works."
+Colin Baines, Global Payments country manager for Australia and New Zealand, agrees.
+Loading..."Friendly fraud is a growing challenge for Australian businesses, as the rapid rise of digital payments and e-commerce increases both the volume and complexity of transactions," he said.
+"It used to be a relatively rare issue, but one we're now seeing more frequently.
+"The reality is that as digital payments grow, so too does the likelihood of disputes, particularly when the chargeback process is seen as the easiest first step rather than a last resort."
+Calls for more regulation
+Worldwide, chargebacks are predicted to reach 324 million transactions in 2028, up from 261 million in 2025.
+The Australian Banking Association's chief executive, Simon Birmingham, said it was time for a review into regulations.
+"The rules around chargebacks are set and administered by card schemes such as Visa and Mastercard, with banks required to assess claims based on these rules," Mr Birmingham said in a statement.
+"Banks are aware of the growing concerns of small businesses in relation to fraudulent chargebacks.
+"We would support a comprehensive review of existing scheme settings to better promote honest conduct and protect the interests of both buyers and sellers."
+While the card networks typically provide the infrastructure and rules around chargebacks, issuing banks assess and decide the outcome of individual cases.
+In a statement to the ABC, a spokesperson for Visa said they set the global framework and rules for chargebacks, but individual disputes were assessed and decided by card-issuing banks.
+"For small businesses, the dispute process is typically managed through their bank or payment service provider, and outcomes can depend on how a business is set up with them," the spokesperson said.
+Small business owners say it is confusing to know where to turn, with one business owner taking matters into her own hands.
+She's started an online petition, which has more than 1,600 signatures, calling on the government for better protection against this type of theft.
+Payment expert Brad Kelly agrees.
+"They're out of pocket, not only for the funds, not only for the goods that they've sold, but also the fees that they've been charged … that's crippling for small businesses," Mr Kelly said.
+In a statement to the ABC, Minister for Small Business Anne Aly said the government recognised many hardworking small businesses were being left out of pocket when claims were misused.
+"We expect payment providers to properly assess claims and ensure fair processes are followed before chargebacks are initiated," Dr Aly said.
+"We will continue to monitor this issue closely and consider whether current laws and industry settings are striking the right balance."
 
 ====================================================================================================
 
