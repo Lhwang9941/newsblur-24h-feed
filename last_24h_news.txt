@@ -1,30 +1,96 @@
-Two US service members missing after joint military exercises in Morocco
+AI may be able to detect signs of pancreatic cancer before tumors are visible on scans, study suggests
+United Kingdom
+Unknown Publisher
+2026-05-03
+18:31:01 BST
+02:31:01 KST
+
+The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission.
+AI may be able to detect signs of pancreatic cancer before tumors are visible on scans, study suggests
+The technology identifies patterns in the pancreas that are invisible to the human eye
+- Bookmark
+- CommentsGo to comments
+A new artificial intelligence model can detect signs of pancreatic cancer on CT scans up to three years before a clinical diagnosis, according to a study.
+The technology, developed by researchers at the Mayo Clinic, identifies “subvisual” patterns in the pancreas that are invisible to the human eye, the study published in the journal Gut found.
+By the time most patients develop symptoms like abdominal pain or weight loss, the cancer has typically reached an advanced stage. Pancreatic cancer currently has a five-year survival rate of just 13 percent.
+The AI framework, called Radiomics-based Early Detection MODel, was trained using nearly 1,000 CT scans from patients who were originally screened for unrelated conditions but later developed pancreatic cancer.
+In a head-to-head comparison with board-certified radiologists, the AI was significantly more effective at spotting early markers of the disease.
+Pancreatic tumors are notoriously difficult to find because the organ is located deep within the abdomen, making physical exams ineffective. There is also no routine screening available for the general public.
+On an independent test set of 493 scans, the model identified occult cancer with a 73 percent sensitivity rate — nearly double the 39 percent achieved by human doctors. For scans taken more than two years before a formal diagnosis, the AI was nearly three times as sensitive as the radiologists.
+“We knew, based on the biology of the disease, that this is not something which is coming all of a sudden in three months,” Dr. Ajit Goenka, a Mayo Clinic radiologist and study author, said. “We knew that the signal was there. We just needed to find a way to be able to detect it.”
+The AI model works by analyzing “radiomic” features — minute textural disruptions in the organ’s tissue. Goenka said that the model could identify abnormal cells that protect cancer from the immune system, a signature scientists have long recognized but struggled to visualize on standard imaging.
+Dr. Daniel Jeong, a radiologist at Moffitt Cancer Center who was not involved in the research, spoke about the limitations of current manual reviews.
+“I analyze these images every day,” Jeong told NBC News. “We’re really looking for a measurable mass that could represent the cancer. So these tumors need to grow to a certain level to become visible.”
+The research marks a significant milestone, but experts caution that the tool is not yet ready for widespread use. The model is currently being evaluated in a clinical trial that requires three to five years of patient monitoring to confirm its accuracy in real-time.
+Researchers suggest the technology could eventually serve as a triage tool for high-risk individuals, such as those with a family history of the disease or new-onset diabetes.
+“In a disease where we have been just wandering in darkness for decades, this is a milestone that shows us the finish line, but we still have to get to the finish line,” Goenka said.
+The study joins several recent advancements in the field, including early-stage trials for mRNA vaccines and experimental drugs that have shown promise in extending life expectancy for those with advanced cases.
+Join our commenting forum
+Join thought-provoking conversations, follow other Independent readers and see their replies
+Comments
+
+====================================================================================================
+
+Netanyahu pledges almost 120 billion in domestic arms production over decade
 Unknown
 Unknown Publisher
 2026-05-03
-16:24:30 UTC
-01:24:30 KST
+17:30:34 UTC
+02:30:34 KST
 
-Two US service members missing after joint military exercises in Morocco
-Two members of the US Armed Forces participating in the African Lion joint military exercises have been reported missing near the city of Tan Tan in southern Morocco, the US Africa Command (AFRICOM) said on Sunday. A US defence official said the soldiers went missing while on a hike after the day's exercises had concluded.
-Two US service members are missing in southwestern Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (AFRICOM) said Sunday.
-The service members are US army soldiers who went missing while on a hike, a US defence official told The Associated Press on condition of anonymity as they were not allowed to speak publicly about the issue.
-“They were not actively taking part in any training. The day’s exercises had concluded, and, from our understanding, they were out on a recreational hike,” the official said.
-Read moreWashington to pull some 5,000 US troops from Germany as rift over Iran war widens
-AFRICOM said the US, Morocco and other countries participating in the African Lion exercise have launched a search and rescue operation.
-“The incident remains under investigation and the search is ongoing,” it said in a statement.
-The incident happened on Saturday at about 9pm, the Moroccan military said, near the Cap Draa Training Area near Tan Tan, close to the Atlantic Ocean. The terrain is mountainous, a mix of desert and semidesert plains.
-The search team includes helicopters, ships, mountain rescue units and divers, the defence official told the AP.
-“The soldiers were last seen near ocean cliffs in the vicinity of the Cap Draa Training Area during scheduled training. When they did not return as expected, US and Moroccan personnel immediately initiated a joint search effort,” the official added.
-The war games exercise started in April and runs across four countries, including Tunisia, Ghana and Senegal. It is scheduled to end in early May.
-The exercise began in Tunisia with active-duty members of different branches of the US military, including the National Guard, Army Reserve, Air Force, and the Marine Corps.
-In all, over 7,000 personnel from more than 30 nations are participating across the four host countries.
-Read moreWhat the Palantir CEO’s ‘manifesto’ tells us about the changing face of war
-African Lion, which has been running since 2004, is the largest US annual joint military exercise on the continent and usually features high-ranking military officials from the US and its top African allies.
-US military officials have said the annual multinational engagement serves as a venue for strengthening regional security cooperation and refining the readiness of participating forces for global crises.
-In 2012, two US Marines were killed and two others injured during a helicopter crash in Morocco’s southern city of Agadir while taking part in African Lion.
-Morocco is a major ally of the United States in a troubled region. Since 2020, military officers disillusioned with their governments’ records of stemming violence have overthrown democratically elected governments in Mali, Burkina Faso and Niger and began distancing themselves from Western powers.
-(FRANCE 24 with AP)
+Prime Minister Benjamin Netanyahu said on Sunday that Israel would invest 350 billion shekels (almost $120 billion) over the next decade to expand domestic arms production, including manufacturing aircraft locally, despite no formal government deliberations or professional recommendations backing the plan.
+Loading...
+
+====================================================================================================
+
+What is EPIC City, the controversial planned Muslim residential community in Texas?
+Unknown
+Unknown Publisher
+2026-05-03
+17:30:26 UTC
+02:30:26 KST
+
+A planned Muslim residential community named EPIC City in Texas has received significant media attention, with some Texas officials claiming it will be an Islamic city or governed by Sharia law.
+The developers and Muslim American groups deny these claims and say it will be a “Muslim neighborhood” and not a separately-governed space.
+So what is true?
+EPIC city is a planned large-scale development project in Texas, promoted by a private development group associated with the East Plano Islamic Center (EPIC) area community.
+The “city” is a plan to develop a 402-acre tract of land in Hunt and Collin Counties that, when built, will host more than 1,000 residential lots, a faith-based K-12 school, commercial and retail centers, and a mosque. It has now been quietly rebranded “The Meadow.”
+It is not a new city, and will not have its own government. It will remain under Texas state law.
+Marketing materials lead to HUD investigation
+However, marketing materials that promoted the development have referred to it as an exclusively “Muslim community” that will serve as “the epicenter of Islam in America.”
+This prompted the Department of Housing and Urban Development’s (HUD) Office of Fair Housing and Equal Opportunity (FHEO) to launch an investigation to determine whether EPIC City's plans violated the Fair Housing Act by engaging in religious and national-origin discrimination.
+This included reviews into whether the project used discriminatory financial terms that required lot owners to subsidize a mosque and Islamic educational centers.
+“It is deeply concerning that the East Plano Islamic Center may have violated the Fair Housing Act and participated in religious discrimination,” said HUD Secretary Scott Turner.
+“As HUD Secretary, I will not stand for illegal religious or national origin discrimination in housing and will ensure that this matter receives a thorough investigation so that this community is open to all Texans.”
+Texas state officials, Governor Greg Abbott and Attorney General Ken Paxton, have been repeatedly attempting to block the project, believing it to be a potential for Sharia law.
+Paxton has filed multiple active lawsuits against them, including for securities fraud and illegal maneuvers involving their municipal utility district. These are multiple separate cases, and there is no single unified case against EPIC City.
+Abbott has already directed multiple state agencies to get to the bottom of it. He claimed that the Texas Rangers also opened up a criminal investigation.
+“Sharia law is not allowed in Texas,” he has said on multiple occasions.
+Last week, Travis County District Judge Amy Clark Meachum ruled that the Texas Workforce Commission must honor a settlement agreement and back off its fair housing scrutiny of EPIC City.
+This was after EPIC filed an underlying lawsuit to force the Texas Workforce Commission (“TWC”) to approve certain fair housing documents despite an ongoing federal investigation involving EPIC.
+Abbott, however, said on X/Twitter Thursday, “This erroneous court ruling has already been appealed and halted. Additionally, the so-called city is the subject of other litigation and countless investigations. It will never see the light of day.”
+Paxton has appealed the ruling, suspending the temporary injunction pending appeal, and ensuring that the Texas Workforce Commission will not be forced to take unlawful action while the case proceeds.
+“Following my appeal of the flawed ruling that would have required the Texas Workforce Commission to unlawfully approve fair housing documents for EPIC, I am glad to see that the developers will not receive such services as this lawsuit is proceeding,” said Attorney General Paxton.
+“EPIC city developers have sought out any possible way to evade the law and further their development scheme. I will be relentless in ensuring that any attempt by EPIC City to move its development forward in violation of the law is stopped.”
+On the same day, a state court judge in Collin County temporarily blocked further actions by a utility district slated to serve EPIC City.
+“The state is just asking for a pause until we can figure out what’s going on,” Wesley Williams with the Texas attorney general’s office told Judge Nowak. “There’s a lot of secrecy surrounding this board.”
+The Texas chapter of the Council on American-Islamic Relations (CAIR-Texas) has, however, defended the project and called the allegations against it “Islamophobic witch hunts and politically driven regulatory harassment.”
+In a statement on Thursday, CAIR-Tx said: “For over a year, state leaders have abused their authority in a bigoted attempt to deny Texas Muslims their constitutional right to develop an inclusive, family-oriented community.”
+“We applaud the court for holding state agencies accountable and recognizing that the law applies equally to everyone, including the State of Texas.”
+According to archived materials found by The Jerusalem Post, the project has moved from public-facing to more private over the last year, likely due to the public scrutiny.
+While its website is currently inactive, its February 2023 site described the project as “a safe purpose-built community to serve the growing needs of the Muslim community.”
+In the investor pitch, now also not available, it said that anyone wishing to purchase a lot must note that the “price of the lots covers land purchase cost, land development of roads and utilities, construction of EPIC 2.0 Masjid [mosque], and Construction of EPIC QCA School.
+It also said that while many owners are free to choose any financing institution they prefer, “to provide convenience for our investors, we are working with Islamic Financing companies to ensure that Islamic Financing is available.”
+Elsewhere, the terms and conditions say the developer intends to donate portions of the Land to EPIC for the mosque and the private school, and also intends to donate to EPIC 100% of the net proceeds from the sale of Lots to the mosque.
+The developer is essentially saying: “We will build the infrastructure, sell the lots, and give the profits and some land to EPIC to support its mosque and school.”
+None of this is outright illegal. However, it becomes illegal if people are excluded based on religion. Any project must also comply with fair housing, zoning, and development regulations.
+What does this mean? A project cannot require buyers to be Muslim, it cannot exclude non-Muslims, it cannot advertise it as “Muslim-only housing,” and it cannot enforce religious membership as a condition of ownership.
+Additionally, if buyers are indirectly funding a religious institution through land purchases, regulators may assess whether risks are clearly disclosed and whether profits are properly marketed.
+It is this aspect that Abbott and Paxton have been investigating.
+One of the main figures, the face of the project, is Yasir Qadhi (formerly Abu Ammaar Yasir Qadhi), who is both the dean of The Islamic Seminary of America and resident scholar of the East Plano Islamic Center.
+A former Salafist, he was criticized in 2010 for saying “Hitler never intended to mass-destroy the Jews” and “that Hitler never actually intended to massacre the Jews, he actually wanted to expel them to neighboring lands.” He later apologized for this and went on a trip to Auschwitz as part of a delegation.
+Regarding EPIC City, Qadhi said it will be a “role model community of thousands of Muslims living well-integrated.”
+“We are not forming a cult. We’re not forming big barriers between the rest of society. We’re going to be giving back to this state and this country, and we’re going to be showing what it means to be a Muslim neighborhood.”
 
 ====================================================================================================
 
