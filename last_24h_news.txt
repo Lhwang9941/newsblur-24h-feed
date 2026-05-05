@@ -1,54 +1,107 @@
-China unveils new naval defence systems as drones change nature of war at sea
+Ukrainian troops lay out what defense companies get wrong and right
 Unknown
 Unknown Publisher
 2026-05-05
-11:06:14 UTC
-20:06:14 KST
+13:02:55 UTC
+22:02:55 KST
 
-China unveils new naval defence systems as drones change nature of war at sea
-The PLA has been working to improve its defences after the wars in Ukraine and the Middle East highlighted the threat of anti-ship drones
-The Chinese navy has unveiled a new anti-drone air defence system, state media reported on Monday.
-State broadcaster CCTV said a “finalisation test” – which certifies that a weapon system’s design meets all operational requirements – had been successfully carried out in the Bohai Sea.
-In effect, this means that it has been given the official green light for mass production and deployment.
-During the test, the system intercepted multiple drones conducting “high-difficulty” ultra-low-altitude and stealth attacks in a “realistic” combat simulation, the report said.
-“These manoeuvres were designed to comprehensively test the weapon system’s interception capabilities under complex electromagnetic environments and ultra-low-altitude penetration conditions,” it added.
+Russia’s invasion has created a defense tech revolution that’s going global as Ukraine-style warfare proliferates. Some defense companies will succeed. Many others will fail.
+The difference between them is their willingness to learn from what Ukrainian forces need on the battlefield, warfighters said at the Kyiv Defense Tech Week, which took place between 27 April and 3 May.
+Ukraine’s defense industry more than doubled in 2025, according to the Kyiv School of Economics. Foreign firms are coming in greater numbers to test their products in live-fire conditions or offer them to the men and women standing between Russia and the rest of Europe.
+But Ukrainian combat veterans said that for every brilliant answer to a real battlefield challenge, there is an overengineered solution in search of a problem, or a copy of something that already exists.
+They then named what’s missing: mesh communications systems, better batteries, scalable UGVs, smarter electronic warfare, systems for infantry protection, among other technologies. Scalability and standardization are critical factors, too, as brigades try to move from a chaotic “zoo” of systems towards reliable supply chains that require minimal field tinkering.
+Ukrainian and foreign firms looking to get into the Ukrainian market—or draw lessons from it to succeed in modern conflicts elsewhere—and those who would invest in these companies would do well to keep the following lessons in mind.
+What convinces you that a company is worth it?
+“It's their openness to hearing the feedback, good or bad,” Mykyta Puz, a technology liaison with the Azov Corps, told Euromaidan Press in an interview. “And their ability to quickly adapt to the feedback that they're hearing if we're talking about startups.”
+Very often, companies, especially startups, tend to build something they think is valid based on cursory research, he said.
+“For example I had guys pitching me a three-meter wingspan multi-use interceptor drone with a jet engine and I was like conceptually yeah this sounds cool but… based on the size of your equipment is going to be have a huge radar cross-section, and we have a sky saturated with Shaheds, it will just be shot down.”
+In another example, manufacturers pitched a product whose selling point is radio stealth. Puz said this misunderstands the battlefield, which is “so oversaturated with thousands of signals that it's not a concern anymore. And you spent like half a year several million investments in order to make you ‘radio silent.’ Why would you do that?"
+Puz said Azov and Ukrainian forces more broadly are looking for companies that see a clear problem and set out to find a solution for it. The problem has to be deeper than "we need to shoot down aerial targets." Context matters.
+“When I ask the guys, like, what is your concept of operation? And they say, ‘you tell us.’ I'm like, no guys, you got to start from the concept of operation from a scenario and then you build the technology on it. I don't need ultra super quantum high tech, you know.”
+Captain Markiian Yatsyniak of the 413th Unmanned Systems Regiment RAID, said something similar.
+“Only specific kinds of manufacturers who are still in close, efficient communication with end-users like us… may have a chance to be successful in expanding and exporting Ukrainian experience all over the globe.”
+Puz and Yatsyniak said that with the current pace of innovation on the battlefield, companies have three or four months between tackling an idea and showing that it works on the battlefield, occasionally given a bit of grace time for manufacturing.
+“If we're interested in a certain solution for a particular thing, we give them at least four-five months to show efficiency,” Yatsyniak said. “If not, we just sweep the page.”
+What specific problems need to be solved right now?
+Radio communication and mesh networks
+“There are two areas where I think innovation needs to happen,” Puz said. The first is “communication systems… data links, command and control systems. Mesh systems are becoming a buzzword. Like really scalable, robust mesh systems designed for battlefield use.”
+In other words, a system that can cover 100 square kilometers with a network of mesh nodes that can provide stable data connection for equipment to fly or drive through, with redundancy. “This is what I haven’t seen at all, yet.”
+Yatsyniak added that the Ukrainian military just needs radios in general, as units are forced to wait months to get their hands on some. “The shelves of Ukrainian UAV manufacturers are full of drones, but empty of radios.”
+Better batteries
+Another need is high-capacity batteries, Puz said. “Something above 400 watt-hours per kilogram. I think this is where there is a huge amount of opportunity for great companies, but it requires advanced chemistry knowledge.”
+Pawell Power is one success story in this space: through careful iteration, they figured out how to double battery efficiency last year. But there is plenty of room for additional innovation from other companies.
+More simple, scalable Unmanned Ground Vehicles
+Andrei Kushniarou, Commander of the 108 Battalion “Da Vinci Wolves” and UGV expert, said that cheap, simple UGVs are in demand, as his unit’s goal is to equip every small team of soldiers with a UGV that can go in front to demine, carry equipment, or draw FPV fire.
+According to KSE, the UGV market is still very young and has yet to reach its full potential, worth just $252 million in 2025. Still, this market is “highly diversified” by manufacturer, with room for producers to enter if they have good products.
+Better Unmanned Ground Vehicles for casevac
+Kushniarou added that in spite of glowing news reports on UGVs evacuating wounded troops, really good casevac machines are not available on the market—casualty evacuation is being done by machines specced for logistics tasks and aren’t great at handling the wounded.
+“Right now on the market, there are zero UGVs for medical evacuation,” he said. “Medical evacuation is a priority for many units… for that, we simply don't have any specialized solutions right now.”
+Even as logistics UGVs proliferate, casevac remains extremely challenging, with several soldiers telling Euromaidan Press that it can often take days and multiple steps to pull wounded people out of their positions to a safe area.
+More protection for infantry
+“We should improve the abilities of the regular infantry man or operator,” Kushniarou said. “It's like a shield and spear battle from ancient times. Your attacking ability and your defense ability. Our attacking ability now was significantly improved by FPVs.”
+“But the defense of the regular soldier is on a really low level. Probably the last significant improvement was armor vests. We need something new. We need individual interceptors to remove FPVs, some anti-FPV turrets, some different types of defense on the field and so on.”
+Wider-band EW and detection systems
+Trending Now
+Callsign Archean, an electronic warfare specialist with Azov, said that EW and drone detection systems that work across broader ranges of frequencies are needed.
+“EW solutions must be universal. It must work from, 400 MHz to 8 GHz minimum, if we’re talking about jamming or spoofing options,” he said. “If we talk about detection today, we like to see solutions from 200 MHz to 15 GHz.”
+Communication protocols and modulation are also fertile ground for innovation, Archean added.
+Ukraine’s EW sector has expanded rapidly in recent years, moving from a relatively small and volatile segment to one of the key technology-driven components of the defense ecosystem. In 2025, this part of the market generated $220 million, growing 3.4 times.
+AI-enhanced analytics
+Multiple veterans said that the most useful direction of AI technologies is in analyzing data after their job is done: crunching through reconnaissance intel, assisting with logistics, enhancing jamming and electronic intelligence.
+These tools help with assimilating the terabytes of data Ukraine collects each day. They both increase the speed at which military decisions can be made and also tend to amplify the impact of any one decision, retired Lt. Col. Christopher Ghorbani of the US Army said in a previous interview.
+Other useful AI tools include converting photos and videos from drones into 3D maps for better situational awareness.
+Working with troops to identify further problems
+While feedback from the troops is important, not all brigades have an equal understanding of what their principal challenges are, according to Kushniarou.
+“We're facing a problem of creating analytical centers” at the brigade level, he said. “In famous units like Azov and Khartia, this problem is already close to being solved. But for many brigades, they simply don’t have any analytical centers.”
+Such centers are important for troops to outline their needs. This is especially critical for UGVs, to figure out what works best and what to buy. Many UGV operators are relatively inexperienced.
+“And this is also an area where you can invest,” Kushniarou said. “It's analytics. its statistics, and its communication between different UGV's."
+"It's the planning of missions, also a great problem. I know cases where operators use the same route to deliver logistics for a half a year.”
+“My advice is that investors should come directly to units and not only listen to them, but try to work with them to find out what's really happening.”
+Scalability, standardization more important than FPV #1,000
+Multiple veterans said that they don’t need yet another FPV that’s functionally the same as the majority of others on the market, while also coming with its own teething troubles that the unit must spend time fixing.
+“Everyone… is making drones which are conceptually the same thing,” Puz said. “But the problem is that none of this is standardized or scalable. Quality control is always a very big problem because you cannot rely on stable equipment to come in.”
+Most units are forced to maintain their own workshops or even R&D laboratories to modify or improve equipment that comes to them, in order to make it combat-capable. Few things are ready out of the box. This is especially an issue with UGVs, soldiers said.
+"It's a terrible zoo inside of a lot of units when you have 20, 25 different types of UGV's, none of them are working from the box,” Kushniarou said. “We have to modify everything.”
+While continued innovation and incremental improvement will remain important, the time has come to invest in standardization, industrialization, and scalability.
+Ukraine doesn't have the kind of industrial base Western countries do, with its Soviet-inherited industry eroding over the years and being pounded with Russian attacks. The scientific base has eroded from brain drain. However, foreign companies lack the awareness of what to make compared to Ukrainians.
+“The trend is that both of us are trying to industrialize through the framework of joint ventures,” Puz said. “Or Western companies opening up offices in Ukraine.”
+“There needs to be a model of cooperation. It's slowly getting there. There is a good trend that I'm observing but let's see how it goes.”
+What kinds of technologies are overhyped?
+There are a variety of products and tech that the veterans see as overhyped — from overly-expensive, over-engineered solutions, to the role of battlefield AI.
+While machine learning is helping make drones more precise at navigating or locking onto targets, full-spectrum autonomy is a long way off, they said.
+“Total BS: replacing the human factor in UAV operations. Even until now we cannot hand over the control to the AI,” Yatsyniak said. “We have manual real people, operators who make final decisions. So any advertisement by manufacturers that their drones are flying fully autonomously is a lie.”
+Puz said that drone swarms are a way off as well, not just technologically, but in their purpose and application as well. “I still have yet to see any proper concept of operation for those.”
+While drone swarms would be useful for a paramilitary group conducting terrorist attacks against civilian infrastructure, they are less useful for an organized military fighting another military force, he believes.
+“We don't have this kind of problem to solve,” he told Euromaidan Press. “But I would love to be wrong about that.”
 
 ====================================================================================================
 
-Strait of Hormuz tensions rise, Finance Minister Smotrich makes explosive comments
-Unknown
+Mina Kimes takes over as Scripps National Spelling Bee host as part of reimagined broadcast
+United Kingdom
 Unknown Publisher
 2026-05-05
-11:05:45 UTC
-20:05:45 KST
+14:02:17 BST
+22:02:17 KST
 
-New episodes every Sunday-Thursday.
-Listen and subscribe wherever you get your podcasts.
-For more news, analysis, and the latest updates, head to jpost.com.
-Headlines edited by Corinne Baum and Lara Sukster Mosheyof.
-Hosted and produced by Shifra Jacobs.
-
-====================================================================================================
-
-Iran feeling confident in attacking after month of shaky ceasefire - analysis
-Unknown
-Unknown Publisher
-2026-05-05
-11:05:21 UTC
-20:05:21 KST
-
-A month of a shaky ceasefire has provided Tehran the opportunity to husband its resources and begin to think of new tactics and strategy. Iran is now testing the ceasefire to see how far it can push. It has already done this on other fronts in limited ways, for instance, by attacking Kurdish opposition groups in the Kurdistan Region of northern Iraq. Now, Iran’s recent attacks on the UAE and threats on shipping show that it feels increasing confidence as time goes by.
-The UAE intercepted numerous missiles and drones on Monday, and a key oil port in the UAE was attacked. CNN reported that the UAE used an Israeli air defense system in this recent round of attacks.
-Meanwhile, Pakistan’s Prime Minister Shehbaz Sharif, who has been a key mediator between the US and Iran, said that Islamabad "strongly condemns the missile and drone attacks on civilian infrastructure in the United Arab Emirates last night.” This means Iran could be ruffling feathers in a friendly country.
-Sharif also said, "It is absolutely essential that the ceasefire be upheld and respected, to allow necessary diplomatic space for dialogue leading to enduring peace and stability in the region."
-Iran is likely to portray the attacks as being the fault of the IRGC, as Iran continues to make it seem its internal politics are in chaos.
-Maersk, a large shipping company, was able to get one of its vessels through the Strait of Hormuz, BBC reported. Tim Wilkins, managing director at Intertanko, a trade body representing independent tanker owners and operators, told BBC Radio 4’s Today program it was "one vessel that was closely escorted under certain very tight circumstances." This is not going to change much, as other ships are not transiting the straits, for the most part.
-In the UAE’s Fujairah, meanwhile, there is concern after the recent Iranian attack. The port is on the Gulf of Oman, and therefore, ships can enter it without going through the Strait of Hormuz. Clearly, the Iranian attack is a message to the UAE about using this port and the oil industry zone at Fujairah. BBC noted that Hossam Zaki, assistant secretary general of the League of Arab States, who has also served multiple postings in the Egyptian foreign ministry, said that “a reported Iranian attack on an oil port in the UAE is a ‘really unfortunate development."
-In Iran, the parliament speaker, who has been closely involved in talks with the US, has condemned the US for the shaky ceasefire. Mohammad Ghalibaf appeared to refer to the new US initiative, Project Freedom, which is intended to enable ships to enter and exit the Strait.
-UAE hopes for support from Gulf allies
-The UAE hopes that its friends in the Gulf will stand by it in the event of further attacks. Saudi Arabia’s Crown Prince Mohammed bin Salman condemned Iran’s Monday attacks. He reaffirmed Riyadh’s support for the UAE. “The call came after the UAE’s Ministry of Defense intercepted 12 ballistic missiles, three cruise missiles, and four drones launched from Iran on Monday, resulting in three minor injuries,” Arab News in Riyadh reported.
-The big question is now whether Iran will continue its provocations and attacks, as it has done before. Back in 2019, it attacked the Saudi port of Abqaiq with missiles. It also attacked ships in Fujairah, the same year. Iran has thus shown in the past that it is willing to attack shipping and ports. This was long before the US strikes and the ceasefire. Iran has often tried to show it can close the Strait of Hormuz and do whatever it wants. As such, the recent attacks are not necessarily a completely new strategy or tactic. but are part of a multi-decade Iranian approach going back to the 1980s.
-The question for Iran is whether it thinks this will work. The US continues to blockade Iran, and Iran continues to blockade the straits. Iran assumes Washington doesn’t want more war. It also assumes that the UAE can absorb some blows. It has focused its attacks on the UAE since the February conflict began. It does not expect the UAE or Gulf countries to respond, and assumes they have more to lose than it does. They are small and rely on tourism and expats. They can’t tolerate closed airspace. Iran is a poorer, but much larger country. It has many land borders. It can absorb attacks as well. It assumes that, in the long term, with attrition, Iran will survive, that others will suffer more, and that others have more to lose.
+Mina Kimes takes over as Scripps National Spelling Bee host as part of reimagined broadcast
+Mina Kimes is taking over as television host of the Scripps National Spelling Bee, and the ESPN NFL analyst hopes to use her outsider’s perspective to capture the excitement of the 101-year-old competition
+- Bookmark
+Mina Kimes is taking over as television host of the Scripps National Spelling Bee, and the ESPN NFL analyst hopes to use her outsider's perspective to capture the excitement of the 101-year-old competition.
+Kimes, whose hiring was announced Tuesday, becomes the first celebrity host for the bee since LeVar Burton in 2022. That was the year Scripps took over the broadcast from ESPN, its longtime TV home, and began airing it on ION and Bounce, both of which are owned by the Cincinnati-based media company.
+Scripps has also brought in a new production team for the broadcast, led by Michael Davies — currently the executive producer of “Jeopardy!” — as it seeks to reverse a decline in ratings.
+This year's bee runs from May 26-28 at a new venue, Constitution Hall in downtown Washington, with 247 spellers competing for a trophy and more than $50,000 in cash and prizes.
+“My goal in this is to give it the big-game feel,” Kimes told The Associated Press in an interview ahead of the announcement. “Any event that requires skill and knowledge and preparation can have that feel if it's presented with enough care and pride on television.”
+Davies, whose credits also include “Who Wants to Be a Millionaire,” “Reading Rainbow” and “Good Morning Football,” shares Kimes' appreciation for the bee, and he told AP his goal is to “make it bigger and make it more famous.”
+“We really need to focus the entire broadcast and everything we're doing around the stakes of the competition and the incredible winning moment, the winning word that happens at the end of the final,” he said.
+A Yale-educated journalist, the 40-year-old Kimes is known for using extensive research and study of game video to explain the strengths and weaknesses of NFL players and coaches. She said her preparation for the bee has been similar.
+“It honestly does feel a little bit like watching game tape because I really think these kids are elite competitors, not just in terms of being the best of the best, but you can see all of the work that they so clearly put in,” Kimes said. “The way they get to the right answer is fascinating to me and the more you watch, the more you see the way their brains work. I see a lot of similarities to what I do with football, and I'm so pumped to be a part of this.”
+Although she never competed on the national stage, Kimes has a history in spelling, winning bees at the school level in the second, third and fifth grades.
+Spellers qualify for the National Spelling Bee by winning regional bees around the country and are eligible to compete through the eighth grade. Even the most gifted kids, many of whom study and train year-round under the tutelage of paid coaches, often get only one or two chances to win the most prestigious spelling competition in the English language before they age out.
+Over the last few years, Scripps has relied mostly on former spellers as on-air hosts and commentators. Longtime analyst Paul Loeffler, a sports broadcaster, former speller and the brother of bee executive director Corrie Loeffler, will return in that role.
+While Scripps touted bigger potential audiences from its move to ION, which is available in more households than ESPN, ratings have been stagnant and dipped slightly over the past two years, according to Nielsen data. The combined audience for the primetime finals on ION and Bounce was 609,000 in 2022, 641,000 in 2023, 461,000 in 2024 and 488,000 last year.
+The bee drew over 1 million viewers on ESPN in 2012. The finals of the last three pre-pandemic bees on ESPN had viewership of 606,000 (2017), 550,000 (2018) and 559,000 (2019).
+___
+Ben Nuckols has covered the Scripps National Spelling Bee since 2012. Follow him at https://x.com/APBenNuckols
 
 ====================================================================================================
 
