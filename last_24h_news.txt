@@ -1,107 +1,92 @@
-Ukrainian troops lay out what defense companies get wrong and right
-Unknown
-Unknown Publisher
-2026-05-05
-13:02:55 UTC
-22:02:55 KST
-
-Russia’s invasion has created a defense tech revolution that’s going global as Ukraine-style warfare proliferates. Some defense companies will succeed. Many others will fail.
-The difference between them is their willingness to learn from what Ukrainian forces need on the battlefield, warfighters said at the Kyiv Defense Tech Week, which took place between 27 April and 3 May.
-Ukraine’s defense industry more than doubled in 2025, according to the Kyiv School of Economics. Foreign firms are coming in greater numbers to test their products in live-fire conditions or offer them to the men and women standing between Russia and the rest of Europe.
-But Ukrainian combat veterans said that for every brilliant answer to a real battlefield challenge, there is an overengineered solution in search of a problem, or a copy of something that already exists.
-They then named what’s missing: mesh communications systems, better batteries, scalable UGVs, smarter electronic warfare, systems for infantry protection, among other technologies. Scalability and standardization are critical factors, too, as brigades try to move from a chaotic “zoo” of systems towards reliable supply chains that require minimal field tinkering.
-Ukrainian and foreign firms looking to get into the Ukrainian market—or draw lessons from it to succeed in modern conflicts elsewhere—and those who would invest in these companies would do well to keep the following lessons in mind.
-What convinces you that a company is worth it?
-“It's their openness to hearing the feedback, good or bad,” Mykyta Puz, a technology liaison with the Azov Corps, told Euromaidan Press in an interview. “And their ability to quickly adapt to the feedback that they're hearing if we're talking about startups.”
-Very often, companies, especially startups, tend to build something they think is valid based on cursory research, he said.
-“For example I had guys pitching me a three-meter wingspan multi-use interceptor drone with a jet engine and I was like conceptually yeah this sounds cool but… based on the size of your equipment is going to be have a huge radar cross-section, and we have a sky saturated with Shaheds, it will just be shot down.”
-In another example, manufacturers pitched a product whose selling point is radio stealth. Puz said this misunderstands the battlefield, which is “so oversaturated with thousands of signals that it's not a concern anymore. And you spent like half a year several million investments in order to make you ‘radio silent.’ Why would you do that?"
-Puz said Azov and Ukrainian forces more broadly are looking for companies that see a clear problem and set out to find a solution for it. The problem has to be deeper than "we need to shoot down aerial targets." Context matters.
-“When I ask the guys, like, what is your concept of operation? And they say, ‘you tell us.’ I'm like, no guys, you got to start from the concept of operation from a scenario and then you build the technology on it. I don't need ultra super quantum high tech, you know.”
-Captain Markiian Yatsyniak of the 413th Unmanned Systems Regiment RAID, said something similar.
-“Only specific kinds of manufacturers who are still in close, efficient communication with end-users like us… may have a chance to be successful in expanding and exporting Ukrainian experience all over the globe.”
-Puz and Yatsyniak said that with the current pace of innovation on the battlefield, companies have three or four months between tackling an idea and showing that it works on the battlefield, occasionally given a bit of grace time for manufacturing.
-“If we're interested in a certain solution for a particular thing, we give them at least four-five months to show efficiency,” Yatsyniak said. “If not, we just sweep the page.”
-What specific problems need to be solved right now?
-Radio communication and mesh networks
-“There are two areas where I think innovation needs to happen,” Puz said. The first is “communication systems… data links, command and control systems. Mesh systems are becoming a buzzword. Like really scalable, robust mesh systems designed for battlefield use.”
-In other words, a system that can cover 100 square kilometers with a network of mesh nodes that can provide stable data connection for equipment to fly or drive through, with redundancy. “This is what I haven’t seen at all, yet.”
-Yatsyniak added that the Ukrainian military just needs radios in general, as units are forced to wait months to get their hands on some. “The shelves of Ukrainian UAV manufacturers are full of drones, but empty of radios.”
-Better batteries
-Another need is high-capacity batteries, Puz said. “Something above 400 watt-hours per kilogram. I think this is where there is a huge amount of opportunity for great companies, but it requires advanced chemistry knowledge.”
-Pawell Power is one success story in this space: through careful iteration, they figured out how to double battery efficiency last year. But there is plenty of room for additional innovation from other companies.
-More simple, scalable Unmanned Ground Vehicles
-Andrei Kushniarou, Commander of the 108 Battalion “Da Vinci Wolves” and UGV expert, said that cheap, simple UGVs are in demand, as his unit’s goal is to equip every small team of soldiers with a UGV that can go in front to demine, carry equipment, or draw FPV fire.
-According to KSE, the UGV market is still very young and has yet to reach its full potential, worth just $252 million in 2025. Still, this market is “highly diversified” by manufacturer, with room for producers to enter if they have good products.
-Better Unmanned Ground Vehicles for casevac
-Kushniarou added that in spite of glowing news reports on UGVs evacuating wounded troops, really good casevac machines are not available on the market—casualty evacuation is being done by machines specced for logistics tasks and aren’t great at handling the wounded.
-“Right now on the market, there are zero UGVs for medical evacuation,” he said. “Medical evacuation is a priority for many units… for that, we simply don't have any specialized solutions right now.”
-Even as logistics UGVs proliferate, casevac remains extremely challenging, with several soldiers telling Euromaidan Press that it can often take days and multiple steps to pull wounded people out of their positions to a safe area.
-More protection for infantry
-“We should improve the abilities of the regular infantry man or operator,” Kushniarou said. “It's like a shield and spear battle from ancient times. Your attacking ability and your defense ability. Our attacking ability now was significantly improved by FPVs.”
-“But the defense of the regular soldier is on a really low level. Probably the last significant improvement was armor vests. We need something new. We need individual interceptors to remove FPVs, some anti-FPV turrets, some different types of defense on the field and so on.”
-Wider-band EW and detection systems
-Trending Now
-Callsign Archean, an electronic warfare specialist with Azov, said that EW and drone detection systems that work across broader ranges of frequencies are needed.
-“EW solutions must be universal. It must work from, 400 MHz to 8 GHz minimum, if we’re talking about jamming or spoofing options,” he said. “If we talk about detection today, we like to see solutions from 200 MHz to 15 GHz.”
-Communication protocols and modulation are also fertile ground for innovation, Archean added.
-Ukraine’s EW sector has expanded rapidly in recent years, moving from a relatively small and volatile segment to one of the key technology-driven components of the defense ecosystem. In 2025, this part of the market generated $220 million, growing 3.4 times.
-AI-enhanced analytics
-Multiple veterans said that the most useful direction of AI technologies is in analyzing data after their job is done: crunching through reconnaissance intel, assisting with logistics, enhancing jamming and electronic intelligence.
-These tools help with assimilating the terabytes of data Ukraine collects each day. They both increase the speed at which military decisions can be made and also tend to amplify the impact of any one decision, retired Lt. Col. Christopher Ghorbani of the US Army said in a previous interview.
-Other useful AI tools include converting photos and videos from drones into 3D maps for better situational awareness.
-Working with troops to identify further problems
-While feedback from the troops is important, not all brigades have an equal understanding of what their principal challenges are, according to Kushniarou.
-“We're facing a problem of creating analytical centers” at the brigade level, he said. “In famous units like Azov and Khartia, this problem is already close to being solved. But for many brigades, they simply don’t have any analytical centers.”
-Such centers are important for troops to outline their needs. This is especially critical for UGVs, to figure out what works best and what to buy. Many UGV operators are relatively inexperienced.
-“And this is also an area where you can invest,” Kushniarou said. “It's analytics. its statistics, and its communication between different UGV's."
-"It's the planning of missions, also a great problem. I know cases where operators use the same route to deliver logistics for a half a year.”
-“My advice is that investors should come directly to units and not only listen to them, but try to work with them to find out what's really happening.”
-Scalability, standardization more important than FPV #1,000
-Multiple veterans said that they don’t need yet another FPV that’s functionally the same as the majority of others on the market, while also coming with its own teething troubles that the unit must spend time fixing.
-“Everyone… is making drones which are conceptually the same thing,” Puz said. “But the problem is that none of this is standardized or scalable. Quality control is always a very big problem because you cannot rely on stable equipment to come in.”
-Most units are forced to maintain their own workshops or even R&D laboratories to modify or improve equipment that comes to them, in order to make it combat-capable. Few things are ready out of the box. This is especially an issue with UGVs, soldiers said.
-"It's a terrible zoo inside of a lot of units when you have 20, 25 different types of UGV's, none of them are working from the box,” Kushniarou said. “We have to modify everything.”
-While continued innovation and incremental improvement will remain important, the time has come to invest in standardization, industrialization, and scalability.
-Ukraine doesn't have the kind of industrial base Western countries do, with its Soviet-inherited industry eroding over the years and being pounded with Russian attacks. The scientific base has eroded from brain drain. However, foreign companies lack the awareness of what to make compared to Ukrainians.
-“The trend is that both of us are trying to industrialize through the framework of joint ventures,” Puz said. “Or Western companies opening up offices in Ukraine.”
-“There needs to be a model of cooperation. It's slowly getting there. There is a good trend that I'm observing but let's see how it goes.”
-What kinds of technologies are overhyped?
-There are a variety of products and tech that the veterans see as overhyped — from overly-expensive, over-engineered solutions, to the role of battlefield AI.
-While machine learning is helping make drones more precise at navigating or locking onto targets, full-spectrum autonomy is a long way off, they said.
-“Total BS: replacing the human factor in UAV operations. Even until now we cannot hand over the control to the AI,” Yatsyniak said. “We have manual real people, operators who make final decisions. So any advertisement by manufacturers that their drones are flying fully autonomously is a lie.”
-Puz said that drone swarms are a way off as well, not just technologically, but in their purpose and application as well. “I still have yet to see any proper concept of operation for those.”
-While drone swarms would be useful for a paramilitary group conducting terrorist attacks against civilian infrastructure, they are less useful for an organized military fighting another military force, he believes.
-“We don't have this kind of problem to solve,” he told Euromaidan Press. “But I would love to be wrong about that.”
-
-====================================================================================================
-
-Mina Kimes takes over as Scripps National Spelling Bee host as part of reimagined broadcast
+Americans have spent $24m extra on gas in two months since start of Iran war
 United Kingdom
 Unknown Publisher
 2026-05-05
-14:02:17 BST
-22:02:17 KST
+16:28:31 BST
+00:28:31 KST
 
-Mina Kimes takes over as Scripps National Spelling Bee host as part of reimagined broadcast
-Mina Kimes is taking over as television host of the Scripps National Spelling Bee, and the ESPN NFL analyst hopes to use her outsider’s perspective to capture the excitement of the 101-year-old competition
+Americans have spent $24bn extra on gas in two months since start of Iran war
+- The Iran war has led to American drivers spending an additional $23.9 billion on petrol since 1 March, according to GasBuddy analysis.
+- This increased cost translates to approximately $6,462 per second or $23.3 million every hour for consumers.
+- Oil prices surged in early March due to concerns over Iranian attacks on tankers in the Strait of Hormuz, a vital shipping route for 20 per cent of the world's oil supply.
+- Consequently, US petrol prices surpassed $4 a gallon on average in March for the first time in four years, later nearing $4.50 in early May.
+- The rising energy costs contributed to a jump in US inflation to 3.3 per cent in March, with petrol prices increasing by 21.2 per cent year-on-year.
+
+====================================================================================================
+
+End of conflict in the Middle East or recession in Europe, IMF warns
+Unknown
+Unknown Publisher
+2026-05-05
+15:27:00 UTC
+00:27:00 KST
+
+The IMF’s outlook for Europe remains closely tied to geopolitical developments. A prolonged crisis risks tipping Europe into recession.
+Europe’s economic outlook has deteriorated significantly, driven by war-related energy disruptions that are expected to force tighter financial conditions, according to the latest International Monetary Fund report.
+The IMF says the European economy remains resilient but increasingly exposed to external shocks amid an energy crisis linked to the war in Iran and the closure of the Strait of Hormuz.
+It urges swift reforms, including completing the EU single market by better linking power grids, deepening financial integration and boosting productivity.
+Oil prices have surged by around 70%, while European gas prices remain roughly 45% above pre-war levels. Although less severe than the 2022 shock, the increases are still expected to weigh heavily on growth, the IMF warns
+Europe’s long-term shift towards renewables — now accounting for over half of electricity generation — has helped soften the impact of the energy shock, but the IMF says it offers only partial protection.
+Growth forecasts have been downgraded, with the euro area now expected to expand by just over 1% in 2026, down from around 1.4% before the Iran war, according to IMF projections. Meanwhile, inflation remains high, reflecting the persistent cost pressures from energy and supply disruptions.
+Fiscal health depends on the conflict's duration
+The IMF’s outlook depends heavily on geopolitical developments, as the institution warned warning that a short Middle East conflict could limit the damage, but a prolonged crisis could tip Europe into recession.
+“Overall economic impact will depend on how the conflict in the Middle East will evolve, particularly on energy supplies and infrastructure,” Economy Commissioner Valdis Dombrovskis said at a press conference on Monday evening following a meeting of eurozone finance ministers.
+He cautioned that the bloc cannot afford to “repeat the mistakes of the past,” stressing that any support measures must be temporary, targeted and not add to aggregate demand.
+Europe was already grappling with elevated energy prices before the US-led war against Iran began disrupting global energy markets on 28 February.
+European industry was paying two to three times as much for energy as competitors in the United States and China. This persistent gap reflects a structural vulnerability rather than a temporary imbalance, the IMF warned.
+Keep the ETS, revamp the electricity grid, IMF suggests
+Against this backdrop, maintaining momentum on energy reform is crucial.
+The IMF report urges the EU to stay committed to its carbon market, the Emissions Trading System (ETS), which had been on the brink of collapse but is viewed by the IMF as supporting continued progress in the adoption of wind and solar power.
+It warns that abandoning ETS could jeopardize hard-won progress in decarbonisation.
+Beyond this, Europe must complete its internal energy market, the IMF said, with the Commission's grids package proposed last December being an “important step”.
+Having a revamped electricity grid and storage are crucial for the EU to succeed in its energy transition and will dominate the bloc’s policymaking — and probably political feuds — over the next months, as Commission President Ursula von der Leyen asked the Parliament and the Council, the EU co-legislators, to have a political agreement on the grids’ proposal by the summer.
+European preference could backfire
+The IMF report also points to the Commission’s proposed Industrial Accelerator Act (IAA) saying it contains useful measures, including efforts to diversify supply chains.
+However, it also warns that “Made in Europe” procurement rules and foreign investment conditions linked to local value creation could distort markets and weaken comparative advantage.
+Protecting strategic industries is a legitimate objective, the IMF says, but it must be guided by disciplined cost–benefit analysis.
+Policy instruments vary significantly in terms of efficiency and cost, and interventions should be limited to cases where markets alone cannot adjust effectively.
+The report also warns against common policy pitfalls, noting that loosening competition rules, pursuing uncoordinated industrial strategies, or scaling back climate commitments could ultimately weaken, rather than strengthen, Europe’s position.
+
+====================================================================================================
+
+Vance brings son to cast his vote in Ohio primaries, tries to woo Iowa GOP voters
+United Kingdom
+Unknown Publisher
+2026-05-05
+16:26:49 BST
+00:26:49 KST
+
+Vance brings son to cast his vote in Ohio primaries, tries to woo Iowa GOP voters
+Vance’s visit coincides with Iowans grappling with elevated prices for gas and fertilizer
 - Bookmark
-Mina Kimes is taking over as television host of the Scripps National Spelling Bee, and the ESPN NFL analyst hopes to use her outsider's perspective to capture the excitement of the 101-year-old competition.
-Kimes, whose hiring was announced Tuesday, becomes the first celebrity host for the bee since LeVar Burton in 2022. That was the year Scripps took over the broadcast from ESPN, its longtime TV home, and began airing it on ION and Bounce, both of which are owned by the Cincinnati-based media company.
-Scripps has also brought in a new production team for the broadcast, led by Michael Davies — currently the executive producer of “Jeopardy!” — as it seeks to reverse a decline in ratings.
-This year's bee runs from May 26-28 at a new venue, Constitution Hall in downtown Washington, with 247 spellers competing for a trophy and more than $50,000 in cash and prizes.
-“My goal in this is to give it the big-game feel,” Kimes told The Associated Press in an interview ahead of the announcement. “Any event that requires skill and knowledge and preparation can have that feel if it's presented with enough care and pride on television.”
-Davies, whose credits also include “Who Wants to Be a Millionaire,” “Reading Rainbow” and “Good Morning Football,” shares Kimes' appreciation for the bee, and he told AP his goal is to “make it bigger and make it more famous.”
-“We really need to focus the entire broadcast and everything we're doing around the stakes of the competition and the incredible winning moment, the winning word that happens at the end of the final,” he said.
-A Yale-educated journalist, the 40-year-old Kimes is known for using extensive research and study of game video to explain the strengths and weaknesses of NFL players and coaches. She said her preparation for the bee has been similar.
-“It honestly does feel a little bit like watching game tape because I really think these kids are elite competitors, not just in terms of being the best of the best, but you can see all of the work that they so clearly put in,” Kimes said. “The way they get to the right answer is fascinating to me and the more you watch, the more you see the way their brains work. I see a lot of similarities to what I do with football, and I'm so pumped to be a part of this.”
-Although she never competed on the national stage, Kimes has a history in spelling, winning bees at the school level in the second, third and fifth grades.
-Spellers qualify for the National Spelling Bee by winning regional bees around the country and are eligible to compete through the eighth grade. Even the most gifted kids, many of whom study and train year-round under the tutelage of paid coaches, often get only one or two chances to win the most prestigious spelling competition in the English language before they age out.
-Over the last few years, Scripps has relied mostly on former spellers as on-air hosts and commentators. Longtime analyst Paul Loeffler, a sports broadcaster, former speller and the brother of bee executive director Corrie Loeffler, will return in that role.
-While Scripps touted bigger potential audiences from its move to ION, which is available in more households than ESPN, ratings have been stagnant and dipped slightly over the past two years, according to Nielsen data. The combined audience for the primetime finals on ION and Bounce was 609,000 in 2022, 641,000 in 2023, 461,000 in 2024 and 488,000 last year.
-The bee drew over 1 million viewers on ESPN in 2012. The finals of the last three pre-pandemic bees on ESPN had viewership of 606,000 (2017), 550,000 (2018) and 559,000 (2019).
-___
-Ben Nuckols has covered the Scripps National Spelling Bee since 2012. Follow him at https://x.com/APBenNuckols
+- CommentsGo to comments
+Vice President JD Vance arrived in Iowa on Tuesday, marking his inaugural visit to the state since assuming office, a crucial stop for Republicans who will cast the initial votes for their party’s next presidential nominee in less than two years.
+Vance, widely considered one of the Republican Party’s most formidable potential candidates for the 2028 presidential election, is in Iowa to campaign for Republican Representative Zach Nunn. Nunn faces a highly competitive race to retain his Des Moines-area seat in the upcoming November midterm elections.
+The vice president, an Ohio senator before taking his current role, departed Washington accompanied by his son, Vivek. His itinerary included a stop in Cincinnati to cast his vote in Ohio's primary elections, followed by an appearance in Oklahoma City to host a fundraiser in his capacity as finance chair of the Republican National Committee.
+However, the Iowa visit offers Vance a significant opportunity to gauge his appeal among the state’s voters, whose leadoff caucuses grant them an outsized influence in shaping the presidential nomination process. Campaigning for a local congressman as the sitting vice president provides an early platform to make an impression on Iowa Republicans, who are seasoned evaluators of those aspiring to the nation’s highest office, long before the campaign officially begins.
+Vance’s appearance comes just days after Texas Sen. Ted Cruz, another figure speculated as a potential 2028 candidate, addressed an influential group of evangelical Christians in Iowa’s GOP landscape.
+Jimmy Centers, a Republican political consultant based in Des Moines, acknowledged that the 2028 contest is "light-years away." Nevertheless, he noted that Republicans attending Vance’s event on Tuesday would be assessing his potential suitability for a White House bid.
+"I certainly think, as of right now, Vice President Vance would probably be a straw-poll winner of Iowa Republicans for 2028. But I don’t think anyone is saying, ‘We won’t consider anybody else,’" Centers stated.
+Vance’s visit coincides with Iowans grappling with elevated prices for gas and fertilizer. The vice president, who has not publicly declared his intentions for a 2028 presidential run, is scheduled to appear with Nunn at a manufacturing facility in Des Moines. His office declined to comment on the trip's implications for his political future.
+This visit follows a trip by President Donald Trump in January, where he promoted the administration’s tax cuts. Both leaders are making a series of stops this year to discuss economic issues ahead of the midterm elections, which will determine control of Congress.
+Yet, Vance’s visit arrives at a time when his own political prospects – and the economic message he is expected to deliver – have been complicated by the ongoing conflict in Iran.
+The vice president, historically skeptical of foreign military interventions, has appeared to be a reluctant defender of the nine-week-old war, for which President Trump has struggled to find a resolution. Iowans, like many across the country, are contending with higher gas prices due to the conflict. Furthermore, the state’s farmers are feeling the strain of increased fertilizer costs stemming from the war and have been impacted by tariffs imposed by President Trump.
+While Iowa’s farmers have consistently supported President Trump, they have been seeking assurances from the White House that the current economic difficulties will be temporary.
+Vance’s trip to Iowa was initially slated for the previous week, but the timing was adjusted due to the House’s movement to pass a comprehensive farm bill, on which Nunn was scheduled to vote.
+The vice president had also been scheduled to appear last week at an Iowa State University event with Turning Point USA, but the organization reported that it was unable to reschedule the event with the university until the fall.
+Kim Schmett, a veteran Iowa GOP activist, described the presidential cycle as starting "deceptively slow."
+Republican figures exploring a presidential run often visit the Westside Conservative Club, which Schmett hosts. However, he emphasized that it remains too far from the caucuses, typically held in January of the presidential election year.
+He noted that President Trump’s Make America Great Again political movement "is very alive and going here" in Iowa, a factor that would benefit Vance, as well as Secretary of State Marco Rubio, who is also considered a potential candidate.
+"I think there’s going to be a lot of MAGA support," Schmett said. "And Vice President Vance and Marco Rubio seem to be the recipients of where that is going at the moment."
+However, Schmett cautioned, "it’s awfully, awfully early in the process."
+On the Democratic side, at least half a dozen presidential hopefuls have been visiting states with the earliest presidential primary contests, including recent trips to Iowa by former Transportation Secretary Pete Buttigieg and Michigan U.S. Senator Elissa Slotkin.
+Meanwhile, potential Republican presidential candidates "are treading very lightly," according to GOP strategist Alex Conant, who worked on Rubio’s 2016 presidential campaign.
+"I think Republicans are going to be very reluctant to get in Trump’s way until Trump gives the green light for the campaign to start," Conant said.
+This suggests that much of the groundwork – meeting with donors or activists, or recruiting political staffers – might proceed slowly and subtly for now.
+After the midterms? Conant predicted: "It’ll be irresistible."
+Join our commenting forum
+Join thought-provoking conversations, follow other Independent readers and see their replies
+Comments
 
 ====================================================================================================
 
