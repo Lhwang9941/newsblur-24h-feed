@@ -1,55 +1,51 @@
-Pentagon prepares F-35 for quantum computing threat
+ASX set to jump as oil falls and sharemarkets rally on Iran deal hopes
 Unknown
 Unknown Publisher
 2026-05-06
-17:21:57 UTC
-02:21:57 KST
+19:15:01 UTC
+04:15:01 KST
 
-- The F-35 JPO published a sole source presolicitation on May 6, 2026, to modify the F-35's In-Line File Encryption Device software with quantum-resistant algorithms.
-- Lockheed Martin Aeronautics is identified as the only qualified source, with capability statements due May 21, 2026, through Naval Air Systems Command at Patuxent River.
-The F-35 Joint Program Office is preparing to modify the fighter’s In-Line File Encryption Device software to support government-mandated quantum-resistant algorithms, according to a presolicitation notice published on May 6, 2026.
-The notice, issued through Naval Air Systems Command, signals that the F-35 program is beginning the process of hardening one of the aircraft’s core cryptographic systems against the threat posed by future quantum computers. The F-35 JPO intends to solicit, negotiate, and award a sole source contract to Lockheed Martin Aeronautics under FAR 6.103-1, the federal acquisition regulation provision covering cases where only one responsible source can satisfy agency requirements. Capability statements from other potential offerors are due by May 21, 2026.
-The In-Line File Encryption Device is the hardware and software component responsible for encrypting and protecting the signed code inside the F-35’s systems. Modifying its software to incorporate quantum-resistant algorithms means replacing or augmenting the current cryptographic foundations with mathematical approaches specifically designed to remain secure against an adversary using quantum computing to break encryption. That threat is not theoretical — the U.S. government has been working for years through the National Institute of Standards and Technology to establish quantum-resistant cryptographic standards, and the mandate to implement those standards across government systems is now reaching operational military platforms like the F-35.
-The practical challenge the contract notice identifies is as important as the cryptographic one. The vendor must verify that the software update can be applied in the field without opening the enclosure — meaning the modification has to be deployable to aircraft at operating bases around the world through normal software update procedures, without requiring the physical device to be disassembled, returned to a depot, or replaced outright. For a fighter jet deployed across more than a dozen countries and operated by Air Force, Navy, and Marine Corps units in various locations, the ability to push a cryptographic update through field-level procedures rather than requiring hardware returns is a significant logistical requirement that shapes how the contract must be written and executed.
-Lockheed Martin Aeronautics’ sole source designation rests on the same rationale that governs most F-35 software work: as the sole designer, developer, and integrator of the aircraft, LM Aero is the only entity with the experience and technical expertise needed to modify and integrate IFED software, according to the notice. That judgment isn’t merely procedural. The F-35’s software architecture is among the most complex in any operational weapon system, with millions of lines of code governing everything from flight control to sensor fusion to weapons employment. Modifying a cryptographic subsystem inside that architecture requires intimate knowledge of how it interacts with every adjacent system, what failure modes a bad update could introduce, and how the testing and verification process needs to be structured to ensure nothing breaks in the process of hardening the encryption. No other company has that knowledge base, and building it from scratch would take longer than the government’s timeline allows.
-The quantum computing threat to military cryptography has been moving from a distant concern to an active planning requirement faster than many expected. The core problem is that the encryption algorithms currently protecting most secure communications and data — including those on military platforms — were designed under the assumption that no computer could factor large numbers or solve discrete logarithm problems in any practical timeframe. Quantum computers, once sufficiently capable, can break that assumption using algorithms like Shor’s algorithm that run exponentially faster on quantum hardware than on classical machines. An adversary that acquires a capable quantum computer could retroactively decrypt previously intercepted communications and, more immediately relevant to the F-35 context, potentially compromise the cryptographic verification mechanisms that ensure software running on the aircraft is legitimate and unmodified.
-The F-35 carries a suite of classified capabilities whose protection depends on the integrity of its cryptographic architecture. The IFED specifically handles the verification of signed code, meaning it is the gatekeeper that confirms the software running on the aircraft is authorized and hasn’t been tampered with. A quantum-vulnerable IFED is a potential attack surface not just for data theft but for code integrity compromise — a much more serious concern for a platform whose software defines its combat effectiveness and mission safety. Updating that component to quantum-resistant standards is therefore not a routine security patch but a fundamental upgrade to the aircraft’s cyber resilience.
+ASX set to jump as oil falls and sharemarkets rally on Iran deal hopes
+Oil prices are sinking and stock markets are bursting higher worldwide with hopes that the United States and Iran are nearing a deal to allow ships to deliver crude from the Persian Gulf once again to their customers.
+The price for a barrel of Brent crude oil, the international standard, sank 7.6 per cent to $US101.56, down from more than $US115 early this week. It dropped as President Donald Trump said the Strait of Hormuz could be “OPEN TO ALL” if Iran accepts a reported agreement that the US president did not detail.
+The small strait has caused big trouble for the global economy because the war with Iran has blocked oil tankers from using it to exit the Persian Gulf. A reopening could allow oil to flow freely again and remove upward pressure on inflation that’s driven prices up for all kinds of products worldwide.
+On Wall Street, the S&P 500 climbed 1.2 per cent and was heading for another record. The Dow Jones Industrial Average was up 575 points, or 1.2 per cent, and the Nasdaq composite was 1.7 per cent higher. The Australian sharemarket is set to jump, with futures at 4.54am AEST pointing to a jump of 98 points, or 1.1 per cent, at the open. The ASX surged by 1.3 per cent on Wednesday. The Australian dollar jumped and is trading at US72.40¢.
+Stock markets abroad had even bigger gains, and indexes jumped 6.5 per cent in Seoul, 2.1 per cent in London and 2.9 per cent in Paris.
+Of course, hopes have risen several times already on Wall Street about a possible end to the war with Iran, only to get dashed each time. That could happen again, and oil prices pared some of their steepest losses from Wednesday morning. The price for a barrel of Brent briefly dove below $US97 before returning above $US100 after Trump threatened to start bombing “at a much higher level and intensity” if Iran does not accept the agreement.
+But Wall Street nevertheless latched onto potentially encouraging signals. Trump said Tuesday he was pausing his effort to forcefully reopen the Strait of Hormuz to commercial ships. And China’s foreign minister called for a comprehensive ceasefire following a meeting with Iran’s foreign minister. That could be influential because of how closely tied Iran is to China economically and politically.
+Plus, in the meantime, big US companies continue to turn in much stronger profits for the start of 2026 than analysts expected. That’s helping to support the stock market despite all the uncertainties about the war.
+AMD helped lead the market with a surge of 17.6 per cent after it joined the list of big-name companies topping expectations for both profit and revenue. CEO Lisa Su said the chip company benefited from continued growth from artificial-intelligence technology, which is demanding tremendous amounts of computing power from data centres.
+AMD also said its revenue growth could accelerate in the current quarter to roughly 46 per cent from a year earlier.
+Another company enmeshed in the AI industry, Super Micro Computer, rallied 18 per cent after likewise delivering stronger earnings than analysts expected. Nvidia, the chip company that became the poster child of the AI boom, rose 4.7 per cent and was the single strongest force lifting the S&P 500 because of its immense size.
+CVS Health climbed 7.1 per cent after delivering better results for the first quarter than analysts expected and raising its financial forecasts for the full year. Disney gained 7 per cent after saying its Zootopia 2 movie helped draw people to its streaming business, parks and cruise ships and delivering a better-than-expected profit. Uber Technologies drove 7.5 per cent higher after giving a bookings forecast for the spring that was higher than analysts expected.
+Outside of earnings reports, companies with big fuel bills jumped on hopes that oil prices will continue to ease. That included gains of 5.3 per cent for United Airlines, 5.9 per cent for Carnival and 7.1 per cent for Royal Caribbean.
+In the bond market, Treasury yields sank as falling oil prices took pressure off inflation. The yield on the 10-year Treasury dropped to 4.35 per cent from 4.43 per cent late on Tuesday. That’s a notable move for the bond market.
+Lower yields can bring down rates for mortgages and other kinds of loans going to US households and businesses, which in turn could give the economy a boost. Lower yields also tend to push upward on prices for stocks and other kinds of investments. The 10-year yield, though, remains well above its 3.97 per cent level from just before the war.
+In stock markets abroad, South Korea’s Kospi jumped above the 7000 level for the first time to a record thanks to big gains for AI winners, including Samsung Electronics and SK Hynix.
+AP
+The Market Recap newsletter is a wrap of the day’s trading. Get it each weekday afternoon.
 
 ====================================================================================================
 
-Turkish foreign minister meets UN chief’s special envoy
+Zelensky announces plan to establish private military companies in Ukraine
 Unknown
 Unknown Publisher
 2026-05-06
-17:13:15 UTC
-02:13:15 KST
+19:12:45 UTC
+04:12:45 KST
 
-Busranur Keskinkilic
-06 May 2026•Update: 06 May 2026
-Turkish Foreign Minister Hakan Fidan met Wednesday with Jean Arnault, the special representative of UN Secretary-General Antonio Guterres, in Türkiye.
-According to diplomatic sources, Fidan received Arnault in the Turkish capital Ankara for talks.
-
-====================================================================================================
-
-US FAA head to face questions from lawmakers after agency cited in fatal air collision
-Unknown
-Unknown Publisher
-2026-05-06
-17:10:55 UTC
-02:10:55 KST
-
-US FAA head to face questions from lawmakers after agency cited in fatal air collision
-Sign up now: Get ST's newsletters delivered to your inbox
-WASHINGTON, May 6 - The head of the Federal Aviation Administration will face questions on Capitol Hill on May 19 after a report found systemic failures by the agency led to a devastating mid-air collision that killed 67 people last year.
-The January 2025 collision between an American Airlines regional jet and an Army Black Hawk helicopter near Ronald Reagan Washington National Airport was the deadliest U.S. aviation disaster in more than two decades. FAA Administrator Bryan Bedford will appear before a Senate aviation subcommittee to answer questions about the agency's efforts to address a series of National Transportation Safety Board recommendations.
-The hearing comes as the House and Senate have passed competing bills to address air safety.
-"Our aviation system is fragile, as demonstrated by the several close calls, and we cannot afford any delays in implementation of these safety standards," said Republican Senator Jerry Moran, chair of the aviation subcommittee.
-The FAA did not immediately comment.
-The NTSB determined the accident was caused by the FAA's decision to allow helicopters to fly near the airport with no safeguards to separate them from airplanes and its failure to review data and act on recommendations to move helicopter traffic away from the airport.
-NTSB Chair Jennifer Homendy rebuked the FAA, shedding light on serious communication, culture and safety issues surrounding the 26th busiest U.S. airport, which has the single busiest U.S. runway and is regularly used by members of Congress.
-The NTSB made more than 30 recommendations to the FAA, citing a series of failures before the Washington crash.
-Since 2021, there have been 15,200 air separation incidents near Reagan airport between commercial airplanes and helicopters, including 85 close-call events.
-The NTSB found issues with how the FAA handles traffic at Reagan and that it rejected advice to add hot spots to a helicopter route chart. Homendy said the FAA also did not review the helicopter routes annually as required and had routes that were not designed to ensure proper separation. REUTERS
+President Volodymyr Zelensky said on May 6 that Ukraine is preparing legislation to legalize private military companies, as Kyiv looks to create new postwar opportunities for veterans and expand its role in the global security sector.
+In his evening address, Zelensky stated that he had instructed the Interior Ministry, intelligence agencies, government officials, and the Presidential Office to develop a legislative framework for private military companies and ensure the bill is passed this year.
+“Leading states in the world engage their citizens to work in so-called private military companies and in some other organizational forms,” Zelensky said.
+“It is important to give our state its own response to this niche, to this opportunity, to this demand in the field of security exports,” he added.
+Zelensky did not specify what exact activities such companies would be authorized to carry out or what form state oversight would take.
+Interior Minister Ihor Klymenko later said the initiative is intended to create a “transparent and controlled model” for providing specialized security and protection services that would fully comply with Ukraine’s Constitution.
+Klymenko said Ukrainian troops now have “unprecedented combat experience” recognized worldwide and argued that after the war, that experience should become a professional opportunity for veterans.
+He added that Ukraine has something to offer the global security market while safeguarding its own national interests and security.
+Klymenko also said he briefed Zelensky on separate legislative efforts to regulate civilian firearms circulation, describing the bill as a way to establish clear rules for civilian gun ownership, strengthen public safety, and protect citizens’ right to self-defense.
+The push follows earlier signals from Zelensky that Ukraine could consider legalizing private military structures, an idea he first raised publicly in June 2025 amid Russian demands for Ukraine to dissolve military formations.
+While critics warn that legalizing private military companies could create security risks if oversight remains unclear, supporters argue such legislation could create jobs for Ukraine’s growing veteran population and allow the country to export battlefield expertise abroad.
+Lawmakers suggest that private military companies in Ukraine could be regulated by established defense structures, such as the Defense Ministry, the National Police, intelligence agencies, or the Armed Forces, without conflicting with the country's law enforcement.
 
 ====================================================================================================
 
