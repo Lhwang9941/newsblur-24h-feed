@@ -1,78 +1,55 @@
-Founder of CNN, Ted Turner, dies at 87
+Pentagon prepares F-35 for quantum computing threat
 Unknown
 Unknown Publisher
 2026-05-06
-15:22:34 UTC
-00:22:34 KST
+17:21:57 UTC
+02:21:57 KST
 
-Ted Turner, founder of CNN and creator of the 24-hour news cycle, has died at the age of 87 at his home near Tallahassee, Florida.
-A spokesman for the Turner family, Phillip Evans, confirmed his death.
-Turner announced in 2018 that he was suffering from Lewy body dementia, a degenerative brain disorder.
-His business ventures, which involved professional sports, environmentalism, and philanthropy, had a considerable impact on American culture. However, his arguably most important contribution was the creation of the 24-hour news cycle through CNN.
-CNN CEO: Turner will always be CNN's 'presiding spirit'
-“Ted was an intensely involved and committed leader, intrepid, fearless and always willing to back a hunch and trust his own judgment,” Mark Thompson, Chairman and CEO of CNN Worldwide, said in a statement. “He was and always will be the presiding spirit of CNN. Ted is the giant on whose shoulders we stand, and we will all take a moment today to recognize him and his impact on our lives and the world.”
-Turner is survived by his five children, 14 grandchildren, and two great-grandchildren.
+- The F-35 JPO published a sole source presolicitation on May 6, 2026, to modify the F-35's In-Line File Encryption Device software with quantum-resistant algorithms.
+- Lockheed Martin Aeronautics is identified as the only qualified source, with capability statements due May 21, 2026, through Naval Air Systems Command at Patuxent River.
+The F-35 Joint Program Office is preparing to modify the fighter’s In-Line File Encryption Device software to support government-mandated quantum-resistant algorithms, according to a presolicitation notice published on May 6, 2026.
+The notice, issued through Naval Air Systems Command, signals that the F-35 program is beginning the process of hardening one of the aircraft’s core cryptographic systems against the threat posed by future quantum computers. The F-35 JPO intends to solicit, negotiate, and award a sole source contract to Lockheed Martin Aeronautics under FAR 6.103-1, the federal acquisition regulation provision covering cases where only one responsible source can satisfy agency requirements. Capability statements from other potential offerors are due by May 21, 2026.
+The In-Line File Encryption Device is the hardware and software component responsible for encrypting and protecting the signed code inside the F-35’s systems. Modifying its software to incorporate quantum-resistant algorithms means replacing or augmenting the current cryptographic foundations with mathematical approaches specifically designed to remain secure against an adversary using quantum computing to break encryption. That threat is not theoretical — the U.S. government has been working for years through the National Institute of Standards and Technology to establish quantum-resistant cryptographic standards, and the mandate to implement those standards across government systems is now reaching operational military platforms like the F-35.
+The practical challenge the contract notice identifies is as important as the cryptographic one. The vendor must verify that the software update can be applied in the field without opening the enclosure — meaning the modification has to be deployable to aircraft at operating bases around the world through normal software update procedures, without requiring the physical device to be disassembled, returned to a depot, or replaced outright. For a fighter jet deployed across more than a dozen countries and operated by Air Force, Navy, and Marine Corps units in various locations, the ability to push a cryptographic update through field-level procedures rather than requiring hardware returns is a significant logistical requirement that shapes how the contract must be written and executed.
+Lockheed Martin Aeronautics’ sole source designation rests on the same rationale that governs most F-35 software work: as the sole designer, developer, and integrator of the aircraft, LM Aero is the only entity with the experience and technical expertise needed to modify and integrate IFED software, according to the notice. That judgment isn’t merely procedural. The F-35’s software architecture is among the most complex in any operational weapon system, with millions of lines of code governing everything from flight control to sensor fusion to weapons employment. Modifying a cryptographic subsystem inside that architecture requires intimate knowledge of how it interacts with every adjacent system, what failure modes a bad update could introduce, and how the testing and verification process needs to be structured to ensure nothing breaks in the process of hardening the encryption. No other company has that knowledge base, and building it from scratch would take longer than the government’s timeline allows.
+The quantum computing threat to military cryptography has been moving from a distant concern to an active planning requirement faster than many expected. The core problem is that the encryption algorithms currently protecting most secure communications and data — including those on military platforms — were designed under the assumption that no computer could factor large numbers or solve discrete logarithm problems in any practical timeframe. Quantum computers, once sufficiently capable, can break that assumption using algorithms like Shor’s algorithm that run exponentially faster on quantum hardware than on classical machines. An adversary that acquires a capable quantum computer could retroactively decrypt previously intercepted communications and, more immediately relevant to the F-35 context, potentially compromise the cryptographic verification mechanisms that ensure software running on the aircraft is legitimate and unmodified.
+The F-35 carries a suite of classified capabilities whose protection depends on the integrity of its cryptographic architecture. The IFED specifically handles the verification of signed code, meaning it is the gatekeeper that confirms the software running on the aircraft is authorized and hasn’t been tampered with. A quantum-vulnerable IFED is a potential attack surface not just for data theft but for code integrity compromise — a much more serious concern for a platform whose software defines its combat effectiveness and mission safety. Updating that component to quantum-resistant standards is therefore not a routine security patch but a fundamental upgrade to the aircraft’s cyber resilience.
 
 ====================================================================================================
 
-Closing the autism diagnosis gap in Israel’s ultra-Orthodox, Arab communities - opinion
+Turkish foreign minister meets UN chief’s special envoy
 Unknown
 Unknown Publisher
 2026-05-06
-15:21:48 UTC
-00:21:48 KST
+17:13:15 UTC
+02:13:15 KST
 
-Every child deserves an equal start in life. Yet a recent article in The Jerusalem Post and a new report by the Taub Center highlight a troubling trend: children in Israel’s ultra-Orthodox and Arab communities are often diagnosed with autism later than the national average.
-This is not merely a statistic about diagnosis; it represents the loss of precious years when early intervention can impact a child’s future.
-Sawsan’s story illustrates both the challenges and the hope that early intervention can bring. An Arab mother from Sakhnin, Sawsan, sought help from a speech therapist because of a language delay she noticed in her now two-and-a-half-year-old daughter.
-The therapist recommended an evaluation by a developmental pediatrician, but the appointment was scheduled months later. Rather than wait passively, Sawsan continued speech therapy while preparing herself emotionally and learning about autism.
-When the diagnosis finally came, she focused on finding the right program for her daughter, in this case, Israel Elwyn’s early intervention center in Karmiel, despite concerns and opinions from people around her.
-“I decided not to think about what others might say,” she explained. “My priority was to find the best place for my daughter.”
-Early diagnosis is widely recognized as one of the most important factors in helping children with autism develop crucial skills. When diagnosis is delayed, access to early intervention services is delayed as well, and developmental gaps may widen over time.
-Importance of early intervention
-From our experience at Israel Elwyn – a non-profit organization serving more than 5,600 children and adults with disabilities across Israel – early intervention can change the course of a child’s life.
-When children receive the right support during their earliest years, they develop communication, learning, and functional skills that significantly increase their chances of entering the workforce and living more independently within their communities.
-Today, Sawsan says the change has been remarkable. Her daughter now receives therapy within one integrated setting and follows a structured daily routine.
-The crying that once stemmed from frustration has significantly decreased, as she has learned new ways to communicate even without spoken language. She began playing with toys in new ways, improved her eating habits, and started interacting more with the people around her.
-Just as importantly, the family itself feels stronger. Seeing their daughter’s progress has given them renewed optimism for her future.
-Sawsan’s story reflects a broader reality. Delayed diagnosis does not stem from a lack of willingness among families to seek help. On the contrary, parents from all communities want the best for their children and are eager to access professional support. The challenges often lie elsewhere: in awareness, accessibility of services, and the diagnostic process itself.
-One major barrier is the long waiting period for evaluations at child development clinics. For many families, especially those who cannot afford private assessments costing thousands of shekels, waiting months for an appointment delays the beginning of essential treatment.
-Regional gaps in the availability and accessibility of developmental services can also contribute to diagnostic disparities.
-Geographic accessibility plays a role as well. In Jerusalem, a city of nearly one million residents, child development centers are not always located near the communities that need them most.
-In some neighborhoods, particularly in East Jerusalem, limited public transportation makes it difficult for parents to reach specialized services.
-At the same time, family structures are changing. Studies show that young families in both the ultra-Orthodox and Arab communities increasingly live independently, sometimes far from their immediate families.
-Grandparents or relatives often play an important role in identifying developmental concerns and encouraging parents to seek professional advice. As this intergenerational support becomes less accessible, many parents are left navigating uncertainty on their own.
-Early identification usually begins within the community, at child health clinics (Tipat Halav), pediatricians’ offices, and child development centers. Research shows that early signs of autism can often be identified during a child’s first year of life.
-Increasing awareness and improving screening tools among community professionals could significantly shorten the path to diagnosis and intervention.
-Encouragingly, experience on the ground shows that when services are accessible and culturally sensitive, families are responsive. Programs that incorporate professionals from within the community, or experts who speak the community’s language and understand its cultural context, often build stronger trust and result in greater engagement.
-Investing in early childhood services is not only socially responsible; it is also economically sound.
-Early intervention can reduce the need for more intensive and costly services later in life while enabling more individuals with autism to participate meaningfully in education, employment, and community life.
-At Israel Elwyn, we see this principle reflected in our daily work with people with disabilities from across Israeli society. Our services span the life cycle: from early intervention centers for toddlers to transitional programs for youth and young adults, supported employment, and services for seniors.
-Closing the diagnostic gap requires a multi-layered approach: strengthening early identification within community health services, improving access to diagnostic and therapeutic services, and expanding culturally adapted programs and outreach.
-Ultimately, early diagnosis is not only about identifying autism sooner. It is about ensuring that every child, in every community in Israel, has an equal start and the opportunity to grow, learn, work, and participate fully in the life of their community.
-The writer is assistant CEO for international relations at Israel Elwyn, an organization providing services for people with disabilities across all communities in Israel.
+Busranur Keskinkilic
+06 May 2026•Update: 06 May 2026
+Turkish Foreign Minister Hakan Fidan met Wednesday with Jean Arnault, the special representative of UN Secretary-General Antonio Guterres, in Türkiye.
+According to diplomatic sources, Fidan received Arnault in the Turkish capital Ankara for talks.
 
 ====================================================================================================
 
-Shooting suspect made vulgar remark about White House after firing at officers, prosecutor says
-United Kingdom
+US FAA head to face questions from lawmakers after agency cited in fatal air collision
+Unknown
 Unknown Publisher
 2026-05-06
-16:11:33 BST
-00:11:33 KST
+17:10:55 UTC
+02:10:55 KST
 
-Shooting suspect made vulgar remark about White House after firing at officers, prosecutor says
-A federal prosecutor says a man accused of firing a gun at law-enforcement officers near the Washington Monument made a vulgar remark about the White House after the confrontation
-- Bookmark
-A man accused of firing a gun at law enforcement officers near the Washington Monument this week made a vulgar remark about the White House after the confrontation, according the top federal prosecutor for the nation's capital.
-The man will be charged with assaulting a federal officer and discharging a firearm during a violent crime, U.S. Attorney Jeanine Pirro told ABC News in an interview that aired Tuesday night.
-The suspect was shot multiple times during Monday's confrontation and was being taken to a hospital when he said, "'F the White House,’ and ‘Kill me, kill me, kill me’ -- three times,” Pirro said.
-A teenage bystander who was shot but not seriously injured has been released from a hospital, ABC reported. Authorities did not immediately specify whether they believe the suspect had a particular target.
-During a news conference Monday, Secret Service Deputy Director Matt Quinn said plainclothes agents spotted the man near the White House complex and saw the imprint of a weapon on him. The agents followed him briefly and contacted uniformed officers.
-The suspect tried to flee when Secret Service officers approached him, Quinn said. He said the man fired at the officers before they returned fire.
-Around the time of the shooting, President Donald Trump was holding a small business event at the White House, which was briefly locked down as authorities investigated.
-Quinn told reporters he did not know whether the incident was directed at Trump “but we will find out.”
-It came just over a week after a California man tried to storm the White House Correspondents’ Association dinner while armed with guns and knives. Cole Tomas Allen has been charged in that incident with attempting to assassinate the president and firing a gun at a Secret Service officer.
+US FAA head to face questions from lawmakers after agency cited in fatal air collision
+Sign up now: Get ST's newsletters delivered to your inbox
+WASHINGTON, May 6 - The head of the Federal Aviation Administration will face questions on Capitol Hill on May 19 after a report found systemic failures by the agency led to a devastating mid-air collision that killed 67 people last year.
+The January 2025 collision between an American Airlines regional jet and an Army Black Hawk helicopter near Ronald Reagan Washington National Airport was the deadliest U.S. aviation disaster in more than two decades. FAA Administrator Bryan Bedford will appear before a Senate aviation subcommittee to answer questions about the agency's efforts to address a series of National Transportation Safety Board recommendations.
+The hearing comes as the House and Senate have passed competing bills to address air safety.
+"Our aviation system is fragile, as demonstrated by the several close calls, and we cannot afford any delays in implementation of these safety standards," said Republican Senator Jerry Moran, chair of the aviation subcommittee.
+The FAA did not immediately comment.
+The NTSB determined the accident was caused by the FAA's decision to allow helicopters to fly near the airport with no safeguards to separate them from airplanes and its failure to review data and act on recommendations to move helicopter traffic away from the airport.
+NTSB Chair Jennifer Homendy rebuked the FAA, shedding light on serious communication, culture and safety issues surrounding the 26th busiest U.S. airport, which has the single busiest U.S. runway and is regularly used by members of Congress.
+The NTSB made more than 30 recommendations to the FAA, citing a series of failures before the Washington crash.
+Since 2021, there have been 15,200 air separation incidents near Reagan airport between commercial airplanes and helicopters, including 85 close-call events.
+The NTSB found issues with how the FAA handles traffic at Reagan and that it rejected advice to add hot spots to a helicopter route chart. Homendy said the FAA also did not review the helicopter routes annually as required and had routes that were not designed to ensure proper separation. REUTERS
 
 ====================================================================================================
 
