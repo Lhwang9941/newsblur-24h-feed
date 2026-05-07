@@ -1,56 +1,96 @@
-Putin’s Strongman Image Is Fading as Ukraine Brings War Home to Russia
+BJP aide shot dead in India’s West Bengal days after historic election win
 Unknown
 Unknown Publisher
 2026-05-07
-02:00:00 UTC
-11:00:00 KST
+05:47:06 UTC
+14:47:06 KST
 
-Putin’s Strongman Image Is Fading as Ukraine Brings War Home to Russia
+Advertisement
+BJP aide shot dead in India’s West Bengal days after historic election win
+Chandranath Rath was a close aide to Suvendu Adhikari, the West Bengal BJP chief tipped to become the next state chief minister
+2-MIN READ2-MIN
+Listen
+Gunmen on motorbikes in India’s West Bengal ambushed and killed a political aide from the ruling Hindu-nationalist party days after it swept state elections, police said on Thursday.
+Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP) won a resounding victory on Monday in the eastern state of more than 100 million people, taking 207 of the 294 assembly seats, for its first-ever state victory in West Bengal.
+Chandranath Rath, 41, a close aide of West Bengal’s BJP chief Suvendu Adhikari, was shot dead late on Wednesday near his home in Kolkata.
+Advertisement
+Adhikari, the leader of the opposition in the state assembly, now tipped to become the state chief minister, called it “cold-blooded murder”.
+Motorbikes blocked Rath’s vehicle, before the attackers opened fire in a barrage of around a dozen shots, hitting him multiple times in the heart.
+Advertisement
+Advertisement
+Select Voice
+Select Speed
+1.00x
 
 ====================================================================================================
 
-New Zealand eyes Japanese Mogami-class warships as possible replacements for ageing fleet
+DMA: How the EU’s big tech law changed citizens’ lives
 Unknown
 Unknown Publisher
 2026-05-07
-01:55:44 UTC
-10:55:44 KST
+05:45:14 UTC
+14:45:14 KST
 
-New Zealand eyes Japanese Mogami-class warships as possible replacements for ageing fleet
-Wellington plans to increase defence spending to about 2 per cent of gross domestic product, citing rising geopolitical tensions
-Discussions are under way with the Royal Australian Navy and the UK’s Royal Navy about the frigate replacement and ongoing service arrangements, Defence Minister Chris Penk said in Wellington on Thursday.
-New Zealand’s two current frigates, the HMNZS Te Kaha and HMNZS Te Mana, were commissioned in 1997 and 1999 respectively.
-“As a remote island nation, maritime security underpins New Zealand’s economic prosperity,” Penk said in a statement. “Yet most ships in the current fleet are expected to reach the end of their design life by the mid-2030s, including the Anzac-class frigates. Without replacement, this would have a significant impact on New Zealand’s ability to protect its maritime interests in the Pacific and beyond.”
+Under the DMA, Europeans can choose their default browser, pay with rival apps, and message across platforms. Enforcement remains a work in progress, and many citizens do not know the law exists.
+The DMA took effect in May 2023 and targets gatekeepers, a handful of technology giants whose platforms have become essential infrastructure for modern life.
+Under the law, companies like Apple, Google, Meta, Amazon, and ByteDance must open their ecosystems to rivals, give users more control over their data, and stop prioritising their own services over competitors'.
+The European Commission designated seven gatekeepers in total, and the first formal review of the regulation, published in April 2026, declared it still "fit for purpose".
+More choice, more clicks
+The most visible impacts are new choice screens and expanded default options. EU iPhone users can set rival browsers or payment apps as defaults, install outside apps, and use third-party payment solutions. For example, users in Germany pay via PayPal, while in Scandinavia, local payment apps are available on Apple devices.
+Cross-platform messaging, a dream for digital rights advocates, has begun to materialise. A user of BirdChat, a Latvian start-up, can now send messages to someone on WhatsApp, which was technically and legally impossible before the DMA. Agustín Reina, Director General of BEUC, the European Consumer Organisation, points to this as early proof that the law is working.
+"Today, consumers are able to choose their preferred browser on iOS through what we call a choice screen. We also started to see that consumers are able to exchange messages from BirdChat with someone who is on WhatsApp,” he told Euronews.
+Research shows that choice screens are effective. Data from six companies tracked by Reuters indicates EU users are moving away from default browsers like Chrome and Safari in favour of privacy-focused alternatives. Mozilla, maker of Firefox, reports strong user retention among users who select its browser via DMA-mandated screens, and credits EU growth to the law.
+The friction problem
+Not every citizen has experienced the DMA as liberating. Consumer surveys show simple digital tasks now require more steps for many, with up to 66 per cent of frequent users noting longer searches and some reporting less relevant results.
+Critics argue this friction is not accidental. They claim the DMA wrongly defines digital competition by prioritising rival access to established platforms rather than encouraging new competitors. Some warn that enforcing new rules before proven harm discourages investment and delays product launches. The increased steps and complexity, they say, come directly from compliance requirements and companies’ responses.
+Apple said DMA compliance has affected how it rolls out features in the EU. The company delayed the launch of iPhone Mirroring for European users, citing regulatory changes required. For Reina, the real problem is not the law but how companies respond to it. "The question is not whether the DMA makes things more difficult for consumers. It is why the implementation of the DMA by these companies is making the exercise of DMA rights more difficult for consumers," he told Euronews.
+A game of ping-pong
+In Brussels, where digital regulation is enforced, officials and consumer groups describe a slow, iterative battle with the world's largest technology companies. Gatekeepers submit changes, the Commission reviews them, finds them insufficient, and the cycle repeats.
+"There is a ping-pong between the Commission and the gatekeepers. Many of these companies are making small changes and then going back to the Commission to say, 'Do you like this?' And the Commission will tell them, 'No, this is not enough.' This is simply delaying much-needed changes,” describes Reina.
+The Commission has demonstrated its willingness to impose financial penalties. In April 2025, Apple was fined €500 million for violating anti-steering rules that prevented App Store developers from telling users about cheaper offers elsewhere. Meta received a €200 million fine for its "consent-or-pay" advertising model, which the Commission ruled did not provide users with a genuine alternative. Both companies have appealed.
+No fines have been issued specifically for default-choice violations, though the Commission closed a probe into Apple's browser choice screen after the company agreed to improve usability.
+AI and the next frontier
+Consumer groups are considering issues beyond the DMA's current scope. The rapid integration of artificial intelligence into digital platforms raises questions about whether the law can keep up with technological advancements.
+The Commission has opened an investigation into Meta's decision to integrate AI into WhatsApp without offering users the option to opt out or choose an alternative chatbot, a move Reina sees as a test case for how the regulatory toolkit must evolve. "These markets evolve very fast, and because of the nature of the technology, it becomes much more difficult to police. That is where the authorities need to have the mechanisms and the tools to say: until here, now you need to introduce these changes without delay," insists Reina.
+BEUC has called for extending the DMA's interoperability rules to social media platforms, arguing that users should be able to communicate across networks without being subject to unchosen algorithms. The group also believes cloud services and AI infrastructure should be included in the law as they become central to the digital economy.
+Sovereignty, not protectionism
+The DMA is now part of a wider geopolitical dispute. Washington critics describe it as a protectionist measure aimed at American firms. Several of the seven designated gatekeepers, including Alphabet, Apple, Meta, Amazon, and ByteDance, have headquarters outside Europe, yet the Commission maintains the law is determined by company size and market power, not nationality.
+The European Parliament asserts that any trade deal with the United States would fail if it meant compromising EU digital standards. "Nowhere in the DMA are American companies being targeted. It purely follows quantitative and qualitative elements. But Europe must retain this ability to dictate its own rules. Foreign interference is simply not acceptable," says Reina.
+Consumers care most about real impact. BEUC launched "Choice by Default" to raise awareness. The DMA changed digital rules, but whether citizens feel this remains uncertain.
 
 ====================================================================================================
 
-Australia’s one of the world’s biggest gas exporters. Labor will now force the companies to save some for domestic market
+Just weeks ago, Trump said Tehran had ‘agreed to everything’. Why is he now pushing a half-measure?
 Unknown
 Unknown Publisher
 2026-05-07
-01:54:14 UTC
-10:54:14 KST
+05:45:00 UTC
+14:45:00 KST
 
-Australia’s one of the world’s biggest gas exporters. Labor will now force companies to save some
-Hot on the heels of Prime Minister Anthony Albanese’s blunt rejection of a popular campaign to ramp up gas company taxes, Labor is set to reveal terms of the first-ever east coast gas reservation policy to force exporters to hold back supply for local users.
-Prime Minister Anthony Albanese last week ruled out a new gas tax in next week’s budget, following a prominent campaign spearheaded by independent senator David Pocock, who pointed out there was more federal tax paid on beer than by gas exporters.
-But on Thursday the government will reveal the terms of its long-awaited gas reservation policy. Over six months of consultation, the government proposed a reserve on any new supply contracts that forces companies to hold back up to 25 per cent of their production for the east coast market.
-“Australian gas for Australian users as the first priority,” Energy Minister Chris Bowen said in December, when the policy was announced.
-The policy will apply to the operators of three giant liquefied natural gas export terminals in Queensland as well as offshore producers in the Northern Territory.
-The government has argued the reservation would put downward pressure on local gas prices, which rose from $4 a gigajoule before 2015 when east coast exports began, to as high as $12 in recent years. The reservation would also ensure adequate supply for manufacturing needs.
-Australia is one of the world’s biggest liquified natural gas (LNG) exporters, yet homes and businesses on the east coast have faced repeated shortfall warnings, raising concerns that too much LNG is shipped offshore from Queensland.
-Gas producers have for more than a decade campaigned against a gas reservation on the east coast, singling it out as the most damaging policy proposition for the industry and arguing the local market had always been fully supplied.
-The east coast gas reservation the government is set to impose will be similar to the Western Australia scheme that dates to 2006. The two sides of the continent form separate markets and cannot share gas, due to the prohibitive overland distances and lack of shipping import terminals.
-The Dutton opposition effectively normalised the policy when it pledged in the 2025 election campaign to impose a reservation.
-Since then, the Albanese government has pursued the idea, before Pocock kicked off his export tax campaign that called for a 25 per cent tax on all gas exports. The export tax was forecast to rake in up to $17 billion a year by forcing multinational gas exporters to pay their “fair share” for the nation’s finite resources.
-But Australia has been using its gas exports as collateral in high-level talks with the countries that supply Australia with much of its fuel, such as Japan, Malaysia and South Korea. These nations are also major investors in Australia’s huge gas export industry.
-Also on Thursday, the Albanese government invited oil and gas companies to bid for exploratory drilling rights across expansive new sections of Commonwealth waters off the coastlines of Victoria and Tasmania.
-Federal Resources Minister Madeleine King said the exploration permits would be offered in the Gippsland Basin and Bass Basin.
-“Ongoing investment in the nation’s petroleum sector is vital for the economy and meeting the energy needs of Australians,” King said.
-The government’s plans to release swaths of Commonwealth waters for new oil and gas drilling have won support from energy producers and major gas users across the manufacturing sector who say unlocking greater supplies of the fossil fuel is needed to head off shortages and price rises on the eastern seaboard.
-But they have angered conservation groups worried about the impact that more gas drilling will have on the marine environment, and those who fear that increasing gas supplies will make it harder to combat climate change. Gas is a key source of carbon dioxide and methane emissions, which contribute to dangerous levels of global warming.
-King said all new offshore gas projects would be required to meet strict environmental and emissions standards established approval processes, and no exploration could occur without a mandatory 30-day public consultation period.
-Cut through the noise of federal politics with news, views and expert analysis. Subscribers can sign up to our weekly Inside Politics newsletter.
+Just weeks ago, Trump said Tehran had ‘agreed to everything’. Why is he now pushing a half-measure?
+Washington: It was April 17, nearly three weeks ago, when Donald Trump declared Iran had “agreed to everything” he wanted and, in a flurry of social media posts and interviews, cast the war as all but over.
+Iran’s parliamentary Speaker, Mohammad Bagher Ghalibaf, one of the regime’s key negotiators, responded by saying Trump had made seven claims in just one hour, and all of them were false.
+Ghalibaf seems to have been closer to the mark. Three weeks later, Trump’s hopes for a deal to end the war are now confined to a one-page memorandum that would trigger another 30 days of negotiations on the details.
+The document’s existence was widely covered by American news outlets on Wednesday (US time) after it was first reported by Barak Ravid at Axios, who relayed that it contained 14 points. Iran was poised to formally respond.
+This masthead hasn’t seen the purported memorandum. According to The Wall Street Journal, it insists upon Iran attesting that it doesn’t seek nuclear weapons, dismantling its three main nuclear sites (or what’s left of them) and submitting to on-demand inspections with penalties attached. The US reportedly seeks a 20-year moratorium on uranium enrichment, though this is not a red line.
+Meanwhile, Iran’s chokehold on the Strait of Hormuz and the United States’ blockade of Iranian ports would be relaxed gradually, in tandem.
+Plainly, a single-page list of dot points is more akin to a meeting agenda than a proper peace deal. Even if it is agreed to over the coming hours or days, it’s doubtful that it would hold much weight or provide a meaningful resolution.
+Trump is as bullish as ever about the prospects of such a deal. In the Oval Office flanked by Ultimate Fighting Championship athletes, he said talks with Iran were tracking positively, even though the regime attacked ships in the Strait of Hormuz – and US Gulf allies – just two days ago.
+“A few days ago is a long time ago in the world of war,” Trump said. “We’ve had very good talks over the last 24 hours, and it’s very possible that we’ll make a deal.”
+He said there was no deadline – although, in a social media post, he also threatened to restart bombing “at a much higher level and intensity than it was before”.
+Trump again indulged the idea of pulling US forces out of the region without any firm deal. “If we left right now, it would take them 20 years to rebuild,” he said. “They want to make a deal badly, and we’ll see if we get there.”
+It makes more sense for the Iranians to agree to a one-page framework that doesn’t bind them to anything and buys time. The real question is why the US is pushing this half-measure when, just weeks ago, it claimed Tehran had “agreed to everything”.
+The answer may lie in the fact that in seven days, Trump heads to Beijing to see Chinese President Xi Jinping, in what most analysts portray as the most important event of his second term so far.
+This high-stakes meeting has already been delayed once because of the war. Postponing it again is almost unthinkable, especially so close to the date.
+But it is also unpalatable for Trump to arrive at the Great Hall of the People encumbered by a messy, unresolved conflict, and indeed seeking help from Xi to corral the Iranians into reopening the crucial Strait of Hormuz.
+Dan Shapiro, a former US ambassador to Israel, explained what this situation would mean.
+“In the background, China would press its global campaign to portray the United States as the cause of instability and itself as the responsible adult,” he said on X.
+“Overall, Trump’s position and leverage at the summit is considerably weaker if he goes to Beijing with the war still unsettled, or even with renewed escalation. And the Iranians know that. So they are whittling down the terms to end the war to something much more modest than what Trump originally envisioned.”
+It is also the case that Trump wants to spend his very limited time in Beijing talking trade, not enlisting Xi’s assistance with the strait.
+During talks between the Chinese and Iranian foreign ministers in Beijing on Wednesday, Beijing’s top diplomat, Wang Yi, urged the “parties involved” to promptly restore “normal and safe passage” through the strait.
+Ironically, getting that waterway open is now Trump’s most pressing issue after he dismissed it as irrelevant to US interests just weeks ago.
+For the rest of the world, Australia included, that is not necessarily a bad outcome – a rough concept of a deal that at least starts reopening the strait, and leaves the rest for later.
+Get a note directly from our foreign correspondents on what’s making headlines around the world. Sign up for our weekly What in the World newsletter.
 More:
 
 ====================================================================================================
