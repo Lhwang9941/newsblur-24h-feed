@@ -1,34 +1,60 @@
-Chris Kohler's Three-Minute Guide to the 2026 Federal Budget
+Germany plans 'active cyberdefence' as online attacks rise, interior ministry says
 Unknown
 Unknown Publisher
 2026-05-12
-11:10:21 UTC
-20:10:21 KST
+13:53:08 UTC
+22:53:08 KST
 
-Advertisement
-Chris Kohler's Three-Minute Guide to the 2026 Federal Budget
-Finance Editor Chris Kohler walks us through the winners and losers of this year's Federal Budget with help from Money Editor Effie Zahos, Political Editor Charles Croucher and Drive.com.au Director of Content James Ward.
-Updated ,first published
-Loading
-Latest in Videos
-Advertisement
+In 2025, around 334,000 cases of cybercrime were registered in Germany, two-thirds of them from abroad or unknown locations, with many more cases thought to be unreported.
+Germany said on Tuesday that it plans to develop "active cyberdefence" to hit back against a sharp rise in online attacks, many made more dangerous by artificial intelligence.
+Interior Minister Alexander Dobrindt said he would push a new law through cabinet this month to allow security services to retaliate against servers used in attacks.
+The goal was to "disrupt and destroy the attackers' infrastructure," he told a press conference in Berlin, saying many attacks originated from Russia.
+"This means ensuring that someone attacking us from a server system, for example, to attack an energy company in Germany from abroad, will no longer be able to do so in future with that infrastructure, that server, that software or those facilities."
+Serious cybercrime and attacks on German companies, government agencies and critical infrastructure are on the rise, causing more than €200 billion of economic damage last year, his ministry said.
+"AI-based tools are becoming increasingly important in the field of cybercrime," it said, as these allowed criminals "to carry out attacks faster, more precisely and more professionally."
+In 2025, around 334,000 cases of cybercrime were registered in Germany, two-thirds of them from abroad or unknown locations, with many more cases thought to be unreported.
+"That's why we want to expand our active cyberdefence capabilities," Dobrindt said.
+Among the main online threats, he said, "we've seen a significant increase in activism originating from Russia" since it launched its full-scale invasion of Ukraine in 2022.
+Last year, more than 1,000 ransomware attacks were reported in Germany, a rise of 10% on the previous year, with attackers extorting more than $15 million (€12 million), said the ministry.
+The number of denial-of-service attacks was up 25% at 36,706 cases.
+The head of German financial regulator BaFin, Mark Branson, also issued a warning about AI-enabled cyberattacks and said the agency was strengthening its supervision of cyber risks to financial firms.
+"The new AI models can identify and even exploit many vulnerabilities in IT systems with remarkable speed," Branson said, urging companies to "patch these vulnerabilities far more quickly."
+He said that "cybersecurity is an urgent and essential investment."
 
 ====================================================================================================
 
-'Rule of gerontocracy has ended': Africa will no longer be 'lorded over by moral rule of old men'
+Israeli-Cypriot cyber company to unveil Starlink de-anonymizing tool - report
 Unknown
 Unknown Publisher
 2026-05-12
-11:08:23 UTC
-20:08:23 KST
+13:49:05 UTC
+22:49:05 KST
 
-'Rule of gerontocracy has ended': Africa will no longer be 'lorded over by moral rule of old men'
-To display this content from YouTube, you must enable advertisement tracking and audience measurement.
-One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.
-Issued on:
-On the sidelines of the Africa Forward Summit at Strathmore University, François Picard is pleased to welcome celebrated historian and political theorist Achille Mbembe. He offers deep insight into a continent in the midst of profound psychological, sociopolitical and economic transformation. Author of The Earthly Community and one of Africa’s leading voices on postcolonial sovereignty, Mr. Mbembe argues that while institutional change is slow-moving, a seismic change is underway: “What has ended is the rule of gerontocracy, It has ended in the minds of the people. That is what matters.”
-For Mbembe, contemporary Africa is neither a story of collapse nor uncomplicated renewal, but a continent moving “in multiple directions at the same time,” where “chaotic situations, almost cataclysmic” coexist with “attempts at reinventing democracy from below.” Driven increasingly by young people, women, intellectuals, and civil society actors, these struggles, he argues, may determine whether Africa’s new sovereignty becomes merely another scramble for resources, or the foundation of more open, durable societies.
-Ultimately, Mbembe insists that Africa’s future will not be built on deficit narratives, but on civilisational confidence: “Africa must build not on the basis of what it lacks, but on the basis of what it already has.”
+An Israeli-Cypriot cyber company has developed a tool to de-anonymize Starlink users, and is expected to reveal it at the upcoming ISS World Europe conference, Intelligence Online reported on Monday.
+The tool, Stargetz, is intended to function alongside another of the company's tools, a VPN de-anonymizing tool called VPNz.
+The company, Targeteam, claimed that Stargetz does not intercept communication traffic or breach Starlink's encryption in order to identify the system's users. As such, Targeteam hopes to avoid legal and public disputes over its tool's usage.
+Intelligence Online reported that Targeteam employs engineers with a background in the military and elite Israeli cyber companies such as Cognyte and UTX Technologies, but the details of the team are intentionally kept heavily under wraps, with employees requested not to possess active LinkedIn profiles.
+US sends Starlink to Iran protesters
+Starlink, a subsidiary of Elon Musk’s SpaceX, is a satellite-internet network that can be accessed through small, portable Starlink terminals.
+The United States smuggled thousands of Starlink terminals into Iran in January as the Iranian regime cut off internet service in the country as part of a brutal crackdown on anti-regime protests, according to a report published by the Wall Street Journal.
+Goldie Katz contributed to this report.
+
+====================================================================================================
+
+Israeli startup Frame Security raises $50m
+Unknown
+Unknown Publisher
+2026-05-12
+13:49:02 UTC
+22:49:02 KST
+
+Israeli startup Frame Security has completed a $50 million financing round led by Index Ventures, Team8, and Picture Capital, with participation from Wiz CEO Assaf Rappaport and Elad Gil, who has also invested through his fund, Gil Capital.
+Frame is launching an AI-driven platform designed to help organizations defend against the growing wave of AI-powered social engineering and deepfake attacks by empowering employees to be the strongest line of defense.
+The company is building a new category of human risk security, designed to protect organizations against the largest attack vector in cybersecurity: people.
+The last line of defense against modern cyber threats
+Frame was founded by CEO Tal Shlomo and CTO Sharon Shmueli, both veterans of Israel's elite cyber Unit 8200. The company recognizes that employees are the last line of defense against modern cyber threats.
+The platform automates the entire security awareness and training process. AI enables companies to quickly generate realistic attack simulations, hyper-personalized, role-based training, and tailored guidance for employees across the organization.
+Shlomo said, "In a single day, employees make hundreds of decisions that carry potential cybersecurity implications. AI has made social engineering attacks dramatically easier to create and much harder to detect. In my experience working with leading security teams in Fortune 500 organizations at Wiz, even the most advanced cybersecurity systems couldn't eliminate the risk introduced by human behavior. After seeing many human-centric attacks, we built Frame with the ambition to empower the workforce to become the strongest line of defense against AI-driven attacks. Our AI engine serves as a dynamic system that evolves with the organization and prepares employees for the real threats they face."
 
 ====================================================================================================
 
