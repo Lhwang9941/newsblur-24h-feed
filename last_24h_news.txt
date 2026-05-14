@@ -1,46 +1,93 @@
-Perth biotech Syngenis unleashes AI drug discovery push
+‘Cannot sell this’: Teachers’ union facing members revolt as crunch meeting looms
 Unknown
 Unknown Publisher
 2026-05-14
-02:28:50 UTC
-11:28:50 KST
+06:10:41 UTC
+15:10:41 KST
 
-Perth biotech Syngenis unleashes AI drug discovery push
-Brought to you by BULLS N’ BEARS
-Australia’s biotechnology sector is rapidly colliding with the explosive rise of artificial intelligence and Perth-based Syngenis Laboratories is aiming to plant itself right at the centre of the revolution.
-The company has built an AI-powered discovery platform, dubbed Syngenis Discovery, designed to dramatically accelerate the hunt for next-generation therapies and diagnostic molecules. In doing so, Syngenis aims to crack one of biotechnology’s biggest bottlenecks – the identification of viable treatments from billions of potential molecular combinations.
-Traditional drug discovery can take months or even years of laboratory testing, modelling, sequence refinement and toxicity analysis, with researchers often screening thousands of molecules before identifying viable candidates. Much of the process remains fragmented across multiple software systems and reliant on manual interpretation, however, Syngenis Discovery aims to compress that workflow into just hours.
-We are entering a period where biotechnology and artificial intelligence are converging in a very meaningful way.Syngenis Laboratories managing director Thomas Hanly
-Development of the platform is being led by James Hill, formerly chief technology officer of ASX-listed medical technology company Singular Health and now Syngenis’ AI strategist.
-“There are billions upon billions of potential sequence combinations,” said Hill. “No human research team can realistically explore that search space manually. AI allows us to evaluate molecular behaviour at a scale that simply was not commercially practical even a few years ago.”
-One of the biggest opportunities for Syngenis lies in the fast-growing world of RNA and DNA-based medicines known as oligonucleotide therapeutics. These are short synthetic genetic sequences designed to interact with cells at a molecular level, allowing scientists to switch off harmful genes or target diseases with far greater precision.
-The explosive success of mRNA vaccines during the COVID-19 pandemic triggered a global surge in investment in RNA medicine, opening the door to potentially new treatments targeting cancer, neurological disorders, inflammatory diseases, rare conditions and inherited genetic illnesses.
-Syngenis Discovery allows researchers to upload massive genetic and protein datasets from major global databases such as the US-based National Center for Biotechnology Information (NCBI) and UniProt, alongside their own commercial or academic research data.
-To put the scale of these archives in perspective, NCBI’s GenBank database alone currently holds more than 6.27 billion nucleotide sequence records spanning over 53.9 trillion base pairs. UniProt, meanwhile, contains reference data on approximately 246 million proteins, illustrating why AI is so essential for therapy discovery.
-Once the data is uploaded, Syngenis’ platform unleashes a suite of specialised AI models simultaneously, each engineered to tackle a different stage of the molecular discovery process - from sequence optimisation and structural prediction through to toxicity screening and binding analysis.
-By combining established principles of molecular chemistry with advanced machine learning, the system can rapidly generate and analyse enormous libraries of potential molecules at a scale far beyond that of traditional laboratory testing.
-Although the technology has not been designed to replace day-to-day lab work, management says it can narrow the search space before costly wet-lab validation begins, reducing development timelines, lowering failure rates, and improving the probability of clinical success.
-The timing of these new developments could hardly be better for Syngenis as it works towards a public float on the ASX later in the year to expand its AI-driven biotechnology platform and clinical manufacturing ambitions.
-The company has built its business around three core divisions: manufacturing, discovery and diagnostics.
-Its manufacturing arm already generates revenue through a research laboratory servicing about 40 customers across Australia and New Zealand, while its AI-supported discovery division is developing diagnostic technologies targeting diseases such as Alzheimer’s and Parkinson’s. The diagnostics division, meanwhile, is focused on rolling out rapid point-of-care tests while building the sales and distribution channels needed to eventually launch the company’s own diagnostic products into the market.
-Syngenis has assembled a heavyweight mix of biotechnology, AI and commercialisation expertise, led by internationally recognised nucleic acid therapeutics specialist Professor Rakesh Veedu, former Singular Health CTO James Hill and managing director Thomas Hanly, who has built a track record commercialising science-driven healthcare technologies into scalable investment opportunities.
-Syngenis Laboratories founder, chief technology officer and head of the nucleic acid therapeutics at Murdoch University Prof Rakesh Veedu said: “The new Syngenis Discovery platform is launching with an initial goal of assisting our customers by reducing the time taken in the initial discovery process to develop promising therapeutic and diagnostic candidates and presenting them for Syngenis to manufacture. This first version has the potential to save researchers months of work and hundreds of thousands of dollars by identifying nearly optimised sequences prior to manufacture.”
-In addition to oligonucleotides, Syngenis Discovery is also focused on aptamer discovery. Because of their precision, scalability and manufacturing advantages, many researchers now view aptamers as a potential next-generation alternative to traditional antibody technologies.
-Syngenis Laboratories managing director Thomas Hanly said: “We are entering a period where biotechnology and artificial intelligence are converging in a very meaningful way. Companies that can integrate advanced computation with deep molecular science will have a significant advantage in both discovery speed and commercialisation potential.”
-For Syngenis, the vision extends far beyond building another software platform. From its Perth base, the company says it’s positioning itself at the intersection of biology, chemistry and artificial intelligence, aiming to put Australia in the front ranks of next-generation biotechnology and accelerate the discovery of therapies and diagnostics.
-The AI revolution in drug discovery may be the next entry on that list, and Syngenis is working to ensure that when that history is written, Australia will not be a footnote.
-Is your ASX-listed company doing something interesting? Contact: mattbirney@bullsnbears.com.au
+‘Cannot sell this’: Teachers’ union facing members revolt as crunch meeting looms
+Internal criticism of the leadership of the state’s public school teachers union is growing ahead of a crunch meeting on Friday in their ongoing dispute over wages and conditions with the Allan government.
+The Department of Education is expected to offer a revised wage deal late on Thursday to the Australian Education Union (AEU), which will gather its governing branch council on Friday morning to discuss the fresh proposal.
+But teachers at dozens of schools – including the selective entry Mac.Robertson Girls’ High School – have voted to condemn the union’s approach to bargaining and its suspension of half-day strikes planned across the state’s 1570 government schools in May and June.
+Union activists representing five AEU districts – Werribee, Inner City, Broadmeadows, Inner West, and Latrobe/Plenty – representing hundreds of schools, also voted against the decision to suspend the planned strikes, taken without wide consultation of members.
+The rebel sub-branches warned the union that they will not accept a deal that falls too far below their log of claims for a 35 per cent pay rise over three years and a raft of improvements to workloads and conditions.
+Educators at Princes Hill Secondary College were among those in revolt against the union’s leadership, calling for a resumption of strikes and demanding greater transparency from the AEU hierarchy.
+“The AEU must publish everything the government offered ... before any further negotiation proceeds on its basis,” a statement from the Princes Hill group read.
+“Members can’t assess what’s being traded on their behalf without seeing terms.”
+The union has not responded to a request for comment, but a source close to the organisation, but not permitted to speak publicly, pointed out there were about 40 union districts and more than 1600 sub-branches around the state. Motions critical of the leadership had failed to pass at some districts and sub-branches, the source said.
+In March the union rejected a government offer of a 17 per cent wage increase for teachers and principals, but only 13 per cent for education support (ES) workers.
+That offer fell well short of the union’s demand of 35 per cent over three years for the entire workforce, with sweeping changes to working hours and conditions.
+A government intention to improve its offer to teachers to 28 per cent over four years was leaked to the media.
+A union briefing on Monday for education support workers further raised the temperature, with dissident union members saying they were told that by senior union officials at the online gathering that some key demands for the assistants were now “off the table”, leading to claims the AEU was preparing to “sell out” the 35,000-strong ES workforce.
+Longtime union activist Lucy Honan, who helped lead a “strike now” ticket that won 37 per cent of the vote in union elections in 2024, conceded on Thursday that only a minority of sub-branches and districts had passed motions critical of the leadership.
+But Honan said the union hierarchy should heed the warning of its more active members, who were reacting badly to the proposed 28 per cent figure.
+“They [the leadership] are ignoring the canary in the coal mine,” Honan said.
+“You’ve got your organised sub-branches and regions, which you depend on for maintaining the momentum of the campaign and recruiting, essentially the hard edge of the union, telling you that they cannot sell this to members.”
+Honan urged her fellow branch council members to reject any “shoddy deal” on Friday.
+Education support worker Belle Gibson, who attended Monday’s online meeting, said the leadership told attendees that an equal pay offer for teachers’ aides and another key demand, for paid lunch breaks, were “off the table”, and were not expected to feature in the impending government offer.
+Gibson, part of the Socialists in Schools group that is preparing to campaign for a vote against the forthcoming government offer, told this masthead that ES workers’ own union was now disrespecting their vital role.
+“We do crucial administrative work, and work closely with some of the most vulnerable students. It’s clear we are extremely undervalued by the government and our own union,” Gibson said.
+The group is urging members to emulate the state’s nurses, who in 2024 dramatically rejected a negotiated government pay deal – worth 23 per cent over four years. They eventually won a deal worth more than 28 per cent.
+The office of Education Minister Ben Carroll was contacted for comment.
+Start the day with a summary of the day’s most important and interesting stories, analysis and insights. Sign up for our Morning Edition newsletter.
 
 ====================================================================================================
 
-Trump and Xi Begin Superpowers’ Summit on Trade and War
+French central bank succession fight tests Macron's sway ahead of 2027 election
 Unknown
 Unknown Publisher
 2026-05-14
-02:28:00 UTC
-11:28:00 KST
+06:07:29 UTC
+15:07:29 KST
 
-Trump and Xi Begin Superpowers’ Summit on Trade and War
+French central bank succession fight tests Macron's sway ahead of 2027 election
+Sign up now: Get ST's newsletters delivered to your inbox
+PARIS, May 14 - French President Emmanuel Macron faces a test next week when lawmakers decide whether to approve his former chief of staff to run the central bank, a nomination some critics say is part of a campaign to protect key institutions from a possible far-right election win in 2027.
+A rejection of Emmanuel Moulin would represent an embarrassing defeat, underlining the unpopular president's lame-duck status less than a year before his second term ends.
+Meanwhile, approval would likely fuel rivals' accusations that Macron is installing loyalists to top jobs who can ensure his legacy and hedge against possible National Rally (RN) victory in the next presidential vote.
+"The president is right to propose (Moulin's) appointment, as it is technically justified, but he is taking a political risk should the proposal be rejected by parliament, given that he no longer has a majority," said political analyst William Thay of think tank Le Millenaire.
+MOULIN IS EXPERIENCED ECONOMIC POLICYMAKER
+Opponents on the finance committees of both houses could block Moulin on Wednesday if three-fifths of them vote against. The votes in both houses will be added up and Moulin will be approved if the nays do not surpass 60% of the combined total.
+The composition of the committees, with 72 members in the lower house committee and 49 in the Senate, mirrors that of the two chambers. Macron and his allies do not hold a majority in either chamber.
+While resistance is expected in the fractious lower house committee, the Senate committee - dominated by the conservative Republicains - will be decisive. Some lawmakers warn the margin could be tight, with defections possible among the Republicains whose support Moulin needs.
+Few dispute Moulin's credentials as one of the most experienced policymakers in France's economic establishment.
+But Macron's push has sharpened scrutiny of his independence, a sensitive issue for a central bank post meant to be insulated from politics.
+"Have you seen an Elysee chief of staff named to head the Bank of France before? That's never happened," said Eric Coquerel, the hard-left head of the finance committee in the lower house.
+QUESTION OF CENTRAL BANK INDEPENDENCE
+Coquerel said most left-wing parties in the lower house would oppose Moulin, though the Socialists have yet to settle their position, while non-Macron centrists could split.
+There is a precedent for such a nomination. Macron's predecessor Francois Hollande in 2014 named his chief of staff Pierre-Rene Lemas to lead public lender Caisse des Depots, one of France's biggest financial institutions.
+Moulin faces question and answer sessions in both houses on Wednesday before the committees vote. The Senate session will be closed to the press and the lower house has not said if it will be open.
+Socialist lawmaker Philippe Brun said Moulin had agreed to meet colleagues about priorities ranging from bank regulation, to fighting inflation and his independence.
+In a questionnaire sent on Friday to Moulin, Brun asked: "How can the independence of the Bank of France ... be guaranteed, given your very recent political roles within the government?"
+Contacted by Reuters, Moulin said he would reserve his answers for lawmakers. Brun did not immediately respond to a request for comment on how the meeting with Moulin went on Wednesday.
+FAR RIGHTS SAY 'ENOUGH IS ENOUGH'
+As governor of the 226-year-old Bank of France, Moulin would sit on the European Central Bank's rate-setting governing council and be responsible for regulating French banks.
+Even before he nominated Moulin, Macron's rivals were upset by his appointments of allies including Richard Ferrand to head the constitutional court that vets legislation and Amelie de Montchalin to lead the audit office that certifies the public accounts.
+RN lawmakers say that the nominations are aimed at putting in place anti-RN allies in case they take power in next year's presidential election.
+"After Ferrand and Montchalin, we're going to say enough is enough," said RN lawmaker Philippe Ballard.
+Polls suggest the second round of next year's presidential election is almost certain to feature the anti-immigrant RN, which has pledged to rip up much of Macron's social and economic legacy.
+Ferrand was approved by a single vote last year in the law committees of both houses, with RN lawmakers abstaining, while Montchalin's appointment did not require parliamentary approval.
+The Senate will be key for Moulin, who has served under both conservative and Macron governments, with doubts over whether some Republicains break ranks to oppose his nomination.
+"It's a safe bet that Republicains MPs will be split between those who believe it's better to maintain a respectable profile on the right and those who want to punish the betrayal of one of their own who left them in 2017 to serve Macron's camp," Thay said. REUTERS
+
+====================================================================================================
+
+Plans to lower age bar for cabby health checks delayed to second half of year
+Unknown
+Unknown Publisher
+2026-05-14
+06:06:41 UTC
+15:06:41 KST
+
+Plans to lower age bar for cabby health checks delayed to second half of year
+‘The government is reviewing the views of various stakeholders to finalise the details,’ spokesman says as series of accidents involving elderly cabbies trigger concerns
+Hong Kong authorities have delayed plans to lower the age threshold for mandatory medical certification for taxi and other commercial vehicle drivers, as well as to require annual check-ups, with legislative proposals now expected in the second half of the year.
+“The government is carefully reviewing the views of various stakeholders to finalise the details and refine the legislative proposals,” a Transport Department spokesman said in response to the South China Morning Post on Thursday.
+He added that the government would continue to actively advance the drafting of the law and related preparatory work.
+The proposed amendments came under the spotlight again after a 70-year-old taxi driver lost control of his vehicle and drove onto a pavement in Ngau Tau Kok on Wednesday, killing a woman and seriously injuring another.
+A source said officers suspected the driver was unable to stop the vehicle in time due to a brake failure.
+A spokesman for the Hospital Authority said four victims injured in the crash remained hospitalised at two public hospitals on Thursday. A 31-year-old woman was in critical condition, a 62-year-old man and woman were in serious condition, and a 70-year-old man was stable.
+The proposal floated earlier by the government would lower the age threshold for mandatory medical certification for commercial vehicle drivers from 70 to 65 and shorten the validity of their driving licences to one year, requiring annual check-ups for renewal.
 
 ====================================================================================================
 
