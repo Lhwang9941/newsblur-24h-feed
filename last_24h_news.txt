@@ -1,78 +1,35 @@
-Ukraine’s sling against Russia: How 'geniuses in garages' transformed robotic warfare
-Unknown
+How old is Raul Castro? The former Cuban leader facing US indictment
+United Kingdom
 Unknown Publisher
 2026-05-15
-20:46:59 UTC
-05:46:59 KST
+22:45:19 BST
+06:45:19 KST
 
-In the battlefields of eastern Ukraine, a new kind of soldier was born. It doesn’t breathe, it doesn’t sleep, and recently, it did the unthinkable: It successfully negotiated the surrender of three Russian soldiers.
-This is not a scene from a science fiction novel; it is the daily reality of a defense industry that has, in just four years, evolved from “geniuses in garages” into a global leader in robotic warfare.
-The transformation of Ukraine’s military-industrial complex is being hailed as a modern-day miracle. It is the story of how a nation with depleted stockpiles found its “sling” to fight a much larger enemy.
-“You know this story, I am absolutely sure, about David and Goliath,” Oleksii Reznikov, Ukraine’s former defense minister (2021-2023), told the Magazine. “David was young, but very brave and smart. And he used cutting-edge technology as a stone and sling. And he defeated the monster. So we did the same.”
-When Russia’s full-scale invasion began in February 2022, Ukraine was facing a military giant. The traditional response would have been to meet fire with fire, but the resources simply were not there. Instead, the resistance chose a different path.
-“Our geniuses in garages started screwing different types of electronic warfare systems onto toys,” Reznikov recalled. “We call them ‘wedding ceremony drones’ because they were used at weddings before the war.”
-As the official military structure worked to secure heavy NATO weaponry, a parallel army of engineers emerged from the civilian sector. “The whole country became volunteers,” Reznikov said. “Some volunteers went to the frontline, while others went to garages and started building things for the frontline – for neighbors, brothers, roommates. It became a movement of great new ideas.”
-The road to becoming a robotic superpower was paved with skepticism. One of the most famous anecdotes from the early stages of the war involves a disagreement between Reznikov and four-star general Valerii Zaluzhnyi over the usefulness of commercial drones.
-“I was criticized,” Reznikov said with a smile. “General Zaluzhnyi told me, ‘I don’t need wedding ceremony drones. I need something more serious like Raptor or Bayraktar [advanced American and Turkish military drones, respectively].’”
-At the time, the military establishment viewed drones through the lens of traditional aviation: large, expensive, and highly sophisticated. The “geniuses in garages,” however, saw things differently.
-“In reality, I had no right to buy Chinese wedding ceremony drones with government funds,” Reznikov explained. “But I had the right to persuade partners to give me serious drones. This war is a war of unconventional approaches. We needed to find David’s sling. And we found it.”
-The pivot to low-cost robotics changed the mathematical logic of the war. In a conventional war of attrition, the side with the larger budget and stronger industrial base usually wins. Ukraine’s robotic doctrine shattered that equation.
-“One FPV [first-person-view] drone with thermal vision may cost a maximum of $500,” Reznikov pointed out. “Russian tanks cost at least $12 million. You can destroy them with two FPV drones that cost only a few hundred dollars instead of using artillery shells worth thousands of euros. The idea was to win this war through a completely different approach.”
-From garage drones to robot soldiers
-Reznikov cited the sinking of the Russian flagship Moskva in April 2022 as the ultimate proof of concept. “We sank the Russian flagship using Ukrainian Neptune anti-ship missiles. You don’t need to invest a billion dollars in a warship. You need cheaper but smarter solutions – in the water, in the air, and on the ground.”
-While the initial spark was “romantic,” as Hanna Hvozdiar, adviser to Ukraine’s defense minister, described it, the industry has since evolved into a sophisticated, government-backed ecosystem. Hvozdiar is responsible for scaling garage innovations into a formal defense sector.
-“When Russia fully invaded us in 2022, we really were not prepared,” Hvozdiar told the Magazine. “I think these technologies emerged from shortages of ammunition and equipment on the frontline. But we didn’t want to give up. We needed to give our soldiers the tools to do their jobs. It was literally a matter of survival.”
-Today, the “romantic” era is over. The Ukrainian government has removed legislative barriers, introduced incentives, and established grants to accelerate innovation. “We started with the resilience of people,” Hvozdiar said, “and today the government’s support has produced real results.”
-While aerial drones have transformed the skies, Kyiv’s focus is now shifting to the ground. Ground robotic systems (GRS) are being deployed for tasks once considered too dangerous for human soldiers: logistics, mining, demining, and medical evacuation.
-“The ground robotic system capability is quite new for us,” Hvozdiar noted. “The industry’s role is to create systems for different purposes. But deployment is also a challenge – integrating these systems into military units, planning operations, and implementing them effectively.”
-The technology is evolving so quickly that the military is effectively writing the playbook in real time. “Because this capability is new, we don’t yet have ground robotic specialists,” Hvozdiar admitted. “We don’t have ground robotic unit commanders. We are learning every single day.”
-One of the most significant breakthroughs in this field was the recently documented capture of Russian soldiers by a robot.
-“This operation was something entirely new,” she said. “It wasn’t only about the technology; it was about planning and execution. Many people were involved. That’s how they managed to capture those prisoners. It required intelligence cooperation, robot operators, and the robotic platform itself.”
-Ground robots now face the same threats as human soldiers, such as FPV drone strikes and artillery fire. That reality has produced an unusual innovation: robots designed to rescue other robots.
-“I like the robots that serve our soldiers best,” Hvozdiar said when asked about her favorite developments. “But we continue creating new solutions; for example, robotic systems designed to evacuate other robotic systems that are ‘wounded’ or damaged by Russian FPV drones. Now we even have robots for robot evacuations.”
-This constant cycle of innovation – identifying battlefield problems and developing robotic solutions within weeks – is what Hvozdiar calls Ukraine’s “defense ecosystem.”
-With such a high degree of automation comes the question of artificial intelligence and autonomous killing machines. For Ukraine, AI remains a tool for navigation, targeting, and precision – but not a replacement for human judgment.
-“There are AI solutions already implemented,” Hvozdiar said. “In some systems, AI is used for navigation. In others, AI helps detect incoming threats, especially in counter-UAS systems. But there is no fully independent system at the moment.”
-The ethical and strategic reasons are clear. “We are fighting on our own territory, not on enemy territory,” Hvozdiar emphasized. “So the final decision must still be made by a human.”
-Ukraine’s rapid transformation over the past four years has not gone unnoticed. Military attachés and defense companies around the world are now trying to understand how Ukraine managed to build this capability under wartime conditions.
-“The interest is huge,” Hvozdiar said. “But it’s not only interest in the technology itself. The interest is broader – it’s about capability. We’re talking about industry, trained operators, commanders, and training systems. All of this forms part of the defense ecosystem.”
-Ukraine has effectively become a living laboratory for the future of warfare.
-“The interest in this capability is enormous because it is so new,” Hvozdiar continued. “We keep experimenting with ground robotic systems, deep-strike drones, air interceptors, and Shahed-interceptor drones. This capability is new for the entire world.”
-When asked about the next goal for Ukraine’s robotic military, Hvozdiar said the primary objective is “100% automatization of air defense.”
-“We can do this with robots, and that could protect countless civilians suffering from Russian airstrikes every day,” she said. “A fully automated solution that can detect and destroy a target without human involvement – that is the next goal.”
-The war in Ukraine has demonstrated that a smart, resilient, and technologically agile David can not only survive but systematically dismantle a Goliath.
-“This is not a traditional conventional war like the Second World War,” Reznikov reflected. “It is a completely new type of war. We are simultaneously using Soviet-era trenches and weapons, NATO-standard systems, and entirely new technologies – robots that fly, jump, swim, and crawl.”
-Ukraine did not set out to become a world leader in military robotics. It set out to survive. In doing so, however, it forged a “sling” that modern militaries around the world may now be forced to adopt.
+How old is Raul Castro? The former Cuban leader facing US indictment
+- Former Cuban President Raul Castro, the 94-year-old brother of Fidel Castro, could be indicted by the United States in connection with Cuba's shootdown of planes operated by the humanitarian group Brothers to the Rescue in 1996.
+- Castro, a key leader alongside Fidel in the 1959 guerrilla war, was instrumental in toppling the US-backed dictator Fulgencio Batista and launching Cuba's communist revolution. Among his significant roles, he helped defeat the US-organised Bay of Pigs invasion in 1961 and oversaw Cuba's overseas military interventions, particularly in Africa.
+- Castro's political ascent began in 2006 when Fidel fell ill, leading him to serve as acting president before formally becoming president in 2008. He served as president until 2018. After stepping down, he retained the honorific title of "army general" and continued to wield significant influence within Cuba's Communist Party, armed forces, and state institutions.
+- Current President Miguel Diaz-Canel is widely seen as relying on Castro's guidance for major decisions. In December 2025, Castro proposed postponing the Communist Party congress scheduled to choose Diaz-Canel's successor, citing the country's deep economic crisis.
+- Castro last appeared in public on 1 May for International Workers' Day. Wearing a military uniform, he marched alongside Diaz-Canel and other officials but appeared fatigued and had to sit down suddenly during the ceremony.
 
 ====================================================================================================
 
-Your Investments: Financial freedom and Jerusalem unification
+Russian online marketplaces lost up to 10% of users after blocking VPN access
 Unknown
 Unknown Publisher
 2026-05-15
-20:46:57 UTC
-05:46:57 KST
+21:42:20 UTC
+06:42:20 KST
 
-Jerusalem Day is one of my favorite days of the year, when we celebrate the reunification of Jerusalem. The highlight for me is the flag parade.
-While some see this parade as a display of extreme nationalism, I think it’s beautiful. Seeing tens of thousands of our youth celebrating something of substance, in the era of social media and smartphones, is very moving.
-After two and a half years of war, it takes on even more emotion, as I can’t help thinking about how many of our heroic soldiers who fell in battle were marching and waving flags in previous parades.
-As I’ve written in the past, I’ll leave it to Rabbi Jonathan Sachs to describe the feeling: “On Yom Yerushalayim a few years ago, standing on the streets of the city, I watched youngsters from around the world waving Israeli flags, singing and dancing with a joy that was overwhelming. As I watched the celebrations, I was overcome with emotion because suddenly I had a vision of the 1.5 million children who were killed in the Shoah not because of anything they had done, not because of anything their parents had done, but because their grandparents happened to be Jews.
-“I thought how some of the greatest empires the world has ever known – Egypt of the Pharaohs, Assyria, Babylon, the Alexandrian Empire, the Roman Empire, the medieval empires of Christianity and Islam all the way to the Third Reich and the Soviet Union – were the superpowers of their day that bestrode the narrow world like a colossus, seemingly invulnerable in their time. And yet each tried to write the obituary of the Jewish people, and whilst they have been consigned to history, our people can still stand and sing Am Yisrael Chai. What I was seeing on that day in Jerusalem was techiyat hamaytim, a collective people being brought back from death to life.”
-Next week we celebrate Shavuot. Unity plays a central part of the festival. I’m not talking about how lasagna, cheesecake, and blintzes can be unified to create a delicious meal. Shavuot celebrates the Jewish people receiving the Torah. The unification of the Jewish people at Sinai allowed for the receiving of the Torah.
-“And there Israel camped opposite the mountain” (Exodus 19:1-2). At all their other encampments, the verse says vayachanu (“and they camped,” in the plural); here it says vayichan (“and he camped,” in the singular). For all the other encampments were in argument and dissent, whereas here they camped as one human, with one heart (Mechilta, Rashi).
-'Kol yisrael areivim zeh bazeh’
-An extension of unity is the concept of each person’s responsibility to take care of each other. This has many ramifications in Halacha. Rabbi Raphael Katz writes: “The Talmud in Shevuot 39a explains the verse ‘And a man will stumble because of his brother’s iniquity.’ This teaches ‘shekol yisrael areivim zeh bazeh’ – that all Jews are guarantors for one another.
-“This principle is called ‘arvut.’ In the Talmud, Rosh Hashana 29a, we find (according to Ritva and others) the ‘positive’ formulation of the concept of arvut. There the Talmud states that one who has already fulfilled his obligation can nevertheless cause others, who have yet to discharge their obligation, to fulfill the mitzvah. For example, one who has already fulfilled the mitzvah of kiddush on Shabbat, can repeat the kiddush on behalf of someone else who has not yet recited it, and the repetition is not considered as having mentioned Hashem’s name unnecessarily. This Halacha is based on the above concept that every Jew is a ‘guarantor’ for his fellow Jew’s observance.”
-I want to take this concept of being a guarantor for each other and apply it to finance. Sadly, I see individuals make financial mistake after mistake, and the result is financial hardship. Here are some tips that will enable you to start making smart financial decisions and get on track toward financial independence.
-• Budget: Take control over your spending. Track income and expenses, and then you can start a realistic savings plan and start building wealth.
-• Get out of debt: Credit-card debt or overdraft is the No. 1 obstacle to getting ahead financially. It’s a lot better to take those interest payments and plow them into savings than to keep paying the credit-card company.
-• Emergency Fund: You may need dental work, have a flat tire, or be out of work. By creating an emergency fund, you will be able to handle surprise expenses. Keep three to four months of income in a short-term deposit or something similar to have it liquid and available at a moment’s notice in case you need to draw upon it.
-• Invest: There is no shortcut to building wealth. You need to start investing, and with discipline, the wonders of compound interest, and the growth of the stock and/or real-estate market, over time, you will create a comfortable nest egg.
-• Maximize your retirement account contributions: Few investments can beat a tax-deferred investment. If living in Israel, make sure you are maximizing contributions to your Keren Hishtalmut and Keren Pensia. Keep the money invested, and you will be surprised at the long-term growth of those accounts.
-Rabbi Katz continues: “On the eve of Yom Yerushalayim, it is appropriate to recall that Yerushalayim has the power to evoke this awareness of the essential unity and intermingling of Am Yisrael’s soul. In the words of our Psalmist , King David, ‘Jerusalem built up is like a city joined together’ (Psalms 122; 3), and our Sages commented, ‘It is a city that joins/makes all of Israel into friends and colleagues.’”
-The information contained in this article reflects the opinion of the author and not necessarily the opinion of Portfolio Resources Group, Inc. or its affiliates.
-aaron@lighthousecapital.co.il
-Aaron Katsman is the author of Retirement GPS: How to Navigate Your Way to A Secure Financial Future with Global Investing.
+Russian online marketplaces saw user activity and sales decline after they began blocking VPN users in April, the Russian business daily Kommersant reported, citing a study by Digital Budget.
+Mobile traffic at Wildberries dropped 10% in April compared with March. Ozon and Yandex Market each fell 3%, and Avito declined 1.5%. In March, all four platforms had posted mobile traffic growth — Ozon led the group, up 10% month over month.
+Sellers on those platforms also reported April revenue declines they attributed to the VPN restrictions, estimating losses of between 3% and 30% compared with March.
+Experts estimate the traffic restrictions cost the platforms roughly 1% of revenue in April. With total marketplace sales of 8.59 trillion rubles — based on 2025 figures — that translates to losses of around 7 billion rubles.
+The Association of Internet Trade Companies stated that measures such as blocking VPN traffic “unambiguously make it harder” for Russian services to be used by customers both inside the country and abroad.
+In late March, the Ministry of Digital Development held a meeting with the heads of major Russian companies at which the minister, Maksut Shadayev, announced that by April 15, companies would be required to block access to their platforms for users with VPNs enabled. Those who continued to allow VPN traffic were threatened with removal from “white lists” and the loss of their Ministry of Digital Development IT accreditation. In late April, after many Russian companies had restricted access for users with VPNs enabled, the Digital Development Ministry said they were doing so “for the security of user data.”
+At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.
+If you find any errors in this translation, please contact us at [email protected].
+To read Meduza’s exclusive content in English, please subscribe to our newsletter.
 
 ====================================================================================================
 
