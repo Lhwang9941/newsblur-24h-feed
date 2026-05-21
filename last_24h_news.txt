@@ -1,57 +1,68 @@
-Naarm Way Project Overview
+The EU simplified its toughest AI law: what changed and why it matters
 Unknown
 Unknown Publisher
 2026-05-21
-02:24:15 UTC
-11:24:15 KST
+06:37:31 UTC
+15:37:31 KST
+
+EU lawmakers have agreed to simplify the bloc’s landmark AI Act. Supporters call it a pragmatic fix to cut red tape, while critics see a concession to Big Tech. What is changing and what could it mean for businesses and citizens?
+When the EU's Artificial Intelligence Act entered into force in August 2024, it was hailed as the world's strictest AI law. Almost two years later, Europe has already agreed to change it.
+On May 7, EU governments and European Parliament lawmakers struck a deal on the so-called "AI omnibus", a package of targeted amendments within a broader digital simplification drive. The goal is to cut red tape, fix overlapping rules, and give businesses more breathing room without dismantling the law's core risk-based logic.
+The result is a retooled rulebook that extends deadlines, narrows obligations, and reshapes how the EU's most ambitious digital legislation will be enforced. Whether it is smart course-correction or quiet deregulation depends on who you ask.
+What changed?
+The most immediate impact is time. High-risk AI systems under Annex 3 of the AI Act, covering employment, education, and health insurance, now face a compliance deadline of December 2, 2027, delayed from summer 2026. AI embedded in physical products like medical devices or industrial machinery gets more time, with obligations delayed until August 2028.
+The scope of what counts as "high-risk" has narrowed. Only AI systems whose failure would create genuine health or safety risks face the heaviest obligations. Tools that assist users or optimise performance no longer automatically trigger the full regime, a change welcomed by manufacturers but viewed with suspicion by consumer advocates.
+Overlaps with other EU laws have been trimmed. Where sector-specific legislation regulates AI functions in aviation, medical devices, or financial services, companies will no longer face parallel assessments under both regimes.
+One of the more contested moves: machinery has been entirely carved out of the AI Act and is now governed by its own sector-specific regulation. Companies like Siemens and ASML had lobbied hard for the change. For Sergey Lagodinsky, Green MEP and one of the Parliament's key voices on digital regulation, it is a warning sign.
+"By having excluded machinery, we're making a first step into fragmenting AI regulation," he told Euronews. He pointed to the United States as a cautionary tale, a market where the absence of clear federal guardrails has left a patchwork of conflicting state rules in place of any coherent framework.
+"On the one side, everyone is saying how free and unregulated the US market of AI is. And on the other side, many don't know which state regulates how," Lagodinsky said. "There are no clear guidelines and guardrails."
+The deal also adds one significant new prohibition: a ban on AI tools that generate non-consensual sexually explicit images, including deepfakes, taking effect December 2, closing a gap that existing rules had failed to address.
+What it means for businesses
+For companies, the package offers more time and less paperwork. SMEs and small mid-cap firms benefit from simplified technical documentation, extended deadlines, and broader access to regulatory sandboxes where AI systems can be tested under temporarily relaxed rules.
+The changes are proportional by design: a small company using an off-the-shelf chatbot faces far less than one selling high-risk AI for hiring decisions. But compliance still brings real costs, and fines remain on the table for those who fall short.
+Lagodinsky said he can live with the overall outcome. "The final agreement is something that we can be okay with. I do not belong to those who say this is a catastrophe." But he was pointed about the limits of this kind of legislating. "We cannot constantly reopen the legislative process and try to take shortcuts. There is a process which is lengthier, and the integrity of this process should not be put into question."
+The core challenge
+Beneath the technical adjustments lies a harder question: can any law keep pace with AI? Lagodinsky was candid. "I am concerned that our legislative processes are much slower than the fast pace of innovation," he said, calling on the EU AI Office and the Commission to act as regulators-in-between, filling gaps through guidance, codes of conduct, and enforcement action faster than full legislative cycles allow.
+"The commission is sometimes very timid or slow or late on acting, and that's why it's even more important that the commission and AI Office take their responsibilities even more seriously."
+The AI Act remains, even after these changes, the world's most comprehensive AI law. Its risk-based framework is intact. But the deal sets a precedent: the rulebook can be reopened. The next test is whether the AI Office and member states enforce what remains, or whether delays and carve-outs quietly hollow out the law's ambitions.
+Formal approval by EU governments and the European Parliament is expected in the coming months.
+
+====================================================================================================
+
+Early morning public transport strike planned for June 24
+Unknown
+Unknown Publisher
+2026-05-21
+06:37:10 UTC
+15:37:10 KST
+
+Early morning public transport strike planned for June 24
+See more Dutchnews articles in your google search results
+Add as a favorite source on Google Add DutchNews as a favorite source on GooglePublic transport workers are to go on strike on June 24 to show their opposition to government plans to increase the state pension age and reduce unemployment benefits.
+The strike will affect trains, buses, trams and metro and will take place ahead of the morning rush hour, ending at around 8am, the FNV trade union federation said.
+The strike will cause problems for commuters who start work early or want to return home from night shifts.
+“We understand very well that travellers will face difficulties,” the union said. “But the cabinet refuses to listen to the concerns of workers. Our members see no other option other than to strike.”
+Other FNV affiliated unions are also planning to strike, including the port sector, as part of the campaign against government cuts.
+Thank you for donating to DutchNews.nl.
+We could not provide the Dutch News service, and keep it free of charge, without the generous support of our readers. Your donations allow us to report on issues you tell us matter, and provide you with a summary of the most important Dutch news each day.
+Make a donation
+
+====================================================================================================
+
+Iran threatens to take war beyond Middle East if strikes continue
+Unknown
+Unknown Publisher
+2026-05-21
+06:35:25 UTC
+15:35:25 KST
 
 Advertisement
-Naarm Way Project Overview
-New Drop Off and Pick Up zones will open at Melbourne Airport in Spring 2026.
+Iran threatens to take war beyond Middle East if strikes continue
+Iran has threatened to push conflict beyond the Middle East if the US and Israel continue strikes through a fraying ceasefire.
 Updated ,first published
 Loading
 Latest in Videos
 Advertisement
-New Drop Off and Pick Up zones will open at Melbourne Airport in Spring 2026.
-Updated ,first published
-
-====================================================================================================
-
-US deploys two laser-armed destroyers to Middle East — portal
-Unknown
-Unknown Publisher
-2026-05-21
-02:23:50 UTC
-11:23:50 KST
-
-NEW YORK, May 21. /TASS/. Two US destroyers operating in the area of responsibility of US Central Command, which includes the Middle East, Central Asia, and East Africa, are equipped with laser systems, The War Zone reported.
-The portal notes that the destroyer USS Spruance is part of the Abraham Lincoln carrier strike group, while the destroyer USS John Finn is on combat duty in the Indian Ocean.
-Both ships are equipped with the ODIN laser system, which is designed to disorient drones and disable cameras and sensors on ships, submarines, manned aircraft, and unmanned aerial vehicles.
-The US Navy has deployed directed-energy weapons on a total of nine ships, the portal reports.
-
-====================================================================================================
-
-Fortescue claims paying back $66m for failed hydrogen project ‘overreach’
-Unknown
-Unknown Publisher
-2026-05-21
-02:21:33 UTC
-11:21:33 KST
-
-Fortescue claims paying back $66m for failed hydrogen project ‘overreach’
-Mining giant Fortescue says the Queensland government’s bid to claw back nearly $66 million for a failed green hydrogen project is an “overreach” that risks discouraging future investment in the state.
-Lawyers for the company owned by billionaire Andrew Forrest laid out part of the argument on Thursday in the Brisbane Supreme Court as to why they should not have to return the funding.
-The government is chasing the $65.97 million it had already paid to Fortescue for the establishment of a manufacturing plant for green hydrogen electrolysers in Central Queensland – key to making hydrogen a clean energy – in Gladstone.
-Barrister Michael Hodge KC told the court the government was assuming their loss was the same amount as they had contributed, but said the funding – which was granted by the former Labor government in 2021 – had been spent appropriately.
-He said the expected benefit of the project had been linked to the clean energy road map of the previous government and another green energy policy ditched by the current government.
-“Before it had terminated the contract, it had put an end to that policy, where it said the contribution to that policy was what was going to give rise to the expected benefit,” he said.
-Arguing for a short and sweet trial to be scheduled sooner rather than later, Hodge said Fortescue was only concerned with two of the government’s claims: the damages based off the state funding, and a contractual issue where the government was claiming a further roughly $4 million.
-“The case has narrowed substantially,” he said.
-However, Justice Melanie Hindman decided the trial’s date and length would be decided at a review next month, following the state providing its reply to the defence document on June 4.
-In a statement, Fortescue Growth and Energy chief executive Gus Pichot said the company was disappointed the matter had reached the courtroom.
-“A claim for more than $65 million in these circumstances represents a material overreach and risks discouraging future investment in Queensland, not only by Fortescue, but by other companies considering major investments in emerging industries across the state.”
-The matter will return to court on June 8.
-Start the day with a summary of the day’s most important and interesting stories, analysis and insights. Sign up for our Morning Edition newsletter.
 
 ====================================================================================================
 
