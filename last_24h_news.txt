@@ -1,68 +1,43 @@
-The EU simplified its toughest AI law: what changed and why it matters
+Austrian spy found guilty of giving secrets to Wirecard fugitive
 Unknown
 Unknown Publisher
 2026-05-21
-06:37:31 UTC
-15:37:31 KST
+10:26:45 UTC
+19:26:45 KST
 
-EU lawmakers have agreed to simplify the bloc’s landmark AI Act. Supporters call it a pragmatic fix to cut red tape, while critics see a concession to Big Tech. What is changing and what could it mean for businesses and citizens?
-When the EU's Artificial Intelligence Act entered into force in August 2024, it was hailed as the world's strictest AI law. Almost two years later, Europe has already agreed to change it.
-On May 7, EU governments and European Parliament lawmakers struck a deal on the so-called "AI omnibus", a package of targeted amendments within a broader digital simplification drive. The goal is to cut red tape, fix overlapping rules, and give businesses more breathing room without dismantling the law's core risk-based logic.
-The result is a retooled rulebook that extends deadlines, narrows obligations, and reshapes how the EU's most ambitious digital legislation will be enforced. Whether it is smart course-correction or quiet deregulation depends on who you ask.
-What changed?
-The most immediate impact is time. High-risk AI systems under Annex 3 of the AI Act, covering employment, education, and health insurance, now face a compliance deadline of December 2, 2027, delayed from summer 2026. AI embedded in physical products like medical devices or industrial machinery gets more time, with obligations delayed until August 2028.
-The scope of what counts as "high-risk" has narrowed. Only AI systems whose failure would create genuine health or safety risks face the heaviest obligations. Tools that assist users or optimise performance no longer automatically trigger the full regime, a change welcomed by manufacturers but viewed with suspicion by consumer advocates.
-Overlaps with other EU laws have been trimmed. Where sector-specific legislation regulates AI functions in aviation, medical devices, or financial services, companies will no longer face parallel assessments under both regimes.
-One of the more contested moves: machinery has been entirely carved out of the AI Act and is now governed by its own sector-specific regulation. Companies like Siemens and ASML had lobbied hard for the change. For Sergey Lagodinsky, Green MEP and one of the Parliament's key voices on digital regulation, it is a warning sign.
-"By having excluded machinery, we're making a first step into fragmenting AI regulation," he told Euronews. He pointed to the United States as a cautionary tale, a market where the absence of clear federal guardrails has left a patchwork of conflicting state rules in place of any coherent framework.
-"On the one side, everyone is saying how free and unregulated the US market of AI is. And on the other side, many don't know which state regulates how," Lagodinsky said. "There are no clear guidelines and guardrails."
-The deal also adds one significant new prohibition: a ban on AI tools that generate non-consensual sexually explicit images, including deepfakes, taking effect December 2, closing a gap that existing rules had failed to address.
-What it means for businesses
-For companies, the package offers more time and less paperwork. SMEs and small mid-cap firms benefit from simplified technical documentation, extended deadlines, and broader access to regulatory sandboxes where AI systems can be tested under temporarily relaxed rules.
-The changes are proportional by design: a small company using an off-the-shelf chatbot faces far less than one selling high-risk AI for hiring decisions. But compliance still brings real costs, and fines remain on the table for those who fall short.
-Lagodinsky said he can live with the overall outcome. "The final agreement is something that we can be okay with. I do not belong to those who say this is a catastrophe." But he was pointed about the limits of this kind of legislating. "We cannot constantly reopen the legislative process and try to take shortcuts. There is a process which is lengthier, and the integrity of this process should not be put into question."
-The core challenge
-Beneath the technical adjustments lies a harder question: can any law keep pace with AI? Lagodinsky was candid. "I am concerned that our legislative processes are much slower than the fast pace of innovation," he said, calling on the EU AI Office and the Commission to act as regulators-in-between, filling gaps through guidance, codes of conduct, and enforcement action faster than full legislative cycles allow.
-"The commission is sometimes very timid or slow or late on acting, and that's why it's even more important that the commission and AI Office take their responsibilities even more seriously."
-The AI Act remains, even after these changes, the world's most comprehensive AI law. Its risk-based framework is intact. But the deal sets a precedent: the rulebook can be reopened. The next test is whether the AI Office and member states enforce what remains, or whether delays and carve-outs quietly hollow out the law's ambitions.
-Formal approval by EU governments and the European Parliament is expected in the coming months.
+Austrian spy found guilty of giving secrets to Wirecard fugitive
+Egisto Ott had been a director in his nation’s secret service and was accused of passing on classified information between 2017 and 2021
+An ex-Austrian intelligence officer was found guilty of passing on state secrets to a fugitive former top executive at the fraudulent payments company Wirecard in a high-profile spy case that has prompted authorities in Vienna to tighten rules on espionage.
+Egisto Ott was handed a prison sentence of more than four years for spying, abuse of office, bribery and embezzlement, and other charges, according to a statement from the Vienna Regional Criminal Court late on Wednesday. He was found innocent on some counts and will appeal the verdict, a lawyer told reporters outside the courtroom.
+Ott, who had been a director in his nation’s secret service, was accused of passing on classified information to Wirecard’s ex-chief operating officer Jan Marsalek and Russian operatives between 2017 and 2021. The intelligence related among others to former Russian spies and Bellingcat investigative journalist Christo Grozev, who has since left Austria for security reasons.
+He was also found guilty of handing over an encrypted laptop used by European Union officials to an unknown person on behalf of Marsalek, who ran a ring of Russian spies and is reportedly living in Moscow after fleeing prosecution.
+“I’m surprised that almost the highest penalty has been given to a person without prior conviction,” Ott’s lawyer Anna Mair said on Wednesday. “We will challenge the verdict in its entirety.”
+Ott’s conviction follows a lengthy court trial that included 40 witnesses and was closely followed in Austria due to the ex-intelligence officer’s alleged ties to the far-right Freedom Party.
+The centrist coalition in Vienna is preparing stricter rules on espionage to shed a reputation of being one of Europe’s largest hubs for covert operations. Current legislation only prohibits spying to the detriment of Austria, meaning intelligence officers are free to conduct operations against international organisations and foreigners.
 
 ====================================================================================================
 
-Early morning public transport strike planned for June 24
+Iran seeks more time for nuclear talks as Trump resists Netanyahu push for strikes
 Unknown
 Unknown Publisher
 2026-05-21
-06:37:10 UTC
-15:37:10 KST
+10:24:26 UTC
+19:24:26 KST
 
-Early morning public transport strike planned for June 24
-See more Dutchnews articles in your google search results
-Add as a favorite source on Google Add DutchNews as a favorite source on GooglePublic transport workers are to go on strike on June 24 to show their opposition to government plans to increase the state pension age and reduce unemployment benefits.
-The strike will affect trains, buses, trams and metro and will take place ahead of the morning rush hour, ending at around 8am, the FNV trade union federation said.
-The strike will cause problems for commuters who start work early or want to return home from night shifts.
-“We understand very well that travellers will face difficulties,” the union said. “But the cabinet refuses to listen to the concerns of workers. Our members see no other option other than to strike.”
-Other FNV affiliated unions are also planning to strike, including the port sector, as part of the campaign against government cuts.
-Thank you for donating to DutchNews.nl.
-We could not provide the Dutch News service, and keep it free of charge, without the generous support of our readers. Your donations allow us to report on issues you tell us matter, and provide you with a summary of the most important Dutch news each day.
-Make a donation
-
-====================================================================================================
-
-Iran threatens to take war beyond Middle East if strikes continue
-Unknown
-Unknown Publisher
-2026-05-21
-06:35:25 UTC
-15:35:25 KST
-
-Advertisement
-Iran threatens to take war beyond Middle East if strikes continue
-Iran has threatened to push conflict beyond the Middle East if the US and Israel continue strikes through a fraying ceasefire.
-Updated ,first published
-Loading
-Latest in Videos
-Advertisement
+Iranian officials have asked Pakistan for more time to assess and study U.S. negotiation points after Tehran said Washington had submitted a new proposal, Al Jazeera reported Thursday, citing a Pakistani source.
+The report came amid U.S. media reports that Israeli officials are frustrated that President Donald Trump is allowing Iran to drag out talks.
+The Pakistani source told Al Jazeera that “the army chief is still in Pakistan, and his visit to Iran depends on the outcome of the interior minister’s visit. Enriched uranium is the main point of dispute in the negotiations.”
+Al Jazeera correspondent Ali Hashem later reported that, according to his sources, Iran’s response to the U.S. proposal had not yet been delivered to Pakistan. Iran’s ISNA news agency, however, reported that “Iran is responding to the document sent by the United States.”
+According to ISNA, the U.S. document deals with a framework and steps for building trust between the sides. The report said the expected arrival of Pakistani army chief Asim Munir in Tehran was intended to narrow gaps and move the sides toward an official announcement on acceptance of a memorandum of understanding.
+Last month, Pakistan hosted U.S. and Iranian delegations for talks aimed at ending the war. The U.S. delegation was led by Vice President JD Vance, while the Iranian delegation was led by Parliament Speaker Mohammad Bagher Ghalibaf. The talks did not lead to an agreement.
+Ghalibaf and Iranian Foreign Minister Abbas Araghchi returned to Tehran, where they faced criticism from within the theocracy, suggesting they had shown too much willingness to compromise. Ghalibaf was later forced to state publicly that the talks had the support of Supreme Leader Mojtaba Khamenei.
+Since then, a regional official familiar with the mediation efforts said, Revolutionary Guard commander Ahmad Vahidi has become the main point man for Iranian representatives in the negotiations.
+Earlier, U.S. media outlets reported details of a tense phone call this week between Prime Minister Benjamin Netanyahu and Trump about Iran. The reports described sharply different approaches between the two leaders: Netanyahu argued that Trump’s decision to wait was a mistake, while the president said he wanted to give diplomacy more time.
+According to CNN, Netanyahu told Trump that further delay in striking Iran would be a mistake and urged him to proceed as planned. The report on the call was first published by Axios.
+The Wall Street Journal reported that Trump was not particularly persuaded by Netanyahu’s arguments and made clear he still supported diplomacy. The newspaper said Trump was seeking a deal that would prevent Iran from obtaining a nuclear weapon, while not ruling out renewed war later.
+CNN reported that Trump told Netanyahu he wanted to allow a few more days for a deal in order to save lives.
+Trump said he had accepted a request from Gulf leaders to give contacts with Tehran another chance, while also saying he had ordered the U.S. military to remain ready for an immediate “broad attack” if the talks fail.
+He later said he might wait “a few days” for Iran’s response. “We need to get the right answers,” Trump said.
 
 ====================================================================================================
 
