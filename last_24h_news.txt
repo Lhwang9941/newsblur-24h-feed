@@ -1,73 +1,40 @@
-INTERPOL arrests 201 suspects in largest cybercrime operation to date
+Freed Gaza flotilla activists allege Israeli abuse including rape
 Unknown
 Unknown Publisher
 2026-05-23
-08:21:58 UTC
-17:21:58 KST
+10:17:23 UTC
+19:17:23 KST
 
-The International Criminal Police Organization (INTERPOL) announced this week the successful completion of its largest cybercrime operation to date. Operation Ramz spanned across 13 countries in the Middle East and North Africa and resulted in the mass arrest of 201 individuals.
-Operation Ramz, which ran from October 2025 to February 2026, focused on neutralizing phishing and malware threats while tackling cyber scams that have imposed significant financial burdens in the region.
-The objectives of the operation included investigating and disrupting malicious infrastructure, identifying and apprehending suspects, and preventing future losses.
-In addition to the arrests, 382 additional suspects were identified, and 53 servers were seized during the operation. A total of 3,867 victims were identified throughout the investigation.
-According to INTERPOL's statement, nearly 8,000 critical pieces of data and intelligence were shared among the participating countries to facilitate ongoing investigations.
-INTERPOL collaborated with several cybersecurity partners during the operation, including Group-IB, Kaspersky, the Shadowserver Foundation, Team Cymru, and TrendAI, to track malicious cyber activities and pinpoint compromised servers.
-Operation Ramz highlights
-As part of Operation Ramz, infected devices in Qatar were identified and used to spread threats without the owners' awareness. Following the investigation, the affected systems were promptly secured, and the owners were notified to take necessary preventive measures.
-In Jordan, police uncovered a financial fraud operation involving a fake trading platform. Fifteen individuals involved were identified as victims of human trafficking, and two suspected organizers were arrested.
-Omani investigators discovered a vulnerable server located in a private residence that contained sensitive information. This server was infected with malware and had critical security flaws, leading authorities to disable it.
-Algerian authorities dismantled a phishing-as-a-service website, seizing a server, computer, phone, hard drives, and phishing scripts.
-Moroccan authorities seized devices and banking data linked to phishing operations, resulting in three individuals facing judicial proceedings, with further investigations ongoing for others.
-Neal Jetton, the Director of Cybercrime at INTERPOL, stated in the INTERPOL statement summarizing the operation, “In a world where cybercriminals exploit the digital landscape without borders, Operation Ramz demonstrates the effectiveness of global collaboration.”
-He added, “INTERPOL is dedicated to working with its member countries and private sector partners to dismantle malicious infrastructure, disrupt criminal groups, and bring perpetrators to justice.”
+One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.
+Freed Gaza flotilla activists allege Israeli abuse including rape
+Middle East
 
 ====================================================================================================
 
-Drone games put Ukraine's best military pilots to the test
+Russian operator saw funeral procession in Sumy on his screen and steered FPV drone into it, killing one person
 Unknown
 Unknown Publisher
 2026-05-23
-08:21:32 UTC
-17:21:32 KST
+10:16:37 UTC
+19:16:37 KST
 
-In the sky over western Ukraine, a bullet-shaped P1-SUN interceptor drone dived towards its target as dozens of soldiers looked on.
-A cheer went up as it cut through a tow line from another drone to a balloon, which drifted away.
-Ukraine's most skilled military drone pilots squared off this week not against Russia, but against each other in a competition to win bragging rights and state-of-the-art hardware for their units.
-Drone technology has transformed the war in Ukraine. Young men using video game consoles to operate strike drones packed with explosives - sometimes from command centers far behind the front line - are deeply feared by enemy soldiers.
-This week's "Wild Drones" competition - held in fields outside the spa town of Truskavets - gathered pilots from 19 of Ukraine's best units and manufacturers of drones used on the front line.
-"This is an opportunity for them to communicate with each other a little, to learn something or share something with someone, and to see from manufacturers what new products are available," said "Grey," the sergeant major of the Black Raven drone battalion of the 93rd Mechanized Brigade, an organizer of the event.
-He asked to be identified by his military call sign.
-Points for killing Russians
-Ukraine has promoted the "gamification" of the war. Last year, it introduced a points system for verified drone kills. Units can spend these points to purchase equipment on the military's DOT-Chain and Brave1 Market online platforms, nicknamed "Amazon for war."
-"It's a bit like choosing a car. They all do different things," said one soldier from the first battalion of the 22nd Separate Mechanized Brigade, who asked not to be identified.
-The system helps to motivate soldiers by fostering competition and ensuring resources are allocated efficiently to the best pilots, officials say.
-Russia's cash bonus system incentivizes the destruction of equipment. Ukraine's points system also rewards human targets, as Defense Minister Mykhailo Fedorov seeks to bleed Moscow's military by killing or seriously wounding 50,000 soldiers per month. Ukraine puts the current number of Russian soldiers killed or seriously wounded each month at about 35,000, a figure that Moscow denies.
-The event, founded two years ago, offered a break from the front line, where some participants have been deployed since Russia's invasion in 2022. There was a relaxed atmosphere, with a barbecue and networking party; some participants brought their wives and families.
-Participants request drone improvements
-Several officers said their units were in regular contact with drone manufacturers to request improvements.
-"It's a constant, ongoing process," said "Dym," the call sign of the commander of the about 400-strong Black Raven unit. "If we have one version of a drone today, in three months it could be a completely different drone."
-The growing flight range of drones is constantly expanding the "Kill Zone" - currently around 15 km (nine miles) either side of the front line - where soldiers and vehicles can quickly be attacked by drones.
-Several participants said that drones such as the Vampire heavy bomber - made by Ukrainian defense tech company Skyfall - were also being used to carry food, water, and medical supplies into the Kill Zone to reduce the number of humans deployed there.
-Winners in each category at the event received three Vampire drones, plus batteries and systems.
-A company spokesman, who asked to be identified by the call sign "Ares," said Skyfall had the capacity to produce more than 10,000 drones per day and was constantly receiving feedback from the frontline.
-"The biggest demand is automation, so fewer people can operate more drones," he said.
-
-====================================================================================================
-
-Sudanese military fires air-to-air missile from drone to kill drone
-Unknown
-Unknown Publisher
-2026-05-23
-08:17:44 UTC
-17:17:44 KST
-
-- Sudan's Armed Forces shot down an enemy combat drone using a Bayraktar Akıncı UCAV firing an air-to-air missile, per Clash Report footage.
-- The identity of the destroyed drone and the location of the intercept remain unconfirmed in available reporting.
-Sudan’s military shot down an enemy combat drone using one of its own unmanned aircraft, with the Sudanese Armed Forces deploying a Bayraktar Akıncı drone to fire an air-to-air missile and destroy the target, according to footage released by Clash Report.
-The engagement marks a notable moment in the ongoing Sudanese civil war, which erupted in April 2023 when fighting broke out between the Sudanese Armed Forces, the country’s official military, and the Rapid Support Forces, a powerful paramilitary organization that grew out of the Janjaweed militias responsible for mass atrocities in Darfur in the early 2000s. The conflict has since killed tens of thousands of people, displaced millions, and created one of the world’s worst humanitarian crises. Both sides have increasingly turned to armed drones as a primary strike and reconnaissance tool, making the skies over Sudan a contested domain in ways that would have been unthinkable when the war began.
-The Bayraktar Akıncı is Turkey’s most capable combat drone, built by Baykar, the Istanbul-based defense company that also produces the smaller and more widely known Bayraktar TB2. Where the TB2 is a medium-altitude system designed primarily for ground attack and reconnaissance, the Akıncı is a high-altitude, long-endurance platform built to carry heavier payloads and perform more demanding missions. It can reach altitudes above 40,000 feet, carry multiple air-to-ground and air-to-air weapons simultaneously, and operate with a high degree of autonomy. Sudan acquired the Akıncı as part of a broader push to build out its drone capabilities, and the Sudanese Armed Forces have used both TB2 and Akıncı systems extensively since the war began.
-The use of an air-to-air missile fired from a drone to destroy another drone is not a common occurrence on any battlefield, and the Clash Report footage showing this engagement draws attention for that reason. Traditional air defense relies on ground-based radar systems, surface-to-air missiles, or manned fighter aircraft to intercept aerial threats. Using an armed drone in a hunter-killer role against another drone represents a different approach, one that eliminates the need to task scarce ground-based air defense assets or put a manned aircraft at risk. The Akıncı carries the capacity to mount air-to-air missiles alongside its ground-attack weapons, a capability that Baykar has highlighted in its promotional materials but that has seen limited confirmed combat use until now.
-The identity of the drone that the Sudanese Armed Forces shot down remains unconfirmed in the Clash Report footage. The Rapid Support Forces have operated various unmanned systems throughout the conflict, with Iranian-made drones reported among the types in their inventory, though independent verification of specific RSF drone acquisitions has been difficult given the war’s information environment.
-Sudan’s civil war has become one of the most intensive drone warfare environments outside of Ukraine and the Middle East. Both the Sudanese Armed Forces and the Rapid Support Forces have used armed drones to strike urban areas, military positions, and infrastructure targets throughout the country. The RSF’s advances into Khartoum and other major cities in 2023 and 2024 were tracked and contested in part through aerial surveillance, and drone strikes have been documented in Darfur, Khartoum State, and along major axes of ground fighting. The conflict has effectively become a live testing ground for drone tactics in a sub-Saharan African context, with both sides adapting quickly to each other’s aerial capabilities.
+A Russian drone struck a funeral procession on the outskirts of Sumy on 22 May with a FPV drone. The attack killed one man and wounded nine others, the heads of the Sumy Regional and Sumy City Military Administrations reported.
+The strike landed the same day Ukraine's Office of the Prosecutor General released cumulative documentation of more than 11,000 small-drone attacks on Ukrainian civilians since 2024.
+Drone strike near bus carrying mourners
+The drone struck the roadway next to a bus carrying mourners, Sumy Oblast Governor Oleh Hryhorov and Sumy City Military Administration head Serhii Kryvosheienko said.
+The initial wounded count of four rose to nine across the day. One severely wounded man was operated on and given resuscitation, but died in the hospital. His identity is being established.
+Hryhorov warned of "the threat of repeat attacks from the enemy" and urged residents not to ignore air-alert signals.
+Medics unable to save critically wounded victim after Sumy strike
+The funeral procession was traveling outside the city when the drone struck the roadway adjacent to the bus, Kryvosheienko said.
+Initial reports listed four wounded, one in critical condition. The casualty figure rose to nine wounded as additional victims were located and assessed.
+Four were treated as outpatients, two were in critical condition undergoing surgery and resuscitation, and one — the man receiving the most severe wounds — died in hospital.
+"Unfortunately, a man who received critical wounds from the Russian strike on the funeral procession in Sumy has died in hospital. Medics did everything possible to save his life," Hryhorov said.
+Documented pattern of war crimes
+Sumy Oblast has been among the most consistently targeted regions in Russia's drone campaign against civilians.
+In February 2026, Russian drones dropped explosives on civilians outside the Znob-Novhorod community, killing four, and then deliberately targeted the ambulance evacuating the wounded with a second drone, killing the patients inside and leaving only the ambulance driver alive with severe burns.
+Sumy city has been struck repeatedly in April and May 2026 with attacks targeting residential buildings, industrial facilities, hospitals, and infrastructure.
+Per the Prosecutor General's documentation released this morning, drone-attack criminal proceedings nationwide grew from 2,427 in 2024 to 6,771 in 2025, and have reached 2,010 in just the first four months of 2026 with prosecutors registering up to 45 to 50 new drone-attack proceedings per day in peak periods.
+The Prosecutor General's Office classifies the documented pattern, including the deliberate targeting of medical personnel and emergency responders that is specifically prohibited under the Geneva Conventions, as war crimes.
 
 ====================================================================================================
 
