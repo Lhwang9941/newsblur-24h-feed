@@ -1,17 +1,113 @@
-BAE upgrades Link 16 test capability for F-16s
-United Kingdom
+High Court to hear petitions against Galatz closure as A-G warns of wider threat to free press
+Unknown
 Unknown Publisher
 2026-05-24
-12:00:59 BST
-20:00:59 KST
+13:00:36 UTC
+22:00:36 KST
 
-BAE Systems has completed the development and integration of an upgraded Link 16 test capability for Multifunctional Information Distribution System Joint Tactical Radio System terminals on U.S. Air Force F-16 aircraft, the company stated.
-The upgrade centres on a new automated test solution integrated onto two existing avionics intermediate shop platforms, enabling on-site validation of MIDS JTRS terminals at customer bases. BAE Systems said the solution streamlines the maintenance process, allowing aircraft to return to operation faster and reducing the need to purchase additional parts.
-Meg Redlin, product line director for Advanced Mission Solutions at BAE Systems, described the development as “a major milestone in our efforts to support the U.S. Air Force’s modernization efforts,” adding that “providing more fidelity in testing with tactical navigation functions will enable U.S. forces and allies to rapidly diagnose failures and validate the operational status of their MIDS JTRS terminals on-site, increasing the availability of their aircraft and reducing maintenance downtime.”
-According to the company, the system provides emulators and software that pass diagnostic information to aircraft maintainers, improving line-replaceable recovery rates and enabling on-site testing without requiring components to be sent elsewhere for assessment. The upgrade also offers greater performance compared to the previous MIDS Low Volume Terminal test for F-16 aircraft.
-Link 16 is a NATO-standard encrypted tactical data link used to share real-time information across sea, ground and air assets. MIDS JTRS is a four-channel software-defined radio designed to run the Link 16 waveform alongside up to three additional communications protocols, providing jam-resistant voice, video and data connectivity. The Department of War is fielding MIDS JTRS across the F-15, F-16, F/A-18 and F-22 aircraft fleets, as well as on ship and command and control assets.
-Tactical data link availability has become an increasingly critical factor in modern air operations, where the ability to share situational awareness rapidly across a distributed force is central to how Western air forces intend to fight. Delays caused by avionics maintenance backlogs can directly affect the number of Link 16-equipped aircraft available at any given time, making faster on-site testing a practical operational concern rather than simply a logistics efficiency measure.
-BAE Systems said work on the upgraded test equipment takes place at its facilities in San Diego, California and Wayne, New Jersey. The company has been designing and manufacturing test solutions for military and commercial applications for 45 years, with more than 700 stations delivered and fielded across 25 countries.
+The High Court of Justice is set to convene on Tuesday for a follow-up hearing on petitions against the government’s decision to close Army Radio, as Attorney-General Gali Baharav-Miara argued that the move cannot be viewed as a narrow decision about one military station, but as part of a wider government effort affecting Israel’s free press.
+The hearing will be held before Justices Dafna Barak-Erez, Alex Stein, and Yechiel Kasher, after the court ordered the government in February to explain why its December decision to shutter the 75-year-old station should not be canceled.
+The court’s conditional order focused on the way the decision was made, rather than only on whether the government had the authority to make it. The decision was originally set to take effect on March 1, but was frozen by an interim court order pending judicial review.
+Baharav-Miara did not file a new substantive position ahead of Tuesday’s hearing, instead telling the court that her January response should be treated as her main arguments.
+In that position, the attorney-general said the decision to close Galatz suffers from fundamental legal defects: first, because such a major change to Israel’s media landscape should be anchored in primary legislation, and second, because the decision-making process itself was flawed.
+The case concerns a government decision approved on December 22, 2025, which ordered the closure of Army Radio and the end of its broadcasts within roughly two months.
+The station reaches close to one million listeners a day
+The move followed recommendations by an advisory committee appointed by Defense Minister Israel Katz.
+The government has argued that Army Radio is an anomaly: a military unit, funded by the state, that also operates as a national news and current-affairs broadcaster. Katz has argued that there is no justification for a military station to engage in political and public affairs broadcasting.
+But Baharav-Miara argued that Galatz, whatever its unusual origins, has long since become part of Israel’s public broadcasting system.
+According to estimates cited in her filing, the station reaches close to one million listeners a day and is one of only two nationwide Hebrew public radio stations with a full news desk and current-affairs programming.
+That, she argued, means the government cannot treat its closure as a simple internal military or administrative matter.
+In plain terms, the attorney-general’s argument is this: When the government wants to remove a major public media outlet from airwaves, especially one that broadcasts news and criticism of the government and the military, it must do so through the Knesset and after a serious, careful process - not through a cabinet decision passed on a short timetable.
+Her position, however, also places the closure inside a much broader context. The Attorney-General warned that the decision comes amid a series of government and legislative moves affecting Israeli media, including efforts concerning the public broadcaster, commercial news regulation, and government conduct toward media outlets critical of it.
+She argued that these moves, taken together, raise serious concerns over pressure on independent journalism and could create a chilling effect on other media bodies.
+The attorney-general’s position does not deny that Galatz is unusual. On the contrary, she acknowledged that a military station broadcasting news and criticism of the government and army is an “anomalous” product of Israel’s history.
+But, she argued, that history also matters. After more than 75 years, Galatz is no longer only a military unit. It is also a functioning public broadcaster, part of what she described as the “ecosystem” of Israeli journalism.
+Katz adopted the harsher option
+The government’s decision also came after a previous committee, appointed in 2023 by then-defense minister Yoav Gallant and headed by then-Defense Ministry director-general Eyal Zamir, recommended keeping the station inside the IDF while introducing reforms meant to reduce the tension between its military framework and journalistic work.
+Baharav-Miara argued that those reforms were still being implemented when Katz appointed a new committee in 2025, which ultimately recommended either closing the station’s news and current-affairs division or closing the station entirely.
+Katz adopted the harsher option.
+The petitioners argue that this sequence matters. Their claim is not only that the government reached the wrong outcome, but that it failed to properly explain why one professional process was abandoned and replaced by another that reached the opposite conclusion within a short time.
+A separate petition filed by the Army Radio workers’ committee and the Histadrut labor federation focuses on the employees who would be directly affected by the closure.
+According to their filing, Galatz employs 84 civilian IDF workers, including journalists, editors, technicians, and producers, some of whom have worked at the station for decades. The filing also said that some 50 additional workers are employed as consultants.
+For those employees, the petitioners said, the government decision means dismissal and loss of livelihood.
+The workers’ committee and Histadrut argued that the state, acting both as sovereign and as employer, was required to consult meaningfully with workers’ representatives before making such a decision. They said that did not happen.
+According to their filing, the government did not present the workers with a real closure plan, did not examine alternatives with them, and did not hold substantive negotiations before approving the move.
+They argued that one worker’s representative was briefly heard in a way that amounted to “marking a V.”
+The workers’ petition also claims that the advisory committee’s process was tainted by prior public statements made by some of its members against Galatz.
+The petitioners cited, among other things, alleged comments and reposts portraying the station as hostile to the state. Those claims are presented by the petitioners as evidence that the committee had effectively reached its conclusion before properly examining the issue.
+The government’s full position for Tuesday’s hearing had not yet been filed.
+The court said earlier that the government must explain how the decision was formulated, what considerations were weighed, and whether the process met the standards required of administrative action.
+That means Tuesday’s hearing is expected to focus less on whether Galatz should exist in its current form, and more on a more basic question: whether the government did the work required before deciding to shut down a national broadcaster, silence a major public media outlet, and send dozens of workers home.
+
+====================================================================================================
+
+High Court to hear petition against Levin over Judicial Selection Committee freeze
+Unknown
+Unknown Publisher
+2026-05-24
+13:00:36 UTC
+22:00:36 KST
+
+The High Court of Justice will convene at 4 p.m. Sunday for a follow-up hearing on Justice Minister Yariv Levin’s handling of the Judicial Selection Committee, as dozens of judicial posts remain empty and the election clock threatens to freeze the process altogether.
+The hearing, before Justices Ofer Grosskopf, Alex Stein, and Gila Canfy-Steinitz, centers on whether Levin can continue advancing appointments in stages of his choosing, or whether the court should order him to bring vacancies across the judiciary to a vote.
+The petition was filed by the Movement for Quality Government in July 2025. It asks the court to compel Levin, who chairs the committee, to convene it for appointments needed throughout the court system.
+Levin says he has not neglected the issue. In an affidavit filed last week, he said he had already advanced nearly 200 appointments of judges and registrars through broad agreement, and was now moving “urgently, efficiently and decisively” to fill trial-court vacancies.
+The petitioners say that is not enough. They argue that Levin has unlawfully tied further appointments to a broad consensus among committee members, even where the law does not require it, leaving large parts of the judiciary short-staffed.
+Election timeline narrows window for judicial appointments
+The case has become more urgent as elections approach. Candidates’ names must be published in the state gazette 45 days before the Judicial Selection Committee can vote on them. Once the election period begins, ordinary appointments are generally frozen, leaving only a narrow window to complete the process.
+In February, the High Court issued a conditional order requiring Levin to explain why he would not convene the committee to fill vacant judicial posts across all levels of the judiciary. After a May 3 hearing, the justices ordered him to provide a timetable for appointments in the magistrates’ and district courts, rejecting his partial update as insufficient.
+Levin’s latest affidavit lays out a limited plan. He said that after the war with Iran and the home-front emergency delayed the process, he asked committee members on April 17 to submit candidates for vacant posts and set June 7 as the first possible meeting, given the 45-day publication requirement.
+He said he then decided to prioritize juvenile, traffic, and family courts, as well as magistrates’ court vacancies in the North and Haifa districts. Candidate lists for 36 positions were published on May 10, with committee meetings set for June 25 and June 30. Additional lists were published on May 17 for magistrates’ courts in the South and for senior registrar posts nationwide.
+Levin said this amounted to a major response to the system’s needs. He blamed the earlier delay on a minority of committee members, saying efforts to reach an agreed list of appointments had been “torpedoed” by some Israel Bar Association representatives.
+But Levin also acknowledged that the approaching election creates “real difficulty” in completing the work needed for district court and labor court appointments before the Knesset is dissolved. As an interim step, he said he was seeking temporary appointments to the Haifa and Beersheba district courts from a list supported by most committee members.
+The affidavit also made clear that Levin does not intend to convene the committee to appoint Supreme Court justices “as long as the veto imposed by some committee members on his candidates is not removed.” Since Supreme Court appointments require seven of the committee’s nine members, Levin argued there is no point in convening the committee if the required majority cannot be reached.
+Court shortages grow amid fight over appointments
+The Movement for Quality Government, in its Wednesday response, said Levin’s position proves the problem rather than solves it. The group argued that the law does not give Levin, or any other committee member, a veto over appointments, and does not allow him to refuse to convene the committee until all members agree in advance.
+MQG also argued that Levin’s plan ignores major shortages already known to him, including four vacancies in the Tel Aviv District Court, three in the Central and Jerusalem district courts, seven in the Central Magistrate’s Court, and five in the Tel Aviv Magistrate’s Court.
+According to earlier state figures cited in the case, 51 judicial posts are currently vacant across the system, with another 15 expected to open by the end of 2026. The Courts Administration has warned that the shortage is delaying hearings, slowing urgent decisions, pushing back cases, and increasing the burden on sitting judges.
+Levin warned the High Court against turning the conditional order into a final order, saying such a ruling would not only interfere with his authority to convene the committee but would also dictate the committee’s agenda, timetable, and method of selecting judges. In practice, he argued, it would turn the Supreme Court into the committee’s chair.
+MQG rejected that framing, saying Levin’s staged approach would allow him to leave major vacancies unresolved until the next Knesset, when a controversial amendment changing the committee’s composition is set to take effect. The amendment, passed in March 2025, increases political influence over judicial appointments, but applies only from the next Knesset.
+Sunday’s hearing is expected to turn on whether Levin’s publication of some candidate lists and scheduling of limited meetings is enough to satisfy his legal duty, or whether the court will impose a firm timetable before the election period closes the window for appointments.
+
+====================================================================================================
+
+Iran’s oil gamble could turn Gulf attrition into Tehran’s own nightmare - opinion
+Unknown
+Unknown Publisher
+2026-05-24
+13:00:33 UTC
+22:00:33 KST
+
+Can Iran turn the Gulf into a long attrition arena without itself becoming the most attrited party?
+Since the current round of fire erupted, the mullah regime has consciously chosen a sustained low-intensity campaign: ballistic missiles, drones, and scattered strikes on energy facilities, ports, and military and civilian targets. This calibrated escalation guarantees noise but stops short of all-out war.
+Behind this image lies a clear bet on gradually wearing down adversaries, raising the cost of defense, and keeping energy and financial markets in a state of permanent anxiety that pushes major capitals to press for de-escalation.
+This equation, however tempting on paper, conceals a highly dangerous contradiction: Iran is squeezing the oil card against the Gulf and the West, yet it ultimately depends on the continued sale of its own oil as the last real artery of hard currency.
+The truth, the part less present in public discussion, is that the most important customer for Iranian oil is not the West but China.
+Beijing now accounts for the largest share of Iranian seaborne crude exports, averaging between 1.3 million and 1.4 million barrels per day, while independent Chinese refineries have built a large portion of their profitability on discounted Iranian crude, alongside Russian oil.
+Although this pattern of single-buyer dependence gives Tehran an important financial resource, it simultaneously creates a serious structural fragility. Any prolonged disruption to exports would not be a passing crisis but a direct threat to the Iranian economy’s ability to breathe.
+Without a doubt, any large-scale strike targeting Iran’s export terminals, from Khuzestan to Kharg Island, will not just be a problem for Tehran; it will instantly turn into a supply crisis and financial pressure on those refineries, which already operate on thin profit margins.
+On the other hand, Pakistan, which benefits to varying degrees from Iranian oil through official and unofficial channels, possesses neither the economic nor the military capacity to serve as a genuine guarantor of this artery.
+The hard truth is that, in the end, the ceiling of partners is set by the energy bill and the stability of supplies, not by speeches of political solidarity.
+Here begins the paradox that seems absent from much of the hysterical Iranian propaganda discourse. Tehran sometimes behaves as if targeting Gulf energy facilities can remain a one-sided game, as if opening the door to oil attrition will not alter the rules of engagement. But reality says something entirely different.
+The party that legitimizes the targeting of its adversaries’ oil infrastructure gradually loses the political, moral, and even operational capacity to object when its own oil facilities become part of the target bank.
+Certainly, this is not a rhetorical matter but the cold, harsh logic of wars. Targeting energy facilities does not produce permanent superiority; rather, it creates a state of mutual vulnerability to legitimate retaliatory reaction.
+With each new wave of attacks, the red lines that once separated conventional military warfare from warfare against economic arteries erode.
+Consequently, at that point, the conflict ceases to be a mere exchange of missiles and defensive interceptions and turns into an open battle over the very ability to export oil and protect the economy.
+Cheap drones vs expensive interceptors
+On the tactical level, Tehran also bets on the dilemma of asymmetric deterrence. A cheap drone or a short-range missile can exhaust an expensive interceptor missile, and each wave of attacks imposes high defense spending, partial disruption of airports and ports, and market anxiety.
+But the goal here is not limited to direct military pressure – it extends to internationalizing the cost of the conflict by turning energy turmoil into a global crisis that drives major powers to seek a quick settlement.
+Yet this Iranian game collides with three realities that are difficult to ignore. A sanctioned economy cannot endure a prolonged war of attrition targeting its oil facilities. China wants cheap and stable oil, not chronic chaos that threatens supply security and raises global energy costs.
+Meanwhile, Iran’s adversaries now possess a broader political and military justification to increase pressure on Iran’s own instruments of power, the more Tehran expands its targeting of vital Gulf assets.
+The Iranian leadership may bet that Beijing will not allow a complete collapse of Iran’s export capacity. This bet contains a grain of truth, no doubt. China will apply political pressure to prevent a total explosion. But it is not an ideological ally ready to pay any price.
+China is a pragmatic state that measures its relationships by supply figures and balance sheets, not by axis rhetoric and revolutionary slogans. Within months, it can rebalance its imports toward Russia, the United Arab Emirates, Saudi Arabia, Iraq, and Africa, albeit at a higher cost.
+China certainly realizes that its loss would be financial and negotiating leverage. But it will not turn into an existential threat.
+For Iran, however, losing its export capacity for an extended period could become a shock that touches the regime’s stability itself and closes off its last effective artery of hard currency.
+The problem with wars of attrition is that they rarely remain under the full control of those who start them. With each new horizontal escalation, and with every movement of the war from the military field to the economic infrastructure of energy and trade, the likelihood increases of sliding into a stage where everyone loses the ability to control the ceiling of escalation.
+When wars reach the stage of targeting oil arteries, the question is no longer how many missiles were launched or how many drones were intercepted, but which economy possesses the real capacity to endure a prolonged hemorrhage in its vital structure.
+In the end, Tehran may discover too late that the attrition it intended for its adversaries on the other shore of the Gulf has begun to leak from within itself.
+The message is that Iran, which builds a large part of its financial survival on oil exports, cannot turn energy into an open weapon without its own oil facilities becoming legitimate targets in the eyes of its adversaries.
+Wars that begin by targeting energy flows rarely end at the boundaries of political messages, because they rapidly turn into a struggle over the very capacity for economic survival.
+The writer is a UAE political analyst and former Federal National Council candidate.
 
 ====================================================================================================
 
