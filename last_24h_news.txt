@@ -1,59 +1,80 @@
-How has China’s year-long law enforcement campaign changed local governance?
+Mozambique: Are "Death Squads" targeting the opposition?
 Unknown
 Unknown Publisher
 2026-06-01
-04:00:06 UTC
-13:00:06 KST
+10:06:00 UTC
+19:06:00 KST
 
-How has China’s year-long law enforcement campaign changed local governance?
-The nationwide campaign uncovered more than 66,000 problematic cases in the application of administrative laws, officials said
-Authorities said more than 300,000 unqualified law enforcement personnel were removed or reassigned, while over 400,000 unnecessary enforcement items were scrapped in the nationwide campaign, which ended in March.
-The push to standardise business-related administrative law enforcement came amid mounting official concern that inconsistent and heavy-handed practices by local authorities were undermining legal consistency, weakening enforcement credibility and disrupting Beijing’s push to build a unified national market.
-The campaign targeted issues that had long plagued entrepreneurs and private businesses, including what Beijing described as the “four disorders” in administrative enforcement.
-These disorders – arbitrary charges, excessive fines, abusive inspections and unlawful seizures – had increased operating burdens on companies and undermined fair market order, officials said.
+Mozambique: Are "death squads" targeting the opposition?
+June 1, 2026On May 9, 2026, Anselmo Vicente, coordinator of the ANAMOLA party in Chimoio, in Mozambique's central Manica province, was shot dead outside his home. According to police, he was killed while "returning home from a party meeting."
+Just days later, on May 15, another ANAMOLA member, Pedro Chauke, was also and killed in his home in the southern Gaza province. Witnesses described the perpetrators as "ruthless and professional."
+Both cases illustrate an growing wave of violence targeting opposition figures across the country. Particularly affected are supporters of the National Alliance for a Free and Autonomous Mozambique (ANAMOLA), founded by opposition politician Venancio Mondlane after the disputed elections of October 9, 2024.
+Mondlane accuses Mozambican state of lethal violence
+ANAMOLA leader Mondlane told DW the government, judiciary and security forces were "at least partly responsible" for the violence against his supporters. Since the party's founding in August 2025, 56 members had been killed, he said. ANAMOLA has also documented 436 incidents of violence, including assaults and arson attacks.
+Mondlane, who has described the2024 election as rigged and led nationwide protests, spoke of deliberate political repression: "The government is complicit in these murders."
+He said his party had submitted evidence to the authorities — so far without consequences.
+Activists report increasing intimidation in Mozambique
+For years, allegations have circulated in Mozambique about so-called death squads, allegedly targeting state critics. During the civil war between the ruling FRELIMO party and RENAMO rebels from 1977 to 1992, both sides committed serious human rights abuses and political killings.
+Since around 2015, activists, journalists and human rights organizations have reported on the alleged presence of organized groups within the security forces which are accused of intimidating or murdering opposition figures and critical voices.
+The allegations are directed mainly at police units and other security agencies said to have close ties to the ruling FRELIMO party.
+Maputo rejects responsibility
+Dias Letela, spokesperson for the FRELIMO parliamentary group, said the incidents were "isolated cases" to be addressed through the judicial system.
+The goal, he said, should be "to bring those responsible before the courts."
+The government completely distances itself from the killings.
+Fear grows among Mozambican opposition
+ANAMOLA currently has no representation in parliament, where FRELIMO — in power since independence in 1975 — holds 171 of the 250 seats. But nervousness is also growing among the three opposition parties currently represented in parliament: PODEMOS (Optimist Party for the Development of Mozambique), RENAMO and MDM (Democratic Movement of Mozambique).
+MDM politician Judite Macuacua told Mozambican parliamentarian the situation was a systemic problem. Critical voices, she said, are ruthlessly suppressed by the former Marxist liberation movement FRELIMO — if necessary through violence: "Anyone who refuses to follow the official line may face a death sentence in Mozambique."
+An attack on Mozambican democracy
+Civil society groups are demanding independent investigations into the murders and attacks against opposition politicians.
+"In Mozambique, there is an extremely high level of political intolerance and violence," says Adriano Nuvunga, director of the Centre for Democracy and Human Rights (CDD) in Maputo. "This was already the case under the one-party state and has not fundamentally changed since the introduction of a multi-party system in 1990. FRELIMO still does not tolerate dissent."
+Nuvunga adds: "What we are witnessing here is not merely a democratic deficit or state failure. We are dealing with what is effectively a criminal state."
+He argued that the attacks were state-organized: "There are death squads in Mozambique. And these death squads are deployed by the state. They kill in order to spread fear, destroy the opposition and discourage people from political participation."
+Murders of Mozambican opposition members go unsolved
+DECIDE, a Mozambican NGO, has recorded a dramatic rise in political violence since the last elections. Spokesperson Wilker Dias accused the government of controlling the judiciary and the prosecutor's office. His organization, he said, had repeatedly reported specific cases — without any visible investigative progress.
+"We are talking about murders of members of political parties, but also assaults, arbitrary arrests and other forms of political persecution," Dias told DW.
+That police and judicial authorities have failed to solve many of the cases, he said, suggests members of so-called death squads may be involved. "The most plausible hypothesis is that these attacks are politically motivated."
+Growing concern over politically motivated killings in Mozambique
+The Mozambican Bar Association (OAM), long considered close to the government, has voiced similar concerns. In an official statement, it described the recent politically motivated killings as a "serious attack" on life and democracy and called for "really independent investigations."
+The Mozambican state, the association said, appears unable to fulfill one of its most fundamental duties: guaranteeing the security of its citizens.
+For human rights activist and lawyer Wilker Dias, strong public statements such as the OAM's are a sign that growing resistance against political violence and repression is emerging in Mozambique.
+This article was adapted from German
 
 ====================================================================================================
 
-Future networks will not be built on yesterday’s rules
+Globally Deployed, Combat Proven – All Platforms, All Weapons, One Solution
 Unknown
 Unknown Publisher
 2026-06-01
-04:00:00 UTC
-13:00:00 KST
+10:05:00 UTC
+19:05:00 KST
 
-Europe is standing at a strategic crossroads. We can continue to regulate connectivity as if it were a narrow technical sector. Or we can finally treat it for what it is: the backbone of Europe’s economic security, industrial competitiveness and technological sovereignty. The Digital Networks Act (DNA) must be the moment Europe chooses the second path. Unless we fix key parts of the current draft law — while maintaining its objectives and spectrum measures — this will not happen.
-For too long, Europe’s connectivity debate has been framed through yesterday’s questions: more obligations, more fragmentation, more sector-specific rules, more intervention in markets already struggling to generate the scale and returns needed for long-term investment. But the world around us has changed dramatically.
-Europe cannot afford to be the continent that speaks the language of digital sovereignty while weakening the infrastructure on which sovereignty depends.
-DNA as the European response to a global competitiveness challenge
+Today’s armament maintainers are tasked with performing flightline (O-Level) maintenance with an assortment of legacy test sets that greatly limit the ability to quickly and efficiently verify armament system readiness, diagnose failures, and ultimately return the aircraft to full mission capable (FMC) status. Legacy test sets are typically utilized on only a single aircraft, or perform a single function supporting multiple aircraft, resulting in increased training and logistics challenges, and longer than necessary test and repair times. This not only impacts armament maintainer effectiveness, but limits the realization of Agile Combat Employment (ACE) and the development of Mission-Ready Airmen.
+The need for a universal armament test solution, one that is easy to use, portable and rugged, with rapid test and setup times, and common across all platforms and weapons, has become readily apparent and increasingly in demand on the flightline. Working closely with armament maintainers from across the globe, both DOD and ally, Marvin Test Solutions (MTS) identified key functionality and capabilities essential to supporting legacy, current, and future generation platforms and weapons systems. The outcome of this effort resulted in the widely deployed and combat proven MTS-3060A SmartCan™ Universal Armament Test Set. It has become the universal solution for eliminating the burden of multiple, aircraft-specific test sets on the flightline—delivering a standard.
+A typical SmartCan kit, with all associated cables and adaptors contained in a single carry case, can replace the flightline test capabilities of over a dozen test sets across USAF fighters and UASs. It can also support a broader implementation to include bombers and surface-to-air defensive systems as needed. See Table 1 for additional details.
+All fielded aircraft, manned and unmanned, rotary and fixed wing, can be loaded onto a single SmartCan, eliminating the traditional deployment model of using multiple aircraft-specific armament test sets on the flightline. Test results and measurement variances for each weapon are displayed real-time for review, analysis, and fault-isolation. Additionally, test log files can easily be moved or copied for printing and analysis, supporting emerging predictive maintenance initiatives.
+Unlike legacy handheld test sets that are only capable of performing stray voltage and continuity tests, the SmartCan implements functional/active MIL-STD-1760 testing to ensure armament systems are ready to support Smart weapons, before they are loaded. Coupled with munitions communication channels supporting all existing weapons protocols, it provides a full system test for all legacy and Smart weapons. It performs both pre-load and functional checkouts, the testing of multiple squib signals, and implements a cross-fire test process superior to all other O-Level armament test sets in service today.
+In addition, SmartCan supports a 4-year calibration cycle dramatically reducing sustainment burdens. This feature, combined with flexible software updates and multi-weapon capabilities, ensures continued relevance for future-generation platforms and munitions.
+The rugged design, ergonomic layout, and small footprint enables field operation anywhere in the world, making it the ultimate tool for flightline armament test. It is designed and qualified to operate under extreme environmental conditions, meeting MIL-PRF-28800F Class 1, MIL-STD-810C and MIL-STD-461F requirements. Battery operation further enhances field usability; any AA batteries and an innovative power management system enable over 40 hours of test time without the need to replace the batteries.
+Test setup and execution times are also significantly improved, and the results are striking! F-16 setup times are reduced by an impressive 91% decrease. Similarly, test execution times for a pylon utilizing MIL-STD-1760 and a LAU-129, tested for both AIM-120 and AIM-9X, saw substantial reductions of 85%, and an 89% reduction respectively. See Table 2 for additional details.
+Advanced cybersecurity features and protections further differentiate the SmartCan, making this the most cyber-secure O-Level armament test set. Data encryption, a custom operating system, NIST Certified software for Test Program Set (TPS) development, and a removable secure data (SD) card all contribute to the enhanced cybersecurity of this test set. Its design ensures no sensitive data remains on the unit when the card is removed, meeting stringent DOD information assurance standards.
+The ability to streamline TPS development and release cycles is another unique advantage of the SmartCan. ATEasy™ and SmartCanEasy create a powerful integrated TPS development environment.
+Deployed on 15 platforms, in 22 countries, the SmartCan has also been endorsed by Lockheed Martin and the USAF F-16 System Program Office with SERD #75A77 and granted cybersecurity authority to operate (ATO). Additionally, it was successfully evaluated during AFWERX’s Agile Combat Employment CASE initiative. Its performance continues to demonstrate unmatched versatility, cyber resilience, and operational efficiency across allied forces worldwide
+SmartCan is the most advanced O-Level armament test set available, capable of testing all Alternate Mission Equipment (AME) and Aircraft Armament Equipment (AAE) including pylons, launchers, bomb racks, guns, and pods. It delivers: the quickest setup and execution times with reduced training needs, a small logistics footprint, enhanced cybersecurity, and superior active armament test capabilities—all designed to maximize warfighter readiness and combat effectiveness.
 
 ====================================================================================================
 
-‘Undermines the country’s long-term future’: More than half of Australia’s universities dive in global rankings
+Even Europe under threat from Israel’s expansionist project, Iranian diplomat warns
 Unknown
 Unknown Publisher
 2026-06-01
-04:00:00 UTC
-13:00:00 KST
+10:04:35 UTC
+19:04:35 KST
 
-‘Undermines the country’s long-term future’: More than half of Australia’s universities dive in global rankings
-More than half of Australia’s universities have plummeted in global rankings thanks to years of inadequate funding and “the devaluation of science and education as public goods” harming the country as a whole, says the Center for World University Rankings.
-The University of NSW and the University of Melbourne maintained their positions at the top of the heap, ranking No.52 and No.64 two years in a row. The Australian National University dropped from 90 to 93, the University of Sydney fell from 94 to 100 and the University of Queensland rounded out the top five at 103 for the second year running.
-World rankings are a major factor for many international students’ choice about where to study, and those students are a major funding source for Australia’s tertiary institutions.
-Sydney’s universities were a mixed bag – the University of Technology, Sydney moved up from 314 last year to 308 in 2026, Macquarie University sank from 341 to 344, the Australian Catholic University rocketed from 919 to 900 and the University of Western Sydney rose from 487 to 488.
-In Melbourne, Monash University improved from 117 to 113, Deakin University moved up 11 places to 354, RMIT lifted from 424 to 417, La Trobe University went from 460 to 463, Swinburne University of Technology improved from 499 to 497 and Victoria University dropped from 1105 to 1163.
-The rankings come as Australian universities face a reckoning, with major changes coming to domestic students’ funding, huge reliance on international students as the government seeks to curb their numbers, the changing role of AI for teaching and learning and revelations this week about a class size crisis.
-Gwilym Croucher, deputy director of the Centre for the Study of Higher Education at the University of Melbourne, said that the global education landscape was becoming more competitive.
-“The short story is, we are pretty lucky to have the Australian unis. Much of the news from overseas is grim,” he said.
-Elsewhere in the world, the United States’ Harvard University, Massachusetts Institute of Technology and Stanford University topped the global rankings, followed by the United Kingdom’s Cambridge University and Oxford University.
-Ninety-eight per cent of China’s universities rose in the rankings, led by Tsinghua University at number 36, with the centre attributing China’s success to continued investment in higher education.
-Dr Nadim Mahassen, president of the Center for World University Rankings, said successive Australian government funding failures had devalued universities and education.
-“Australian universities are struggling to deliver high-quality education, attract and retain talent, and produce quality research at scale,” Mahassen said. “This is not just an academic problem but a national one because the erosion of Australia’s higher education system undermines scientific development, innovation, and the country’s long-term future.”
-Education Minister Jason Clare said that universities “are not just about rankings. They should be about students”.
-“We’ve got a good higher education system in Australia, but the truth is it can be a lot better and a lot fairer.”
-Sydney University science student Darshan Jones, who is in his fourth year, said his course offered “lots of important things to learn”.
-First-year students Angelica Ryan and Eleanor Talevi have enrolled in extra-curricular activities to bolster what they learn in the classroom. Ryan, who is studying pharmacy, said: “I feel like we’ve both been pretty involved in the societies, [including] the science society.”
-- with Daniel Lo Surdo
-Start the day with a summary of the day’s most important and interesting stories, analysis and insights. Sign up for our Morning Edition newsletter.
+TEHRAN, June 1. /TASS/. The Jewish state’s expansionist project, titled 'greater Israel,' is posing dangers not only to neighboring countries but also to Europeans, Iranian Foreign Ministry Spokesman Esmaeil Baghaei said.
+"Even the Europeans are not safe, because the Zionist regime (Israel - TASS) does not hesitate to openly declare its colonial and racist ambitions in forms such as 'greater Israel,'" he said at a news conference.
+The Iranian diplomat called on all countries to remain vigilant without turning a blind eye to Israel’s "aggressive and expansionist actions."
+On April 18, Turkish Parliament Speaker Numan Kurtulmus said that Israel’s main goal in the Middle East was not Iran. According to him, the Jewish state is pursuing the biblical idea of expanding from the Nile to the Euphrates, including Turkish territory.
+The United States and Israel started a war with Iran on February 28. Major Iranian cities, including Tehran, came under attack, after which the Islamic Revolutionary Guard Corps announced a large-scale retaliatory operation against Israel. US military facilities in Bahrain, Jordan, Iraq, Kuwait, Qatar, Saudi Arabia, and the UAE were also targeted. Iranian authorities additionally announced restrictions on vessels linked to the United States, Israel, and countries backing actions against the Islamic Republic in the Strait of Hormuz.
 
 ====================================================================================================
 
