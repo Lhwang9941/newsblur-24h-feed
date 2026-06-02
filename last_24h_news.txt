@@ -1,73 +1,96 @@
-PM statement caused Hezbollah leaders to flee Beirut, disrupted surprise attack plans
+Driverless taxis: Uber plans to test autonomous robotaxis in Munich
 Unknown
 Unknown Publisher
 2026-06-02
-00:06:10 UTC
-09:06:10 KST
+05:15:33 UTC
+14:15:33 KST
 
-Multiple Hezbollah leaders fled Beirut after a joint statement from Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz caused any IDF strikes in the capital to lose the element of surprise, an IDF source said on Monday.
-Shortly after the statement, in which Netanyahu and Katz announced intentions to strike terror targets in Beirut, IDF officials said that in order to strike in Beirut, a target bank needed to be prepared so as to hit Hezbollah's center of gravity.
-The IDF intended to strike human targets, as well as operations rooms and command centers. However, after the statement, Hezbollah leaders rushed to leave the places where they had been present in Beirut.
-Many other residents left alongside them, some of them low-ranking Hezbollah operatives.
-According to a source from the IDF, the statement canceled the military plan to surprise Hezbollah and deal a severe blow to its center of gravity in Beirut.
-Confusion over ceasefire framework
-The IDF may not know all the details of the framework of the ceasefire between Hezbollah and Israel proposed by the US.
-The IDF understands that an agreement in the spirit of Hezbollah's "quiet for quiet" equation is an extremely difficult trap. Such an agreement is expected to restore the strategic reality that existed in the North from the Second Lebanon War until October 8, when Hezbollah joined the war that Hamas had launched the previous day in the Gaza border communities.
-The major concern is that Hezbollah has created a dangerous precedent, in which the equation is not limited only to the northern border, but also to the Strait of Hormuz.
+In San Francisco and Beijing they are already a familiar sight; soon driverless taxis could also be ferrying passengers around Munich. Uber plans to roll out autonomous robotaxis there, but it is still waiting for the green light from regulators.
+The decision was announced in Taipei, but it actually concerns a completely different city: in Munich, Uber plans to deploy autonomous robotaxis together with the AI company Autobrains.
+Uber has picked the Bavarian capital: "Subject to regulatory approval, Munich will serve as the first launch city for the robotaxi programme," the company said in a statement.
+That could make Munich the first German city where passengers can order autonomous robotaxis via the Uber app. The companies involved unveiled the plans at the GTC technology conference in Taipei.
+Munich as a test bed for autonomous driving
+Uber justifies its choice of Munich with the city’s role as a European automotive hub, its dense urban traffic and Germany’s regulatory framework for autonomous driving. The aim is to develop a model that can later be used in other cities and on different vehicle platforms.
+Unlike many previous robotaxi projects, the technology is not intended to be tailored to specially developed vehicles.
+Instead, the partners are pursuing a so-called approach designed to be compatible with various carmakers. Industry observers see this as an attempt to bring down the high costs of autonomous fleets and, ideally, to scale up the technology more quickly, in other words to roll it out in additional cities.
+So far, the companies have not said which manufacturers are involved, how large the fleet will be or when the first passengers might actually be carried.
+What lies behind "agentic AI"
+At the heart of the project is the driving software developed by the Israeli company Autobrains. Unlike many of its competitors, the company says it does not rely on a single large AI model that handles all driving tasks.
+"Autonomous driving will not be scalable if you rely on a single model to solve every driving scenario," Autobrains founder Igal Raichelgauz said.
+Instead, the overall driving task is divided up among several specialised AI agents that assess different traffic situations and make decisions in real time. This is intended to make the system more robust in the face of complex and unpredictable situations. The approach is known as agentic AI.
+The company, which has been working on solutions for driver-assistance systems since 2018, argues that multiple specialised systems can cope better with uncertainty than a monolithic approach.
+The vehicles are to run on Nvidia’s DRIVE Hyperion platform, a computing and sensor architecture for Level 4 autonomous vehicles. This level of automation in principle permits driverless journeys within defined operating areas.
+Uber banks on partnerships instead of its own robotaxis
+For Uber, the Munich project is part of a broader strategy. The company now follows a platform model and no longer develops autonomous driving systems in-house. Instead, Uber works with various technology partners and integrates their vehicles into its existing ride-hailing network. Ride-hailing refers to ordering transport services via digital apps.
+In recent months, Uber has already announced similar partnerships with other providers of autonomous driving technologies. Together with Nvidia, the company is planning in the longer term to deploy autonomous fleets in several dozen cities worldwide.
+Nvidia’s vice-president for automotive, Ali Kani, told Euronews in January that partially autonomous driving would arrive later this year. "We need to move forward as quickly as regulation allows. And I believe it is opening up," Kani said.
+Competition in this market is increasing at the same time. In the United States, Google sister company Waymo already operates commercial robotaxi services in several major cities. Tesla, Mobileye and various Chinese providers are also working on autonomous fleet solutions. Tesla boss Elon Musk has predicted that self-driving cars could dominate road traffic in as little as five years.
+Europe’s robotaxi market is only just beginning
+A commercial robotaxi service would be a major step for Germany. While autonomous vehicles are already part of everyday life in cities such as San Francisco, Phoenix or Beijing, Europe is still at an early stage when it comes to large-scale deployment. Autonomous taxis in Madrid were originally due to be rolled out from 2026.
+The companies are therefore presenting Munich as a potential springboard for a broader European expansion. Whether this actually turns into a regular robotaxi service, however, will depend not only on the technology, but also on regulatory approvals, proof of safety and the economic viability of the model.
 
 ====================================================================================================
 
-UN Secretary-General Guterres proposes new force to replace Lebanon's UNIFIL
+In France's poor, diverse suburbs, Melenchon's hard left charts a path to the presidency
 Unknown
 Unknown Publisher
 2026-06-02
-00:06:08 UTC
-09:06:08 KST
+05:10:47 UTC
+14:10:47 KST
 
-UN Secretary-General António Guterres has proposed that the UN Security Council establish a new force to replace UNIFIL, the UN peacekeeping mission in southern Lebanon.
-According to a letter sent to the Security Council and obtained by The Post, the new force would comprise hundreds or even thousands of troops and would be tasked with ensuring that the ceasefire between Hezbollah and Israel is maintained.
-The proposal appears to offer a workaround for the Security Council's decision last year to terminate UNIFIL by creating a new mission under a different framework.
-UNIFIL currently deploys approximately 7,500 peacekeepers from nearly 50 countries along the Blue Line, the 120-kilometer de facto border separating Lebanon from Israel. The force has maintained a buffer presence in southern Lebanon since 1978.
-Three possible models outlined in proposal
-The Secretary-General's letter outlines three possible models for the new force.
-The most ambitious proposal would deploy approximately 350 UN military observers, supported by four infantry battalions of 750 troops each and a reserve force of 700 soldiers.
-Under this model, the force would be capable of monitoring most of the Blue Line, conducting patrols up to the Litani River, investigating violations, coordinating closely with both the Lebanese Armed Forces and the Israel Defense Forces (IDF), and physically positioning itself between the parties to help prevent escalation. It would also support ceasefire monitoring and strengthen the Lebanese state authority in the south.
-The intermediate option would include 285 military observers, two battalions of 750 troops each, and a reserve force of 450 soldiers.
-This force would retain some direct monitoring capabilities along the Blue Line and investigate violations of UN Security Council Resolution 1701, albeit on a more limited scale. Coordination between the parties would continue, but the force would have only a limited ability to separate hostile forces or de-escalate incidents. Its support for Lebanese Army operations would also be reduced.
-The lightest option would consist of 215 unarmed military observers, protected by two battalions of 450 troops each and a 350-member quick reaction force.
-Under this model, the UN would primarily observe and report. It would be able to monitor only parts of the Blue Line, investigate certain violations, and facilitate communication between the parties, but it would lack the ability to position itself between the IDF and Lebanese forces or meaningfully de-escalate crises. Its engineering, demining, and enforcement capabilities would be minimal.
-All options need substantial support
-All three options assume substantial support assets, including helicopters for medical evacuation, engineering and demining units, surveillance systems, drones, radar capabilities, and satellite imagery. The UN notes that without these technological enablers, continuous monitoring of the entire Blue Line would be impossible.
-Notably, the report does not present an option for ending the UN's military presence in southern Lebanon, despite the Security Council's decision. Instead, it offers only alternatives for maintaining an international force in the area.
-For nearly 50 years, UNIFIL was tasked with enforcing the ceasefire between Israel and Lebanon and, in particular, monitoring the prohibition on Hezbollah's armed presence south of the Litani River. In recent years, however, this mandate was not effectively implemented.
-The shortcomings became especially apparent during the war, when extensive Hezbollah positions, weapons stockpiles, and ammunition depots were discovered in close proximity to UN bases.
-In 2025, the UN Security Council voted to terminate UNIFIL's mandate, with the mission scheduled to end completely by the close of 2026. The plan called for UNIFIL personnel to withdraw from Lebanon during 2027. The resolution passed unanimously, with all 15 Security Council members voting in favor.
-Israel's Ambassador to the UN Danny Danon told The Jerusalem Post: "After years of complete failure to implement Resolution 1701, the UN is now proposing to replace one failed force with another under a different name. A clear decision was made to end UNIFIL's mandate at the end of the year, and there is no justification for attempting to circumvent it.
-"Those who failed to prevent Hezbollah's rearmament for two decades will not achieve different results simply by wearing different uniforms and operating under a new title."
+In France's poor, diverse suburbs, Melenchon's hard left charts a path to the presidency
+Sign up now: Get ST's newsletters delivered to your inbox
+SARCELLES, France, June 2 - When Bassi Konate became mayor of Sarcelles this spring, the independent candidate backed by the hard-left France Unbowed (LFI) party ended three decades of municipal rule by the Socialists, the traditional powerhouse of the French left.
+A native of Sarcelles, a poor, multi-cultural town north of Paris, Konate, 38, leveraged his hometown roots and a network of rappers, soccer stars and influencers to mobilise young voters through social media and canvassing.
+Konate, who is of Malian heritage, said his election reflected the diversity of modern France.
+"Sarcelles is the most beautiful city in the world because the whole world is truly represented," he told Reuters. "The face of the world in France."
+Konate's capture of Sarcelles, where he grew up in social housing, illustrates why LFI has become a formidable force heading into next year's presidential vote.
+As Emmanuel Macron's second and final term comes to an end, the unpopular president leaves behind a hollowed-out political centre and weak economy that have opened space for hardline parties such as LFI, whose polarising candidate Jean-Luc Melenchon, 74, is making his fourth tilt at the presidency.
+While polls forecast the far-right National Rally (RN) is favourite to reach the second round next April, analysts say Melenchon could join it if mainstream parties fail to coalesce around a tighter cast of candidates.
+A May 29 Toluna Harris poll showed Melenchon reaching a run-off in three of five scenarios.
+Despite finding him to be France's most unpopular politician, with a 69% rejection rating, a May 26 Odoxa poll had Melenchon virtually tied with former Prime Minister Edouard Philippe, widely seen as the strongest centrist hopeful.
+Melenchon's promises of a higher minimum wage, heavier taxes on wealth and profits, and price controls alarm business leaders and investors, while LFI's pro-Palestinian stance has spurred accusations of antisemitism, which it denies.
+YOUTH APPEAL
+But its clear policies on everything from Gaza to public housing appeal to younger voters and immigrant-heavy towns wary of both the nationalist RN and urbane centrists who have failed to deliver growth.
+According to a Cluster17 poll, nearly half of 18- to 24-year-olds and over a third of 25- to 34-year-olds would vote for Melenchon, who launches his campaign next Sunday in Saint-Denis, another poor Paris suburb won by LFI mayor Bally Bagayoko.
+Home to 60,000 people, including some 8,000 Jews, Sarcelles is one of France's youngest, poorest and most diverse towns.
+Patrick Haddad, the former Socialist mayor defeated by Konate, said France had "fractured" into three blocs, with "gentrified cities" voting for centrists, and the RN dominating the rural vote. Poorer urban areas, or 'banlieues', such as Sarcelles are increasingly swinging behind LFI, he said.
+Manuel Bompard, LFI's national coordinator, described the party's base as "the forgotten, the despised, the overlooked", including single-parent families and gig-economy workers often lacking union protections.
+Bompard rejected suggestions that LFI is beholden to France's Muslim population, Europe's largest, but said it was empowering for immigrants to see themselves represented among LFI lawmakers.
+"People vote for us because they feel recognised and are interested in our proposals on wages, prices, public services," he told Reuters.
+Many in Sarcelles agreed, celebrating the town's diversity without downplaying its hardships.
+Catherine Elyn said her pregnant 31-year-old daughter had just moved back in with her as her temporary work no longer covered rent.
+"The problem is young people no longer have money," said Elyn, 57, as she walked past a "Coexist" mural featuring an Islamic crescent, a Star of David and a cross.
+"We are afraid of gas and gasoline prices, of using the car," she said. "But we still help each other."
+JEWISH COMMUNITY ON EDGE
+Many Jewish leaders and political rivals blame LFI for helping fuel a record surge in antisemitic acts after the Gaza war began in 2023, though incidents have since fallen.
+Konate's election left many local Jews jittery, community leaders said. He acknowledged their concerns but blamed his political foes for inflaming tensions.
+"I grew up alongside the Jewish community, so I will do everything possible to make sure things go well," he said.
+Jewish community leader Moise Kahloun was trying to keep an open mind, and credited Konate for celebrating Passover at a Sarcelles synagogue, but added, "LFI stigmatizes our community."
+Francois-Xavier Valentin, the right-wing candidate defeated by Konate, said he feared Sarcelles' Jewish population - already down by half since the 2000s - would shrink further as more residents leave for Israel or wealthier suburbs.
+"I understand that in the current context, the Jewish community is worried," he told Reuters. "Gaza is a concern."
+LFI believes its strategy of targeting young people and others who don't typically vote can succeed at the national level.
+With Melenchon some 420,000 votes shy of reaching the second round in 2022, Bompard said LFI is now targeting the 26% who abstained then, hoping their votes will propel the party to a run-off against the RN.
+Melenchon also benefits from "an aspiration for radicality" sweeping Europe, Bompard said, noting the rise of the Greens in Britain.
+Even Melenchon's advanced years could prove an advantage, Bompard added: "His age is a guarantee that he will not betray because he no longer needs to build a career." REUTERS
 
 ====================================================================================================
 
-'We are in a war,' alleged Iran-backed militant exclaims in US court
+Major Russian attack on Kyiv, other Ukraine cities kills at least 9, wounds dozens
 Unknown
 Unknown Publisher
 2026-06-02
-00:06:08 UTC
-09:06:08 KST
+05:09:39 UTC
+14:09:39 KST
 
-An alleged member of an Iran-backed militia pleaded not guilty on Monday to US criminal charges that he was involved in multiple attacks against American interests in Europe, proclaiming in a courtroom outburst, "I am not a criminal."
-Iraqi national Mohammad Baqer Saad Dawood Al-Saadi spoke in Manhattan federal court after his lawyer, Andrew Dalack, entered a not guilty plea on his behalf to eight counts, including conspiracy to provide material support to Kata'ib Hezbollah, an Iran-backed militia the US considers a terrorist organization.
-"I am not guilty, and we are in a war situation," Al-Saadi said through an Arabic interpreter.
-"Children are being killed by your rockets," Al-Saadi added, gesturing in front of him toward where US District Judge Colleen McMahon and prosecutors with the Manhattan US Attorney's office were seated.
-Al-Saadi did not say if he was referring to a specific incident.
-A February 28 strike at a girls' school in Iran killed more than 175 children and teachers, Iranian officials say.
-Reuters has reported that an initial, internal US military investigation showed US forces were likely responsible, citing two US officials.
-Investigations still ongoing, says Pentagon
-The Pentagon has not acknowledged any preliminary findings. A Pentagon spokesperson said on Monday that the investigation was still ongoing.
-Al-Saadi wore a beige prison outfit and was shackled at his feet at Monday's hearing.
-As he spoke, McMahon raised her voice and ordered that he be seated. Two US marshals who had been sitting behind Al-Saadi approached the defense table, and he sat down as they arrived.
-Al-Saadi was taken into US custody in Turkey last month, amid heightened US scrutiny of Iran-backed militias accused of targeting American personnel and allies across multiple regions since the US and Israel went to war against Iran.
-US prosecutors say Kata'ib Hezbollah is directed by Iran's Islamic Revolutionary Guard Corps.
-They said Al-Saadi helped plan approximately 18 attacks in Europe in recent months, not all of which occurred, and in March and April, plotted attacks in the United States, including against a New York synagogue.
+Major Russian attack on Kyiv, other Ukraine cities kills at least 9, wounds dozens
+People are feared trapped under rubble as Moscow follows through on threats of a massive, systematic assault
+Russian air attacks on major Ukrainian cities such as Kyiv, Dnipro and Kharkiv killed at least nine and wounded more than 60 early on Tuesday, authorities said, following days of warnings that Moscow was planning a major assault.
+Russia has targeted Ukraine’s power supply and infrastructure while Ukraine has stepped up attacks this year on Russian oil facilities in a war now more than four years old, sometimes causing casualties, but both deny targeting civilians.
+Five people were killed and 25 injured in a Russian missile and drone attack on the southeastern city of Dnipro, regional governor Oleksandr Hanzha said on messaging app Telegram.
+All the injured were in hospital in moderate condition, he added, posting pictures of destroyed residential buildings, burnt-out vehicles and a damaged children’s playground.
+At least four were killed and 51 injured, including children, across the capital of Kyiv, Mayor Vitali Klitschko said.
+A suspected missile strike on a 24-storey residential building triggered a collapse, leaving people probably trapped under the rubble, Klitschko said.
 
 ====================================================================================================
 
