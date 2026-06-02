@@ -1,96 +1,61 @@
-Driverless taxis: Uber plans to test autonomous robotaxis in Munich
+Japan begins removing nuclear fuel from Fukushima reactor
 Unknown
 Unknown Publisher
 2026-06-02
-05:15:33 UTC
-14:15:33 KST
+09:58:46 UTC
+18:58:46 KST
 
-In San Francisco and Beijing they are already a familiar sight; soon driverless taxis could also be ferrying passengers around Munich. Uber plans to roll out autonomous robotaxis there, but it is still waiting for the green light from regulators.
-The decision was announced in Taipei, but it actually concerns a completely different city: in Munich, Uber plans to deploy autonomous robotaxis together with the AI company Autobrains.
-Uber has picked the Bavarian capital: "Subject to regulatory approval, Munich will serve as the first launch city for the robotaxi programme," the company said in a statement.
-That could make Munich the first German city where passengers can order autonomous robotaxis via the Uber app. The companies involved unveiled the plans at the GTC technology conference in Taipei.
-Munich as a test bed for autonomous driving
-Uber justifies its choice of Munich with the city’s role as a European automotive hub, its dense urban traffic and Germany’s regulatory framework for autonomous driving. The aim is to develop a model that can later be used in other cities and on different vehicle platforms.
-Unlike many previous robotaxi projects, the technology is not intended to be tailored to specially developed vehicles.
-Instead, the partners are pursuing a so-called approach designed to be compatible with various carmakers. Industry observers see this as an attempt to bring down the high costs of autonomous fleets and, ideally, to scale up the technology more quickly, in other words to roll it out in additional cities.
-So far, the companies have not said which manufacturers are involved, how large the fleet will be or when the first passengers might actually be carried.
-What lies behind "agentic AI"
-At the heart of the project is the driving software developed by the Israeli company Autobrains. Unlike many of its competitors, the company says it does not rely on a single large AI model that handles all driving tasks.
-"Autonomous driving will not be scalable if you rely on a single model to solve every driving scenario," Autobrains founder Igal Raichelgauz said.
-Instead, the overall driving task is divided up among several specialised AI agents that assess different traffic situations and make decisions in real time. This is intended to make the system more robust in the face of complex and unpredictable situations. The approach is known as agentic AI.
-The company, which has been working on solutions for driver-assistance systems since 2018, argues that multiple specialised systems can cope better with uncertainty than a monolithic approach.
-The vehicles are to run on Nvidia’s DRIVE Hyperion platform, a computing and sensor architecture for Level 4 autonomous vehicles. This level of automation in principle permits driverless journeys within defined operating areas.
-Uber banks on partnerships instead of its own robotaxis
-For Uber, the Munich project is part of a broader strategy. The company now follows a platform model and no longer develops autonomous driving systems in-house. Instead, Uber works with various technology partners and integrates their vehicles into its existing ride-hailing network. Ride-hailing refers to ordering transport services via digital apps.
-In recent months, Uber has already announced similar partnerships with other providers of autonomous driving technologies. Together with Nvidia, the company is planning in the longer term to deploy autonomous fleets in several dozen cities worldwide.
-Nvidia’s vice-president for automotive, Ali Kani, told Euronews in January that partially autonomous driving would arrive later this year. "We need to move forward as quickly as regulation allows. And I believe it is opening up," Kani said.
-Competition in this market is increasing at the same time. In the United States, Google sister company Waymo already operates commercial robotaxi services in several major cities. Tesla, Mobileye and various Chinese providers are also working on autonomous fleet solutions. Tesla boss Elon Musk has predicted that self-driving cars could dominate road traffic in as little as five years.
-Europe’s robotaxi market is only just beginning
-A commercial robotaxi service would be a major step for Germany. While autonomous vehicles are already part of everyday life in cities such as San Francisco, Phoenix or Beijing, Europe is still at an early stage when it comes to large-scale deployment. Autonomous taxis in Madrid were originally due to be rolled out from 2026.
-The companies are therefore presenting Munich as a potential springboard for a broader European expansion. Whether this actually turns into a regular robotaxi service, however, will depend not only on the technology, but also on regulatory approvals, proof of safety and the economic viability of the model.
+Anadolu staff
+02 June 2026•Update: 02 June 2026
+Japan on Tuesday began removing nuclear fuel from its massive earthquake- and tsunami-damaged Fukushima nuclear power plant in northeastern Japan, according to local media reports.
+Tokyo Electric Power Company Holdings (TEPCO) has started removing nuclear fuel from the spent fuel pool of the No. 2 reactor at the Fukushima nuclear power plant, marking a significant step in the long-term decommissioning of the site devastated by the 2011 earthquake and tsunami, Jiji Press reported.
+The operation involves the removal of fuel assemblies stored in the reactor's spent fuel pool, where 587 highly radioactive spent fuel assemblies and 28 unused assemblies remain.
+TEPCO said it is removing the unused fuel first because it poses a lower risk in the event of an accident.
+The utility aims to complete the removal of all fuel assemblies from the No. 2 reactor by fiscal year 2028.
+Radiation levels inside the reactor building remain high more than 15 years after the Fukushima disaster, when reactor fuel melted down following a massive earthquake and tsunami.
+Radiation on the fifth floor, where the fuel pool is located, reaches up to 5 millisieverts per hour, limiting the amount of time workers can spend in the area.
+To reduce risks, a crane for removing fuel assemblies is remotely controlled, and the assemblies are placed one by one in a transport container called a cask inside the pool.
+The cask will be lifted out of the pool and then lowered onto a trailer from a platform installed next to the building.
 
 ====================================================================================================
 
-In France's poor, diverse suburbs, Melenchon's hard left charts a path to the presidency
+Russia Determined That Ukraine Deliberately Destroyed Dormitory in Starobelsk - Kremlin
 Unknown
 Unknown Publisher
 2026-06-02
-05:10:47 UTC
-14:10:47 KST
+09:57:56 UTC
+18:57:56 KST
 
-In France's poor, diverse suburbs, Melenchon's hard left charts a path to the presidency
-Sign up now: Get ST's newsletters delivered to your inbox
-SARCELLES, France, June 2 - When Bassi Konate became mayor of Sarcelles this spring, the independent candidate backed by the hard-left France Unbowed (LFI) party ended three decades of municipal rule by the Socialists, the traditional powerhouse of the French left.
-A native of Sarcelles, a poor, multi-cultural town north of Paris, Konate, 38, leveraged his hometown roots and a network of rappers, soccer stars and influencers to mobilise young voters through social media and canvassing.
-Konate, who is of Malian heritage, said his election reflected the diversity of modern France.
-"Sarcelles is the most beautiful city in the world because the whole world is truly represented," he told Reuters. "The face of the world in France."
-Konate's capture of Sarcelles, where he grew up in social housing, illustrates why LFI has become a formidable force heading into next year's presidential vote.
-As Emmanuel Macron's second and final term comes to an end, the unpopular president leaves behind a hollowed-out political centre and weak economy that have opened space for hardline parties such as LFI, whose polarising candidate Jean-Luc Melenchon, 74, is making his fourth tilt at the presidency.
-While polls forecast the far-right National Rally (RN) is favourite to reach the second round next April, analysts say Melenchon could join it if mainstream parties fail to coalesce around a tighter cast of candidates.
-A May 29 Toluna Harris poll showed Melenchon reaching a run-off in three of five scenarios.
-Despite finding him to be France's most unpopular politician, with a 69% rejection rating, a May 26 Odoxa poll had Melenchon virtually tied with former Prime Minister Edouard Philippe, widely seen as the strongest centrist hopeful.
-Melenchon's promises of a higher minimum wage, heavier taxes on wealth and profits, and price controls alarm business leaders and investors, while LFI's pro-Palestinian stance has spurred accusations of antisemitism, which it denies.
-YOUTH APPEAL
-But its clear policies on everything from Gaza to public housing appeal to younger voters and immigrant-heavy towns wary of both the nationalist RN and urbane centrists who have failed to deliver growth.
-According to a Cluster17 poll, nearly half of 18- to 24-year-olds and over a third of 25- to 34-year-olds would vote for Melenchon, who launches his campaign next Sunday in Saint-Denis, another poor Paris suburb won by LFI mayor Bally Bagayoko.
-Home to 60,000 people, including some 8,000 Jews, Sarcelles is one of France's youngest, poorest and most diverse towns.
-Patrick Haddad, the former Socialist mayor defeated by Konate, said France had "fractured" into three blocs, with "gentrified cities" voting for centrists, and the RN dominating the rural vote. Poorer urban areas, or 'banlieues', such as Sarcelles are increasingly swinging behind LFI, he said.
-Manuel Bompard, LFI's national coordinator, described the party's base as "the forgotten, the despised, the overlooked", including single-parent families and gig-economy workers often lacking union protections.
-Bompard rejected suggestions that LFI is beholden to France's Muslim population, Europe's largest, but said it was empowering for immigrants to see themselves represented among LFI lawmakers.
-"People vote for us because they feel recognised and are interested in our proposals on wages, prices, public services," he told Reuters.
-Many in Sarcelles agreed, celebrating the town's diversity without downplaying its hardships.
-Catherine Elyn said her pregnant 31-year-old daughter had just moved back in with her as her temporary work no longer covered rent.
-"The problem is young people no longer have money," said Elyn, 57, as she walked past a "Coexist" mural featuring an Islamic crescent, a Star of David and a cross.
-"We are afraid of gas and gasoline prices, of using the car," she said. "But we still help each other."
-JEWISH COMMUNITY ON EDGE
-Many Jewish leaders and political rivals blame LFI for helping fuel a record surge in antisemitic acts after the Gaza war began in 2023, though incidents have since fallen.
-Konate's election left many local Jews jittery, community leaders said. He acknowledged their concerns but blamed his political foes for inflaming tensions.
-"I grew up alongside the Jewish community, so I will do everything possible to make sure things go well," he said.
-Jewish community leader Moise Kahloun was trying to keep an open mind, and credited Konate for celebrating Passover at a Sarcelles synagogue, but added, "LFI stigmatizes our community."
-Francois-Xavier Valentin, the right-wing candidate defeated by Konate, said he feared Sarcelles' Jewish population - already down by half since the 2000s - would shrink further as more residents leave for Israel or wealthier suburbs.
-"I understand that in the current context, the Jewish community is worried," he told Reuters. "Gaza is a concern."
-LFI believes its strategy of targeting young people and others who don't typically vote can succeed at the national level.
-With Melenchon some 420,000 votes shy of reaching the second round in 2022, Bompard said LFI is now targeting the 26% who abstained then, hoping their votes will propel the party to a run-off against the RN.
-Melenchon also benefits from "an aspiration for radicality" sweeping Europe, Bompard said, noting the rise of the Greens in Britain.
-Even Melenchon's advanced years could prove an advantage, Bompard added: "His age is a guarantee that he will not betray because he no longer needs to build a career." REUTERS
+Russia Determined That Ukraine Deliberately Destroyed Dormitory in Starobelsk - Kremlin
 
 ====================================================================================================
 
-Major Russian attack on Kyiv, other Ukraine cities kills at least 9, wounds dozens
+European Parliament committee votes to scrap US tariffs
 Unknown
 Unknown Publisher
 2026-06-02
-05:09:39 UTC
-14:09:39 KST
+09:57:00 UTC
+18:57:00 KST
 
-Major Russian attack on Kyiv, other Ukraine cities kills at least 9, wounds dozens
-People are feared trapped under rubble as Moscow follows through on threats of a massive, systematic assault
-Russian air attacks on major Ukrainian cities such as Kyiv, Dnipro and Kharkiv killed at least nine and wounded more than 60 early on Tuesday, authorities said, following days of warnings that Moscow was planning a major assault.
-Russia has targeted Ukraine’s power supply and infrastructure while Ukraine has stepped up attacks this year on Russian oil facilities in a war now more than four years old, sometimes causing casualties, but both deny targeting civilians.
-Five people were killed and 25 injured in a Russian missile and drone attack on the southeastern city of Dnipro, regional governor Oleksandr Hanzha said on messaging app Telegram.
-All the injured were in hospital in moderate condition, he added, posting pictures of destroyed residential buildings, burnt-out vehicles and a damaged children’s playground.
-At least four were killed and 51 injured, including children, across the capital of Kyiv, Mayor Vitali Klitschko said.
-A suspected missile strike on a 24-storey residential building triggered a collapse, leaving people probably trapped under the rubble, Klitschko said.
+European Parliament committee votes to scrap US tariffs
+June 2, 2026A European Parliament committee voted overwhelmingly on Tuesday to remove EU import duties on a raft of US goods.
+The tariff cuts are key to complying with a US-EU trade deal that was agreed in July last year and averting the return of a trans-Atlantic trade row.
+US President Donald Trump gave the bloc until July 4 to ratify the deal or face higher tariffs on European goods.
+Tuesday's vote saw the European Parliament's trade committee back the legislation to enact the duty reductions, with 31 in favor, six against and three abstentions. It also voted in favor of continuing zero duties for US lobsters.
+The legislation is expected to be approved by the full EU assembly in mid-June.
+What's in the US-EU trade deal?
+The accord caps US levies on most European imports into the US at 15%.
+In return, the EU pledged to scrap tariffs on US industrial goods and ease market access for US agricultural products such as pork, dairy and seafood.
+The US is the EU's largest trading partner, with an annual exchange of $2 trillion (€1.7 trillion) in goods and services.
+Why has the deal taken so long to ratify?
+The EU's implementation of the deal was delayed by several factors affecting the bilateral relationship between the US and the EU.
+Frustration over other tariff threats by Trump, the dispute over his bid to annex Greenland, and the legal uncertainty triggered by a US Supreme Court ruling that struck down many of his existing tariffs, all had a role in slowing down progress on the deal's ratification.
+EU lawmakers eventually gave their green light in March, but they also sought additional safeguards should the US renege on its commitments. Some of those measures were subsequently scaled back to avoid reigniting trade tensions with Washington and creating uncertainty for EU businesses.
+A so-called "sunset" clause to terminate the deal by March 2028, unless there is new legislation to renew it, was pushed back to the end of 2029 — after Trump's term in office ends.
+The text also gave the US until the end of the year to drop extra taxes above 15% on steel components, rather than making it a precondition for the deal's ratification.
+A "sunrise" clause — under which the EU side of the accord would kick in only once the US makes good on its pledges — was dropped.
+Edited by: Sean Sinico
+Don't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the "star" or "preferred" button, so you'll always see our verified news first.
 
 ====================================================================================================
 
