@@ -1,68 +1,40 @@
-Israeli businessman 'King of Slot Machines' Tony Bargig murdered in Prague
+Russia’s media regulator is now allegedly DDoS‑attacking VPNs, not just blocking them
 Unknown
 Unknown Publisher
 2026-06-04
-19:07:17 UTC
-04:07:17 KST
+21:16:40 UTC
+06:16:40 KST
 
-Tony Bargig, an Israeli businessman and casino owner once known as the "King of Slot Machines," was reportedly murdered on Wednesday in Prague.
-Bargig, 54, had been living and working in Prague for several years, Ynet reported, and had owned several gambling businesses.
-Prague police confirmed that the matter was under investigation, and that someone else had been involved in Bargig's death.
-Bargig indicted for operating illegal casinos
-Bargig had previously faced legal trouble in Israel, operating around 15 illegal casinos across the country from 2008 to 2014.
-He had been indicted for his crimes, but in 2020 was sentenced under a plea deal to only 15 months in prison, as well as a forfeiture of one million shekels and an additional fine of 350 thousand shekels.
-Afterward, Bargig had entered a dispute with the Israeli Tax Authority, which claimed that records seized during his arrest indicated that his illegal gambling organization had earned him tens of millions more shekels than he had reported as his income.
-Another controversy associated with Bargig, as reported by iGamingToday, was that his wife, Nurit, had been an active-duty officer in the Israel Police while he was being investigated for potential criminal activity.
-While no allegations of improper conduct were made against Nurit, police officials reportedly viewed their marriage as a concern, and she was eventually transferred to a different district.
+Russia’s media regulator is now allegedly DDoS‑attacking VPNs, not just blocking them
+One of the largest VPN services, Amnezia VPN, has been nearly non-functional for several days following a large-scale DDoS attack on its infrastructure. According to the developers, the attack has made it impossible to switch between servers. This affected all Amnezia Free and Premium users. The developers believe Roskomnadzor, Russia’s federal media regulator responsible for internet restrictions, is behind the attack. Here is what is known.
+Amnezia VPN users have been experiencing connection problems since late May, the service’s developers said. Certain server locations became unavailable, and the app itself became unstable. The developers attributed the outages to “an unprecedented DDoS attack amid the targeted blocking of a large array of Amnezia VPN IP addresses.”
+The service blamed Russia’s federal censor for the coordinated attack: “For the first time, we can state as fact that Roskomnadzor has begun not only blocking VPN servers but actively attacking our infrastructure.” The agency did not comment on the statement.
+Amnezia VPN representatives first reported the attack on June 1, adding that some other VPN services were “experiencing availability problems” as well. The message did not specify which services.
+The developers initially estimated that full restoration would take a few hours, but connection problems have persisted. The service said the attack had affected more resources than ever before and that recovery would likely take longer than usual.
+On June 4, the developers said they were trying to “find the most effective way to restore stable operation of the services” and that “work is continuing around the clock.” The service promised Amnezia Premium users compensation for the days the VPN was not working.
+Amnezia VPN had already experienced outages in mid-May, as had many other circumvention services. Disruptions with BlancVPN, another popular service, were also observed in late May and early June. On June 4, BlancVPN reported that a large portion of its service had been restored.
+Amnezia, without disclosing details, attributed the connection problems to “mass blockings in connection with the actions of censors.” Around the same time, reports emerged that Russia had recorded an unprecedented number of complaints about the MTProto cryptographic protocol, which the Telegram team developed to circumvent blocks on the messenger.
+Roskomnadzor is steadily refining its blocking tools, experts said, and VPN services must continually devise new workarounds. A BlancVPN representative told Meduza that there had been more blockings in 2026 than in 2025, and more in 2025 than in 2024, and that there is no reason to expect that trend to change.
+At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.
+If you find any errors in this translation, please contact us at [email protected].
+To read Meduza’s exclusive content in English, please subscribe to our newsletter.
 
 ====================================================================================================
 
-Zelensky calls to end Ukraine-Russia War, begin direct ceasefire talks, in letter to Putin
+Trump says he could meet Iran's supreme leader if deal is reached
 Unknown
 Unknown Publisher
 2026-06-04
-19:07:14 UTC
-04:07:14 KST
+21:13:22 UTC
+06:13:22 KST
 
-Ukrainian President Vladimir Zelensky directly called on Russian President Vladimir Putin to end the Ukraine-Russia War and begin direct talks in a letter published on Thursday night.
-"Ukraine proposes ending this war through direct engagement between us — and you. I am proposing a meeting," he wrote.
-"You did not expect full-scale resistance from Ukraine, and you did not foresee that things would go this far. Yet here we all are — in the fifth year of this full-scale war. Do not be afraid to take the path out of this war. That is the main thing that is required of you now."
-"We must determine what kind of future awaits the generations of Ukrainians and Russians who will come after us. If you do not personally come to the conclusion that it is time to end this war, Ukraine will continue fighting for its existence. We will have those who support us," Zelensky added.
-"But you, too, will have to fight much harder for your own existence — not Russia’s, but your own. And this is not a threat from me or from Ukraine. It is a fact of Russian history that you know well: when Russia grows tired, change comes."
-This is a developing story.
-
-====================================================================================================
-
-I told my colleagues their project was terrible. Should I have kept quiet?
-Unknown
-Unknown Publisher
-2026-06-04
-19:07:00 UTC
-04:07:00 KST
-
-Opinion
-I told my colleagues their project was terrible. Should I have kept quiet?
-Some of my workmates were part of a subcommittee working on an internal project. I wasn’t asked to be involved and was not privy to many details. After some time, I was asked for my opinion after being shown what they had come up with so far. I asked if the team wanted my honest opinion, and I got an enthusiastic yes.
-I told them what I thought: essentially, that the whole idea was unimaginative and trite. This was not taken well at all. Now I seem to be persona non grata among several colleagues I used to have friendships with. Should I have just kept my mouth shut?
-I have to admit, I snorted when I read your full email. After I had a moment to take a breath, I could sympathise with your colleagues, who might have felt that their hours of work were vaporised in seconds by your scalding assessment.
-But that sympathy doesn’t run very deep, and on further reflection, I still think there’s something laughable about excitedly asking for someone’s true opinion and then instantly rejecting it. And the person who provided it.
-If you’ve read Work Therapy before, you’ll know I often recommend erring on the side of magnanimity at work. And I would certainly never suggest a person walk around their workplace making unbidden criticisms of others’ work unless that’s their explicit job. But I don’t think you broke either of those precepts here.
-First, you’re clearly a plainspoken person. That’s obvious from your email, and it sounds like you’re known for this trait among your peers. Your colleagues came to you because of, not in spite of, that.
-Not everyone has the wherewithal to be truly honest at work like you do.
-Second, you gave fair warning. It wasn’t like they were halfway through showing you their work as you sprayed them mercilessly with your invective. They asked. You strongly implied they might not like what you were going to say. They insisted. You told the truth.
-And that’s the third part of this that makes me think you had no reason to keep your mouth shut: you were being honest. You weren’t motivated by malice. You didn’t criticise for the sake of it.
-You saw that what they had come up with was tepid and clichéd, and you made that known. You didn’t take delight in giving your assessment; you simply refused to insult their intelligence with faint or fake praise.
-Again, I’m not insensitive to the team’s disappointment. It can be really difficult to hear the unvarnished truth about your own work. And, yes, in other circumstances, they may have had good reason to consider your comments unnecessary or unhelpful. The strong sense I got from your longer email, however, was that when you said you respected members of the team, you meant it. You expected better from them.
-Your criticism was candid, yes, but you didn’t slap them in the face and walk away. It was reasoned; you told the team exactly what you think made the current version underwhelming. You didn’t offer suggestions for improvement – you weren’t specifically asked and didn’t think that was your place – but you went well beyond “this is no good”.
-Not everyone has the wherewithal to be truly honest at work like you do. For many of us – me included – little white lies, small evasions, softened language, careful omissions are the tools we use to keep social situations smooth, to avoid confrontation and conflict.
-But in some cases, they’re not accommodations; they’re compromises or even capitulations. There’s a difference between magnanimity, which I mentioned earlier, and indulgence. Not every work situation is improved by holding your tongue.
-I can see why you might be questioning yourself now, given that you seem to have lost friendships over this matter. But to have taken a different route would have gone against your principles. And it would mean you were suppressing a rare professional quality: the ability to give undecorated advice without descending into nastiness.
-Yes, it may be true that your language was too strong. Or even that you misinterpreted what you understood to be a request for frank feedback.
-I think the more likely case is that your colleagues in the subcommittee had spent too much time in an intellectual silo and convinced themselves that they had produced something far better than it really was. Because of this, they took your evaluation not as firm, fair criticism, but as an ambush.
-I hope that with time they realise it was no such thing and that you can rebuild your relationships with all of them.
-Send your questions through to Work Therapy by emailing jonathan@theinkbureau.com.au
-Get workplace news, advice and perspectives to help make your job work for you. Sign up for our weekly Thank God it’s Monday newsletter.
-More:
+Rabia İclal Turan
+05 June 2026•Update: 05 June 2026
+US President Donald Trump on Thursday said he would be “honored” to meet Iran's new Supreme Leader Ayatollah Mojtaba Khamenei if a deal is reached between the two countries.
+"I don’t want to meet, but if I did meet, I’d be honored to meet him," Trump said when asked about a possible sit-down with the Iranian leader, whose father and predecessor, Ali Khamenei, was killed in at the beginning of the US-Israeli war on Iran on Feb. 28.
+"I’d like to see if we make a deal, but if we make a deal, it’s possible that I would meet him," Trump said.
+Asked if the meeting would take place in the US, Trump said: "I haven't really heard too much about it. I didn't suggest it, but some people have suggested it."
+Asked if he would resume military action against Iran if Tehran were to kill US troops in the region, Trump replied: "It would be a good reason. I'd be honest with you, if they killed US troops, I think I would do that very quickly."
 
 ====================================================================================================
 
