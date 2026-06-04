@@ -1,40 +1,101 @@
-Russia’s media regulator is now allegedly DDoS‑attacking VPNs, not just blocking them
+Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’
 Unknown
 Unknown Publisher
 2026-06-04
-21:16:40 UTC
-06:16:40 KST
+22:57:15 UTC
+07:57:15 KST
 
-Russia’s media regulator is now allegedly DDoS‑attacking VPNs, not just blocking them
-One of the largest VPN services, Amnezia VPN, has been nearly non-functional for several days following a large-scale DDoS attack on its infrastructure. According to the developers, the attack has made it impossible to switch between servers. This affected all Amnezia Free and Premium users. The developers believe Roskomnadzor, Russia’s federal media regulator responsible for internet restrictions, is behind the attack. Here is what is known.
-Amnezia VPN users have been experiencing connection problems since late May, the service’s developers said. Certain server locations became unavailable, and the app itself became unstable. The developers attributed the outages to “an unprecedented DDoS attack amid the targeted blocking of a large array of Amnezia VPN IP addresses.”
-The service blamed Russia’s federal censor for the coordinated attack: “For the first time, we can state as fact that Roskomnadzor has begun not only blocking VPN servers but actively attacking our infrastructure.” The agency did not comment on the statement.
-Amnezia VPN representatives first reported the attack on June 1, adding that some other VPN services were “experiencing availability problems” as well. The message did not specify which services.
-The developers initially estimated that full restoration would take a few hours, but connection problems have persisted. The service said the attack had affected more resources than ever before and that recovery would likely take longer than usual.
-On June 4, the developers said they were trying to “find the most effective way to restore stable operation of the services” and that “work is continuing around the clock.” The service promised Amnezia Premium users compensation for the days the VPN was not working.
-Amnezia VPN had already experienced outages in mid-May, as had many other circumvention services. Disruptions with BlancVPN, another popular service, were also observed in late May and early June. On June 4, BlancVPN reported that a large portion of its service had been restored.
-Amnezia, without disclosing details, attributed the connection problems to “mass blockings in connection with the actions of censors.” Around the same time, reports emerged that Russia had recorded an unprecedented number of complaints about the MTProto cryptographic protocol, which the Telegram team developed to circumvent blocks on the messenger.
-Roskomnadzor is steadily refining its blocking tools, experts said, and VPN services must continually devise new workarounds. A BlancVPN representative told Meduza that there had been more blockings in 2026 than in 2025, and more in 2025 than in 2024, and that there is no reason to expect that trend to change.
-At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.
-If you find any errors in this translation, please contact us at [email protected].
-To read Meduza’s exclusive content in English, please subscribe to our newsletter.
+Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’
+Republicans seek to pass $70bn immigration-enforcement funding, but must endure a series of votes on controversial issues.
+Republicans in the United States Senate have renewed their push to pass a controversial $70bn immigration-enforcement funding bill, a top policy priority for President Donald Trump.
+But the effort on Thursday faced a series of hurdles, with Democrats forcing votes on several amendments that highlighted controversies related to the Trump presidency.
+Recommended Stories
+list of 3 items- list 1 of 3US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund
+- list 2 of 3Trump administration scraps $1.8bn ‘anti-weaponisation fund’
+- list 3 of 3‘Doesn’t seem qualified’: Who is Bill Pulte, acting US intelligence chief?
+The rapid-fire votes on the amendments were dubbed a “vote-a-rama“, and they are slated to include issues ranging from Trump’s White House ballroom to his tariff policies and the US-Israel war on Iran.
+“Amendment after amendment, vote after vote, Republicans are going to have to answer to the American people,” Senate Minority Leader Chuck Schumer said.
+Early on, Republicans were forced to confront a topic that has dominated headlines in recent weeks: Trump’s proposed $1.776bn “anti-weaponisation” fund.
+The fund has been controversial on both sides of the aisle, with critics calling it a slush fund for Trump’s allies.
+Several Republicans indicated that the optics of such a fund could be politically catastrophic ahead of November’s midterm elections, and the Department of Justice has since backed away from the scheme.
+But Trump himself has avoided saying whether the fund was dead, or just on hold.
+It was created as part of a settlement following a lawsuit Trump filed against the Internal Revenue Service (IRS), a part of his government, and it was designed to award payouts to alleged victims of politically motivated prosecution.
+Senate Democrats have repeatedly called for such a fund to be banned outright, rather than relying on the Trump administration’s commitment not to revive it.
+Nevertheless, on Thursday, Senate Republicans rejected the Democrats’ measure to permanently block the fund.
+Republican Tom Tillis introduced a second amendment, which would have also banned the settlement fund. Instead, the legislation would have redirected the allocated funds to a separate anti-fraud fund within the Justice Department. That, too, was rejected.
+Thursday’s votes on the “anti-weaponisation” fund were just the start of several rounds of voting on issues uncomfortable to the Republican Party.
+Schumer, the top Democrat, signalled that other amendments would tackle another part of the IRS settlement: the permanent immunity from tax audits that Trump had secured for himself and his family.
+Trump’s controversial immigration enforcement campaign and other issues were also scheduled to be taken up in the day’s amendments.
+Senate Majority Leader John Thune said he was not sure whether Republicans would defeat every measure, with some members of the party showing an increasing willingness to stand up to Trump.
+“I can’t predict how it comes out,” he said.
+Immigration funding bill
+The situation on Thursday was the result of a standoff between Democrats and Republicans over the Trump administration’s approach to immigration enforcement.
+Democrats had pledged not to approve further funding for Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), following the killing of two US citizens during immigration operations in Minneapolis, Minnesota.
+Republicans control 53 seats in the 100-seat chamber, short of the 60-vote threshold needed to overcome a filibuster.
+They have instead been forced to pursue a lengthy procedural manoeuvre to bypass the filibuster, which has taken weeks.
+The $70bn funding bill had been stalled by the Trump administration’s demand to include $1bn for security upgrades for Trump’s White House ballroom project.
+The request came after the president had repeatedly said that no taxpayer dollars would go towards the project.
+The security funding, which roiled several Republicans, was subsequently dropped before the voting started.
+The Senate’s parliamentarian, an official who interprets the chamber’s rules, had previously ruled that adding ballroom funding to the $70bn bill would make it ineligible for the budget reconciliation process, which allows the passage of fiscal-related bills with a simple majority.
+If Senate Republicans remain unified, they are expected to pass the funding bill late Thursday night or early Friday.
+The Republican-controlled House of Representatives is expected to take up the bill shortly after.
 
 ====================================================================================================
 
-Trump says he could meet Iran's supreme leader if deal is reached
+What to know about the New World screwworm fly and its reappearance in the US
 Unknown
 Unknown Publisher
 2026-06-04
-21:13:22 UTC
-06:13:22 KST
+22:53:02 UTC
+07:53:02 KST
 
-Rabia İclal Turan
-05 June 2026•Update: 05 June 2026
-US President Donald Trump on Thursday said he would be “honored” to meet Iran's new Supreme Leader Ayatollah Mojtaba Khamenei if a deal is reached between the two countries.
-"I don’t want to meet, but if I did meet, I’d be honored to meet him," Trump said when asked about a possible sit-down with the Iranian leader, whose father and predecessor, Ali Khamenei, was killed in at the beginning of the US-Israeli war on Iran on Feb. 28.
-"I’d like to see if we make a deal, but if we make a deal, it’s possible that I would meet him," Trump said.
-Asked if the meeting would take place in the US, Trump said: "I haven't really heard too much about it. I didn't suggest it, but some people have suggested it."
-Asked if he would resume military action against Iran if Tehran were to kill US troops in the region, Trump replied: "It would be a good reason. I'd be honest with you, if they killed US troops, I think I would do that very quickly."
+What to know about the New World screwworm fly and its reappearance in the US
+What to know about the New World screwworm fly and its reappearance in the US
+The New World screwworm fly is threatening the $113 billion U.S. cattle industry for the first time in more than a half century, with an infestation from its flesh-eating larvae confirmed in south Texas.
+The infestation was discovered in a single 3-week-old calf in La Pryor, Texas, about 100 miles (161 kilometers) southwest of San Antonio and 50 miles (80 kilometers) from the U.S.-Mexico border. Federal and state officials had been working to keep the parasite from reaching Texas, home to $17 billion worth of the nation’s cattle, making it the industry’s No. 1 state.
+The deadly flies were detected in Mexico late in 2024, after years of being contained at the southern end of Panama.
+The fly was an annual warm-weather scourge of cattle ranchers from at least the 1930s through the 1960s, until the U.S. eradicated the pest by breeding sterile male flies and dropping swarms of them from planes to mate with wild females. The USDA said the most recent case was the first in Texas since 1966.
+Here is what to know about the fly, the threat it poses and the response:
+Being unusual makes the flies a threat
+The New World screwworm fly in the Western Hemisphere and its Old World cousin in Africa and Asia are unusual among flies because their larvae, or maggots, eat live flesh and fluids instead of dead material. Females lay their eggs in open wounds and mucous membranes after mating only once in their monthslong lives.
+Any warm-blooded animal, including wildlife, pets and occasionally even humans, can be infested.
+Livestock are vulnerable because of how they’re handled, Lee Haines, an associate research professor of biological sciences at the University of Notre Dame, said in an email Thursday. Standard practices with cattle can break the skin, including shearing and de-horning, or even moving them in and out of corrals can cause scrapes and cuts. Birth would also make a mother and calf vulnerable, she said.
+Stephen Diebel, a Texas rancher and president of the Texas & Southwestern Cattle Raisers Association, added that even wounds “as small as a tick bite,” can put cattle at risk.
+Death can result if an infestation is not treated, though a dozen treatments have been approved for use in a variety of species. In decades past, ranchers had tens of millions of dollars in losses — potentially billions in today’s dollars.
+But agriculture officials were quick to note that the fly does not infest food, and U.S. Agriculture Secretary Brooke Rollins said it’s unlikely to damage beef production -- welcome news given that consumers are already facing record prices.
+Officials sounded alarms for nearly 2 years
+Federal and state officials and cattle industry leaders have been sounding public alarms about the fly’s movement through Mexico and toward the U.S. since a case was confirmed in southern Mexico in November 2024.
+Officials had considered the pest eradicated from Central and North America nearly two decades before an outbreak in Panana prompted a state of emergency there early in 2023, according to the joint U.S.-Panama program established in 1994 to stop the parasite. Cases jumped to Costa Rica and Nicaragua later that year.
+Edward Burgess, a University of Florida entomologist who studies the fly, said it reproduces quickly and is carried across wide areas by its hosts, namely wild animals such as deer. Outside of Panama, he said, programs that produced and released sterile flies have largely shut down.
+“It’s hard to stay ahead of it because of how fast that fly is able to move and regenerate,” Burgess said.
+Outside the US, thousands of animals and hundreds of humans sickened
+As of June 2, the parasite had sickened more than 171,700 animals and 2,000 people across Central America and Mexico, according to the U.S. Centers for Disease Control and Prevention. There have been 10 human deaths, the CDC says.
+Starting in May 2025, Rollins closed border entries to livestock and on Thursday she credited that move with delaying the fly’s arrival in Texas by a year.
+Rollins has argued that the Mexican government has not done enough to control animals moving within the country, a suggestion Mexican authorities have rejected.
+But Haines said climate change is a key element in the spread of a tropical species that thrives in warm weather. Warmer temperatures are expanding the fly’s habitat and cold snaps that killed them off each year in marginal habitats are becoming less frequent and less severe, she said.
+Officials quarantine a swath of Texas
+Texas State Veterinarian Bud Dinges imposed a 12-mile (20-kilometer) quarantine zone covering much of Zavala County, home to La Pryor, and a small part of neighboring Uvalde County. Animals cannot leave that zone without being inspected.
+Local ranchers are concerned that the fly will spread among wildlife, particularly deer, as a small, short-lived outbreak did in the Florida Keys in 2016. That was the last time a U.S. case was confirmed among animals, though the CDC confirmed a case last year in a Maryland man who had traveled to El Salvador and recovered.
+Zavalas County Sheriff Eusevio Salinas said Thursday that state officials were setting up several road checkpoints in the county to enforce the quarantine.
+“They said they were going to do that for three to four days, and hopefully after that it’s already under control,” Salinas said.
+In Texas, shots and fly drops
+Diebel, whose family ranch is about 200 miles (322 kilometers) east of the quarantine zone, said ranchers are proactively giving injections that prevent screwworm infestation. They’re also taking extra care to treat wounds from ear tagging and other practices and keeping a close eye for signs of illness.
+The USDA has been dropping sterile flies in south Texas since February, when it opened a center for dispersing them in south Texas. It is now dropping them twice a week, for a total of 4 million flies, and it’s also putting 4 million more a week in the ground as pupae, flies in the stage between larvae and adult, said Rear Admiral Michael Schmoyer, a member of the USDA’s response team.
+Releasing sterile files is both time-tested and highly effective. While males are “promiscuous,” in the scientific sense, females are not, and if their one mating hookup is with a sterile male, no eggs from that female will hatch.
+Once sterile males are prevalent enough, the fly’s population declines and then dies out.
+But with sites outside Panama shut down for years, the USDA didn’t think sterile flies were being bred fast enough. It invested $21 million in a new fly-breeding facility in southern Mexico that is expected to start operations next month.
+The USDA also is spending $750 million to build a fly factory in southern Texas that can produce up to 300 million sterile flies a week. It is expected to begin operating next fall.
+
+====================================================================================================
+
+Progress in US-Iran talks stalls sfter Hezbollah rejects truce
+Unknown
+Unknown Publisher
+2026-06-04
+22:50:00 UTC
+07:50:00 KST
+
+Progress in US-Iran talks stalls sfter Hezbollah rejects truce
 
 ====================================================================================================
 
