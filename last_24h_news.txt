@@ -1,98 +1,39 @@
-Identity politics and policing: What the Henry Nowak case exposes in Britain - opinion
+New Pantsir anti-drone system spotted on Moscow rooftop
 Unknown
 Unknown Publisher
 2026-06-06
-15:01:34 UTC
-00:01:34 KST
+16:53:35 UTC
+01:53:35 KST
 
-Henry Nowak was 18 years old. He was a first-year student at the University of Southampton. In December last year, he was stabbed to death by Vickrum Digwa. Those bald facts are terrible enough. But what has caused outrage across Britain is what happened as Nowak lay dying.
-Digwa, who had fatally wounded him, falsely claimed that Nowak had assaulted him in a racist attack. Police officers arriving at the scene appear to have believed him. Nowak, bleeding and struggling to breathe, was handcuffed. In the bodycam footage subsequently released, he can be heard saying that he had been stabbed and repeating that he could not breathe. One officer responded: “Don’t think you have, mate.”
-Nowak died. Digwa has now been sentenced to life imprisonment, with a minimum term of 21 years. The police response is under investigation.
-Nowak’s father has asked that his son’s murder not be used to stir hatred or division. He is right. This must not become an excuse to attack Sikhs, immigrants, or minorities. A murderer is responsible for his crime, not an entire community.
-But neither can society simply look away from the question raised by the footage: Why did an accusation of racism carry more weight than the bleeding young man lying before the officers’ eyes?
-Prime Minister Keir Starmer himself said there were questions to be answered about how accusations of racism informed the police decision-making. Others have called it evidence of “two-tier policing,” of a Britain so terrified of appearing prejudiced that, in some circumstances, it can no longer see who is actually the victim.
-Replacement of evidence by identity
-As a British-born Jew, I find something hauntingly familiar in this story. Not because Nowak’s murder is identical to the experience of Jews or Israelis. It is not. But because it exposes a mentality that British Jews and Israelis increasingly recognize: the replacement of evidence by identity, of individual responsibility by political narrative, of the actual victim by the person that society has already decided must be the victim.
-We saw it when supporters of Maccabi Tel Aviv were banned from attending their team’s Europa League match against Aston Villa in Birmingham.
-We were assured that this was simply football policing. Israeli fans, we were told, presented a unique security risk. Yet a subsequent parliamentary inquiry found that West Midlands Police had relied on inaccurate information, had been influenced by confirmation bias, had focused heavily on the supposed threat posed by Israeli supporters while giving inadequate weight to threats against them from elements of the local community, and had failed properly to engage Birmingham’s Jewish community before the ban was imposed.
-The committee did not find proof that antisemitism motivated the decision. But it did find a process in which Israeli supporters were effectively treated as the problem before they had even arrived.
-Then, days ago, Paris Saint-Germain defeated Arsenal in the Champions League final in Budapest. The celebrations in Paris descended into serious disorder. Cars were set alight, shops damaged, a police station reportedly targeted, hundreds arrested, more than 200 people injured, and one person killed.
-Will French football supporters now be banned from attending matches in England? Will PSG supporters be treated as an inherently dangerous class? Will football authorities decide that French fans, because some of them rioted, can no longer be safely admitted to British stadiums?
-Of course not.
-Nor should they be. Those who riot should be prosecuted. Ordinary football supporters should not be collectively punished for violence committed by others.
-Yet when the supporters were Israeli, that elementary principle seemed suddenly to evaporate. Maccabi fans were not merely football fans. They were Israeli football fans. Their nationality had already made them suspect.
-And now the same attitude is taking an even darker turn.
-Green Party leader Zack Polanski has joined a campaign, launched by Declassified UK and the International Centre of Justice for Palestinians, which calls for British nationals who served in the IDF since October 2023 to have their movements tracked and for the government to support war-crimes investigations.
-The campaign warns that people who returned from committing war crimes in Gaza may now be working in British hospitals, schools, and police forces.
-Let me be unambiguous. If any British national has committed a war crime, whether while serving in the IDF, Hamas, the Russian army, or any other military force, he or she should be investigated. If there is credible evidence, that person should be prosecuted.
-But service in the IDF is not evidence of a war crime.
-Many British-Israelis who served after October 7 did so after 1,200 people were slaughtered in Israel and 251 people kidnapped. Some were reservists called away from their jobs and families. Some went to defend communities traumatized by the Hamas-led massacres. Some will have lost friends and relatives. To present these people collectively as potential criminals moving secretly among the British population – perhaps inside its hospitals, its schools, or its police forces – is not justice. It is demonization.
-There is an additional sadness in the fact that Polanski is Jewish. His Jewishness does not require him to support Israel, its government, or its military operations. Jews are entitled to criticize Israel as much as anyone else.
-But a Jewish political leader should understand the danger of language that encourages the public to imagine a suspect minority hidden in plain sight, working among them, needing to be monitored by the state.
-That language has echoes.
-It matters that British Jews have family in Israel. It matters that many British Jews have children, nieces, nephews, and grandchildren serving in the IDF – not because they are war criminals but because Israel is their home and was attacked.
-It matters that in post-October 7 Britain, Jews have repeatedly found themselves being asked to explain, condemn, or dissociate themselves from Israel simply to participate safely in public life.
-There is a pattern here.
-Nowak lay dying, yet an allegation made against him seemed to define him more powerfully than his wound.
-Maccabi Tel Aviv supporters were excluded, while the threats against them were not given the attention they deserved, because being Israeli rendered them suspect before they reached Birmingham.
-Now British-Israelis who served in the IDF are being spoken of as a class of people whose movements should be tracked, their presence in public institutions viewed with alarm.
-These are not identical cases. But they are connected by a deeply dangerous instinct: decide first who belongs to the approved category of victimhood and who belongs to the category of suspicion, and only afterward consider the individual facts.
-Britain must be better than this.
-It must be possible to condemn racism without allowing the allegation of racism to blind police to a dying boy. It must be possible to prosecute football hooligans without excluding Israeli supporters as a nationality. It must be possible to investigate actual war crimes without treating British-Israelis as presumptive criminals.
-Justice cannot be two-tiered. Not for Henry Nowak. Not for minorities. Not for Jews. Not for Israelis.
-A wound must matter more than a label. Evidence must matter more than identity. And a society that forgets this will eventually discover that no one is safe from becoming the wrong kind of victim.
-The writer is a rabbi and physician. He writes and teaches on Jewish ethics, leadership, and resilience. His work appears on rabbidrjonathanlieberman.substack.com and youtube.com. @rabbidrjonathanlieberman.
+- OSINT analyst Zeldamic geolocated a Pantsir-SMD-E deployment by Mi-26 helicopter onto a building in Moscow's Sokolniki District at coordinates 55.78822, 37.677713.
+- At least four Pantsir systems are now confirmed on Moscow rooftops, with the SMD-E variant carrying up to 48 TKB-1055 anti-drone missiles per battery.
+A heavy transport helicopter lowered an anti-drone missile system onto the roof of a high-rise building in Moscow’s Sokolniki District, adding another node to a defensive network that Russia has been rapidly expanding across the capital’s skyline as Ukrainian drones have penetrated deeper and hit targets that Russian air defenses were previously assumed to protect.
+The deployment, geolocated by OSINT analyst Zeldamic to coordinates 55.78822, 37.677713 in the Sokolniki District, follows a series of similar installations that have placed at least four Pantsir air defense systems on rooftops across Moscow since late May 2026.
+The system being airlifted in the footage is the Pantsir-SMD-E, the latest variant of Russia’s Pantsir family of short-range air defense systems and a significant departure from the original Pantsir-S1 in both design philosophy and intended mission. Where the Pantsir-S1, which has appeared on Moscow rooftops since early 2023, combines a radar, two 30 mm automatic cannons, and a battery of surface-to-air missiles on a single combat module, the SMD-E strips out the cannons entirely and replaces them with a much larger missile loadout optimized for the specific challenge of intercepting drones in large numbers. A single Pantsir-SMD-E battery can carry up to 48 TKB-1055 mini-missiles or up to 12 of the larger 57E6-E missiles, or any combination of the two, giving it dramatically more magazine depth against drone swarms than the original Pantsir-S1, and the system can simultaneously track 40 targets and engage threats traveling at speeds up to 1,000 meters per second.
+The helicopter performing the airlift is the Mil Mi-26T, the world’s largest production helicopter and the only rotorcraft capable of lifting a Pantsir combat module to rooftop height on a tall building without the structural support of a crane. One of the earlier deployments in the same campaign involved a Mi-26T helicopter lowering a Pantsir-SMD-E system onto the roof of the 42-story Nordstar Tower business center on Begovaya Street in Moscow’s Northern Administrative District, with footage of that installation published on May 27, 2026. The Sokolniki District deployment confirmed by Zeldamic represents a continuation of the same operational pattern, extending the rooftop missile network from Moscow’s commercial north toward the district east of the city center that takes its name from the historic Sokolniki Park, one of Moscow’s largest green spaces.
+With the newly spotted system at the Nordstar business center and additional deployments identified since, at least four Pantsir systems are now known to be deployed on rooftops in Moscow, according to Defence Express, the Ukrainian defense analysis outlet that has been tracking the installations. The confirmed rooftop locations include the Nordstar Tower, a commercial office building southeast of the Kremlin, the headquarters of Russia’s Ministry of Internal Affairs north of the city center, and now the Sokolniki District building. Military analysts have strongly condemned the deployment of heavy weaponry onto non-military urban structures, with Defense Express pointing out that mounting active air defense assets on top of standard civilian office blocks constitutes a direct violation of international humanitarian law.
+An air defense missile system operating from a civilian rooftop places that building within the category of military objectives under the laws of armed conflict, potentially exposing its occupants and the surrounding neighborhood to legal targeting by an adversary. Russia has not addressed that legal dimension publicly, and the deployments have continued regardless of the criticism. The operational logic driving them is straightforward: a rooftop perch provides a safer firing location, extended reaction time, and a much wider range of firing angles, while ensuring a clear line of sight for the radar, according to analysis published by The War Zone. A missile system on the ground in central Moscow is hemmed in by surrounding buildings, limited in its radar coverage, and vulnerable to masking by terrain that drones can exploit. A system on the fortieth floor of a skyscraper sees the approach geometry that matters.
+The Pantsir-SMD-E’s two missile types address the threat spectrum that Ukraine’s drone campaign presents at different ranges. The system is equipped with standard 95Ya6 missiles with a target engagement range of up to 20 km (12 miles), and compact TKB-1055 missiles designed to intercept small targets at ranges of up to 7 km (4 miles). The TKB-1055 is the weapon specifically designed for the small, low-observable commercial-derivative drones that Ukraine has been launching against Moscow in growing numbers, drones that are cheap enough to field in quantity but small enough that larger interceptor missiles represent a poor economic exchange. Rostec confirmed in June 2025 that the TKB-1055 mini-missiles had completed state testing and entered serial production, with the company stating that “one Pantsir-SMD-E can destroy dozens of unmanned aerial vehicles.”
+The rooftop deployment strategy first introduced in January 2023, when Russia began placing Pantsir-S1 systems on elevated structures including the Russian Defense Ministry headquarters on Frunzenskaya Embankment, has expanded significantly since then, with military analysts estimating that more than 100 Pantsir-S1 and related systems have been integrated into Moscow’s defensive ring, including installations on specialized towers, landfill mounds, government sites, and civilian infrastructure, and more than 40 Pantsir systems were reportedly repositioned from other Russian regions to reinforce the Moscow area in 2025 alone.
+The technical evolution of the Pantsir family itself reflects the lessons Russia has absorbed from the drone threat. When Pantsir-S1 systems first appeared on Moscow rooftops in 2023, they were the same configuration used in Syria, where their performance against small drones had been criticized as inadequate. The SMD-E variant represents a fundamentally different design philosophy: pure missile defense optimized for mass drone interception, with a magazine that can absorb a sustained swarm attack rather than running dry after twelve shots.
 
 ====================================================================================================
 
-Hiking in the Holy Land: Where the women drew water
+Pakistani interior minister arrives in Tehran amid mediation efforts between Iran, US
 Unknown
 Unknown Publisher
 2026-06-06
-15:01:32 UTC
-00:01:32 KST
+16:49:36 UTC
+01:49:36 KST
 
-This trail in the Judean Hills is new to us, but the scenery is familiar. It’s late spring, almost summertime, and the terrain tells the story of this time of year. Once-green fields have turned golden-white, that iridescent shade that seems to shine no matter the time of day. The trail we follow is now officially a dust path. Gone are the mud tracks of wintertime; no real rain has fallen for a while now.
-We stick to the trail as much as we can, though. Sliding in the dust is better than getting thorns stuck in our socks, and the thorns are plentiful now. They make their way through the mesh tops of our trail runners whenever given the chance.
-We climb one hill and notice a stone square in the ground near a fig tree – a water cistern, or perhaps a well, a feature so ubiquitous in this landscape that hikers walk past without a second glance. Of course, we’re going to test it out.
-My husband picks up a rock, drops it in, and we hear a satisfying plink as it hits fresh water at the bottom. This water source is still fully functional, hundreds, maybe thousands of years after someone dug it.
-I don’t think I ever encountered a cistern or a well during my first 20 years of life in the United States. I could hardly have imagined the need to search for water in my swampy, rainy hometown of New Orleans. But here in Israel, wells and cisterns are everywhere – set into hillsides, hidden under fig trees, tucked behind stone walls in ancient agricultural terraces. Sometimes you can see them. More often, you walk right past.
-Turning back the pages of history
-Turning back the pages of history, wells appear in the Torah from almost the beginning. Abraham dug them in Beersheba, and a well dating back to biblical times still stands at the ancient site. Isaac re-dug his father’s wells after the Philistines filled them in.
-Then there are the stories I love most – the wells as romantic meeting places. Rebecca offering water to Eliezer’s camels at the well. Rachel arriving with her father’s flock as Jacob single-handedly rolled the stone away from the well’s mouth. Zipora and her six sisters chased off by shepherds at a well in Midian, only to be defended by a fugitive Moses. Three of the great love stories of the Torah, all set at wells.
-The Torah even gives us the timing for the kind of well-meeting that brought Eliezer to Rebecca. When Eliezer arrived, he made his camels kneel “at evening time, the time when women come out to draw water” (Genesis 24:11). This was not a chance arrival. He knew exactly when the women would come. The well was a predictable place, at a predictable hour, where you could meet the women of a town.
-Surveying the scenery here, it’s pretty clear why. Rain doesn’t fall in Israel all year long, and there aren’t many above-ground water sources. Come late spring, water for household needs had to come either from a collected source or from deep underground.
-While the men were out tending flocks, the women gathered water in jugs in the morning and toward evening, when cooler temperatures made this physically demanding task a bit easier. So these romantic interludes were no coincidence. The well was where you might go to meet a woman, because the well was where the women were.
-MY HUSBAND and I pick up our bags and continue along the trail, our own tap water safely tucked into thermos bottles in our backpacks. No well required.
-Snapshots of a vanished daily life
-As we wander along, I think about something I recently learned in Mishna Pirkei Avot, a tractate traditionally studied during the seven weeks between Passover and Shavuot. The text advises against engaging in excessive conversation with women – a line that has been interpreted in many ways throughout the centuries.
-Later commentaries usually read it as a teaching about modesty or focused study. But the scholar Shmuel Safrai pointed out that the original context may have been more specific. In Mishnaic times, there were no indoor ovens. Women of a settlement cooked together in shared courtyards. They had to coordinate the lighting of their fires, share baking duties, and manage the heat through the long afternoons.
-According to Safrai, this enforced togetherness made the courtyard a place where information moved quickly – and where the men of the period may have been concerned that their secrets might be shared by their wives.
-It’s a snapshot of a vanished daily life. Like the wells, the courtyards were an infrastructure for the women; the place where they spent their days, raised their children, and lived their social lives.
-That whole world is lost on modern readers. We live in such isolated, nuclear units that we can hardly imagine the necessity of baking in a communal kitchen, much less gathering our water at a public well at a set hour of the day.
-Still, as we hike along, the signs of that older world are everywhere. The wells. The terraced courtyards built into hillsides, where you can sometimes still see the round depression of an old oven, or the worn stone where a grinding mill turned. The paths between settlement and water source, worn smooth by generations of feet carrying jugs.
-The trail bends, and the well disappears behind us. Ahead, more golden hills, now lit even brighter and whiter by the hot sun. And among them, hundreds of ancient wells and cisterns are hidden, still holding fresh water in the cool darkness underground.
-The writer is the author of From Southerner to Settler: Unexpected Lessons from the Land of Israel, and the founder of Hiking the Holyland.
-
-====================================================================================================
-
-Multiple clashes between Israelis, Palestinians reported in West Bank following alleged sheep theft
-Unknown
-Unknown Publisher
-2026-06-06
-15:01:17 UTC
-00:01:17 KST
-
-Multiple clashes were reported between a group of Israelis and Palestinians in the West Bank town of Huwara, the IDF said in a statement on Saturday.
-"IDF and Border Guard forces rushed to several locations in the Hawara area in the Samaria Brigade, following a report of suspected theft of sheep belonging to Israeli civilians, in order to remove the Israeli civilians and the sheep from the village and prevent friction in the area," the military said.
-The clashes included incidents of stone throwing and the use of clubs between Israeli civilians and Palestinians, according to the IDF.
-Army radio also reported that some of the settlers involved in the incident were masked and that several Palestinians were injured, something that was later denied by the IDF.
-"The forces worked to disperse the gatherings using riot control measures. The gatherings were dispersed, and security forces are in the area to prevent further disturbances," the statement said.
-Investigation opened over clashes in Huwara
-The military also said that the Sha'a District Police had opened an investigation over the clashes in Huwara.
-"The IDF strongly condemns violence of any kind that harms security in the area and diverts the attention of commanders and fighters from engaging in defensive and counterterrorism missions," the military added.
-The statement also addressed footage captured by people present at the site of the clashes, in which IDF soldiers were "acting violently towards a Palestinian," saying that "the actions seen in the video are serious and inconsistent with the IDF's values."
-"The case is being investigated. If the soldier is found, he will be dealt with disciplinary action, and command and disciplinary measures will be taken in accordance with the findings," the military clarified.
+Sahin Demir
+06 June 2026•Update: 06 June 2026
+Pakistani Interior Minister Mohsin Naqvi arrived in Tehran on Saturday for talks with senior Iranian officials amid Islamabad's ongoing mediation efforts between Iran and the United States, according to Iran's semi-official Tasnim News Agency.
+According to Tasnim, Naqvi is expected to meet several Iranian officials, including Foreign Minister Abbas Araghchi.
+Pakistani sources previously told Anadolu that Naqvi's visit would focus on discussing “new proposals” related to the Pakistan-mediated diplomatic process between Tehran and Washington.
+The sources said Naqvi is expected to present proposals aimed at breaking the current deadlock in negotiations and facilitating a temporary understanding between Iran and the United States.
+Pakistan has played a mediating role between Tehran and Washington since the outbreak of the Iran-US conflict on Feb. 28.
+A temporary ceasefire was reached on April 8 through Pakistani mediation, but negotiations later stalled amid disputes over implementation and subsequent regional developments.
 
 ====================================================================================================
 
