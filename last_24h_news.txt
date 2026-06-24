@@ -1,73 +1,83 @@
-'ISIS bride' barred from Australia issued permit to return home
+Israel’s World Cup path would be easier through Asia. Here’s why it’s sticking with Europe
 Unknown
 Unknown Publisher
 2026-06-24
-22:04:00 UTC
-07:04:00 KST
+23:51:36 UTC
+08:51:36 KST
 
-A woman living in Syria, who has links to Islamic State and had been barred from returning to Australia, has been issued a permit to come home. 
-The so-called ISIS bride, who is an Australian citizen, had been subject to a temporary exclusion order (TEO), put in place by Home Affairs Minister Tony Burke. 
-But the minister said the government received advice it was legally obligated to allow her to return if she applied for a permit. 
-"We received the final advice yesterday that we can no longer have an exclusion condition any longer for her," he said. 
-"The temporary exclusion order applies until a permit is issued, and when a permit is requested, a permit lawfully has to be issued." 
-The woman was the only person issued a TEO from the cohort of women and children with links to the Islamic State, living in camps in Syria.
-She is expected to return to Australia with her child. 
-Surveillance set at 'legal limit'
-Mr Burke said security agencies were ready to extend a "very high level of surveillance". 
-"The conditions that then do apply to her are everything that is possible," he said. 
-"For example, she will have to report and we will have to know where she lives, where she works, where she studies, if she books a ticket to anywhere." 
-The woman will also be barred from using any telecommunications device, including a phone, email account or social media platform, without 24 hours' notice to authorities. 
-"Even if you want to use a public phone, it is 24 hours' notice," Mr Burke said. 
-"There will be a very high level of surveillance, and we have gone absolutely to the legal limit that we are able to." 
-He confirmed the woman and her child were the last remaining Australian citizens the government expected to return from the camps in Syria, set up in part to house the families of Islamic State fighters after the fall of the caliphate in 2014.
-
-====================================================================================================
-
-Medical AI could compromise your privacy in disturbing new way, experts warn
-United Kingdom
-Unknown Publisher
-2026-06-24
-23:01:34 BST
-07:01:34 KST
-
-Medical AI could compromise your privacy in disturbing new way, experts warn
-Systems are intended to improve medical care – but could expose people in unexpected ways
-- Bookmark
-- CommentsGo to comments
-Artificial intelligence used in medicine could undermine people’s privacy in unexpected ways, experts have found.
-Such medical AI systems have a variety of uses, and many have claimed that it could dramatically improve healthcare. They may be especially useful in those places where specialised medical expertise is rare, and so people may rely on artificial intelligence instead, using it to diagnose problems using medical images, for instance.
-But a new study warns that same technology could undermine the privacy of the people whose data is used to train it – without them ever knowing. It is one of a variety of possible security vulnerabilities in what could be a transformative new technology.
-The new study warns that malicious users may be able to perform privacy attacks on medical AI systems that could allow hackers to learn whether someone is being treated for a specific disease, for instance.
-Like other artificial intelligence systems, medical AI tools work by giving a variety of data – such as patient images – to a computer, and telling it which images indicate a certain outcome. The system can then learn to look for those patterns, allowing it to spot potential symptoms.
-The people whose data is used in that study should stay anonymous. But new research suggests that it might be possible to determine whether the data of a specific patient was used to train that model.
-That could then be used to learn sensitive medical information about a given patient. In the new study for instance, researchers described a kind of attack that could be used to find whether a person has cancer.
-The research looked at a specific hack known as a ”membership inference attack”, which allows hackers to work out whether the data of a specific patient was used to train a given model. They found that such an attack can achieve “near-perfect success rates” for some individual patients, and that the risk is bigger for underrepresented groups.
-The ideal summer spot? Away from scams. + Get Protected
-Get All-in-One Protection for Your Digital Life
-ADVERTISEMENT
-The ideal summer spot? Away from scams. + Get Protected
-Get All-in-One Protection for Your Digital Life
-ADVERTISEMENT
-That could then be used by cybercriminals to invade people’s privacy and potentially use the data they gain for other kinds of attacks, the researchers warn.
-“Given this vulnerability, medical AI models and their deployment contexts should be assessed for the sensitive information that attackers could obtain by successfully inferring training dataset membership,” the researchers warn. The study should be evidence that medical AI systems be protected against such attacks.
-The work is reported in a new paper, ‘Disparate privacy risks from medical AI’, published in the journal Nature.
-Join our commenting forum
-Join thought-provoking conversations, follow other Independent readers and see their replies
-Comments
+More than five decades after Israel’s only World Cup appearance, the Israel Football Association says it has no intention of trying to leave Europe for the Asian regional qualifying system that once took the country to the tournament, before Arab-led boycotts helped force it out.
+The launch this month of the tournament hosted by the United States, Mexico, and Canada has renewed attention to Israel’s absence from the World Cup. Despite a thriving local soccer scene and success in competition abroad, the only time the country appeared in the tournament was in Mexico in 1970.
+That’s because Israel seeks to qualify through the Union of European Football Associations, whose ranks are so strong that even a solid campaign can become a long shot for the World Cup. Even titans like four-time World Cup winner Italy failed to qualify this year.
+Israel is the only non-European country trying to reach the tournament through UEFA, while most of its neighbors seek places through the Asian Football Confederation. Israel was ousted from the Asian soccer body in 1974. It bounced around the qualifying zones for a few years — it played in the Oceania qualifiers ahead of the 1986 and 1990 World Cups — before settling in the European grouping in 1991.
+Return to Asia not on the table
+Shlomi Barzel, head of communications for the Israel Football Association, said a return to Asia is not on the table, both because Israel does not want to leave European soccer, where it has built a standing, and because he does not believe the Asian confederation would accept it back.
+The only upside to such a move, he joked, would be if Israel’s opponents boycotted matches against it: “Israel would automatically qualify.”
+A boycott of Israel did affect the team’s path to the 1970 World Cup. North Korea was ejected from the Asian qualifying tournament after refusing to play in Israel. As a result, Israel advanced to the final round after winning only two games against New Zealand. In the finals, Israel faced an Australian team already exhausted after fending off South Korea, Japan, and Rhodesia (itself in the Asian tournament after being banned in Africa over its white governing regime).
+In the tournament in Mexico, Israel’s all-amateur team defied expectations, losing 0-2 to Uruguay but notching draws against Sweden and Italy before being eliminated.
+Israel ejected from Asian Football Confederation
+Four years later, Israel was effectively ejected from the Asian Football Confederation following a resolution introduced by Kuwait that passed 17 to 13, with six abstentions. The vote came a day before a high-profile Israel-Iran game in Tehran that Iran won 1-0 on an Israeli own goal.
+Today, Barzel rejects the premise that rejoining the AFC would guarantee Israel a place in the World Cup going forward.
+“It would be a little patronizing and arrogant for me to say that,” he said, adding that he was not sure Israel would beat teams such as Jordan or Qatar.
+Barzel also cited Israel’s place inside UEFA’s institutions as a benefit for sticking with the current arrangement. Current IFA chairman Moshe “Shino” Zuaretz was elected to UEFA’s Executive Committee in April 2025, despite the war in Gaza and growing calls to sanction Israeli soccer, while former IFA chairman Avi Luzon previously served in a senior role on the same body.
+Institutional backing has extended beyond Europe, Barzel said, pointing to the 2022 World Cup in Qatar, where Israeli fans were allowed to attend despite the absence of diplomatic ties. He also cited the global soccer body FIFA’s decision to move the 2023 under-20s World Cup from Indonesia to Argentina after Indonesia objected to hosting Israel’s team. Israel went on to finish third.
+Still, Israel’s formal place in international soccer has done little to shield its teams and supporters from hostility. Maccabi Tel Aviv fans were attacked in Amsterdam after a match against Ajax in November 2024, and the club’s supporters were later barred from attending an Aston Villa match in a decision that became a political and policing scandal in Britain.
+Despite its absence from the World Cup, Israel has remained a political flashpoint around the event, which U.S. President Donald Trump vowed to make “an unprecedented success.” Speculation that Trump’s hopes for a World Cup untainted by war spurred his push for a ceasefire with Iran prompted a denial from the top White House official dealing with the World Cup.
+That didn’t keep the conflict from seeping into the events.
+In Boston on June 19, kilt-clad Scotland fans waiting in blocks-long lines to board shuttles to the stadium where their team would face Morocco accepted Palestinian flags from activists lining the route.
+Hours before Canada’s opening match on June 12, activists draped a “Kick Israel out of FIFA” banner over a World Cup logo near one of Toronto’s busiest highways.
+Days later, a viral video from Iran’s match against New Zealand in Los Angeles showed security guards confiscating an Israeli flag from a fan — who was told they were acting on orders from their superiors — while other spectators behind him held Palestinian flags.
+Trump’s special envoy for global partnerships, Paolo Zampolli, told Israel’s Kan public broadcaster he was “very disturbed” by the incident in Los Angeles, adding that there was “no place for antisemitism or double standards in sports.” Zampolli, who had previously urged FIFA to replace Iran with Italy at the World Cup, called on the soccer body to treat the episode seriously.
+Barzel drew a distinction between the flag incident, which he said was likely a poor decision by stadium staff, and any official FIFA policy against Israel, noting that Israel’s flag is displayed alongside those of other member associations at official FIFA and UEFA events. FIFA generally discourages flags of teams not playing in a given match, he said, and added that Israeli teams have grown used to seeing Palestinian flags in soccer stadiums.
+“Personally, I don’t get worked up by flags — they don’t scare me,” he said.
+Yoav Borowitz, head of sports at Kan, said FIFA appeared wary of flags being used as protest symbols, pointing to the Iranian lion-and-sun flag, the country’s flag before the 1979 revolution, which installed the current theocratic regime, which some fans waved at the same match. FIFA’s failure to clarify whether Israeli flags were allowed in stadiums in the days after the incident, he said, “shows where Israel stands at the moment.”
+“There were official FIFA stewards there,” he said, “and if the fan was effectively forced to remove the flag, then I would have expected FIFA to have issued a response by now and said that Israeli flags are allowed into stadiums, just as Palestinian flags are allowed into stadiums, just as the flag of any country is allowed into stadiums.”
+Any limits placed on Israel’s soccer association have been imposed solely on security grounds, Barzel said, though in October, UEFA came close to holding an emergency vote on whether to suspend Israel over the war in Gaza.
+At FIFA’s congress in Vancouver in April, when Palestinian Football Association president Jibril Rajoub refused to shake hands with Israel FA Vice President Basim Sheikh Suliman despite repeated appeals from FIFA President Gianni Infantino, who called on the sides to “give hope to the children.”
+Despite such gestures, Israel continues to compete as usual — almost. It has been unable to host matches at home for close to three years because of war and has had to play its home World Cup qualifiers in neutral third countries. It is hosting several contests this fall in Moldova, which last year gained an Israeli embassy and direct El Al routes for the first time. (Russia, by contrast, has had its national teams and clubs suspended from FIFA and UEFA competitions since its invasion of Ukraine.)
+Despite the controversies, FIFA has kept pressing ahead with its vision of soccer as “a force for unity, peace and hope,” including reported discussions about opening a new under-15’s tournament in the United States in September with a symbolic match between Israeli and Palestinian youth teams.
 
 ====================================================================================================
 
-Trump says values Russia, China, Turkey’s non-interference into war against Iran
+Trump criticizes European NATO countries, praises Turkey's Erdogan in meeting with NATO Sec.-Gen.
 Unknown
 Unknown Publisher
 2026-06-24
-22:01:09 UTC
-07:01:09 KST
+23:51:35 UTC
+08:51:35 KST
 
-WASHINGTON, June 25. /TASS/. US President Donald Trump has said that he values Russia, China, and Turkey’s decision not to step in in the United States and Israel’s war against Iran.
-"He [Turkey's President Recep Tayyip Erdogan] stayed out of the war, you know. He was a prime candidate to go into the war with Iran, maybe on the Iran side, because he's not a big fan of Israel, as you know, and I asked him to stay out. He stayed out," he said.
-"And you know who else was great, it was President Xi [Jinping] of China. He could have come in, he gets half of his oil from that area, and I could see him wanting to, and I asked him to please stay out, and he did," he added.
-"Erdogan is a great leader, very strong person, great military, and I asked him to stay out, and he did, and so did President Xi, and frankly, so did [Russian President Vladimir] Putin. If you really look, but you could say that Vladimir has some other things to focus on, but they all stayed out. I mean, it was pretty, pretty amazing," Trump emphasized.
+US President Donald Trump said that he was disappointed in the level of NATO participation in the Iran war during a meeting with NATO Secretary General Mark Rutte, who defended European countries' contributions on Wednesday.
+“Generally speaking, your European allies have been there with you,” Rutte said.
+Rutte stated that while he understood Trump’s disappointment with NATO, countries had still made significant contributions to the US war effort, including Romania, which had closed its airport to all commercial traffic when the US needed to send a tanker aircraft into the air, one of 4,000 to 5,000 planes that took off from European air bases during the war.
+“It would have been very difficult to do Iran without having Europe as a power projection platform for the United States,” Rutte said.
+However, Trump reiterated his stance that NATO countries had not done enough.
+“We’re disappointed with most of them,” Trump said.
+Trump praises Erdogan
+Trump also said that Turkish President Recep Tayyip Erdogan had remained out of the Iran war at his request, despite having the motivation to aid Iran during the meeting.
+“He was a prime candidate to go into the war with Iran, maybe on the Iran side, because he’s not a big fan of Israel,” Trump said.
+However, Trump said that after he had asked Erdogan, whom he described as a friend of his, to stay out of the war, he did.
+“Everything I’ve ever asked him for, he’s done,” Trump added. He also said that he was going to be attending the Ankara Summit in two weeks at Erdogan’s request.
+When asked if he would provide fighter jets and jet engines to Turkey, Trump stated that he would "probably do something" that would make Turkey ”very happy."
+US Vice President JD Vance indicated that a review was underway to see how the United States could sell Turkey F-35 fighter jets, given Ankara's 2019 acquisition of Russian S-400 missile defense systems.
+"[US Defense Secretary Pete Hegseth] and the entire team are reviewing this right now, because there are certain things that we have to certify have happened ... in order to comply with American law. The president has asked us to do that," Vance told reporters.
+Trump doesn't think the US struck girls school in Minab
+Trump also addressed the investigation into the deadly strike on a girls' school in Minab, Iran, during the start of the war with Iran, stating that the fault may never truly be determined.
+“I don’t know that they’re ever going to solve that problem in terms of whose fault was it, because there were missiles flying all over the place,” Trump said, adding that he did not believe the missile that struck the school was from the US.
+Trump said he had not yet seen the report into the attack, and was waiting for it to be complete.
+Hegseth stated that the investigation was being taken “very seriously” but did not share any other details.
+
+====================================================================================================
+
+IDF soldier found handcuffed in West Bank town
+Unknown
+Unknown Publisher
+2026-06-24
+23:51:21 UTC
+08:51:21 KST
+
+Judea and Samaria police rescued an IDF soldier from the West Bank town of Tarqumiyah, following a report from security forces of a person in military uniform handcuffed in the center of the town.
+The soldier, a resident of southern Israel serving in the IDF, was taken to the Hebron police station. A preliminary investigation found that the soldier was unarmed and had entered the West Bank with criminal intentions.
+The Military Police Criminal Investigation Division is now investigating the case.
+This is a developing story.
 
 ====================================================================================================
 
