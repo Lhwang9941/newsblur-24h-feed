@@ -1,168 +1,73 @@
-Hong Kong school rearranges overnight World Cup watch party after feedback
+Poland buys V-BAT surveillance drones in $16 million Shield AI deal
 Unknown
 Unknown Publisher
 2026-06-24
-04:53:52 UTC
-13:53:52 KST
+08:17:10 UTC
+17:17:10 KST
 
-Hong Kong school rearranges overnight World Cup watch party after feedback
-Chi Lin Buddhist Primary School says event to be held on morning of July 12, adds previous circular aimed to gauge parents’ views
-A Hong Kong primary school that earlier suggested hosting an overnight World Cup viewing event has watered down the plan and opted for a weekend morning timeslot in response to feedback from parents.
-The school clarified that its initial circular, which slated the event for the very early hours of July 15, sought to gauge parental interest, while its shift to daytime aimed to allow for more parents and students to watch the match together.
-In a statement on Wednesday – about a week after the initial notice was issued – Chi Lin Buddhist Primary School in Tseung Kwan O announced that the event had been brought forward to Sunday, July 12.
-“After careful consideration and based on parents’ preferences, the school has decided to reschedule ‘World Cup Night’ to the morning of Sunday, July 12, 2026, and host it as a ‘Fun Day’,” the circular read.
-“We hope this will allow more parents and children to watch the matches together, engage in interactive experiences, and visit learning booths.”
-The school stated that the change was made in response to valuable feedback from parents and the wider community.
-A teacher, who only gave his name as Lui, told the South China Morning Post that the number of parents who had expressed interest in attending the original late-night event was “not that sufficient”.
+- Poland's Armament Agency signed a roughly $16 million contract with Shield AI for V-BAT naval drones, to be delivered in 2026.
+- The V-BAT drones will conduct surveillance and reconnaissance missions from Polish Navy vessels operating in the Baltic Sea.
+Poland has signed a contract worth approximately $16 million to purchase American-made V-BAT vertical takeoff and landing drones for its Navy, with the deal set to be completed before the end of 2026, Defence24 reported.
+The agreement, confirmed by Poland’s Armament Agency, covers one full system set and several aerial platforms, making Poland one of the first European NATO allies to field the V-BAT in a dedicated naval role.
+The V-BAT is built by Shield AI, a San Diego-based defense technology company founded in 2015 and best known for developing artificial intelligence software for autonomous military platforms. The drone itself is a compact, ducted-fan vertical takeoff and landing system classified by NATO as a Class I unmanned aerial vehicle, meaning it falls below 150 kg (331 lb) in operating weight. Despite that relatively modest size, Shield AI says the V-BAT can perform missions that previously required much heavier drones: NATO Class II systems weighing between 150 and 600 kg (331 to 1,323 lb), and even Class III platforms exceeding 600 kg (1,323 lb). The gap between those capability tiers and the V-BAT’s physical footprint is what makes the system attractive for shipboard operations, where deck space and hangar volume are hard constraints that no amount of mission need can override.
+The aircraft weighs 73 kg (161 lb) fully loaded, carries a payload of just over 18 kg (40 lb), and spans 3.8 m (12.5 ft) across its wings. A single heavy-fuel engine powers it through flights lasting more than 12 hours, a figure that puts it well ahead of battery-electric competitors in the same weight class. The ducted-fan propulsion design, with the rotor enclosed in a protective shroud, allows the V-BAT to launch and recover from ship decks, rooftops, and unprepared terrain without ground handling equipment or launch rails. For a navy operating in confined coastal waters or alongside surface combatants with limited deck space, that matters considerably.
+Poland’s Armament Agency confirmed that the V-BAT platforms will operate from Polish Navy vessels and conduct intelligence, surveillance, and reconnaissance missions in the maritime environment. The Baltic Sea, which forms the northern boundary of Polish territory and serves as the primary operating area for the Polish Navy, has seen a significant increase in hybrid security threats in recent years, including suspected sabotage of undersea energy cables and telecommunications infrastructure linking NATO member states. The pattern of incidents has pushed Baltic NATO members to accelerate investment in persistent maritime surveillance capabilities that can respond quickly and remain airborne for extended periods without the logistics burden of a manned aircraft.
+Ryan Tseng, president, co-founder, and chief strategy officer of Shield AI, pointed directly to that security environment when commenting on the contract. “Operations on the Baltic Sea, where threats to the security of critical energy and communications infrastructure are becoming increasingly frequent, require reliable platforms with sensors and systems capable of operating in all weather conditions and sea states,” Tseng said, as reported by Defence24.
+Tseng also noted that the V-BAT has already proven itself under contested electronic conditions, citing its operational record in Ukraine and other theaters where GPS jamming and datalink interference have degraded or disabled less resilient drone systems. Russia has deployed some of the world’s most sophisticated electronic warfare equipment along the eastern front, and Ukraine has served as a proving ground for unmanned systems that can maintain autonomous operation when satellite navigation and radio communications are actively disrupted. The V-BAT’s performance in that environment carries direct relevance to the Baltic, where Russian electronic warfare assets positioned in the Kaliningrad enclave, a Russian exclave wedged between Poland and Lithuania on the Baltic coast, can reach across a significant portion of the sea.
+The drone runs Shield AI’s Hivemind software, an AI-driven autonomy stack that the company has integrated across multiple platforms. Hivemind is also at the center of the U.S. Air Force’s Collaborative Combat Aircraft program, which is developing AI-piloted unmanned wingmen designed to operate alongside crewed fighters including the F-35. Shield AI is separately developing the X-BAT, a jet-powered drone that also uses Hivemind, and Polish Prime Minister Donald Tusk recently indicated that Poland has been offered industrial cooperation in that program, a detail that adds a longer-term dimension to what might otherwise appear to be a straightforward equipment purchase.
+Poland has been one of the most aggressive spenders on defense modernization within NATO since Russia’s full-scale invasion of Ukraine in February 2022, committing to defense budgets exceeding four percent of GDP and signing procurement contracts across land, air, and naval domains.
 
 ====================================================================================================
 
-South Korea's military says it detained a North Korean soldier near border
+Top US Commander in Europe, Key Figure in Ukraine Support, to Step Down Early Amid Pentagon Shake-Up
 Unknown
 Unknown Publisher
 2026-06-24
-04:53:13 UTC
-13:53:13 KST
+08:08:23 UTC
+17:08:23 KST
 
-South Korea's military detained a North Korean soldier near the central section of the inter-Korean border on Tuesday night, Seoul's Joint Chiefs of Staff said on Wednesday.
-Authorities were investigating the incident, JCS said in a text message to Reuters.
-Yonhap News Agency reported the soldier expressed an intention to defect to South Korea, without citing a source.
-North Korea should build two warships a year in next five years, Kim says
-North Korea should build two warships as large as its 5,000-metric-ton Choe Hyon vessel every year in the next five years, leader Kim Jong Un said at a commissioning ceremony of a destroyer on Tuesday, according to state media KCNA.
-Kim attended the ceremony held at the Nampho port in North Korea to celebrate the deployment of the new multipurpose destroyer Choe Hyon, KCNA reported.
-The destroyer successfully completed military operational tests over the past 14 months, KCNA added.
- 
-The country plans to deploy another 5,000-ton destroyer named Kang Kon Soon, along with 10,000-ton strategic warships, Kim said, according to the report.
-Kang Kon was repaired last year after partially capsizing during a launch ceremony.
-The navy had been the weakest part of North Korea's military forces, Kim said, adding that its capabilities would now be "something incredible beyond imagination."
-"Building a modernized naval base has emerged as a desperate and essential task," Kim said.
-He said officials of the ruling Workers' Party's Central Committee discussed plans to build new naval bases at a meeting on Monday.
- 
-The most important change for the navy would be a shift in its status, role, and scope of operations, Kim said, without elaborating.
-The navy's nuclearization is "advancing along its own course," contributing to the country's nuclear deterrence, he said.
+Gen. Christopher Donahue, the commander of U.S. Army forces in Europe and Africa and one of the military’s most prominent officers, will step down on July 2 after just 18 months in the post, the Army confirmed to the Associated Press late Tuesday.
+Donahue, who also serves as commander of NATO’s Allied Land Command, is the latest senior officer to leave amid Defense Secretary Pete Hegseth’s drive to slim down the Pentagon’s upper ranks under the slogan “less generals, more GIs.”
+JOIN US ON TELEGRAM
+Follow our coverage of the war on the @Kyivpost_official.
+His departure follows a wave of leadership changes that has seen nearly two dozen top military leaders retire, be removed or leave early.
+The command he currently leads — responsible for Army operations across Europe and Africa and central to coordinating support for Ukraine and NATO’s eastern flank — is also expected to be downgraded from a four-star to a three-star position.
+Maj. Gen. Christopher Norrie, Donahue’s deputy, will assume his responsibilities on an interim basis, according to the Army.
+A graduate of the United States Military Academy and a career special operations officer, Donahue previously commanded Delta Force units in Iraq and Afghanistan before leading the famed 82nd Airborne Division between 2020 and 2022.
+He rose to international prominence during the chaotic US withdrawal from Afghanistan. On Aug. 30, 2021, Donahue became the final American service member to leave the country after nearly two decades of war launched following the Sept. 11, 2001 attacks.
+Von der Leyen to Visit Azerbaijan and Armenia as EU Pushes the Middle Corridor to Avoid Russia and Iran
+A night-vision image showing him boarding the last C-17 transport aircraft out of Kabul became one of the defining photographs of the withdrawal.
+                                                                                                                                                                         
+Before taking command of US Army Europe and Africa in December 2024, Donahue had long been regarded inside the service as one of its most talented officers and a potential future Army chief of staff.
+His departure comes as Hegseth presses ahead with a broader restructuring of the military leadership. Earlier this year, Army Chief of Staff Gen. Randy George was ousted, while officials have signaled plans to reduce the number of four-star commands across the force.
+Lt. Gen. Kevin Admiral, commander of III Armored Corps, is expected to be nominated as Donahue’s successor.
+You can also highlight the text and press Ctrl + Enter
 
 ====================================================================================================
 
-When do the Socceroos play Paraguay and what time is the game?
+Ukrainian Drone Attack Kills 2 in Nizhny Novgorod Region
 Unknown
 Unknown Publisher
 2026-06-24
-04:49:22 UTC
-13:49:22 KST
+08:07:46 UTC
+17:07:46 KST
 
-- 1 - 1 
-- 4 - 2 
-- 1 - 0 
-- 1 - 3 
-- 1 - 1 
-- 4 - 1 
-- 6 - 0 
-- 1 - 0 
-- 2 - 0 
-- 0 - 1 
-- 3 - 0 
-- 0 - 1 
-- 5 - 1 
-- 2 - 1 
-- 0 - 0 
-- 0 - 4 
-- 4 - 0 
-- 0 - 0 
-- 2 - 2 
-- 1 - 3 
-- 2 - 0 
-- 3 - 0 
-- 3 - 2 
-- 1 - 2 
-- 5 - 0 
-- 0 - 0 
-- 0 - 1 
-- 1 - 0 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-- - - - 
-When are the Socceroos playing Paraguay? What time is Australia's World Cup game?
-Wed 24 Jun 2026 at 2:49pm
-The Socceroos continue their World Cup campaign this week as they look to qualify for the knockout stages of the tournament for the third time in history.
-After going down to the US on the weekend, Australia now faces Paraguay in the final match of the group stage.
-Here is everything you need to know ahead of kick-off.
-Who is Australia playing next?
-The Socceroos will be playing Paraguay.
-In their first match of the World Cup, the Socceroos had a 2-0 win over Türkiye, before losing to the United States in their second match, 0-2.
-That leaves Australia second in the group, with the US on two wins, Australia and Paraguay on a win and a loss, and Türkiye on two losses.
-When is the match?
-The game is on Friday, June 26, at 12pm (AEST).
-Just to be clear, that's midday, not midnight.
-Here's the start time for your time zone:
-- ACST: 11:30am
-- AWST: 10am
-Australia's Group D fixtures
-Location: BC Place, Vancouver
-Time: 2pm AEST
-Final score: Australia 2-0 Türkiye
-Goals: Nestory Irankunda 27', Connor Metcalfe 75'
-Location: Seattle Stadium
-Time: 5am AEST
-Final score: Australia 0-2 USA
-Location: San Francisco Bay Area
-Time: 12pm AEST
-Where are they playing?
-The Socceroos will be playing in the San Francisco Bay Area Stadium, which is more commonly known as the home of NFL team the San Francisco 49ers.
-Live sites
-If you want to make a day of it, you can watch the game from live sites in every capital city.
-ACT
-Read more- University of Canberra Refectory
-NSW
-Read more- Tumbalong Park, Sydney
-- Cathy Freeman Park, Sydney Olympic Park, Sydney
-- Parramatta Square, Sydney
-- Blacktown Football Park, Sydney
-- Cirillo Reserve, Middleton Grange
-- Dyin Ngurra (Merrylands Civic Square), Merrylands
-- North Bondi Park (Ramsgate Avenue)
-Queensland
-Read more- South Bank, Brisbane
-- The Drive, Adelaide
-- Northbridge Piazza, Perth
-Victoria
-Read more- Federation Square, Melbourne
-- AAMI Park, Melbourne
-- Marvel Stadium, Melbourne
-- Broadmeadows Town Hall car park, Broadmeadows, Melbourne
-What do the Socceroos need to do to make it to the knockouts?
-ABC Sport's Simon Smale will have a more comprehensive look at the mathematics behind all of this in an article tomorrow morning, but for now all you need to know is: win or draw, and the Socceroos make it through to the knockout stage.
-Lose, and there's still a decent chance that Australia makes it through due to new rules in this year's World Cup that the best-placed third teams in the groups carry on in the tournament.
-Is Paraguay any good?
-They're not bad, but they are the lowest-ranked team in the group. They are ranked 37th in the world, behind Türkiye at 32, Australia at 26, while the US is at 14.
-They'll also be without star midfielder Miguel Almirón,who was sent off in his last game for covering his mouth while talking to an opposition player. If that's a bit confusing, read this article to understand why it happened.
-How can I tune in?
-ABC Sport is live-blogging every World Cup game, and we have extensive coverage of all the tournament's biggest storylines here.
-You can watch all Socceroos matches live on SBS and SBS On Demand.
+At least two people were killed Wednesday morning in a Ukrainian drone attack on the Nizhny Novgorod region, local authorities said, while strikes in annexed Crimea knocked out power in the peninsula’s largest city.
+Governor Gleb Nikitin said two others were hospitalized with injuries, though he did not specify where or when the attack took place. He said falling debris caused minor damage to an industrial facility, several cars and a number of residential buildings.
+Nizhny Novgorod is located around 600 kilometers (372 miles) from the border with Ukraine.
+In annexed Crimea, the port city of Sevastopol lost power following a Ukrainian drone strike on local energy infrastructure, Kremlin-installed authorities said.
+Sevastopol Governor Mikhail Razvozhaev urged residents to remain calm and minimize their energy consumption while technicians worked to repair the damage and restore the grid.
+A few hours later, Razvozhaev said power had been partially restored to the city, which is home to Russia’s Black Sea Fleet.
+Russia’s Defense Ministry said it intercepted 323 drones across the country and Crimea between Tuesday night and Wednesday morning.
+Meanwhile, in Ukraine, a Russian drone attack killed a 56-year-old woman in the border region of Kharkiv, Ukrainian authorities said.
+A Message from The Moscow Times:
+Dear readers,
+We are facing unprecedented challenges. Russia's Prosecutor General's Office has designated The Moscow Times as an "undesirable" organization, criminalizing our work and putting our staff at risk of prosecution. This follows our earlier unjust labeling as a "foreign agent."
+These actions are direct attempts to silence independent journalism in Russia. The authorities claim our work "discredits the decisions of the Russian leadership." We see things differently: we strive to provide accurate, unbiased reporting on Russia.
+We, the journalists of The Moscow Times, refuse to be silenced. But to continue our work, we need your help.
+Your support, no matter how small, makes a world of difference. If you can, please support us monthly starting from just $2. It's quick to set up, and every contribution makes a significant impact.
+By supporting The Moscow Times, you're defending open, independent journalism in the face of repression. Thank you for standing with us.
+Remind me later.
 
 ====================================================================================================
 
