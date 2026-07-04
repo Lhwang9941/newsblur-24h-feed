@@ -1,57 +1,65 @@
-America’s Independence Day Parade canceled and Great American State Fair opening delayed
-United Kingdom
-Unknown Publisher
-2026-07-04
-16:48:41 BST
-00:48:41 KST
-
-America’s Independence Day Parade canceled and Great American State Fair opening delayed
-- Washington, D.C.'s Independence Day celebration has been canceled due to triple-digit temperatures, marking a significant disruption to America’s 250th anniversary events.
-- “The National Weather Service has issued an Extreme Heat Warning for the District of Columbia, with heat index values expected to reach between 110°F and 115°F. This decision was made after extensive and careful consideration of the safety of our participants, spectators, and staff as the top priority,” organizers said in a statement.
-- The White House-backed Freedom 250 was also forced to delay opening of the Great American State Fair on the National Mall, re-opening at noon instead of 10 a.m., after closing temporarily Friday due to triple-digit temperatures.
-- At least seven people who attended the Freedom 250 Great American State Fair on Friday needed “advanced life support,” according to CNN.
-- Despite the sweltering temperatures, President Donald Trump has promised to deliver a "really long" speech at 9:45 p.m. to conclude the day’s celebrations, followed by an even more spectacular fireworks show.
-
-====================================================================================================
-
-Aviation's greatest mystery: Malaysia extends search for missing flight MH370 by one year
+Ukraine reveals its secret coastal defense systems for the first time
 Unknown
 Unknown Publisher
 2026-07-04
-15:47:16 UTC
-00:47:16 KST
+16:52:31 UTC
+01:52:31 KST
 
-Malaysia has extended by one year its deal with deep-sea exploration firm Ocean Infinity to conduct an underwater search for missing Malaysia Airlines flight MH370, the Transport Ministry confirmed.
-The Boeing 777 aircraft was carrying 227 passengers and 12 crew when it vanished en route from Kuala Lumpur to Beijing on March 8, 2014, becoming one of the world's enduring aviation mysteries. Multiple search operations conducted for the plane in the southern Indian Ocean have proved fruitless.
-“This decision is a manifestation of the government’s continuous and unwavering commitment to provide closure for the next of kin of the passengers aboard flight MH370,” Transport Minister Anthony Loke stated following the decision.
-In the 12 years since the plane’s disappearance, several fragments of debris have been discovered on islands in the Indian Ocean, and according to the Malaysian authorities’ 495-page report into MH370’s disappearance published in July 2018, the aircraft likely crashed in the area.
-The firm leading the search, Ocean Infinity, is a UK and US-based marine robotics firm that led an initial search for the aircraft that ended in 2018.
-Search spans about 15,000 square kilometers of Indian Ocean
-In March of 2025, Ocean Infinity signed a new deal with Malaysia to reignite the investigation, searching some 15,000 square kilometers in the southern Indian Ocean.
-This latest extension will allow Ocean Infinity to cover the remaining ground, approximately 7,400 kilometers, as last year’s search was delayed due to poor weather.
-The search will be conducted between November and April, when weather conditions are expected to be best.
-The firm will only receive the contracted $70 million if it successfully locates the wreckage and solves one of the biggest mysteries in the history of aviation.
+- Ukraine publicly displayed its Harpoon coastal missile launcher for the first time during a Zelensky visit to Odesa this week.
+- The showcase also included Ukraine's Neptune, Norway's Naval Strike Missile, and Sweden's RBS-15 anti-ship systems.
+Ukraine has publicly shown off a truck-mounted missile launcher it received in secret four years ago and has kept hidden from cameras ever since, revealing for the first time exactly what its American-supplied Harpoon coastal defense system looks like.
+During a visit to Ukraine’s Odesa region this week, President Volodymyr Zelensky’s military officials displayed the country’s full arsenal of shore-based anti-ship weapons, including the domestically built Neptune missile system, Norway’s Naval Strike Missile, Sweden’s RBS-15, and, for the first time publicly, the Harpoon coastal battery Ukraine received from the United States and Denmark back in 2022.
+Ukrainian naval command separately confirmed to Interfax-Ukraine that the visit included a briefing on the Naval Forces’ strike capabilities, listing Neptune and Harpoon missile systems alongside new-generation unmanned systems and torpedoes as part of the coordination meeting on security in the southern region.
+The Harpoon has actually been fighting for Ukraine since shortly after it arrived, and Pentagon officials have said the system helped sink at least two Russian vessels in the Black Sea, but Ukraine’s navy deliberately kept its exact appearance secret, blurring or omitting the launcher from official footage for years even as the missile itself became one of the most consequential weapons systems Kyiv received early in the war. This week’s display finally revealed the specific configuration Ukraine operates, a launcher mounted on a cargo truck chassis carrying four missile canisters, a setup adapted from the ship-based system the U.S. Navy originally designed the Harpoon around. The missile itself, built by Boeing, is a decades-old design that has been repeatedly upgraded, flying just above the water’s surface using active radar homing to strike ships from ranges that most versions place in the neighborhood of 70 to 130 nautical miles depending on the specific variant fielded.
+Neptune, the domestically produced missile displayed alongside it, remains Ukraine’s signature anti-ship weapon and the system credited with sinking the Russian Black Sea Fleet’s flagship cruiser Moskva in April 2022, an attack that forced Russia to keep its remaining major surface combatants farther from Ukraine’s coast for years afterward. Developed by Kyiv’s Luch Design Bureau using the Soviet-era Kh-35 missile as a starting point before substantially upgrading its range, targeting, and electronics, Neptune’s anti-ship variant carries a roughly 150-kilogram (330-pound) warhead out to a maximum range near 300 kilometers (186 miles), while a newer land-attack derivative called Long Neptune, which Zelensky unveiled in combat footage in late 2025, extends that reach to approximately 1,000 kilometers (620 miles) for strikes deep inside Russian territory.
+Norway’s Naval Strike Missile, shown alongside the Ukrainian and American systems, represents a more modern design built specifically to be difficult for enemy radar to detect. The missile carries a 120-kilogram (265-pound) penetrating warhead out to 200 to 300 kilometers (124 to 186 miles) depending on the version, cruising at speeds up to roughly 1,100 kilometers per hour (684 mph), and it navigates toward its target using a combination of GPS, inertial guidance, and a terrain-comparison system that matches the terrain it flies over against a preloaded map, before switching to a passive infrared seeker in its final approach that can automatically recognize its target without emitting any signal an enemy could detect and jam. Discussions about supplying Norwegian Naval Strike Missiles to Ukraine had circulated since 2023, but this week’s public display marked the first confirmation that the system has actually reached Ukrainian hands rather than remaining a topic of speculation.
+Sweden’s RBS-15, officially named Gungir after the mythological spear wielded by the Norse god Odin, rounds out the displayed arsenal and has its own confirmed combat record in Ukrainian service. The Ukrainian Navy used RBS-15 missiles in April 2026 to destroy the Sivash drilling platform, a Russian-held rig in the Black Sea that Moscow’s forces had been using for airspace monitoring, electronic warfare, and as a makeshift air defense position. The missile carries a heavier, roughly 200-kilogram (441-pound) semi-armor-piercing, high-explosive fragmentation warhead than the Naval Strike Missile, reaching similar ranges of 200 to 300 kilometers (124 to 186 miles) at comparable speeds, but relies on an active radar seeker in its terminal phase rather than infrared guidance, giving it the added ability to home in on the source of enemy jamming if a target tries to blind the missile electronically.
+Displaying all four systems together sends a message well beyond simple military inventory disclosure, since it demonstrates that Ukraine has assembled a genuinely layered coastal defense network built from four different countries’ missile technology, each with distinct strengths in range, warhead design, and guidance that complicate any single Russian countermeasure from working against the entire arsenal at once. A Russian warship or drilling platform facing Ukraine’s Black Sea coast now has to account for a domestically produced missile that already sank its fleet’s flagship, an American weapon whose exact launch configuration remained secret for four years, and two separate Western European designs using different terminal guidance philosophies, a combination that has already pushed Russia’s surface fleet into more cautious, distant patterns of operation than it maintained in the war’s opening months.
 
 ====================================================================================================
 
-It's a love story: Adam Sandler officiates Taylor Swift's top-secret nuptials to Travis Kelce
+Russia Proposes Ceasefire  in Konstantinovka on Monday for Body Handover
 Unknown
 Unknown Publisher
 2026-07-04
-15:47:14 UTC
-00:47:14 KST
+16:51:18 UTC
+01:51:18 KST
 
-Adam Sandler, the comic actor known for goofball roles in movies such as Billy Madison and The Waterboy, has now officiated one of the most-anticipated celebrity unions of the century.
-Sandler served as officiant for pop megastar Taylor Swift's nuptials with football player Travis Kelce, a publicist for Swift disclosed on Friday. A statement described Sandler as a friend of the couple.
-Kelce, one of the greatest tight ends in National Football League history, had a cameo role in Sandler's 2025 film Happy Gilmore 2.
-"Man, this life is crazy!! Still so surreal I got this opportunity," Kelce wrote on social media at the time, under a photo of himself with Sandler on set.
-Sandler spoke about Swift and Kelce last year, describing Swift in an interview on Entertainment Tonight as "incredible" and saying she was kind to his family.
-"My kids have met Taylor a bunch of times over the years, and she’s ridiculously nice to them and warm," said Sandler, the father of two daughters. The actor called Kelce "such a gentle, nice guy, and funny as hell.”
-The wedding included many family moments
-Sandler's wedding role was among just a few details confirmed by Swift's camp.
-The wedding party featured Swift's brother, Austin Swift, as man of honor and Kelce's brother, Jason Kelce, as best man.
-Jason Kelce is a former NFL star who co-hosts the popular podcast "New Heights" with his brother.
-There were no other groomsmen or bridesmaids, the statement from Swift's publicist said.
+Russia Proposes Ceasefire  in Konstantinovka on Monday for Body Handover
+
+====================================================================================================
+
+Protest in Aleppo over lack of women in People's Assembly
+Unknown
+Unknown Publisher
+2026-07-04
+16:51:05 UTC
+01:51:05 KST
+
+Breadcrumb
+‘No empty promises’: Protest in Aleppo over limited female representation in newly appointed People’s Assembly
+Dozens of women took part in a protest in Aleppo to denounce what they said was a lack of women’s representation in the newly appointed People’s Assembly.
+The protest took place in the square opposite Aleppo University, with women calling for greater representation in the People’s Assembly and for officials to reconsider the appointment process.
+The announcement comes as Syria, on 1 July, announced the remaining names of 70 MPs appointed by President Ahmed al-Sharaa, and set the date for the opening of Syria’s People’s Assembly.
+Following the fall of Assad, it was decided in March 2025 that there would be a five-year transitional period, with a 210-member parliament. The president appoints one-third of the legislature's members, while the rest are chosen indirectly through electoral committees.
+However, women at the protest said they felt the final appointments did not reflect the role Syrian women had played during the revolution, nor their contributions to various industries, including politics and the humanitarian sector.
+'No symbolic representation, empty promises'
+Speaking to The New Arab, Ranim Ahmed of The Syria Campaign said it was "unacceptable" that the transitional authorities have failed to properly recognise the sacrifices women have made.
+“Syria’s women have long been sidelined and oppressed, under both Hafez and Bashar al-Assad, and across different parts of the country by different actors, including in areas that were under HTS control,” she said.
+“Yet over the past years, they have carried the burden of holding together their families and communities. They have risked their lives working in displacement camps, hospitals, and as White Helmets volunteers rescuing people from under the rubble and providing care. They have led civil society initiatives, documented violations, advocated for justice for Syria’s disappeared, and continued to participate in public and political life despite immense challenges,” she added.
+Syria’s Arab News Agency (SANA) said the country’s parliament is currently made up of 206 active members, of whom 22 are women, representing approximately 10.5% of the chamber.
+The agency also states 15 women entered parliament through the presidential appointments, while seven were elected through the electoral bodies.
+The presidential list revealed on Wednesday showed only one woman among the appointees from Aleppo. Only one other female from Aleppo has been chosen through the electoral process.
+“The women protesting in Aleppo are a reminder of that resilience. They are not asking for symbolic representation or empty promises, but demanding our rightful place, a place we have already earned through years of leadership, sacrifice, and struggle,” Ahmed said.
+The women at the protest said their anger was not directed at an individual, but rather the selection process, and that their main message was to emphasise that Syrian women have never been on the margins, and have always been active participants and the head of major movements and initiatives.
+Aisha al-Khatib, an activist and expert on women’s rights issues, told SyriaTV that the percentage of women’s representation from Aleppo is under one percent, which is not representative of women’s abilities and contributions in the governorate.
+Yafa Mohammed, a protester, also told the news outlet that the percentage of representation was “shameful”, and noted that other governorates had more women appointed, questioning why this was the case.
+Justice and inclusivity
+Jomana Hasan, a Syrian activist and writer, told The New Arab that women in Syria do not just want token roles, as they played a fundamental part of the revolution and are highly competent, experienced, and have a strong sense of national responsibility.
+“The issue of excluding women from places where real decisions are made in Syria goes much deeper than the number of seats allocated to women in parliament. It is about an entire approach that confines our role to symbolic and superficial positions, used only to present a better image,” she said.
+“What is needed is real representation, not just decoration and numbers. Even so, the numbers themselves are shameful—we have not even achieved meaningful representation numerically,” she added.
+Hasan said that given the number of women in the political scene in Aleppo, the small number of appointments to the People’s Assembly was surprising, and considered to be possibly deliberate or unimportant by others.
+“I think there are other governorates where there may not have been any women at all. But this is not about appeasing anyone or filling quotas… there are issues and priorities in the country that I do not believe anyone is better positioned to raise and fight for than Syrian women. And if we are talking about justice, then justice requires the inclusion of women in both the executive and legislative bodies,” she continued.
 
 ====================================================================================================
 
