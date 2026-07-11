@@ -1,61 +1,82 @@
-Russian missile strikes on Kyiv injure at least 10
+Breakthrough Israeli study finds potential path to reversing hearing loss
 Unknown
 Unknown Publisher
 2026-07-11
-06:57:34 UTC
-15:57:34 KST
+09:17:26 UTC
+18:17:26 KST
 
-According to the Ukrainian air force, Russia launched six Iskander ballistic missiles, four Kh-59/69 cruise missiles, two Kh-31 anti-radiation missiles, and 121 attack drones at Ukraine overnight.
-Russian missile strikes on Kyiv overnight have injured at least 10 people and sparked fires across the capital, authorities said on Saturday morning.
-In a series of posts on Telegram, Kyiv Mayor Vitali Klitschko said the city was under attack from ballistic missiles and warned residents to remain in bomb shelters.
-"Early reports indicate a strike on a non-residential building in the Sviatoshynskyi district. A transformer substation is on fire in the Darnytskyi district. In the Solomianskyi district, a fire has broken out in a three-story office building," he wrote.
-The State Emergency Service of Ukraine said 10 people, including one child, had been injured in the attacks.
-According to the Ukrainian air force, Russia launched six Iskander ballistic missiles, four Kh-59/69 cruise missiles, two Kh-31 anti-radiation missiles, and 121 attack drones at Ukraine overnight.
-Local air defences intercepted 111 of the drones and two Kh-59/69 missiles, the air force said, citing preliminary data.
-It comes after Moscow launched a major drone and missile barrage at Kyiv last week, killing at least 30 people and hitting more than 20 sites across the city.
-Klitschko described the strikes as Russia's "most massive attack" on the capital.
-The Ukrainian air force said Russian forces used 570 air attack assets in the strikes, including four Zircon missiles, 24 Iskander ballistic missiles, and 496 Shahed-type drones.
-Elsewhere, Russian strikes on the eastern Donetsk region killed seven and injured 21 on Friday, per local authorities.
-In response to Russia's attacks, Kyiv has been targeting Moscow's energy industry, carrying out strikes on oil facilities such as refineries, depots, and terminals in an effort to hamper one of Russian President Vladimir Putin's most critical sources of state income.
-Ukrainian attacks have sparked a fuel crisis across Russia and Russian-occupied territories, with long queues at petrol stations and rising prices forcing Moscow to introduce a ban on diesel exports as it seeks to mitigate the impact to its economy and residents.
-On Friday, Ukrainian President Volodymyr Zelenskyy said his forces had struck an oil refinery in Omsk as well as a number of oil facilities across the Saratov, Rostov, Tver, Stavropol, and Krasnodar regions over the course of the week.
-Despite these successes, the commander-in-chief of Ukraine's armed forces has warned that a turning point in the war against Russia remained "a long way off".
-"The aggressor has not abandoned its plans for the complete occupation of the Luhansk and Donetsk regions," he wrote on social media earlier this week. "They are seeking to expand their offensive operations in the Dnipropetrovsk and Zaporizhzhia regions, as well as to establish and expand a buffer zone in the northern regions of Ukraine".
+A groundbreaking study by a team of researchers from Tel Aviv University’s Gray Faculty of Medical and Health Sciences offers hope to millions of people suffering from irreversible hearing loss.
+The researchers identified a unique biological mechanism that could, in the future, enable the regeneration of sensory hair cells in the inner ear – a process previously thought to be impossible in humans.
+The study was conducted under the leadership of Prof. Karen Avraham, who is dean of the faculty and holds the Dumont Chair for Research of Hearing Disorders.
+It was spearheaded by Lama Khalaily, a TAU doctoral student, in collaboration with Prof. David Sprinzak of TAU’s Wise Faculty of Life Sciences; Shahar Kasirer from Sprinzak’s lab; Dr. Litao Tao of Creighton University in Omaha, Nebraska; and additional researchers.
+The findings were published in the prestigious journal Science Advances under the title “Live imaging and multimodal profiling reveal transdifferentiation of a cochlear supporting cell subpopulation upon Notch inhibition.”
+Hearing loss is often caused by damage to hair cells in the cochlea – cells responsible for detecting sound and converting it into electrical signals transmitted to the brain. Unlike many other species, mammals, including humans, are unable to regenerate these cells once they are damaged, which makes the loss permanent.
+Cochlear implants – electronic devices inserted into the head that helps people with severe-to-profound sensorineural hearing loss perceive sound, bypass damaged hair cells in the inner ear, and stimulate the auditory nerve directly – are not ideal, Avraham told The Jerusalem Post in an interview. “They probably won’t be replaced completely by regenerated hair cells.”
+The team uncovered a rare subset of supporting cells with an unexpected regenerative potential. Rather than responding uniformly, only a distinct group of cells entered a transitional state and began converting into hair cells, which exist naturally as a kind of “reserve population” that everyone has. Some people, however, may naturally have more regenerative potential than others, Avraham noted.
+These cells, termed transdifferentiating Deiters’ cells (tDCs), are capable of making the transition from supporting cells to hair cells – a step that is vital for hair cell regeneration.
+Using live tissue imaging and single-cell multi-omics methods that incorporate biological layers to trace the flow of information in a cell, “we focused on supporting cells that are adjacent to the hair cells. Under normal conditions, these cannot regenerate or transform into hair cells,” said Avraham.
+To find out whether and how this limitation could be overcome, the TAU research team inhibited the Notch signaling pathway, a key communication mechanism between cells that is responsible for hair cell differentiation during embryonic development. The researchers found that these cells show unique genetic and epigenetic characteristics – changes in gene expression that act as chemical switches to turn genes on or off; are influenced by the environment, lifestyle, and development; and can be passed on during cell division. This enables them to respond to stimulation and initiate the regeneration process.
+For the therapy, an injection could be made in the inner ear, but a surgeon would have to do it. Even five years ago, she said, “our discovery would not have been possible, because the technology used is new.”
+Born in Canada, Avraham moved to the US at a young age. She received her bachelor’s degree in biology from Washington University in St. Louis and her doctorate from the Weizmann Institute of Science in Rehovot.
+Her research focuses on the discovery and characterization of genes responsible for hereditary hearing loss. Using genetic, developmental, biochemical, cellular, and bioinformatic tools, her team studies the molecular basis of hearing loss.
+“We’ve identified 57 such genes in Israel out of the 224 in the world that are involved in hearing loss,” said Avraham. “This is a super-exciting time, now that the US Food and Drug Administration has approved gene therapy for rare hearing loss. There have been just 20 cases in the US per year, and one or two in Israel. We created a proof of principle. We hope to regenerate hair cells, but often it’s too late because hearing was lost. However, if in the future, one could test every child at birth, we could predict a problem, and gene therapy could be performed.”
+The team used computational 3D imaging, advanced molecular techniques, deep sequencing at multiple levels, and big-data analysis – not AI.
+“In science, nothing is impossible. We began working on hair-cell regeneration a decade ago, but it’s still a very young field,” she continued.
+Asked why she is hopeful that research on mice or tissues could ultimately translate to humans, she asserted that “many genes of humans and mice are similar. We were surprised that the specific cells were responsible for regeneration. We were sure that it would be supporting cells, but instead it’s subset of these cells.”
+Avraham constantly gets email messages from families who yearn for such a therapy.
+“I want to help, but I’m careful not to raise their expectations, because it’s still basic research. But nobody else has succeeded doing what we have accomplished.”
+The biggest scientific obstacles between this discovery and actual treatment on people are regulation and cost. Deafness involves so many different genes, so the diseases are rare, and pharmaceutical companies are not very willing to invest in them, she suggested.
+The researchers note that a deeper understanding of the mechanisms that allow certain cells to regenerate may pave the way for the development of innovative treatments that activate this regenerative ability in additional cells.
+Future approaches may involve a combination of genetic and epigenetic interventions designed to bypass existing biological barriers.
+A step closer to hearing loss treatments
+According to the research team, its discovery represents a significant step toward the development of regenerative treatments for hearing loss – a field in which no restorative medical solutions currently exist, only assistive measures such as hearing aids and cochlear implants and limited gene therapy.
+“Our study shows that even in tissues long considered incapable of regeneration, such as the cochlea of the inner ear, there is in fact a hidden regenerative capacity, though it is very limited and appears only in a rare subpopulation of cells. The major challenge now is to understand how this ability can be expanded and activated in additional cells,” Avraham concluded.
+“If we succeed in doing this, we may lay the foundation for the development of innovative biological treatments that restore hearing, rather than merely compensate for its loss.
+“This is a first but significant step toward a deeper understanding of regeneration in the auditory system and in neural systems in general.”
+The study was supported by a Breakthrough Research grant from the Israel Science Foundation, the Ernest and Bonnie Beutler Research Program of Excellence in Genomic Medicine, and TAU’s Sagol Center for Regenerative Medicine.
 
 ====================================================================================================
 
-More than 42% voted until midday in Malaysian state of Johor's regional election
+MDA volunteers arrested following allegations of drugging drinks and rape
 Unknown
 Unknown Publisher
 2026-07-11
-06:56:09 UTC
-15:56:09 KST
+09:16:53 UTC
+18:16:53 KST
 
-Saadet Gokce
-11 July 2026•Update: 11 July 2026
-More than 42% of registered voters, or around 1.13 million people, had cast their ballots in Malaysia's Johor state election as of 1 pm local time (0500GMT) on Saturday, according to state-run news agency Bernama.
-Polling will continue until 6 pm (1000GMT), with vote counting beginning afterward and results expected later in the evening.
-A total of 172 candidates are running for 56 seats in the 16th Johor State Legislative Assembly.
-Along with the upcoming Negeri Sembilan election in August, the Johor vote is viewed as a litmus test for whether the ruling federal Madani coalition can maintain public support ahead of Malaysia's next general election.
+Content warning: This article contains disturbing references and descriptions of sexual assault. Reader discretion is advised.
+A young woman who volunteers with Magen David Adom (MDA) filed a police complaint this week, alleging that two fellow MDA volunteers sexually assaulted her in her apartment in Beit Shemesh.
+In her report, the complainant stated that the two men had given her drinks at a social event that were drugged before raping her at her residence.
+The alleged incident took place approximately nine months ago.
+Since the accusation became public, both suspects have vehemently denied the claims.
+The suspects and the complainant reportedly knew each other well through their volunteer work with MDA.
+Police investigation, and arrest
+Following the complaint, police launched an investigation and arrested both men, who are in their 20s, on suspicion of rape after gathering preliminary evidence.
+Police have requested a six-day extension of the suspects' detention, and the court has currently ordered that one of them be released to house arrest.
 
 ====================================================================================================
 
-Iranian foreign minister arrives in Oman to discuss bilateral, regional issues
+Maryland man who tried joining ISIS, planning attack against Jews sentenced to 15 years in prison
 Unknown
 Unknown Publisher
 2026-07-11
-06:56:03 UTC
-15:56:03 KST
+09:16:48 UTC
+18:16:48 KST
 
-Serdar Dincel
-11 July 2026•Update: 11 July 2026
-Iranian Foreign Minister Abbas Araghchi arrived in the Omani capital Muscat on Saturday to discuss bilateral ties and regional issues, Iran's state-run news agency IRNA reported.
-Omani officials welcomed Araghchi upon his arrival, the news agency said.
-No further details are available as yet.
-On Friday, IRNA reported that the situation in the Strait of Hormuz was among the issues to be discussed during the visit.
-In mid-June, Iran and the US reached a Pakistan-brokered memorandum of understanding aimed at ending their military conflict and reaching a lasting peace agreement.
-However, both sides exchanged attacks over the past two days amid an escalation following Iranian attacks on three commercial vessels in the Strait of Hormuz.
-Tehran launched a series of strikes Thursday on US military infrastructure in Bahrain, Kuwait, Qatar and Jordan in retaliation for a second consecutive night of US attacks.
+A Maryland man was sentenced on Wednesday for attempting to join and fight for ISIS, a designated foreign terrorist organization (FTO).
+Michael Sam Teekay Jr, 22, was sentenced to 15 years in prison followed by lifetime supervised release, for attempting to provide material support to an FTO.
+Teekaye revealed his plan to join and fight for ISIS to an undercover officer (UCO) between March and April 2023. He also told the UCO his “plan B” was to carry out an attack in the US against Jews and People who support Israel.
+He said he had researched buildings close to him that support Israel and had thought about how to “gun down members or anyone involved.”
+US Attorney for the District of Maryland, Kelly O'Hayes said "Mr Teekaye sought to support a foreign terrorist organization that has committed unspeakable acts of violence and took real-world steps to carry out a terrorist attack in Maryland."
+"Today’s sentence underscores that those who seek to aid terrorist organizations will be identified, prosecuted, and held fully accountable."
+The Special Agent in Charge of the FBI Baltimore Field Office, Jimmy Paul, added that "this sentencing reinforces the gravity of Michael Teekaye's crimes. Undoubtedly, lives were saved because law enforcement thwarted Teekaye’s plan to join ISIS and murder Americans."
+Teekaye's plan to join ISIS
+In mid-2024, Teekaye purchased ammunition and range time in Maryland, which he told a UCO was part of his “training” for ISIS, and he then tried to purchase a Kalashnikov assault rifle but was denied due to probation from a state criminal case.
+Teekaye then told the UCO he had engaged with a Somali ISIS fighter and had made plans to travel to Somalia to join ISIS. He sent the UCO screenshots of his travel itinerary and the visas he needed for the trip.
+On October 10, 2024, Teekaye sent the UCO a photo of himself in a black mask, armed with a large machete, captioned: “victory or shahada [martyrdom] … either you do it here or over there or both.”
+The UCO asked Teekaye if he was “sure” he wanted to join ISIS, and he responded that he “was sure because he had done a lot of research,” and “they are the only group that has the most true and sincere intentions.”
+He was arrested by FBI agents at BWI on October 14, 2024.
+After his arrest, Teekaye said, “I’m just gonna get out in 20 years, and I’m just gonna do it here. Okay? It will never stop. Jihad will never stop. I’ll just do it here then, when I get out… You think 20 years is something? I’ll be like 40 when I get out, then I’ll just do it. I don’t care. It will never stop. Jihad will never stop. I’ll come, and I’ll kill your soldiers. I’ll kill you.”
 
 ====================================================================================================
 
