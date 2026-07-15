@@ -1,89 +1,65 @@
-Google search AI poses ‘unacceptable risk’ to kids, report finds
+UK citizen's Iranian 10-year prison sentence extended two years for talking to media, family says
 Unknown
 Unknown Publisher
 2026-07-15
-11:15:00 UTC
-20:15:00 KST
+13:13:13 UTC
+22:13:13 KST
 
-Google search AI poses ‘unacceptable risk’ to kids, report finds
-The artificial intelligence features built into Alphabet’s Google Search pose an “unacceptable risk” to children, according to a new report from the Youth AI Safety Institute at Common Sense Media, a California-based non-profit.
-The study found that on test accounts configured for minors, the ubiquitous search engine’s AI features failed to detect suicide risks, said an eating disorder symptom was normal, and provided instructions for creating deepfakes, or sexually explicit fake content.
-The report added that, unlike standalone chatbots, Google’s AI tools are built directly into the default search experience on school and personal devices, currently offering administrators or parents no way to disable them.
-The report specifically evaluated AI Overviews, which generates automated answers above traditional search results, and AI Mode, a conversational feature that lets users chat back and forth with the search engine.
-Rather than matching searches to a list of external links, the new features use generative AI to answer complex questions directly on the search page – a format critics say presents the automated summaries as if they are definitive answers.
-“When something is at this scale, there are important questions we need to ask about the reliability, the accuracy, the failure modes, the testing,” said Robbie Torney, head of AI and digital assessments at Common Sense Media, who led the research.
-“We need to have a higher bar for it being successful and being safe, because billions of people use this product and any failures are going to play out at population scale.”
-According to the non-profit’s website, the Youth AI Safety Institute is funded in part by industry players, including Google rivals OpenAI and Anthropic PBC, though the organisation says it maintains editorial independence over its evaluations.
-In an e-mailed statement, a Google spokesperson said Common Sense Media’s report tested a narrow set of queries that do not reflect how people make searches, and it does not effectively measure product safety and helpfulness.
-“Our AI Search features are an incredibly useful way for kids and teens to learn, explore and make sense of information and the world,” the spokesperson said in a statement. “Beyond the strong quality and safety guardrails built into Search, our AI tools provide extra layers of protection.”
-Although Google does not offer a way to turn off Search’s AI features, the company said parents can turn off Search entirely on a child’s account.
-The institute’s findings suggest an oversight in the global push to protect minors online. Australia, Britain and parts of Europe have debated or enforced strict social media bans for minors under 16, while US courts have begun handing down historic verdicts against tech companies, holding them legally liable for negligence in the design and operation of their platforms, which some cases say has fuelled a youth mental health crisis.
-Yet outside the courtroom, there has been little regulatory action to respond to the rapid rise of generative AI in children’s digital environments.
-New risks have already emerged, from the surge of explicit AI-generated content on Elon Musk’s Grok to the discovery of suspected child sexual abuse images in web-scraped data that Amazon uses to train its AI models.
-AI tools have emboldened predators and overwhelmed digital investigators, exposing how the resources needed to police AI systems are failing to keep pace with the technology itself, Bloomberg has previously reported.
-Common Sense Media’s Youth AI Safety Institute ran tests between May 16 and July 1 using Google’s main AI features on search, AI Overview and AI Mode.
-On accounts configured with Google’s safety features for minors, the group conducted more than 2,500 searches, emulating questions that kids ask and how they ask them, including exploratory questions about eating disorders and suicidal ideation, as well as more banal queries about homework. It also audited more than 2,000 sources that Google cited in responses.
-It did not evaluate Google’s standalone Gemini chatbot or its third-party integrations.
-According to the institute’s findings, Google violated seven of Common Sense Media’s eight AI principles, such as prioritising fairness and supporting human connection.
-Google AI answers routinely missed signs of suicidal ideation, played into delusions and said a symptom of disordered eating – feeling better after vomiting – was normal.
-The AI also recommended an eating-disorder helpline that was permanently disconnected in 2023, according to the report.
-In one documented example in the report, Google Search’s AI features gave step-by-step recommendations on how to find the best tools available for swopping faces in videos – apps that can easily create nonconsensual deepfakes.
-The report also claimed that both AI Mode and AI Overviews shared techniques to evade the detection of deepfakes upon request, even when the queries came from accounts set up for minors.
-In another example, when a tester gave AI Mode a prompt that included an indirect suicidal thought – “I feel like I am a burden to my family” – the AI generated no response, but rather a list of top web results, including posts on forums where users discussed suicidal ideation.
-Google said it could not reproduce or verify many of the responses highlighted in Common Sense Media’s report, and that its own testing showed higher-quality responses.
-The company added that some search terms tested by the group carried ambiguous intentions that did not overtly signal a mental health crisis, and that people usually ask follow-ups after first querying Google. In those cases, AI search would carry over the context from previous questions, Google said.
-When it came to homework, the report concluded that Google Search’s AI Mode readily answered assignment questions, allowing students on school-issued laptops to get answers via an AI-powered shortcut, with no way for educators to disable the feature.
-Google’s AI answers were also inconsistent – they answered 43 per cent of history questions differently from one search to the next, while 29 per cent of citations came from social media and forums with no editorial oversight.
-The facts included in AI answers to the history questions were mostly accurate, but the framing sometimes left out the history of women in science and of indigenous peoples of North America, among other examples, according to the report.
-These features shift the responsibility for evaluating information sources to children, who have not yet developed advanced media literacy skills, the group said.
-The report suggests these risks are systemic and integrated directly into Google’s flagship search product, which Youth AI Safety Institute board adviser and former US education secretary John King Jr called deeply concerning for youth well-being.
-Google “made the choice to make that a default. They didn’t have to”, King said. “And they made the choice not to enable schools or parents to turn it off.” BLOOMBERG
+The family of British couple Craig and Lindsay Foreman, who are serving a 10-year prison sentence in Iran on espionage charges that they deny, said on Wednesday that a judge had extended Craig Foreman's sentence by two years for speaking to the media.
+The couple was arrested in 2025 while traveling through Iran by motorcycle as part of a round-the-world journey. Britain has described their original sentences as "totally unjustifiable."
+Joe Bennett, Lindsay Foreman's son and the family's spokesperson, said they had received reports that Craig Foreman had been taken before a judge and informed that his sentence had been extended because he had spoken to the media.
+"We understand he was told he was being taken to see his lawyer, but was instead brought before a judge and informed of the additional sentence," Bennett said in a statement.
+Foreman denied lawyer, translator, son says
+He said Craig Foreman had been denied access to a lawyer and a translator and was given no opportunity to defend himself.
+A spokesperson for Britain's foreign ministry said in an emailed statement that they were "urgently following up with the Iranian authorities about the reported increased sentence."
+Last month, two independent UN experts said the Foremans appeared to have been wrongfully detained and sentenced following proceedings that failed to meet basic fair trial guarantees, while expressing concern over a hunger strike the couple began in May.
 
 ====================================================================================================
 
-#ICE suspends traffic stop operations after second fatal #shooting
+UK judge orders ICJ Palestine to pay £82,130 to British-Israeli IDF soldier it tried to prosecute
 Unknown
 Unknown Publisher
 2026-07-15
-11:12:29 UTC
-20:12:29 KST
+13:13:10 UTC
+22:13:10 KST
 
-One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.
-#ICE suspends traffic stop operations after second fatal #shooting
-                
-                                    Americas
+ICJ Palestine has been ordered by a UK judge to pay full legal costs of £82,130 to a British-Israeli dual national it tried to prosecute for serving in the IDF.
+As covered by The Jerusalem Post at the end of June, the International Centre of Justice for Palestinians (ICJP) formally applied for a court summons to prosecute Soldier A for allegedly breaching Britain’s Foreign Enlistment Act (FEA) of 1870 by voluntarily serving in the Israeli military.
+The ICJP's attempt failed dramatically in court, with Senior District Judge Paul Goldspring of Westminster Magistrates’ Court unleashing a damning polemic against the ICJP's legal team. Goldspring called the attempt “egregious” and legally “inadmissible.” He also called it "fundamentally misconceived in law,” as the FEA does not apply to dual nationals.
+ 
+Then, on June 19, Goldspring ruled that the ICJP must pay legal costs to Soldier A, the exact amount of which was just revealed on July 10.
+In the new ruling, Goldspring ruled that, where a private prosecution is commenced on the "basis of culpable, profound breaches of the fundamental duty of candor, costs should be assessed on an indemnity basis to properly restore the Defendant’s position." In simple terms, the judge found that because the prosecution seriously failed in its duty to be honest and open with the court, it should pay Soldier A's legal costs on a more generous basis than usual.
+Goldspring ordered the ICJP to pay the total sum of £82,130, which he said was "entirely reasonable and proportionate given the complexity of the response forced upon Soldier A."
+Judge demands ICJP apologize for lack of candor
+Goldspring noted that the ICJP did "recognize the systemic failures of candor" following his prior ruling. He also said that the ICJP issued an apology to both the Court and Soldier A for "its failures to comply with its core duties of candor."
+ICJP, in return, took issue with Goldspring's April 8 demand that it attach an unabridged copy of both the Soldier A ruling and the costs ruling "to any future application it may file in any court in England and Wales as a procedural safeguard."
+Goldspring subsequently concluded that he does lack the power to issue a mandatory, standalone injunction binding future court filings across England and Wales, and therefore reframed this request as an "explicit expectation rather than a mandatory request."
 
 ====================================================================================================
 
-Holly Willoughby to make presenting comeback on YouTube three years after This Morning exit
-United Kingdom
+Next Israel government must halt rise in debt burden, central bank chief says
+Unknown
 Unknown Publisher
 2026-07-15
-12:12:26 BST
-20:12:26 KST
+13:12:58 UTC
+22:12:58 KST
 
-Holly Willoughby to make presenting comeback on YouTube three years after This Morning exit
-Nicole Appleton and Denise Van Outen were among those to share their support for the TV presenter’s new venture
-- Bookmark
-- CommentsGo to comments
-Holly Willoughby appears to have teased a comeback three years after leaving This Morning – and she’s heading to YouTube.
-The TV presenter, 45, seems set to return to screens after launching a new channel on the platform on Tuesday (14 July), complete with a bright pink logo reading: “Holly Willoughby Together”.
-The online channel was launched alongside a new Instagram account @hollywilloughbytogether, with a bio that reads “We are almost ready to get together…”
-While details surrounding Willoughby’s new venture remain under wraps, her return will be surely welcomed by fans who have missed the TV presenter since she stepped away from ITV’s This Morning in 2023.
-“About time @hollywilloughby whatever it is you will be successful,” wrote one person, with another adding: “So exciting!!!! Followed and subscribed.”
-Willoughby’s celebrity pals are throwing their support behind her too, with All Saints star Nicole Appleton, Denise Van Outen, and Kelsey Parker among those voicing their encouragement in the comments section.
-The former ITV presenter isn’t the first traditional TV star to head to YouTube; Ricky Gervais recently posted a series of videos to his YouTube channel to mark the 25th anniversary of his sitcom The Office, while disgraced comedian Russell Brand began posting daily videos to his channel in 2022. The following year, YouTube blocked Brand from earning revenue on the platform in light of sexual assault allegations made against him, to which he pleaded not guilty earlier this year.
-Strictly Come Dancing’s Janette Manrara has posted her Talks With Janette interview series on the site for the past several years, however arguably the most successful TV star has been Molly Mae Hague, who has amassed over two million subscribers on YouTube since her Love Island stint in 2019.
-Willoughby has kept a relatively low profile since leaving This Morning after 14 years on the air. Her final months on the programme were marred by controversy when her long-time co-presenter Phillip Schofield was fired from the show after admitting to lying about a relationship with a much younger employee while he was still married.
-“I have let ITV know today that after 14 years, I will not be returning to This Morning,” Willoughby said in an Instagram statement at the time. “To everyone who has ever worked on the show over the years, thank you so so much. This is such a difficult goodbye, you are incredible and I forever will be proud of what we've done together.”
-Her long tenure as the host of Dancing on Ice also came to an end last year when ITV announced the show was “rested” with “no current plans for another series”.
-The ice-skating competition began in 2006, but suffered from falling viewer numbers in the lead-up to it being shelved. Willoughby had continued to host the programme for two years after Schofield resigned in 2023 over the same controversy.
-In an Instagram post at the time, Willoughby thanked everyone who has been “part of our Dancing on Ice family”.
-She added: “I will miss it hugely, but I count myself so lucky to have had it for as long as we did.”
-Since then, she’s appeared as a presenter on Netflix’s Celebrity Bear Hunt alongside wilderness expert Bear Grylls. The show, which saw celebrities, including Mel B and Shirley Ballas, try to evade Grylls in the jungle, was cancelled after one season in June last year.
-Join our commenting forum
-Join thought-provoking conversations, follow other Independent readers and see their replies
-Comments
+Whoever wins the election in Israel later this year must rein in defense-led state spending that has grown in recent years and invest more in education, infrastructure and other growth engines, Bank of Israel Governor Amir Yaron said on Wednesday.
+Israel is slated to hold a general election on October 27. Polls show Prime Minister Benjamin Netanyahu's current ruling coalition losing.
+Speaking at a Calcalist newspaper conference, Yaron said fiscal policy was the main challenge, especially since the defense budget has swelled to as much as 8% of gross domestic product — double that of before the Hamas attacks on Israel on October 7, 2023, that triggered the Gaza war.
+"We face a clear challenge for any government that enters office. First of all our debt must not continue to increase. Currently, we are on a path of rising debt," he said, noting the debt-to-GDP ratio had risen to 70% from around 60% in 2023.
+"The second is the defense budget ... and third is investing in growth engines like education and infrastructure."
+'Difficult decisions' are needed to achieve growth as a country
+Yaron also said Israel needs to better integrate population groups like ultra-Orthodox Jews into the labor market.
+Budget director Maharan Frozenfar said the Finance Ministry was in the process of building a multi-year plan to boost growth that he hoped the next government would adopt.
+"We need to take difficult actions to keep the momentum going and achieve even greater growth," he said.
+He added that the economy at large must adapt to the prospect of a strong shekel against the dollar.
+With defense spending expected to stay high given Israel's many regional threats, Yaron advocated raising taxes in 2027 to help keep debt under control. "Realistically, we will likely have a higher budget than before October 7," he said.
+Frozenfar, however, said he was "strongly opposed" to raising taxes and that stronger economic growth could help lower the debt burden.
+On the heels of easing inflation pressures caused by the Gaza and Iran wars, the Bank of Israel last week reduced its benchmark interest rate by 25 basis points to 3.5%, its second straight cut.
+Yaron said that as long as Israel does not return to war and inflation remains stable, short-term interest rates would likely continue to fall. But monetary policy needed to remain cautious due to price pressures in areas such as wages and housing rents.
+The central bank has said it expects the key rate to reach 3% by next June.
+Yaron also said that while the economy has been resilient, negative global sentiment towards Israel acted like a tax on trade. That could have longer-term effects that should be part of the decision-making process.
 
 ====================================================================================================
 
