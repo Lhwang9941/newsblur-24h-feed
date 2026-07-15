@@ -1,48 +1,85 @@
-US Businesses Loses $200 Billion Over Four Years Due to Russia Sanctions
+Innoviz launches Perciz to bring it's LiDAR into defense and homeland security
 Unknown
 Unknown Publisher
 2026-07-15
-07:03:43 UTC
-16:03:43 KST
+09:47:10 UTC
+18:47:10 KST
 
-US Businesses Loses $200 Billion Over Four Years Due to Russia Sanctions
+Innoviz Technologies announced the launch of Perciz, a new defense and homeland security division that is built around the company’s automotive‑grade Light Detection and Ranging (LiDAR) sensors.
+The announcement by the Nasdaq-traded company comes as militaries and security agencies are racing to stock up on counter-unmanned autonomous systems (C-UAS) that can detect, track, and neutralize drones.
+Perciz will focus on adapting the existing LiDAR platforms for defense, homeland security, and critical‑infrastructure protection. It will combine LiDAR, machine learning, and real-time perception to help security forces respond to threats more efficiently.
+While Innoviz’s automotive-grade platform is in use by several OEMs and industry bodies, Perciz will offer its platform to government agencies, defense contractors, system integrators, and security‑technology partners for perimeter security, critical‑infrastructure protection, C-UAS, autonomous operations, border security, and intelligence, surveillance, and reconnaissance missions.
+The new division will operate as Innoviz’s brand focused solely on defense and homeland security, supplying LiDAR systems to government agencies, defense contractors, system integrators, and security‑technology partners.
+Growing demand
+The launch comes amid heightened global attention on counter‑UAS technologies. Since the outbreak of the war in Ukraine, followed by the Hamas attack against Israel on October 7 and the wars that followed, militaries have accelerated investment in sensors capable of detecting small, fast, low‑flying drones that evade radar.
+Israel’s defense establishment has also expanded procurement of multi‑layered counter‑UAS systems, and several Israeli companies have announced new detection and interception platforms in recent months.
+"Defense and homeland security organizations are confronting a rapidly evolving environment where threats are becoming increasingly sophisticated, autonomous, and unpredictable," Omer Keilaf, founder and CEO of Innoviz, said in a press release.
+"Perciz was created to help address these challenges by advancing Physical AI technologies that transform how intelligent systems perceive and understand the world around them. Our goal is to provide our centimeter-level 3D positioning to enable security solutions that can operate with greater awareness, precision, and confidence in the most demanding environments,” he added.
+“The future of defense is increasingly defined by intelligent systems that can interpret and respond to their environment in real time,” Keilaf said. “Success will depend not only on collecting data, but on providing accurate data that will enhance operational performance.”
+Last week, Innoviz announced that it was teaming up with Cogniteam to develop a new counter-drone detection (C-UAS) system aimed at improving detection, classification, and tracking for security systems.
+The new solution combines Innoviz’s 3D LiDAR sensors along with Cogniteam’s AI-powered perception and analytics software that allows for more accurate drone detection by the analysis of 3D morphology, motion, flight behavior, and signatures to distinguish between drones and other aerial objects, such as birds, to reduce false alarms.
+This new technology builds on more than a year of operational deployments of Cogniteam’s ClearZone platform, together with Innoviz LiDAR, for perimeter protection, critical infrastructure security, and border surveillance.
+Innoviz said at the time that the collaboration is intended to help system integrators and security providers deploy accurate drone detection, localization, tracking, and classification systems. Cogniteam developed a 3D analytics engine that analyzes object morphology, motion, flight behavior, and 3D signatures to reduce false alarms and improve threat identification.
 
 ====================================================================================================
 
-China grows at one of lowest rates on record; Thames Water has funds to survive to year end – business live
+Power with a heart: Diplomatic women form new circle for disability advocacy
 Unknown
 Unknown Publisher
 2026-07-15
-07:01:39 UTC
-16:01:39 KST
+09:46:45 UTC
+18:46:45 KST
 
-Introduction: China grows at one of lowest rates on record; Thames Water has funds to survive to year end
-Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy.
-China grew 4.3% in the quarter to 30 June, one of the slowest rates on record, as sluggish domestic demand outweighed a surge in exports.
-Growth slowed from the first quarter rate of 5%, and was the lowest in three and a half years. It was less than economists had forecast, and below Beijing’s 4.5% to 5% target range.
-Thames Water said this morning that it has enough funding to survive until the end of this year. It continues to work with creditors, regulators and the government on a rescue recapitalisation plan, the only option for it to avoid temporary nationalisation.
-It has £515m of cash in the bank, according to its annual report.
-The company, which serves 16 million customers in London and southern England, has become a symbol of failure in Britain’s privatised water sector, polluting rivers and the sea with sewage due to ageing infrastructure, and struggling under a massive debt pile. It said its debts grew by £1.7m from last year, to £18.5bn.
-Andy Burnham, who is expected to become the UK’s new prime minister on Monday, has said he believes public ownership is the best option for Thames Water. The government was already looking at taking Thames Water into its Special Administration Regime, a form of temporary public ownership.
-However, Thames said its performance is improving. Sewage pollution fell 18% in the 12 months to the end of March, and its underlying profit after tax jumped to £203.9m, from £12.6m last year.
-Chief executive Chris Weston said:
-While operationally the business is improving, we are also working with our creditors, regulators and government to complete our recapitalisation.
-In financial markets, oil prices have increased modestly, after the US ditched a plan to charge a 20% on cargo transiting through the strait of Hormuz. But Donald Trump ratcheted up the rhetoric, threatening to expand US strikes on Iran next week to target power plants and bridges if Tehran does not agree to a deal.
-Brent crude rose 0.7% to $85.3 a barrel, after climbing above $86 a barrel on Tuesday amid escalating tensions in the Middle East.
-Asian stock markets mostly rose and government bonds steadied, after a bigger-than-expected cooling in US inflation on Tuesday prompted markets to scale back expectations for interest rate hikes.
-Japan’s Nikkei rose 1.5% and Hong Kong’s Hang Seng climbed 1.4%, while South Korea’s Kospi, which took a hammering earlier in the week, bounced back 6.2%.
-Bond yields and the dollar fell amid relief over the inflation reading. The pound rose 0.45% against the dollar and the euro was above $1.14 while two-year Treasury bonds (which are particularly sensitive to rate expectations) fell 9 basis points to 4.2% from Tuesday’s 17-month high of nearly 4.3%.
-However, US Federal Reserve chair Kevin Warsh told Congress on Tuesday that one data point was not enough to declare victory over inflation.
-Also contributing to optimism, Netherlands-based ASML, Europe’s most valuable company and the world’s biggest supplier of chip-making equipment, beat revenue forecasts.
-The Agenda
-- 
-  10am BST: Eurozone industrial production for May 
-- 
-  1.30pm BST: US producer prices for June 
-- 
-  2.45pm BST: Bank of Canada interest rate decision 
-- 
-  3pm BST: US Federal Reserve chair Kevin Warsh Congress testimony
+Watch this episode without interruptions.
+More than twenty ambassadors and diplomatic spouses gathered at Shalva, Israel's National Center for Disabled Children in Jerusalem, for the launch of a new "Diplomatic Ladies Circle," an effort to turn these women into advocates for disability inclusion in their home countries.
+The idea came from Chaya Bisker, a mother of a daughter with Down syndrome who relocated her family to Israel for access to Shalva's programs, Tali Rubin, wife of the Paraguay ambassador to Israel and a Shalva volunteer, and Linda Cohen, wife of Panama's ambassador. Together, they concluded that diplomatic women were uniquely positioned to spread Shalva's model, since they have "the possibility to impact the entire world," said Bisker. She added that the goal isn't just exporting a program but a philosophy centred on "goodness, solidarity, and the care of families," not policy alone.
+The response echoed that ambition. Valeria, wife of Argentina's investment representative, called Shalva "a place full of energy, full of joy," while Cohen said a single visit led her husband to declare, "We need to do something with this in Panama."
+Cohen added that Shalva changed her and her husband completely, in a way that they decided to transform a feeling into a formal proposal.
+Tali Rubin volunteers weekly at Shalva, with four-year-old children. After being enchanted by Shalva's project, she decided, together with Bisker and Cohen, to recruit other women, arguing that small efforts, multiplied across countries, "will be something big" capable of changing the reality of people with disabilities around the world.
+Behind the diplomacy is a founding story rooted in hope. Shalva's president, Mr. Kalman Samuels, recounted how his son, Yossi, was born healthy in 1977 but left blind and deaf after a faulty vaccine batch that Israeli authorities failed to recall for six months, injuring hundreds of children.
+Urged by others to institutionalize his son, his wife instead vowed that if God ever helped Yossi communicate, she would dedicate her life to helping other families. Years later, a deaf teacher's breakthrough, spelling the Hebrew word for "table" into Yossi's palm, proved he could learn language, and a speech therapist later taught him to speak. That promise became Shalva, which grew from five children in a rented apartment in 1990 to a campus now serving thousands.
+Mr. Samuels said Israel's Foreign Ministry has effectively treated the center as an informal ambassador, citing its ability to connect people "whether it's a family member, whether it's a friend" regardless of politics. They pointed to Mozambique, where a Shalva-trained founder built the country's first center for children with disabilities using methods shared directly by the Jerusalem team.
+The hope, the Diplomatic Ladies Circle founders said, is that each woman in the new circle will carry the model home "at the level they can manage," said Bisker, turning one morning in Jerusalem into a network spanning continents.
+
+====================================================================================================
+
+Iran threatens to cut off major vital seaways in response to Trump's renewed blockade
+Unknown
+Unknown Publisher
+2026-07-15
+09:46:19 UTC
+18:46:19 KST
+
+Iran threatens to cut off major vital seaways in response to Trump's renewed blockade
+After closing the Strait of Hormuz, Tehran on Wednesday threatened to shut additional energy export routes including the Bab el-Mandeb gateway to the Red Sea, a major global shipping route through which Saudi Arabia exports its oil. The warning comes after the US launched a fresh round of strikes on Iran.
+Iran’s Islamic Revolutionary Guard Corps has threatened to close “all other export corridors that benefit the US and its allies”, Iranian media reported, after Iran shut the Strait of Hormuz and the US reimposed a naval blockade of Iranian ports.
+“Regional energy exports are either shared by all, or denied to all,” the IRGC said in a statement carried by Iran’s IRNA state news agency on Wednesday.
+Analysts have said Iran has been signalling it may use its Houthi allies in Yemen to shut the Bab el-Mandeb gateway to the Red Sea, opening a new front against Washington and putting two of the world’s most vital energy arteries at risk.
+The narrow gateway links the Red Sea to the Gulf of Aden, through which Saudi oil exports and a substantial share of global shipping pass.
+Read moreHow ships are risking ‘safe’ passage through the Strait of Hormuz
+A senior Houthi official warned on Monday that the group was prepared to close the Bab el-Mandeb Strait – a move he said could send oil prices soaring to $200 a barrel – if Saudi Arabia continued to attack Yemen, according to a report on Iran’s Press TV website.
+Houthi forces fired missiles at Saudi Arabia after accusing the kingdom of bombing an airport under their control on Monday, breaking a four-year truce in the conflict between the kingdom and the Iran-aligned group.
+The Houthis have already shown they can choke global commerce through the Bab el-Mandeb. After the Gaza war erupted in October 2023, the Iran-backed group launched attacks on commercial shipping in the Red Sea, saying it was targeting vessels linked to Israel in support of Palestinians.
+The latest threat to global shipping comes a day after the US military said it began a fresh round of strikes “to continue degrading Iranian capabilities used to attack commercial shipping in the Strait of Hormuz".
+The United States said Iran had attacked seven commercial ships over the last week, leading to nearly a dozen crew members being killed, missing or injured.
+Read moreWhy is France betting on Oman amid the Hormuz crisis?
+The US military said late on Tuesday that it hit dozens of military targets near the Strait of Hormuz and Iranian coastal areas. The wave of strikes lasted seven hours, the US Central Command said in a statement.
+Iranian government spokesperson Fatemeh Mohajerani said at least 30 civilians had been killed in recent days due to the US strikes on southern Iran, state media reported on Wednesday.
+Iran’s army said at least seven active-duty and conscript personnel were killed in overnight US strikes on the Bampur military base in the country’s southeast.
+'End of America's evils'
+The IRGC said on Wednesday that the Strait of Hormuz would remain closed until what it described as “the end of America’s evils”. Before the war began in February, about a fifth of global oil and gas shipments passed through Hormuz each day.
+The Guards said they had targeted what they described as command-and-control, logistics, fuel and military equipment facilities belonging to the US Fifth Fleet in Bahrain, in response to the latest US strikes in the Strait of Hormuz.
+Read moreTrump reimposes Hormuz blockade, Yemen’s Houthis strike Saudi Arabia
+They also said they had set fire to and destroyed what they described as a US logistics facility in Kuwait’s Mina Abdullah and that their air force had struck what they described as a US base at Azraq in Jordan, targeting aircraft hangars. They said some of the US attacks had been launched from bases on Jordanian territory.
+Earlier on Wednesday, Kuwait’s state news agency reported that a fire was brought under control at a site targeted in Iranian attacks. It was not immediately clear whether the fire was at the same site referred to in the IRGC statement.
+Jordan’s air defence intercepted and shot down three ballistic missiles that entered the country’s airspace from Iranian territory early on Wednesday.
+The hostilities between Iran and the US re-ignited last week, fraying an already fragile truce reached in June after several months of fighting that has killed thousands.
+Trump threatens to hit energy targets
+US President Donald Trump on Tuesday threatened to hit Iranian power plants and bridges next week unless Tehran resumes negotiations.
+“I’ll save the energy targets for last, but ultimately we’ll hit energy targets,” Trump said in an interview with Fox News’ Trey Yingst.
+US negotiators had been in touch with their Iranian counterparts to tell them “you better make a deal”, Trump added. As tensions escalated, Trump on Monday floated the idea of a 20% fee on shipping through the strait, which drew sharp criticism from the UN shipping agency and others. On Tuesday, he scrapped the idea and said, without providing details, that he would instead seek investment deals with Gulf states.
+Oil prices rose on Wednesday, after closing up 2% to a one-month high on Tuesday, as the latest attacks deepened a supply disruption in the Strait of Hormuz. For the second straight session, Brent closed at its highest since June 12 and West Texas Intermediate at its highest since June 15. Both contracts rose further in early Wednesday trading.
+(FRANCE 24 with Reuters)
 
 ====================================================================================================
 
