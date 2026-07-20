@@ -1,73 +1,84 @@
-AI company hit by hack entirely carried out by artificial intelligence
+"Disrespectful": Spain fans react to Trump lingering during team's World Cup trophy celebration
+Unknown
+Unknown Publisher
+2026-07-20
+19:15:27 UTC
+04:15:27 KST
+
+"Disrespectful": Spain fans react to Trump lingering during team's World Cup trophy celebration
+                As Spain celebrated its World Cup title, some fans in Barcelona told CBS News' Emmet Lyons that President Trump lingering on stage during the trophy celebration was "disrespectful."
+
+====================================================================================================
+
+How will Khalil al-Hayya's past shape Hamas' future? - analysis
+Unknown
+Unknown Publisher
+2026-07-20
+19:13:06 UTC
+04:13:06 KST
+
+In September 2025, Khalil al-Hayya was in Doha, Qatar, when an Israeli airstrike was carried out.
+“Senior Hamas official Khalil al-Hayya [was] targeted with others in an Israeli operation in Doha on Tuesday,” UAE daily The National noted at the time. It also said he had been leading the group’s negotiations.
+“Hamas’s six-man leadership [was] targeted in Doha by Israel,” the report said. Now, reports say that he has been named the head of Hamas’s political bureau, essentially replacing former Hamas leader Yahya Sinwar.
+Hayya is expected to play a crucial role going forward. Notably, he is not in Gaza. This means that Hamas operatives in Gaza, who have remained in the shadows thus far, will continue to do so, benefiting from an opaque leadership style.
+Hamas has claimed that it is ready to transfer the governance of Gaza to another party. However, with its leaders living abroad, Hamas can claim it has given over control and still maintain power behind the scenes. Hayya, thus, will be key to its plans.
+From Hamas founder to political bureau chief
+Hayya is a member of the original Hamas generation. Born in 1960 in Gaza, he grew up with other leaders of Hamas, who also lived in Gaza. The group formed in the 1980s, inspired by the Muslim Brotherhood in Egypt. He joined the group when it was founded during the First Intifada in 1987.
+Hayya was detained by Israel in the 1990s and served three years in prison. He left Gaza before the October 7 massacre and ended up in Doha alongside other Hamas heavyweights.
+Before October 7, Hayya was already well-known to both Hamas and Israel. For instance, in November 2023, Hayya was running a communications office for Hamas and was Sinwar’s deputy.
+“Al-Hayya’s past includes a three-year stint in an Israeli prison, and he has survived multiple attempts on his life. These assassination attempts led to the death of 19 of his family members. Currently, al-Hayya resides in Qatar,” Ynet said at the time.
+In the past, Hayya appeared at semi-public events in Qatar. For instance, in August 2024, he appeared at a memorial for assassinated Hamas chief Ismail Haniyeh in Doha.
+Arab newspaper Asharq al-Awsat noted, “Hayya has been widely seen as Hamas’s most influential figure abroad since Haniyeh’s death. He is part of a five-man leadership council that has led Hamas since Yahya Sinwar’s death. Hailing from the Gaza Strip, he has lost several close relatives, including his eldest son, to Israeli strikes.”
+Hayya alleged that Israel has been trying to assassinate him since 2007, and Palestinian media has repeated this claim. Back in 2007, he claimed that Israel struck his home, “killing seven of his children and family members,” the Palestine Information Center claimed.
+“In 2014, Israel tried once again to assassinate him, failing, but spilling more of his family’s blood,” the report said. It is, crucially, impossible to verify this.
+One thing is startlingly clear, however: Hayya has made his personal losses an integral part of his identity. Hayya’s son was killed in the 2014 war. In 2025, TRT alleged that, “in August, Israeli media reported that two of al-Hayya’s nephews, Ayman Abd al Salam al-Hayya and Mu’az Abd al Salam al-Hayya, were killed in Gaza while cutting firewood in Gaza City’s Shejaiya neighborhood.”
+Hayya's role in Hamas negotiations and leadership
+Hayya’s narrative has been that he will continue the course set by Haniyeh and Sinwar. This would entail endless war, as well as Hamas’s continuous attempts to rebuild itself.
+A 2025 article at The Dispatch noted: “Al-Hayya has long held roles in Hamas’s leadership. He served as the group’s lead negotiator in the talks that followed the wars Hamas fought in 2012 and 2014 against Israel. He was the leader of Hamas’ parliamentary bloc in the Palestinian Legislative Council from 2006. In 2017, Yahya Sinwar, then the leader of Hamas in the Gaza Strip, appointed al-Hayya as his deputy, and Hamas’ political bureau reelected al-Hayya for that role in 2021.”
+The Dispatch goes on to note that Hayya was involved in contacts with the Assad regime in 2022, which attempted to reconnect Hamas and Assad. The group left Syria in 2012.
+“Interestingly, al-Hayya’s role as hostage deal negotiator for Hamas is not a new one for him,” The Dispatch’s report added. “He participated in the hostage negotiations after Hamas kidnapped Israeli soldier Gilad Shalit in 2006, and Israel subsequently traded 1,000 Palestinian prisoners for his release in 2011. Al-Hayya was hardly the only Hamas leader to say it, but he proclaimed that the Shalit deal proved that kidnapping works, and he promised more abductions.”
+Hayya is an educated man, having received a doctorate in Sudan. He was involved in academic research for several years in the late 1990s, and ran in Palestinian elections in 2006.
+Hayya continues to support the October 7 massacre. In a 2025 interview shown on CGTN Europe, it was noted that “senior Hamas leader Khalil al-Hayya lauded the October 7 attack on Israel as a significant achievement, claiming it would be remembered with pride by future generations of Palestinians.” He also angered Egypt and Jordan by calling for their citizens to march toward Gaza.
+What Hayya's appointment could mean for Hamas
+For many years, Hayya was widely seen as a candidate for top leadership. He was already a member of the triumvirate of leadership that emerged after Sinwar’s death. He also worked alongside Hamas Shura Council chairman Mohammed Darwish, Zaher Jabarin, and Khaled Meshaal.
+Considering his background, it is unlikely that Hayya will bring change to Hamas. On the contrary, it seems that he will continue on the same path as its previous leadership.
+
+====================================================================================================
+
+Maine Democrats have found Graham Platner’s replacement. Can he win control of the Senate seat?
 United Kingdom
 Unknown Publisher
 2026-07-20
-18:18:10 BST
-02:18:10 KST
+20:12:57 BST
+04:12:57 KST
 
-AI company hit by hack entirely carried out by artificial intelligence
-Hugging Face says it was able to repel the attack using its own AI systems
+Maine Democrats have found Graham Platner’s replacement. Can he win control of the Senate seat?
+Graham Platner’s self-destruction was a major blow to progressives, but his replacement proves that their critics don’t have much juice, writes John Bowden
 - Bookmark
 - CommentsGo to comments
-AI company Hugging Face says that it has been hit by a hack carried out entirely by an artificial intelligence system.
-Artificial intelligence is increasingly used by hackers to automate the work of finding security failings or exploiting them. But the company said that the new attack went further, even being started by an AI tool: “it was driven, end to end, by an autonomous AI agent system”, it said.
-The company was also able to fight against the attack using its own AI tools, it said. It was able to use a large language model to analyse the attacks and find how it had been able to happen, Hugging Face said.
-Hugging Face is an AI company that makes tools that let developers host and share their AI tools. Using its services, developers and researchers can work on AI models as well as making them available for use.
-It was through those tools that the AI was able to hack the company. Hugging Face said that a dataset was uploaded to its system that was then able to abuse a security vulnerability and run code on its own servers.
-Because the attack was being conducted by and done using an AI, the system was “executing many thousands of individual actions” during the attack, it said. It is still unclear where the attack came from or what AI system was conducting it, Hugging Face said.
-The company said it was still working to understand whether any of its customer’s data was stolen in the attack, but committed to sharing details with anyone affected. It urged users to check for any suspicious behaviour on their accounts in the meantime.
-Hugging Face said that it initially spotted the attack using its own AI systems. Automated tools look through its security logs and look for anything suspicious, and it was then able to use separate AI systems to understand the attack after it had happened.
-The ideal summer spot? Away from scams.
-Get All-in-One Protection for Your Digital Life
-ADVERTISEMENT
-The ideal summer spot? Away from scams.
-Get All-in-One Protection for Your Digital Life
-ADVERTISEMENT
-“This allowed us to reconstruct the timeline, extract indicators of compromise, map the credentials touched, and separate genuine impact from decoy activity,” it said. “Thanks to this approach, we were able to do in hours what would usually take days, and match the adversary's speed.”
-Hugging Face did however note that its defensive work was constrained because it was unable to use the most powerful models, because of restrictions that are intended to keep them from being used for unsafe purposes. It said this led to an “asymmetry”, since “the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails of the hosted models we first tried”.
+After the implosion of Graham Platner, many Maine Democrats feared they were lost in the wilderness.
+On Monday, it was clear: Troy Jackson is the man they believe will lead them out.
+Jackson ended the weekend with the committed support of roughly two-thirds of the delegates in the state who are set to gather this coming weekend and formally nominate a replacement for Platner, whose Senate campaign ended after his support dissolved in the wake of a sexual assault allegation from an ex-girlfriend, which he denied. Three of his rivals for the nomination have already dropped out of the race.
+Barring a major shake-up, he’s poised to walk into that convention as the overwhelming favorite.
+Now, he has to win the general election against incumbent and Republican Susan Collins - and if he does it could help flip control of the entire Senate to Democrats.
+Jackson’s apparent victory was cheered on by members of the left-wing faction that has challenged numerous Democratic incumbents this cycle and sought to push the party towards a more aggressive populist, working-class centric platform: The Democratic Socialists of America. The DSA, which counts new Democratic primary victors Melat Kiros and Darializa Avila Chevalier among its members, endorsed Jackson as he ran for governor this year in a ranked-choice Democratic primary.
+Jackson was defeated in that race, but with the rumors around Platner already swirling by the June primary, one of his supporters presciently suggested on Twitter: “I now want Troy Jackson to not win the governor race and finish 2nd so he’ll most likely be the backup Senate nominee if Platner drops out.”
+A DSA-endorsed progressive and former state director for Bernie Sanders’s presidential campaign in 2016, Jackson’s victory represents a major coup for a progressive left wing that took a rhetorical battering in the press after Platner’s withdrawal.
+Accusations of poor vetting and an insufficient focus on the voices of women in the party were leveled at not just Platner but his senior advisers and wider campaign staff, many of whom rallied behind Jackson after the collapse of the Platner bid.
+Many of those same progressives were adamant, in the face of that criticism, that Maine voters had spoken clearly and chosen a progressive over the party establishment’s hand-picked candidate, incumbent Maine Gov. Janet Mills, to represent the party in November against Collins.
+Many of Platner’s supporters argued that winning the seat in November would be an impossible and fruitless goal should national Democratic Party figures be allowed to select a candidate to run in his stead.
+Barring something major happening, Jackson has seemingly lined up overwhelming support within the state part for his bid. His campaign is now well-positioned to scoop up the existing infrastructure already in place powering Platner’s impressive victory over Mills last month. The question is: Can he recapture the same voter enthusiasm that accompanied Platner’s win?
+On paper, Jackson checks all the boxes. As his endorsements (which also included Bernie Sanders in his gubernatorial bid, and the Maine AFL-CIO) would suggest, Jackson is a dyed-in-the-wool progressive, supporting Medicare for All, the abolition of Immigration and Customs Enforcement and an end to American support of Israel’s assault on Gaza, which he’s referred to as a genocide.
+Like Platner, he also hails from a working-class background, having previously worked as a logger before joining Maine’s state senate, and later serving as its majority leader.
+Whether Jackson can translate his similarities into the same momentum against Collins is an open question, though, as he came in third place in the Maine gubernatorial primary this year despite his list of powerful endorsements. Supporters argued that he built an impressive ground game and fared well against politicians with better name recognition, but some are still skeptical about his path forward.
+Some fans of Platner and other Democratic observers questioned whether Jackson had the same charisma that led Platner to pack town hall events to capacity for months ahead of his primary victory in June.
+Collins, meanwhile, has nearly faded into the background amid her onetime opponent’s self-destruction.
+Much as the Trump campaign did in 2024, Collins’s campaign has largely stayed out of the fray as Democrats rushed to replace Platner — the incumbent senator, 73, is taking a more passive approach to campaigning as she holds on to advantages in name recognition, her reputation as a moderate in the Senate and a massive war chest supported by Senate GOP leadership which is waiting to flood the airwaves with more than $100 million in reserved advertising space through November.
+The reality for Jackson is stark: His quick collection of the delegates necessary to win the Senate nomination was only the first battle he’ll face, with a much tougher one coming down the pipes.
+He’s stepping into a race where the comparisons to Kamala Harris’s doomed 2024 bid are widely apparent, banking on the notion that a unified Democratic Party and dissatisfaction for the Trump administration and the Republican Congress will be enough to take a jump-started campaign over the finish line against potentially the hardest target for Democrats to beat of this entire cycle.
 Join our commenting forum
 Join thought-provoking conversations, follow other Independent readers and see their replies
 Comments
-
-====================================================================================================
-
-Andy Burnham Names John Healey Chancellor in Surprise UK Cabinet Move
-Unknown
-Unknown Publisher
-2026-07-20
-17:17:42 UTC
-02:17:42 KST
-
-Andy Burnham Names John Healey Chancellor in Surprise UK Cabinet Move
-
-====================================================================================================
-
-Moscow’s leaked media playbook: spin Ukraine’s refinery hits as an attack on ‘car owners’
-Unknown
-Unknown Publisher
-2026-07-20
-17:16:31 UTC
-02:16:31 KST
-
-Moscow’s leaked media playbook: spin Ukraine’s refinery hits as an attack on ‘car owners’
-Amid Ukrainian strikes on Russian oil refineries and Wildberries warehouses, Russia’s presidential administration advised state and pro-Kremlin media to persuade citizens that “rallying society around the President is the most important factor in the country’s stability.”
-Overnight on July 18, Ukrainian forces struck Wildberries logistics centers in Elektrostal, outside Moscow, and in Kotovsk, in the Tambov region. Official figures put the death toll at eight, with about 80 injured across the two warehouses. Ukrainian drones also hit an oil depot in Noginsk, in the Moscow region.
-It was one of the largest attacks on civilian infrastructure in Russia — yet state television ignored it.
-Ukrainian President Volodymyr Zelensky later said the operation was a response to Russian military strikes on civilian infrastructure. On the morning of July 17, Russian drones struck a Nova Poshta sorting terminal in Sumy twice; no casualties were reported.
-In the early hours of July 20, Ukrainian drones struck the Yuzhnyye Vorota industrial park in Domodedovo, outside Moscow, where a Wildberries warehouse is also located. Wildberries said the warehouse remained operational.
-“The main purpose of such strikes is to demoralize people and try to use their anxiety against the country’s leadership and our army. Anxiety doesn’t reduce the likelihood of the conflict dragging on — it increases it: the enemy uses anxiety to gauge the effectiveness of its strikes,” read the guidance circulated to state media employees by the political bloc of Russia’s presidential administration.
-According to the document, strikes on oil refineries were intended “to create difficulties for car owners,” while strikes on Wildberries warehouses were aimed “at damaging Russian small business.” The document described the strikes themselves as “PR attacks.”
-To distract Russians from the Ukrainian strikes, the document’s authors urged editors and broadcasters to emphasize that “Vladimir Putin has effectively cut Ukraine off from the sea.”
-They also recommended covering Russian military strikes on Ukrainian cities. The document urged pro-Kremlin outlets, for instance, to highlight that overnight on July 19, Russia carried out “the most massive ‘ballistic’ strike on Kyiv.” The strike allegedly destroyed munitions that “the enemy wanted to unleash on Russia.” The document also mentions unspecified “drone warehouses,” as well as “factories producing components for the ‘Flamingo’ and ‘Neptun-MD’ missiles.”
-Journalists were also advised to report that “Ukraine will be left with no warehouses, no fuel, no trains, no substations”:
-The format of the strikes shows that the Russian army aims to finish off Ukraine’s transportation and fuel system — dark times await the enemy’s logistics.
-Propagandists were also urged to cover a post by the Defense Ministry on Max — the state messenger app — published on the day of the 2026 FIFA World Cup final. The post featured a photograph of a missile system with the caption: “Today is definitely not the final — we’re loaded and pressing on.”
-“A hard war is underway, but in it we are grinding down the enemy and have no intention of letting up. The enemy faces new strikes on Kyiv, the most powerful yet,” the document’s authors said.
-An employee at a pro-Kremlin outlet familiar with the document said it left him with the impression that the Kremlin was trying to convince citizens it was “fighting for real” and delivering a “response” to Ukraine:
-Can this reduce anxiety? I don’t think so. But they clearly feel it’s a problem, given how directly they mention it.
-At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.
-If you find any errors in this translation, please contact us at [email protected].
-To read Meduza’s exclusive content in English, please subscribe to our newsletter.
 
 ====================================================================================================
 
