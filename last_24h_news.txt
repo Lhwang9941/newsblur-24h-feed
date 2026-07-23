@@ -1,206 +1,132 @@
-The Pennsylvania budget quietly relaxed a standard for lead reporting in schools
-Unknown
+Trump imposes new tariffs on dozens of countries
+United Kingdom
 Unknown Publisher
 2026-07-23
-21:53:02 UTC
-06:53:02 KST
+23:48:29 BST
+07:48:29 KST
 
-The Pennsylvania budget quietly relaxed a standard for lead reporting in schools
-In the flurry of last-minute dealmaking to approve this year’s state budget, legislators tucked in eleventh-hour language that relaxes Pennsylvania’s rules for publicly reporting the results of lead tests on school drinking water.
-State law does not require schools to test for lead, as long as the topic is discussed at a public meeting annually. But if schools do test, they were previously required to report any finding above zero to the state so the results could be posted publicly.
-The new provision, quietly inserted in the final 48 hours of budget negotiations earlier this month, requires schools that test to report lead levels above five parts per billion.
-Lawmakers passed the change after several statewide associations representing school boards, principals, and other school officials complained to education leaders that the state’s prior lead testing requirements were unrealistic, according to records reviewed by Spotlight PA.
-Environmental groups say the change hinders the public from knowing the amount of lead in school drinking water, even though it’s a toxic substance with documented harmful impacts to children’s health.
-“At the end of the day, it means a lot of parents will be in the dark, and every day we know there will be kids out there drinking school water with lead in it even though we know that lead is unsafe at any level,” said David Masur, executive director of the advocacy group PennEnvironment.
-The original law, Act 39 of the Public School Code, passed as part of the budget in 2018. It created the requirement to test drinking water for lead or to discuss the issue at a public meeting. It also mandated that when lead is detected, a school must create a plan that ensures no one is exposed to contamination and provide alternative forms of drinking water. The state, meanwhile, is required to publicly post information about elevated tests.
-But critics say the law is flawed to the point of being ineffective. Not only is it easy for schools to avoid testing; there is no accountability mechanism for ensuring schools that test report the elevated results to the state.
-The Pennsylvania Department of Education also failed to accurately implement the law until recently.
-According to emails reviewed by Spotlight PA, education officials initially provided guidance to school districts to report lead levels exceeding 15 parts per billion, rather than anything over zero.
-Masur was one of the people who pointed out the error to administrators several times, he said.
-It wasn’t until this year that officials revised the guidance, according to a copy of an email viewed by Spotlight PA. The agency told districts in May that when “a school tests for lead in drinking water and the result is in excess of 0 parts per billion,” the school must take the actions required by the law, including reporting the result for public posting.
-In an email to Spotlight PA, a department spokesperson did not respond when asked why it took so long to make the fix.
-The May directive prompted immediate pushback from school organizations and advocates and precipitated lawmakers’ decision to loosen reporting requirements.
-State Rep. Peter Schweyer (D., Lehigh), chair of the House Education Committee, supported the change and pointed to a new requirement for schools to compile reports about the general state of their facilities, including the age of their buildings and whether they have damage.
-The first of those reports is due at the end of next year, and they are required every five years subsequently.
-“Up until this budget, we’ve never collected meaningful data across the commonwealth,” Schweyer said, “which is unreal to realize.”
-Still, the new inventory reports do not explicitly require schools to report any information about lead. Lawmakers also didn’t address many of the other flaws critics have flagged about the lead testing law.
-Faulty guidance
-At the heart of state education officials’ incorrect guidance to schools were two different federal benchmarks for lead levels in drinking water.
-The 2018 law said schools must implement an action plan if lead levels in drinking water exceed the “maximum contaminant level goal.” The Environmental Protection Agency sets that goal at zero parts of lead per billion. In other words, if schools detected any lead in their drinking water, they had to report it to the state.
-But the EPA also sets what is called the “lead action level,” which is 15 parts per billion. “The lead action level is a measure of the effectiveness of the corrosion control treatment in water systems,” according to the agency. “The action level is not a standard for establishing a safe level of lead in a home.”
-Lead contaminates drinking water through the corrosion of pipes or other plumbing fixtures. Any level of lead exposure can cause learning disabilities or damage to the nervous system, especially in young children, according to the EPA.
-When the education department initially provided guidance to schools on the law, Masur said it told them to report if lead levels exceeded the federal action requirement of 15 parts per billion, not the EPA’s maximum contaminant level goal of zero parts per billion.
-When state education officials issued the correct guidance earlier this year, the pushback was almost immediate.
-A letter sent on June 9 to Pennsylvania Education Secretary Carrie Rowe, signed by six Pennsylvania school associations and obtained by Spotlight PA, urged her to consider limitations to achieving the standard.
-“We respectfully encourage PDE to distinguish between an aspirational public health goal and a practical, scientifically actionable standard for implementation and reporting purposes,” the letter said.
-The Pennsylvania School Boards Association, one of the groups that signed the letter, wrote in an email to Spotlight PA that resource-starved schools need better investments in infrastructure if they’re to meet stronger lead standards.
-“Equating any detectable presence of lead with a significant exposure risk may create unnecessary concern among families and communities while setting expectations that are difficult, if not impossible, to meet in practice,” it wrote.
-The decision to increase the amount of lead that can go unreported in schools took some back and forth between the Democratic-controlled state House and GOP-led Senate.
-Members originally planned to increase the reporting level to the EPA’s “lead action level,” or 15 parts per billion, according to a draft of the code.
-House Democratic spokesperson Beth Rementer wrote in an email to Spotlight PA that this level was championed by Republicans who control the state Senate before Democrats advocated for a more stringent level of five parts per billion.
-The Republican caucus’ initial plan to set the level at 15 parts per billion was at the request of education leaders, Kate Flessner, spokesperson for Senate Republicans, said in an email to Spotlight PA. But after conversations with other legislative leaders and advocates, lawmakers decided to lower the threshold.
-Schweyer said the new measure of five parts per billion balances public health concerns and what is realistic for schools to achieve. It’s also in line with the FDA’s standard for bottled water, Rementer wrote.
-Masur said he would have preferred that lawmakers get more input from environmental, parental, and public health groups before making a change. Public hearings, for instance, would have allowed for more debate and context on what is undeniably a complex issue.
-Instead, he said, the change was rushed through on a Saturday morning, as lawmakers hastily wrapped up the budget that weekend.
-“It happened as many things tend to in Harrisburg: at the eleventh hour, in a back room somewhere in the Capitol, on a Saturday morning in July,” Masur said. “It’s a very undemocratic way to implement a wildly unpopular policy.”
-A flawed law
-Critics say there are several issues with the original 2018 law.
-Schools can forgo lead testing if they hold a public meeting to discuss the issue. There is nothing in the law that requires schools to report any information about these meetings to the state, so it’s impossible to tell whether districts actually comply with this provision.
-Public meetings aren’t necessarily well-publicized, said Chad Baer, a parent from the Philadelphia suburbs and public health graduate of Yale. He has researched lead reporting in Pennsylvania schools and advocates for its removal.
-The way the law was written allows some schools to tuck brief discussions about lead into any of their public meetings to escape testing requirements, he said.
-There’s also no way to know if schools that do test and find lead in their water actually report to the state as required.
-Under the law, schools with “elevated” lead levels must complete a report with information about how much was found, when the testing occurred, and remediation plans to address the problem. The state Department of Education then posts that information in a spreadsheet on its website. However, there’s no penalty for not submitting that report.
-The agency says the online file is updated quarterly. The most recently reported tests are from August 2025 on the spreadsheet currently available online.
-In an email to Spotlight PA, a spokesperson said the department “is in the process of modernizing our data collection system to make reporting easier for schools and more accessible to citizens.”
-There are also no standards for how testing should be conducted. Baer said he discovered schools could run water for a period of time before testing, which would lower the lead levels that would show up. Testing equipment also wasn’t standardized across districts or verified by the state, and there was little state-level oversight of testing accuracy or consistency, Baer said.
-In email correspondence from 2024 that Baer shared with Spotlight PA, a state education department official told him that “the interpretation of the statute was a local issue,” and questions about lead testing should be raised with school districts directly, despite it being set by state law.
-“Breaking it down at the piecemeal level of district by district is totally ineffective,” said Baer. “It’s got to be top-down enforcement that things are actually being tracked and ensuring it’s a safe environment.”
-Education department officials, responding to questions from Spotlight PA, wrote that the agency is not granted the authority to enforce remediation plans, but that the posting of data “ensures public notice.”
-After the 2018 law passed, state Sen. Art Haywood (D., Montgomery) told WHYY the lead provisions were a compromise and “a first step toward a more comprehensive legislation.”
-However, the new law does not fix those loopholes and problems. There are also no bills before the legislature that would mandate lead testing in schools.
-Instead, two companion bills — HB 341 and SB 759 — propose to address lead-related infrastructure issues by requiring schools to replace water fountains with ones that are filtered. Both bills currently sit in state House and Senate committees.
-When similar bills circulated in the previous legislative session, school organizations still found them to be unrealistic, despite a proposed state grant meant to fund eligible schools.
-In an email obtained by Spotlight PA, a lobbyist for the Pennsylvania Association of School Business Officials wrote to several legislative offices that it opposed the concept because “it requires a one-size-fits-all approach to a complex problem and creates a mandate onto school entities that will not be fully funded through the grant program provided in the bill.”
-The Association of School Business Officials also signed the letter sent to Rowe last month. Officials there did not respond to requests for comment for this story.
-Baer said that the cost of remediation — say, replacing a drinking fountain — isn’t higher than the cost of not replacing it.
-“(Lead) causes behavioral issues, lifelong cognitive impairment,” he said. “So the cost is being paid; it’s just that people aren’t seeing it as a line item. It’s being paid for by the kids.”
-___
-Spotlight PA’s Angela Couloumbis contributed.
-___
-This story was originally published by Spotlight PA and distributed through a partnership with The Associated Press.
+Trump imposes new tariffs on dozens of countries
+- President Donald Trump is implementing new tariffs ranging from 10 percent to 12.5 percent on imports from 60 countries, effective this Friday.
+- These tariffs, which will apply to 99 percent of U.S. imports, are being imposed due to allegations of inadequate enforcement of bans on goods produced by forced labor.
+- The new levies replace temporary worldwide tariffs that expire Friday and are enacted under Section 301 of the Trade Act of 1974.
+- Certain products, including oil, gas, fertilizer and those covered by the U.S.-Mexico-Canada Agreement, are exempt from these new import taxes.
+- While these tariffs may lead to higher consumer prices, human rights organizations suggest they could serve as an effective tool in combating forced labor globally.
 
 ====================================================================================================
 
-Community Control Of Kauaʻi Fishery In Hawaii Is Showing ‘Remarkable’ Results
+Russia passes ‘civil death’ legislation to freeze exiled critics’ money, block their passports, and cut off consular aid
 Unknown
 Unknown Publisher
 2026-07-23
-21:53:02 UTC
-06:53:02 KST
+22:47:25 UTC
+07:47:25 KST
 
-Community Control Of Kauaʻi Fishery In Hawaii Is Showing ‘Remarkable’ Results
-Community Control Of Kauaʻi Fishery In Hawaii Is Showing ‘Remarkable’ Results
-Waves gently roll over a reef in Hā‘ena as Kanoe Alapa‘i-Hashimoto and his father, Keli‘i Alapa‘i, search for limu in the ankle-deep water with fishing nets wrapped around their waists and shoulders. The seaweed is food for manini, a small light-greenish yellow fish with black stripes.
-Alapa‘i-Hashimoto looks to his left where the water ripples, a sign of the fish grazing on the reef’s edge. He spends the next 15 minutes treading lightly, mindful that his shadow and footsteps won’t scare the fish, before throwing his net, which spirals out and sinks.
-When he pulls it up, it reveals that he caught a dozen manini – enough to feed his family.
-Alapa‘i-Hashimoto and Alapa‘i are lawai‘a, or subsistence fishermen, who practice as their kūpuna taught them. That means taking only what they need, using traditional techniques such as throwing net, and being mindful of how their activities impact the nearshore ecosystem. The ocean has been their family’s icebox for generations.
-“You take care of the ocean like you will take care of your little child,” Alapa‘i said.
-Eleven years ago, they and other community members got Hā’ena’s waters from the shoreline to 1 mile offshore designated as a Community-Based Subsistence Fishing Area to protect the resource for future generations and return to traditional resource management.
-“I’ve seen quite a bit of fish that’s come back — you know, moi, mullet, we get palani, kala, akule — those are really the main fish that we grew up on,” Alapa‘i said. “But as far as population wise, since the CBSFA took effect, it’s amazing.”
-Data that scientists have been gathering over the past decade preliminarily show that fish populations appear to be healthier and more diverse.
-CBSFAs are one of several marine management tools in the state but are unique in that they’re designed to protect and perpetuate Native Hawaiian fishing practices and values. Getting the first CBSFA established meant overcoming opposition from commercial fishermen who argued that the designation’s rules compromised their livelihoods and, more recently, a legislative attempt to restrict its lifespan.
-Now, many other communities around the state are hoping to follow Hā’ena’s model.
-Level The Playing Field
-Located in the northern moku, or district, of Halele‘a, Hā‘ena is home to towering cliffs, verdant valleys and reefs that stretch across almost the entire length of the ahupua‘a, or land division from the uplands to the sea. He‘e (octopus), nenue (chub fish), kala (unicorn fish), manini (convict tang) and many other species reside in the nearshore waters.
-Those nearshore waters comprise the state’s first permanent CBSFA, a marine area that’s co-managed by the local community and the state Department of Land and Natural Resource’s Division of Aquatic Resources.
-Communities were granted the ability to pursue this designation under a 2005 law after Mo‘omomi on Moloka‘i piloted it in the 1990s. In addition to Hā‘ena, Miloli‘i on Hawai‘i island and Kīpāhulu on Maui also have CBSFAs.
-Anyone can fish in Hā’ena so long as they follow the CBSFA’s rules, which were informed by how the community’s kūpuna, or ancestors, fished. Don’t use spear guns, don’t sell the fish or marine life you take from the area, don’t go night diving when the fish are asleep, and abide by bag limits for certain species, among other rules.
-Using three-prong spears, instead of spear guns that can pierce fish from feet away, helps “level the playing field more, right? The fish have a better chance of escaping,” said Chipper Wichman, a lineal descendent and founding member of Hui Maka‘āina o Makana.
-The nonprofit spent 10 years leading the community’s push for the CBSFA, holding over 60 community meetings and going through more than 10 rounds of rule revisions and agency review. Today, the group manages the area with the support of the state.
-Another rule is specific to octopus, which make its homes on the reef by fortifying natural crevices with discarded shells or rocks. Spears would destroy the home, so fishermen can only use sticks to tease the he‘e out — preserving the home for another he‘e to occupy.
-Alapa‘i, who grew up in Hā’ena and is the hui’s former vice president, said some people would also set nets in the water and leave them unattended overnight, which wasted a lot of fish. Many people, he said, want to take more fish than they can eat.
-“That’s the whole idea of this – take what you need,” he said.
-Early Trends In Fish Abundance
-Alapa‘i-Hashimoto and Alapa‘i can tell what fish are in the water and how many just by observing the water. But as they approach the shoreline, they also take note of the ’ōhiki, or sand crabs, that leave piles of sand on the beach, what the coral looks like, and whether any limu is growing.
-That’s because their kūpuna taught them that everything in the marine ecosystem is connected. Even if he doesn’t catch any fish, it’s enough to know that he’s seeing signs of a healthy ecosystem, said Alapa‘i-Hashimoto as his reef shoe-covered toes touched the water.
-He represents his family on the hui’s ‘ohana council, which is made up of the families who lived in Hā‘ena prior to 1955. Between 1875 and 1955, a group called Hui Kuʻai o Hāʻena, made up of 38 Native Hawaiian families from the area, owned the entire ahupua‘a. The council sets the guiding directives and principles for the group’s board and staff.
-The CBSFA is meant to bring back the abundance of fish that their kūpuna saw when they were growing up — such as larger schools of bigger-sized fish and bigger fish coming to shore more frequently.
-Wichman said those large schools disappeared as people from other parts of the island caught them with large nets and boats in the 1970s and as dozens of commercial tour boats operated out of Hanalei Bay in the ’80s and ‘90s. Those boats left oily films that damaged Hā’ena’s nearshore fishery and limu on their way to the Nāpali coast, Wichman said.
-“What we saw was this over-extraction from our resource and our kūpuna telling us, you know, ‘When we were growing up, when we were fishing, we never had this,’” he said.
-Hā’ena received its CBSFA designation in 2015. In its first five-year review, which focused on 2016 to 2020, researchers with the Hawai‘i Institute for Marine Biology and DLNR found that the number of fish, fish species and fish biomass were consistently higher inside the CBSFA compared to outside it. The pu‘uhonua, or protected fish nursery, also saw increases in fish density and biomass.
-However, the record-setting April 2018 storm negatively affected the number of fish and sea urchins and caused more coral bleaching that year.
-Heather Ylitalo-Ward, Kaua‘i district biologist with DAR, said the Kaua‘i DAR team is still conducting fish surveys for the CBSFA’s second assessment, which will cover from 2016 to 2026. It hopes to publish in the late fall.
-She said it’s too early to share exactly what their data has found, but her team has seen fish and coral that they don’t normally see in other parts of the island and general high fish abundance. She added that it takes at least 10 years — but more likely 30 – for trends to be detected in most marine protected areas around the world.
-“The first five years were showing a positive trend, so we’re hopeful that things will continue in that way,” she said.
-Some of Hā’ena’s fishermen and community members have their own anecdotes, like seeing more akule, or bigeye scad, coming into the shallow, nearshore reef instead of staying in deeper waters, and once again seeing some larger schools of fish in general, rather than just a few here and there.
-Wichman said he’ll snorkel at Makua, commonly known as Tunnels, and see lots of fish coming out of the pu‘uhonua on the inside of the reef.
-“The abundance on the outside of that reef is remarkable,” he said. “It’s really working.”
-‘There’s A Heavy Kuleana’
-Many eyes are on the Hā’ena community because it’s the first CBSFA.
-“When you’re the first, there’s a heavy kuleana that rests on your shoulders, because if you don’t succeed, you’ve just slammed the door shut for everybody who wants to follow,” Wichman said.
-But being the first also comes with its own set of difficulties, such as figuring out monitoring and enforcement and managing the resource in a truly adaptive way.
-The hui’s community monitoring has gone through different iterations as they learn what works best for their people and resources. Emily Cadiz, the group’s education specialist and community liaison, said it’s hard for the community to sustain monitoring efforts alone, so partnerships, such as the one the hui has with DAR to do fish surveys, are essential.
-Some monitoring is also done by the hui’s Makai Watch coordinator, who is working on training up volunteers. Makai Watch is a program under DLNR that helps state officials keep tabs on unlawful fishing on the coasts.
-They’ll document the number of people within the CBSFA and the activities they do, whether it’s snorkeling, foil boarding or laying on the beach. They’ll also catalogue the marine resources they see, like fish, limu and monk seals, and help educate visitors and community members about the CBSFA.
-That monitoring can eventually help inform conversations about whether any of the CBSFA’s rules need to change. Billy Kinney, a lineal descendent and assistant director for the hui, said the goal is for the CBSFA area to be adaptively managed — like instituting rest periods on ’ōpihi or other resources based on the trends they’re seeing.
-The hui would need to go through the same, extensive process it went through to establish the CBSFA’s rules to make any changes. That process requires public hearings and reviews by the state Department of the Attorney General, governor and mayor.
-“It was set up to be adaptive, but the system is still not adaptive,” Cadiz said.
-Being on the North Shore, Hā’ena’s waters get rougher in the winter, which helps enforce the CBSFA. But the calmer waves in the summer sometimes invite unwanted behavior.
-No individuals or vessels are allowed to enter the pu‘uhonua without a permit, and boats with prohibited fishing gear must stay 1,000 feet to 2,300 feet offshore, outside the vessel transit boundary. But some recreational boats still come too close, and people sometimes swim into the pu‘uhonua.
-Christopher Gandeza, assistant chief for the Kauaʻi district of Division of Conservation and Resource Enforcement — or DOCARE — said in an email that officers must catch boaters in restricted areas. Sometimes, they’ll respond to a call, but the boaters will have left by the time they arrive. Officers can investigate, but only if they have leads, like the vessel registration number.
-Wichman said the hui has talked with commercial boaters who, in the past, drove through an area in the CBSFA where akule like to gather. The boaters were happy to avoid the akule when the hui asked.
-But it’s been harder to educate recreational boaters who may only spend a day in Hā‘ena in the summer. The hui has been talking with DAR about putting up buoys around the pu‘uhonua with signs to tell boaters and people it’s a protected area.
-“That’s a tough one because you can’t expect recreational boaters to really understand that and know about that,” he said.
-Gandeza added that the community’s involvement in educating ocean users about the CBSFA’s rules has meant fewer violations.
-“The need for DOCARE enforcement has been reduced because now they have community education and people know that the Hā’ena community is watching them,” he said.
-Opening The Door
-The fact that Hā‘ena’s CBSFA has persisted has opened the door for other communities interested in the designation or other forms of community-based management, Wichman said. The hui also manages Hā’ena State Park with another nonprofit and the Division of State Parks.
-Hui members say over a dozen other fishing communities around the state are considering pursuing CBSFAs. One effort aims to designate East Maui’s Ko‘olau, Hāna, Kīpahulu and Kaupō moku, or land divisions, as a single CBSFA.
-DLNR manages Hawai‘i’s 1.3 million acres of public lands, beaches and coastal waters and 750 miles of coastline with roughly 1.6% of the state operating budget.
-Wichman said the CBSFA movement is also bolstered by the recent passage of a law that enables the Board of Land and Natural Resources to enter into co-management agreements of up to 65 years with community-based organizations.
-“It’ll give it new leverage and give communities more of an equal say in terms of how their resources are managed,” he said.
-Kinney sits in the shade by the hui’s lo‘i just minutes from Kē‘ē Beach. Coming from a fishing family and a fisherman himself, he said the CBSFA shows how important it is for Hawai‘i to have communities co-manage the resources they’ve relied on and have stewarded for generations.
-For Hā’ena specifically, the CBSFA has been a mechanism to ensure that the area’s families continue to have fish on their tables, but it’s also had the benefit of educating people — both from in and outside the region — about traditional practices.
-“If you’re providing food for the tables of families, if you’re changing and making fishermen and the general public more aware of traditional resource management practices specific to place,” he said, “you hit two of the biggest objectives of a CBSFA.”
-___
-Civil Beat’s reporting on Kauaʻi is supported in part by a grant from the G. N. Wilcox Trust.Civil Beat’s coverage of climate change and the environment is supported by The Healy Foundation, the Marisla Fund of the Hawai‘i Community Foundation and the Frost Family Foundation.“ Hawai‘i Grown ” is funded in part by grants from the Stupski Foundation, Ulupono Fund at the Hawai‘i Community Foundation and the Frost Family Foundation.
-___
-This story was originally published by Honolulu Civil Beat and distributed through a partnership with The Associated Press.
+Russia passes ‘civil death’ legislation to freeze exiled critics’ money, block their passports, and cut off consular aid
+New rules come closer to stripping the Kremlin’s critics of Russian citizenship
+On July 22, State Duma deputies passed two laws intended to ensure the “inevitability of punishment” for those evading Russian justice abroad. Human rights advocates from the organization First Department directly call the new rules a path toward the de facto stripping of citizenship from opponents of the ruling regime, whom the authorities are prosecuting under political articles of Russia’s Criminal Code.
+- One of the laws introduces “temporary restrictive measures” against people who were convicted in Russia but are abroad and evading punishment. Before that happens, they will all be entered into a new public registry — a kind of “enemies of the people” list.
+- The second document introduces related amendments to 11 federal laws at once.
+Does this bill take direct aim at defendants in political cases?
+No. On paper, the restrictions can be imposed on anyone dodging punishment in a criminal case. The underlying case could be anything from international terrorism to copyright infringement. They can also be imposed on people dodging an administrative penalty — but only for a short list of offenses. And those offenses are precisely the political ones:
+- “Foreign agent” offenses
+- Participation in the activities of “undesirable organizations”
+- Calls to violate Russia’s territorial integrity
+- Calls to impose sanctions
+- “Discrediting” the Russian army and the authorities
+- Part 4² of Article 19.5 (“Failure to comply, within the prescribed time limit, with a lawful order or warning issued by the body exercising state oversight of compliance with Russian Federation legislation on foreign agents, to remedy violations of that legislation”)
+- Article 19.34 (“Violation of the procedure governing the activities of a foreign agent”)
+- Article 20.3² (“Public calls for actions aimed at violating the territorial integrity of the Russian Federation”)
+- Article 20.3³ (“Public actions aimed at discrediting the use of the Armed Forces of the Russian Federation for the purpose of protecting the interests of the Russian Federation and its citizens, maintaining international peace and security, or the exercise by Russian state bodies of their powers for these purposes, or aimed at discrediting the provision of assistance by volunteer formations, organizations, or individuals in carrying out tasks assigned to the Armed Forces of the Russian Federation or the troops of the National Guard of the Russian Federation”)
+- Article 20.3⁴ (“Calls for the imposition of restrictive measures against the Russian Federation, citizens of the Russian Federation, or Russian legal entities”)
+- Article 20.33 (“Participation in the activities of a foreign or international organization whose activities have been declared undesirable on the territory of the Russian Federation”)
+Even so, not all of the bill’s “targets” will necessarily end up in a public registry of “enemies of the people.” At least not right after the law takes effect. The Justice Ministry will decide each person’s case individually. The ministry will take nominations from the Federal Security Service (FSB), the Interior Ministry, the Federal Bailiff Service, the Federal Tax Service, and the Prosecutor General’s Office. The bill also calls for the Russian president to issue a decree creating an interagency commission to apply the restrictions.
+Is it clear exactly whom the bill will be used against?
+It’s hard to say for certain without seeing how it’s enforced. Judging by the list of administrative offenses in the bill, the main targets are likely to be the government’s political opponents, human rights defenders, journalists working for independent outlets in exile, and other public critics of the authorities.
+State Duma Speaker Vyacheslav Volodin’s rhetoric points the same way. At the July 22 session, he found time to call the people who might end up on the list “degenerates,” “traitors to the motherland,” “scoundrels,” and a string of other names.
+But in principle, anyone who has left the country and been convicted in absentia in a Russian criminal case could suit the Justice Ministry’s purposes — especially if the security services ask.
+What restrictive measures will be imposed on them?
+The bill sets out a wide range of restrictions and bans designed to force people back to Russia to face punishment — the alternative being “civil death.” For example:
+- A freeze on all assets, including money in Russian banks
+- The transfer of all income into a special account
+A special account is a ruble-denominated account at an authorized bank. It can be opened in the name of a person on the Prosecutor General’s Office list — without that person’s knowledge or consent. All transfers from the state and from individuals and legal entities will go into it.
+The bill’s authors modeled it on the special accounts introduced for “foreign agents.” The authors also specified that if someone on the list already has a “foreign agent” special account, no new one needs to be opened.
+The money in the account can be used for two things only: paying whatever the state claims — “sums collected into the budgets of the Russian Federation’s budget system” — and monthly humanitarian allowances for close relatives who have no income of their own.
+- A ban on selling real estate and vehicles
+- A ban on transactions by power of attorney
+- A ban on using Gosuslugi, the government services portal
+- A ban on internet banking — at least for money transfers
+- A ban on certain consular services
+- A ban on registering individuals as individual entrepreneurs;
+- A ban on registering an individual with the tax authorities as a taxpayer under the special tax regime known as the “professional income tax” (Russia’s self-employment tax);
+- Returning an application for state cadastral registration of real estate and/or state registration of property rights — along with the documents attached to that application — without review, as provided for under Federal Law No. 218-FZ, “On State Registration of Real Estate,” dated July 13, 2015 (this is new wording);
+- Restrictions on an individual’s right to drive a motor vehicle, as granted under Federal Law No. 196-FZ, “On Road Traffic Safety,” dated December 10, 1995;
+- A ban on state registration of vehicles under the procedure established by Federal Law No. 283-FZ, “On the State Registration of Vehicles in the Russian Federation and Amendments to Certain Legislative Acts of the Russian Federation,” dated August 3, 2018;
+- Denial of the right to enter into a credit agreement or a loan agreement;
+- Denial of state and municipal services in electronic form;
+- Denial of new licenses (permits, accreditations) and suspension of previously issued ones;
+- A ban on credit institutions providing such an individual with access to their software (including mobile applications and official websites on the internet) for making money transfers (the wording was also changed here);
+- Freezing (blocking) of funds and other property, except in cases provided for under Articles 9 and 10 of this Federal Law;
+- Restrictions on performing consular functions — as provided for under Clauses 3 through 5 of Part 1 of Article 18; Part 2 of Article 20; Articles 21 and 22; Clause 1 (regarding state registration of marriage and name changes) and Clause 2 of Article 25; Clauses 1 through 4, 6 through 11, and 13 of Part 1 of Article 26; and Articles 27 and 28 of Federal Law No. 154-FZ, “The Consular Charter of the Russian Federation,” dated July 5, 2010 — with respect to such an individual or at that individual’s request;
+- Denial of notarial services on behalf of an individual, except for notarial actions performed by consular officials as provided for under Clauses 8 and 18 of Part One of Article 38 of the Fundamentals of Russian Federation Legislation on Notaries, dated February 11, 1993, No. 4462-1;
+- A ban on entering into transactions on an individual’s behalf, or taking other legally significant actions in that individual’s interest, under a power of attorney;
+- A ban on an individual’s use of an electronic signature to sign electronic documents, a ban on issuing that individual a qualified electronic signature verification key certificate, and invalidation of any qualified electronic signature verification key certificate previously issued to that individual.
+Does this apply only to Russians?
+No. On paper, the “temporary restrictive measures” are designed to cover anyone, including foreign nationals. But most of the restrictions, like the ban on certain consular services, will create problems only for Russians.
+Consulates will not accept applications from people the bill calls “evaders” seeking to:
+- renounce Russian citizenship;
+- obtain a new foreign-travel passport;
+- marry;
+- change their name;
+- legalize foreign official documents;
+- or request personal records — of a marriage, employment, or education, for instance.
+Consulates will not perform any notarial acts, except for:
+- certifying that a citizen is alive;
+- certifying that the signature of a person with a visual impairment matches a facsimile of that signature.
+If a Russian citizen is detained, arrested, or imprisoned, consular officials:
+- will not try to visit them;
+- will not provide legal assistance;
+- will not help deliver letters or parcels.
+And if a Russian citizen is stranded abroad without money, consular officials will not help them contact relatives or acquaintances.
+Why are these measures called temporary?
+Because they can be lifted if a person:
+- comes to Russia;
+- gets the conviction or the administrative penalty overturned remotely;
+- or complies with the court’s ruling remotely.
+The last point is easiest to show with administrative offenses. All of them are punishable solely by a fine. In most cases, the offender will have to pay 30,000 to 50,000 rubles. Or more, if the person has committed several offenses.
+So for “foreign agents” and members of “undesirable organizations” facing only administrative fines, getting off the list should be relatively easy — in theory. How it will work in practice, we don’t know.
+What should Russians do if they’re at risk of ending up in the new registry?
+At a minimum, get a second foreign-travel passport, and sell off major assets in Russia — cars, real estate — if they can. Better yet, they should talk to a lawyer first and get a proper assessment of their risks.
+But there isn’t much time left. The Federation Council has 14 days to review the bill. After that, the president has another 14 days to sign it. In all likelihood, though, it will happen much faster. The law will take effect the day it’s officially published — probably before the end of the summer.
 
 ====================================================================================================
 
-Texas crime rate continues to drop, with McAllen seeing its lowest levels in decades
+Trump will not block Tate brothers’ extradition: White House
 Unknown
 Unknown Publisher
 2026-07-23
-21:53:02 UTC
-06:53:02 KST
+22:45:00 UTC
+07:45:00 KST
 
-Texas crime rate continues to drop, with McAllen seeing its lowest levels in decades
-In 2019, a historic theater’s marquee in McAllen’s downtown district once lauded, “Welcome to McAllen, 7th Safest city in America.”
-The theater placed the message front and center ahead of a visit from President Donald Trump during his first term in office, using it to dispute the narrative at the time that the border was a dangerous place. The ranking itself came from a 2015 study by Smart Asset, a financial technology website.
-Now, 10 years after that report, McAllen is highlighting its crime rate again — this time, celebrating its lowest crime levels in 40 years.
-But McAllen is not unique. The decline in crime here is in line with a national and statewide trend that’s been ongoing for years.
-Crime in Texas has been decreasing since 2023, according to Uniform Crime Reporting Data released by the Texas Department of Public Safety. In the last five years, crime in Texas peaked in 2022 — with a rate of 2,830.14 per 100,000 people — before trending downward.
-Between 2022 and 2023, the state’s crime rate decreased by 3.3%, and between 2023 and 2024, the crime rate dropped another 8.2%. Then, between 2024 and 2025, Texas’ crime rate decreased by 13%.
-McAllen, the second-largest city in the Rio Grande Valley with 151,000 people, reported a 21% drop in 2025. Brownsville, the Valley’s largest city with 193,000 people, also had a 21% drop in crime in 2025.
-“We’ve been decreasing crime on a fairly consistent basis,” said McAllen Police Chief Victor Rodriguez.
-He credited the crime rate drop on the city’s population growth, an engaged community that reports potential crimes to the police and elected officials who prioritize public safety funding, enabling the department to maintain two officers per 1,000 people.
-Rodriguez also suggested that heightened immigration enforcement under Trump’s second term may have played a role in driving down crime.
-“That saturation of law enforcement authorities in this part of the country also help us, I think, maintain a lower crime rate in this part of the country, in this part of the state, and for McAllen as well,” Rodriguez said.
-ICE presence might have played a role, but it might not have driven down crime as much as it could have created fear in reporting it. However, it is still too soon to know, experts said.
-McAllen and the state of Texas are not outliers, but part of a broad national trend, said Alex del Carmen, a former criminologist with the Dallas Police Department and current dean at Westfield State University in Massachusetts.
-Homicides across major U.S. cities fell by about 21% between 2024 and 2025 and are down 44% from the peak in 2021, del Carmen said.
-“Texas is riding that same wave,” he said.
-The declining crime rate occurred in places with and without active immigration enforcement, said Thomas Abt, founding director of the Center for the Study and Practice of Violence Reduction.
-“I haven’t seen any hard evidence that suggests that aggressive immigration enforcement has any effect on crime, positive or negative,” Abt said. “Part of it is that it’s too soon to know. It takes time for research to come out.”
-However, research shows that immigrants are, on average, less likely than U.S. citizens to commit crimes, del Carmen and Abt said.
-“That doesn’t mean that there aren’t immigrants out there who are engaged in crimes,” Abt said. “But if you look at immigrant populations, as a whole, you’ll see that they commit less offenses, and you’ll also see that cities that have higher populations of immigrants often have lower crime rates.”
-Studies using Texas’ own arrest and conviction data, del Carmen said, consistently find that immigrants, including undocumented immigrants, are not responsible for the majority of the crimes that take place in the U.S.
-Less reporting may be part of the drop
-There is a legitimate concern that the decline in crime could be, at least partially, attributed to fear of reporting crimes among immigrant communities.
-After the Immigration and Customs Enforcement launched a program to identify immigrants in local jails in 2008, known as Secure Communities, Hispanic victims were about 30% less likely to report crimes to police. And that effect extended to citizens, not just the undocumented, del Carmen said.
-More recently, he added, surveys of foreign-born Latinos found 16% have avoided calling police or reporting a crime for fear of being questioned about their legal status, and police chiefs in Los Angeles and Houston have publicly attributed drops in crime reports from Latino residents to deportation fear.
-Still, fear of reporting cannot account for all of the decline as homicide numbers, which are less subject to reporting bias, are also going down.
-The most serious offenses tend to be the most reliable because there is typically more evidence available, Abt said. If a homicide occurs, undeniable evidence typically comes with it which is the remains of the victim.
-”We have extremely reliable data on how many homicides we have,” he said. “We also have fairly reliable data on serious assaults and shootings, because people have to go to the hospital, and we can access those records.”
-On the other end of the spectrum, the number of shoplifting or drug offenses are largely a function of how much attention law enforcement is paying to those things.
-An example of that is during the pandemic, there were reports and anecdotal evidence of a massive increase in shoplifting and disorder that didn’t ultimately show up in data.
-“Does that mean that it didn’t happen or does it mean that a lot of stores were just so discouraged that they stopped reporting it?” he said.
-Back to normal
-Instead, the drop in crime rate could just be a return to normal following a spike in crime that occurred across the country in 2020 and 2021.
-In 2020, during the height of the COVID-19 pandemic, the closure of businesses and public gatherings could have created a recipe for social disruption. That was further fueled by the killing of George Floyd in Minneapolis by a white police officer, which prompted mass anti-police protests.
-Additionally, Americans bought a record number of firearms in 2020, with first-time gun owners accounting for 40% of buyers
-In the wake of the crime surge, Abt said there was a fractured view of criminal justice across the country, with many on the political right favoring aggressive law enforcement and many on the left wanting to de-emphasize or even defund the police.
-“Neither of those extremes was particularly helpful,” Abt said.
-What emerged, instead, was what he believed to be a more sensible approach. With the help of federal funding under President Joe Biden, cities returned to a balanced approach to fighting crime, investing in both law enforcement and in community groups.
-“A more sensible center was created that said, ‘Look, we need cops, we need communities, and we need them to work together,’” he said.
-In Texas specifically, del Carmen said, about 70% of statewide violent crime volume is concentrated in the most populated 25 jurisdictions. So when cities like Houston, San Antonio, and Dallas invest in hot-spot policing and violent crime reduction plans, the statewide numbers move.
-“The honest answer is that no single actor gets to claim credit,” del Carmen said. “Declines this broad, occurring simultaneously in cities with very different policies, tell us structural and post-pandemic forces are doing much of the work.”
-___
-Reporting in the Rio Grande Valley is supported in part by the Methodist Healthcare Ministries of South Texas, Inc.
-___
-This story was originally published by The Texas Tribune and distributed through a partnership with The Associated Press.
+Trump will not block Tate brothers’ extradition: White House
+- US President Trump will not intervene to stop the extradition of Andrew and Tristan Tate to Britain on sex crime charges.
+- The Tate brothers face 59 charges including rape, sex trafficking, and assault, and their lawyer claims the case is politically motivated.
+- Congresswoman Yassamin Ansari called for an investigation into possible improper interference by Trump administration officials in the case.
+AI generated
+WASHINGTON – US President Donald Trump will not stop the extradition of influencer Andrew Tate and his brother Tristan to Britain on sex crime charges, the White House said on July 23.
+Self-professed misogynist Tate and his younger sibling were detained by US authorities in Miami on July 18 in a move their lawyer called “politically motivated”.
+The Tates are challenging their extradition.
+“No,” White House Press Secretary Karoline Leavitt told a news briefing when asked if Trump or the administration planned to intervene in the Tates’ extradition process.
+Secretary of State Marco Rubio has also distanced the administration from the case.
+“There’s no role for us to play at this moment or maybe ever in that regard,” he told reporters in the Philippines on July 22.
+The Tate brothers are avid supporters of Trump and were part of the hypermasculine “manosphere” that contributed to the Republican’s 2024 US presidential election victory.
+Andrew Tate also tried to cultivate relationships in the past with Trump’s sons Don Jr and Barron, US media reported.
+The Tates were arrested after British prosecutors announced new charges of rape, sex trafficking and assault. They now face 59 charges in total – 42 against Andrew and 17 against Tristan.
+Their lawyer said on July 20 that they were innocent and would fight extradition.
+“It’s politically motivated. There’s no question about it,” lawyer Joseph McBride told reporters outside a Miami court after a hearing on the case.
+In Romania, where they have been based in recent years, the Tates face allegations of trafficking minors, sexual intercourse with a minor and money laundering.
+In March 2025, the US state of Florida launched a criminal investigation into the brothers. The status of that investigation is unclear.
+Congresswoman Yassamin Ansari, a Democrat from Arizona, called for a probe into whether Trump administration officials, congressional offices or people close to the President improperly intervened to protect the Tates.
+“No individual – regardless of wealth, political party, or access to the first family and the president – is above the law or beyond the reach of justice,” she wrote in a letter to House Oversight Chairman James Comer. AFP
 
 ====================================================================================================
 
