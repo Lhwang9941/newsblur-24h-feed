@@ -1,72 +1,94 @@
-How China is using film diplomacy to project a better image across Africa
+What is a supernode, and why does it matter for the China-US tech rivalry?
 Unknown
 Unknown Publisher
 2026-07-25
-11:00:08 UTC
-20:00:08 KST
+13:00:08 UTC
+22:00:08 KST
 
-How China is using film diplomacy to project a better image across Africa
-From Burundi to Kenya to Morocco, film screenings, co-productions and cultural exchanges are helping to shape a new frontier of influence
-The Chinese embassy in Bujumbura, the economic capital of Burundi, said the July 15 event offered “a beautiful example of cultural exchanges between the two countries” and that both sides were determined to “make cinema a vehicle for Sino-Burundian friendship”.
-Zhu Kewei, China’s ambassador to the East African country, called cinema “a force capable of bridging language barriers, borders and cultures”, adding that “film carries a nation’s historical memories, cultural traditions, values and the emotions of its people”.
-In addition to the film screenings, China and Burundi plan to expand cooperation through creator exchanges, artist mobility, university partnerships, co-productions and skills transfer.
-As part of the China-Africa Year of Human and Cultural Exchanges, the festival in Burundi lined up seven Chinese films, including The Wandering Earth II, Changan and The Snow Leopard.
+Advertisement
+What is a supernode, and why does it matter for the China-US tech rivalry?
+Tech firms are racing to build colossal clusters for next-gen AI, but cost, power and scale remain challenges
+3-MIN READ3-MIN
+As the size of artificial intelligence models expands beyond 1 trillion parameters, a new concept is dominating the computing landscape: “supernode”.
+At this year’s World Artificial Intelligence Conference (WAIC), China’s top AI summit, domestic chipmakers from Huawei Technologies to Biren Technology showcased new hardware designed to knit hundreds or thousands of chips together to act as one giant supercomputer, which they called a supernode.
+The focus on supernodes at WAIC reflected a shift in competition across China’s AI computing ecosystem – away from stand-alone chip specifications and towards “interconnects, memory sharing, and system reliability”, Morgan Stanley analysts said in a research note on Tuesday.
+But can supernodes immediately address China’s AI computing power bottleneck?
+What is a supernode?
+“People think putting enough GPUs [graphics processing units] together makes a supernode, which is definitely not the case,” said Chen Daliang, CEO of Suanova, a Shanghai-based AI computing resources provider and a subsidiary of Hong Kong-listed Yeebo Technology.
+Advertisement
+Select Voice
+Select Speed
+1.00x
 
 ====================================================================================================
 
-Pentagon spends $333 million to keep fighter pilots’ helmets combat ready
+The farce of Trump’s nuclear deal with Saudi Arabia
 Unknown
 Unknown Publisher
 2026-07-25
-10:57:38 UTC
-19:57:38 KST
+13:00:00 UTC
+22:00:00 KST
 
-- The U.S. Defense Logistics Agency awarded Rockwell Collins ESA Vision Systems an estimated $332,623,964 contract for Joint Helmet Mounted Cueing System spares and repairs.
-- The six-year contract covers F-15, F-16 and F-18 aircraft for the Air Force, Navy and 13 allied nations, running through July 23, 2032.
-The U.S. Defense Logistics Agency awarded Rockwell Collins ESA Vision Systems, a Fort Worth, Texas company, an estimated $333 million contract to supply spare parts and repair services for the Joint Helmet Mounted Cueing System, a fighter pilot’s helmet that doubles as a targeting computer.
-The system, known in defense circles by its acronym JHMCS, tracks exactly where a pilot’s head is pointed and projects targeting information directly onto the visor, letting the pilot lock a missile onto an enemy jet simply by looking at it rather than pointing the entire aircraft’s nose at the threat first.
-Paired with the AIM-9X Sidewinder missile, that capability lets a pilot engage targets in a cone stretching more than 80 degrees to either side of the aircraft’s nose, a technique the military calls high off-boresight targeting. In plain terms, a pilot can shoot at something well off to the side of where the jet is actually flying, a battlefield edge that has mattered in close-in dogfights for more than two decades.
-Rockwell Collins ESA Vision Systems is not a household name, but the joint venture behind it certainly is. The company pairs Collins Aerospace, the aerospace and defense electronics arm of RTX, with Elbit Systems of America, the U.S. subsidiary of the Israeli defense technology firm Elbit Systems, and the partnership has built and supported Joint Helmet Mounted Cueing Systems since 1996. Over that span the venture has delivered thousands of these helmet displays to more than 20 air forces worldwide and now serves as the current provider for the F-35’s own advanced helmet display system, giving the company deep institutional knowledge of exactly the kind of parts and repair work this new contract covers.
-This new award covers what the Pentagon calls consumable spares, meaning parts that get used up and replaced during routine maintenance, along with what the contract terms depot-level reparable spares, the more expensive components that get sent back to a repair depot and fixed rather than simply thrown away and replaced. Both categories keep JHMCS units flying on three of the U.S. military’s workhorse fighters, the F-15 Eagle, the F-16 Fighting Falcon, and the F/A-18 Hornet, aircraft that together form the backbone of American and allied tactical airpower even as newer stealth fighters like the F-35 enter service alongside them.
-The Defense Logistics Agency structured this as a sole-source acquisition, meaning it awarded the work directly to Rockwell Collins ESA Vision Systems without opening the contract to competing bidders, citing a specific legal justification under federal acquisition rules that permits skipping competition when only one source can reasonably supply the parts. That makes sense given the company’s decades-long role as the sole provider of JHMCS hardware, a position that leaves the Defense Logistics Agency with little practical alternative if it wants parts that fit the helmets already worn by thousands of pilots.
-The contract runs as a six-year base period with an additional six-month option, stretching performance out to a completion date of July 23, 2032, and the work will happen at sites in Texas, Oregon and Israel, a footprint that reflects both Rockwell Collins ESA Vision Systems’ domestic operations and Elbit Systems’ Israeli engineering base. Funding flows from fiscal year 2026 through fiscal year 2032 defense working capital funds along with military service and Foreign Military Sales funds, spreading the financial burden across the Air Force, the Navy, and a long list of allied nations that also fly JHMCS-equipped fighters.
-That international customer list is itself a snapshot of how widely this American helmet technology has spread. The contract names Greece, Morocco, Singapore, Chile, Denmark, Norway, Thailand, Oman, Taiwan, Portugal, Canada, Switzerland and Australia as Foreign Military Sales customers who will draw on this same contract for their own JHMCS spares and repairs, meaning a single supply chain in Fort Worth, Texas now underpins fighter pilot readiness on nearly every continent. The Defense Logistics Agency Weapon Support office in Warner Robins, Georgia, is managing the contract on behalf of all of these customers, a level of logistical coordination that rarely makes headlines but keeps allied air forces flying missions that depend on split-second targeting decisions.
-The contract announcement does not specify how many individual helmet units or repair jobs the $332.6 million ceiling is expected to cover over its six-year span, nor does it break down how funding will be split among the Air Force, Navy and the thirteen allied nations named as customers. What is clear is that a technology first fielded more than two decades ago, one that lets a pilot kill a target simply by turning their head, remains central enough to modern air combat that keeping it supplied and repaired is worth a nine-figure Pentagon commitment stretching into the next decade, a reminder that some of the most consequential pieces of military hardware are not the jets themselves but the gear strapped to the pilot’s own head.
+On July 22, the Trump Administration and Saudi Arabia signed an agreement for the U.S. to provide the Saudis with nuclear material and equipment for a civilian nuclear program.
+In announcing the signing, U.S. Energy Secretary Chris Wright said, “Rest assured, these agreements uphold the highest standards of nuclear safety and nonproliferation, while relying on the world’s best nuclear technology and scientists, designed right here in the United States.”
+That is a blatant lie.
+The agreement, as signed, was dangerously light on oversight, did not include restrictions that have been used with similar allies in the recent past, and gave the United States, rather than the International Atomic Energy Agency (IAEA), the ultimate responsibility for ensuring the Saudi nuclear program is not diverted to weapons manufacturing.
+It was a reckless, irresponsible deal that, even from a crass, imperial point of view, did little to serve the United States’ interests and caused significant harm to the U.S., the Middle East, and global stability.
+But then, on Thursday, U.S. President Donald Trump responded to the backlash against the deal from the pro-Israel far right by claiming that the entire deal is dependent on Saudi Arabia normalizing relations with Israel.
+When asked if Trump had discussed the new condition about Israel with Saudi Crown Prince Mohammed in Salman, White House Press Secretary Karoline Leavitt said, “As you know, the president just put out this statement a few hours ago. I don’t believe he’s had a call with MBS in the hours since.”
+For any other president, that would be unthinkable. Based on both Trump’s and Leavitt’s statements, it is clear that, as reported, Israel was not part of this negotiation, and Trump tried to add it by decree after getting backlash on the deal from pro-Israel quarters.
+Even for Trump, it is utterly stunning that he didn’t even think about how his Israel-hawk supporters and allies in Tel Aviv would think of this deal.
+In practice, if Trump insists on this condition, the deal will die. The Saudis have been very clear that the price for normalization is a verifiable path to a Palestinian state. Israel is not going to agree to that, and the U.S. is clearly not about to insist on it.
+But even if the deal dies, this will have had a significant impact on geopolitics in the Gulf and beyond.
+The danger of a nuclear Saudi Arabia
+The purpose of the Nuclear Non-Proliferation Treaty (NPT) is to allow for the civilian use of nuclear power without expanding the already too high number of countries that have nuclear weapons. One, as we have seen from the fact that the first country to get a nuclear weapon is still the only one that’s been barbaric enough to use it, is already too many.
+But Saudi Arabia is particularly dangerous in this regard. This is a country that has violently tried to assert its dominance well beyond its own borders and is a brutal dictatorship.
+Worse, it has repeatedly expressed a desire to acquire a nuclear weapon if Iran got one. For decades, Riyadh, as much as Israel, has stoked the anti-Iran hysteria that has been a driving force in policymaking in Washington.
+As a result of the current war, Iran has a powerful deterrent in its control over the Strait of Hormuz. In many ways, that deterrent is superior to a nuclear deterrent. It’s cheaper, it cannot be taken away, and it is a threat on a global scale, while also being one that is much easier to reverse than dropping a nuclear bomb if the deterrent “bluff” is called.
+That’s a severe strategic disadvantage for Saudi Arabia, whether it rebuilds a relationship with Iran or not. Nothing Saudi Arabia can do can directly counter that deterrent power, but a Saudi nuclear weapon would create a counter-deterrent of equal power.
+It is worth noting that the UAE, which, in 2009, was less territorially ambitious than it is today, was willing to accept the IAEA’s Additional Protocol, allowing for more than the usual intrusive inspections of nuclear sites, a layer of insurance that makes it extremely difficult to keep clandestine nuclear activity hidden. Iran, as well, signed the Additional Protocol, and, while it never ratified it, it did voluntarily follow the terms of the Protocol from 2003-2006 and again under the JCPOA.
+Saudi Arabia, however, has steadfastly refused to agree to the Additional Protocol, which reinforces concerns that it wants to at least hold open the option of a weapons program.
+Israel and Iran
+While Iran did not react with much alarm to the idea of a civilian Saudi nuclear program, Israel did. And Iran surely would react much more strongly if it suspected the Saudis were ready to start a weapons program under American auspices.
+Even the suspicion of such a program could lead to another war. Israel is certainly not going to simply watch any Arab country, no matter how seemingly friendly, even start on the path toward a nuclear program. It would risk the ultimate trump card they hold as the region’s only nuclear power.
+Any Israeli action against a Saudi nuclear program risks the Israelis being forced to acknowledge their own nuclear arsenal, which, despite its being perhaps the worst-kept secret on the planet, is likely to greatly magnify pressure on them to give up those weapons.
+If the U.S. simply ignored Israeli concerns about this, it is certain that Israel would have taken clandestine action against it, perhaps including sabotage and assassinations, as it has in Iran, greatly increasing tensions between U.S. allies that Washington is working hard to diminish.
+Someone probably explained this to Trump after the agreement was signed, which would explain why he suddenly added the poison pill condition of normalization to the deal.
+But Israel would not be the only country with serious concerns. Virtually every country in the region, regardless of its relationship with Riyadh, which has sufficient technical and human resources, would likely pursue its own nuclear program rather than sit idly by and watch Saudi Arabia potentially move toward becoming a nuclear power.
+Beyond the nightmare that such a nuclear arms race in the Middle East would represent, there is a more immediate result, one that will not be mitigated if this U.S.-Saudi deal falls apart: the current war in the Strait of Hormuz.
+As difficult as it is to envision an end to this war right now, Trump’s agreement with Saudi Arabia makes it even more difficult.
+To fully end the state of war, Iran’s own nuclear program would have to be resolved in some way. Iran already made it clear it would not agree to give up the ability to enrich uranium on its own soil, but, thus far, it has not publicly changed its position that it has no desire to acquire a nuclear weapon.
+Clearly, in the wake of this agreement with Saudi Arabia, whether it holds or not, zero enrichment is even farther off the table. But now Trump’s willingness to abandon both that and any but the most basic oversight of Saudi Arabia by the IAEA will push the Additional Protocol off the table as well.
+Until now, it was reasonable to hope that Iran, if the two sneak attacks by the U.S. and Israel hadn’t made it change its mind, would still agree to open its nuclear sites to the IAEA to reassure the world that its use of nuclear power was entirely peaceful. That is no longer the case. After the U.S. offer to Riyadh, Tehran is more likely to see this issue in terms of fairness and its unassailable sovereign rights, rather than as a gesture to resolve a contentious issue.
+It’s possible that Iran might still be willing to make some kind of agreement on its nuclear capabilities, but Trump just made that a lot less likely and a lot more difficult. That means ending this war also becomes less likely and more difficult.
+What is motivating this deal?
+Trump envisioned this deal as a public-private partnership, one where American corporations would reap enormous revenue from Saudi construction of numerous nuclear plants. Aside from whatever details he had worked into the deal that would personally benefit him or his family, the deal isn’t much different from the one that Joe Biden was trying to nail down with the Saudis before the October 7 attacks put paid to those plans.
+Beyond the profit motive, there is a certain geo-strategic thinking behind this deal, one that reflects the short-sighted views of foreign policy thinkers in both parties.
+Saudi Arabia has been losing faith for years in its security partnership with the United States. As I’ve often noted, this has led the Saudis to look toward a regional security network that could reduce their military dependence on the U.S. militarily.
+Beyond the direct defense aspects, the Saudis have every reason to diversify the benefits they derive from great-power alliances. There has long been a fear in Washington that if the United States does not partner with Saudi Arabia on a civilian nuclear program, China or Russia will.
+Saudi Arabia has a good relationship with China, and the U.S. sees that in zero-sum terms; any growing warmth between Saudi Arabia or any U.S. ally and China is a loss for the United States in their eyes.
+For some American observers, it is safer to give Saudi Arabia the kind of nuclear deal it wants than to risk their finding that deal with China or Russia.
+Jennifer T. Gordon, of the Democratic-aligned, centrist Atlantic Council, said of the deal that “A 123 agreement between the United States and Saudi Arabia is … a victory for the US-led global nonproliferation regime. Saudi Arabia has made it clear that it will purchase nuclear energy technologies and begin a civil nuclear program; the only question has been whether the kingdom would choose to work with the US and its allies, or whether it would turn to Russia or China.”
+Twisting this deal into a victory for nonproliferation is a remarkable feat of mental gymnastics. And, while it is true that if the U.S. didn’t work with the Saudis, China likely would have, there is no reason to believe that Washington would be a more effective guarantor that a Saudi nuclear program would not be weaponized than Beijing.
+Indeed, Russia and, especially, China would be just as concerned about the Saudis getting a nuclear weapon as the U.S. It’s worth recalling that both countries worked with the United States to secure the JCPOA and have consistently expressed opposition to an Iranian nuclear weapon.
+The gain for U.S. planners is not in non-proliferation but in preventing the Saudis from growing even closer to China than they already are.
+But Trump, due to his desire to act as if the president of the United States has the power of a dictator and his monumental ignorance of world affairs, has now incentivized Saudi Arabia to turn to China anyway.
+By once again demonstrating how unreliable and capricious the United States is, he has created a situation where either Riyadh will turn to China or it will exact even more concessions from Trump not to do so, all while continuing to deprive him of the normalization deal that he, and his predecessor wanted.
+Mitchell Plitnick
+Mitchell Plitnick is the president of ReThinking Foreign Policy. He is the co-author of Except for Palestine: The Limits of Progressive Politics and maintains the Cutting Through newsletter.
 
 ====================================================================================================
 
-A trip to the 'boy aquarium': Discovering Israel's thriving hockey scene
+Record-breaking wildfires burned nearly 100,000 hectares in France, interior minister says
 Unknown
 Unknown Publisher
 2026-07-25
-10:52:35 UTC
-19:52:35 KST
+12:59:57 UTC
+21:59:57 KST
 
-Several months ago, I, like many others, bought into the hockey show hype, and since then, my social media feed slowly shifted to… real hockey.
-Before I knew it, I found myself on the edge of my seat following actual National Hockey League games, learning about stats and trades, and for the first time in my life, I was kind of enjoying watching a sport.
-So when I learned that Israel has its own hockey league, I knew what I had to do.
-The Jerusalem Post was going to the boy aquarium, and I was going to get us there.
-I’ll admit, I was quite nervous to meet Isaac Levy, a prominent figure in Israel’s hockey scene and the captain of the Jerusalem Capitals, but Levy - and the entire Israel Elite Hockey League - welcomed me with open arms as their newest fan.
-The craziest thing is: the hockey is good. Like, it's really good
-Despite going hard on the ice, Israel’s greatest hockey players are all good friends when off it, and Levy actually rooms with Maverick Cortes, a defenseman for Tel Aviv’s team, the aptly-named Hockey Club Tel Aviv, who joined us for a quick chat before the season began.
-After the pair confirmed they had not seen Heated Rivalry - though they did share their respect for anything that encourages diversity in sports - the two explained how they ended up in Israel.
-“I was born in Israel but grew up in Canada,” Levy said. “When I was about 15, I was recruited to play for Israel’s national team because I have dual citizenship. I’ve played for Israel ever since, from the U18s all the way to the senior national team for more than 20 years.”
-“I grew up in Denver, Colorado,” Cortes added. “I always heard about Israel growing up, went to Jewish school, had my bar mitzvah here, and loved it. A few years later, I was scrolling through Instagram and found the league. I thought, ‘This is perfect.’ It combines hockey with my connection to Israel.”
-Cortes and Levy are prime examples of the people that the league is looking for: high-level players from abroad with a connection to Israel, combining a love of both the game and the country.
-Levy took his love for both Israel and hockey to another level, finding love here and working alongside his brother to open Ashdod’s Blue Ice Arena, where the southern division competes.
-The league was formed about five years ago, and has already grown from four teams to eight, with a northern and southern division.
-The craziest thing is: The hockey is good. Like, it’s really good.
-Like a tournament, with a giant trophy and bragging rights
-Israel's hockey season is more like a tournament, with games happening one after the other until one can be crowned the winner, complete with a giant trophy and bragging rights in the group chat.
-The Jerusalem Post’s breaking news desk was honored to be invited to the opening game, to watch Jerusalem’s Capitals - for whom we were practically contractually obligated to cheer - take on the Ashdod Dolphins.
-I’ll admit, this was the first time I’ve ever watched a sports game of any kind in my adult life, and I could not believe how much fun it was. Unlike with major league sports, Israel’s players have more than just respect for each other; there’s real love there.
-Each pass, save, and goal was met with cheers and hugs as if they’d won the Stanley Cup.
-Our group was on the edge of our seats the whole time as the teams went into a first, and then a second overtime. Seriously, we hadn’t realized sports could have such drama.
-A sudden death shootout? With knives taped to their feet? Immediately obsessed.
-In the end, Ashdod clinched it, but we didn’t leave with any real feelings of loss. Sure, we were a little upset that our home team had lost, but even in defeat, our group was already making plans to come back - or at least catch a livestream.
-What struck me most, though, was that as the final buzzer neared, we saw players from other teams watching from the sidelines, on their feet, cheering for their friends on both sides of the ice.
-By the end of the night, no one seemed to care for whom they were supposed to be rooting. It was the kind of thing that made it obvious this isn’t a league built on rivalries - heated or otherwise - so much as it’s built on camaraderie, and people who genuinely love the game and love each other.
-Our trip to the boy aquarium was better than we could’ve imagined, proving that you can find genuine, ice-taped-knives-and-all sports drama right here at home. Consider me a Capitals fan for life - shootout losses and all.
+PARIS — France is deploying military planes and getting help from other EU countries in the fight against the worst wave of wildfires in the country's recent history.
+At the same time, Spain is also faced with massive wildfires in the area of the country close to Madrid.
+"It is an historic record," Interior Minister Laurent Nuñez told reporters on Saturday, announcing that almost 98,000 hectares have burned since the beginning of the year.
 
 ====================================================================================================
 
