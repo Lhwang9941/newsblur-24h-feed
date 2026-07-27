@@ -1,82 +1,77 @@
-'Abandoning values': Yoaz Hendel accuses Religious Zionist Party of encouraging mass draft evasion
+Robotics firm unveils tech to turn ground robots into drone bases
 Unknown
 Unknown Publisher
 2026-07-27
-16:04:44 UTC
-01:04:44 KST
+18:13:54 UTC
+03:13:54 KST
 
-Former Likud minister and Reservists Party Chairman Yoaz Hendel told 103FM on Monday that Bezalel Smotrich's Religious Zionist Party leadership is abandoning Zionist values and enabling mass draft evasion, one day after the party held its primaries.
-In an interview with Amichai Atali and Ilil Shahar, Hendel sharply criticized the party’s leaders for prioritizing their partnership with the haredi parties. He also outlined his vision for a broad Zionist government that would not depend on either haredi or Arab parties.
-“This is a list whose leaders have never experienced the army in their lives,” Hendel said. “They never stood eight hours on, eight hours off in a pillbox, at a post or in a defensive position, and that is the truth. The most painful truth is that, at the moment of truth, during wartime, they chose to support the haredi parties and political operatives.”
-According to Hendel, that support was reflected in the distribution of government positions and the transfer of budgets that encourage avoidance of military service. He also criticized legislation advanced by the coalition, which he described as “a draft-evasion law and a law that disgraces the Torah.”
-“In politics, apparently, everything is permitted, but in the moral, ethical and Jewish world, it cannot be that someone who calls himself ‘Religious Zionism’ encourages mass draft evasion,” he said. “The Religious Zionist Party, the party, not the admirable community, is causing a catastrophe and a disgrace during wartime. They support anti-Zionist legislation and are preventing us from winning the war.”
-A Zionist government without haredi or Arab parties
-Hendel, who said he had completed more than 560 days of reserve duty, argued that Zionist values were not limited to settlement in the West Bank.
-Zionism, he said, also meant “settlement in Kiryat Shmona, in the North, in the Gaza border communities and in the Jordan Valley,” alongside a commitment to prevent reservists from across the country from being “ground down for hundreds of days.”
-He warned that continued political dependence on the haredi parties could eventually damage the fabric of life in Israel.
-“We will reach a situation in which there is a non-Zionist majority, and we will break apart into autonomous regions,” he said.
-Hendel later presented his party’s platform, emphasizing that it combines right-wing positions on settlement and the judicial system with a demand for shared national service.
-“We support settlement, reforms to the judicial system and, at the same time, enlistment in the army,” he said. “The most basic thing is that every Israeli citizen, Jewish, Arab, haredi (ultra-Orthodox), secular, left-wing or right-wing, should do something for his country.”
-Hendel also criticized the involvement of elected officials who do not serve in the military in decisions concerning wartime operations.
-“It does not seem reasonable to me that Goldknopf sits there and makes decisions about whether I will risk my life, when he does not know what it means to fear a phone call in the middle of the night,” he said.
-Asked about the political deadlock reflected in opinion polls and the difficulty of forming a coalition without the Likud under Netanyahu or without Arab parties, Hendel rejected renewed reliance on Ra’am, despite having previously served in a government in which the party was a coalition partner.
-“In the government I saw up close with Mansour Abbas, the moment a military operation began, Ra’am suspended its participation in the coalition for several days,” he said. “I do not think a coalition can be formed with non-Zionist parties, Arab or haredi. It did not work, it does not work during wartime, and it will not work.”
-Hendel was equally unequivocal regarding Prime Minister Benjamin Netanyahu.
-“Netanyahu needs to go home,” he said.
-According to Hendel, the way out of Israel’s political impasse is to create a new Zionist political force capable of holding the balance of power.
-“We are the solution to the reality in which we are stuck, and we will recommend a candidate for prime minister who can bring together as many Zionist mandates as possible,” he concluded. “Without us, we will reach another stalemate, because that is what happened in the last five elections.”
+- Target Arm Inc. announced on July 27, 2026 that its Ralar 2 system now integrates with HDT Global's Hunter WOLF and WOLF-X unmanned ground vehicles.
+- The combined system lets certified drones launch, land, recharge, and relaunch from moving vehicles without a human pilot present.
+Robotics company Target Arm Inc. said this week that its drone launch and recovery system has been integrated with unmanned ground vehicles built by HDT Global, a manufacturer of rugged robotic platforms used in military and industrial settings.
+The company announced the integration on social media on July 27, 2026. The combination pairs HDT Global’s Hunter WOLF and WOLF-X unmanned ground vehicles, tracked robots capable of carrying equipment and operating without a human driver inside, with Target Arm’s Ralar 2 system, creating what the company describes as an autonomous mobile drone base.
+Most drones need a stationary platform to take off from and land on. A truck, a ship, or a ground vehicle typically has to stop moving, and often needs a human operator standing by, before a drone launch can happen. That requirement costs time, reduces efficiency, and raises operational risk, particularly in situations where stopping a vehicle means becoming a stationary, exposed target or losing momentum on a mission that cannot afford delays.
+According to Target Arm, its Ralar 1 and Ralar 2 systems remove that requirement. The company describes the technology as AI-assisted robotics and autonomy systems that allow certified drones to launch, land, recharge, and launch again from vehicles that remain in motion, whether on land, in the air, or at sea, without a pilot present to manage the process by hand.
+Footage released alongside the announcement show the system during a field demonstration. A technician works on equipment mounted to a tan-colored wheeled ground vehicle labeled “FURIOSA,” a low-slung robotic platform fitted with sensor and camera housings, built to move across rough terrain without a human inside directing its movement. The vehicle is compact, roughly the size of a small all-terrain machine rather than a dedicated aircraft carrier or command truck.
+Unmanned ground vehicles like the Hunter WOLF and WOLF-X have become increasingly common in military logistics and reconnaissance, valued for their ability to haul equipment, scout terrain, or carry sensor payloads into positions considered too dangerous or impractical for soldiers to occupy directly. Turning one of those vehicles into a moving drone launchpad extends that capability significantly, giving a single unmanned ground vehicle the added function of an unmanned aerial system without requiring a separate team to manage the aircraft.
+Target Arm says the technology applies broadly across sectors rather than to one battlefield use case. The company lists defense operations, public safety work such as search and rescue or surveillance, logistics and package delivery, maritime operations, and protection of critical infrastructure like power plants, pipelines, or water systems among the intended applications.
+Ground robots and aerial drones have largely operated as separate systems, requiring separate teams, separate launch procedures, and separate windows of vulnerability where a vehicle must stop and expose itself just to get a drone airborne. Collapsing that separation, allowing one machine to launch, recover, and relaunch another without stopping or needing a human hand nearby, points toward a broader shift in how autonomous systems are expected to operate together. Whether this particular combination becomes a standard part of that future, or one early attempt among several competing approaches, remains to be seen.
 
 ====================================================================================================
 
-Hundreds rally in New York City to condemn Mamdani after stabbing attacks
+French broadcaster launches housing campaign for wildfire evacuees
 Unknown
 Unknown Publisher
 2026-07-27
-16:04:32 UTC
-01:04:32 KST
+18:10:50 UTC
+03:10:50 KST
 
-Hundreds of demonstrators and community leaders converged on New York City's Upper West Side on Sunday for a "United Against Hate" rally organized by the #EndJewHatred movement. The protest targeted New York City Mayor Zohran Mamdani, holding city leadership accountable for rising crime and accusing the administration of fostering a dangerous climate for minority communities.
-The demonstration was organized in the wake of two violent stabbing attacks that occurred days earlier on Thursday afternoon, on the Upper West Side, The suspect, identified by police as 51-year-old Raul Morales, allegedly shouted "Allahu Akbar" while targeting two separate victims blocks apart, 50-year-old Moshe Yezhak Grunhaus, a Jewish man stabbed outside his synagogue near Amsterdam Avenue and West 86th Street, and Chok Sung, a 57-year-old Asian man stabbed near West 84th Street and Central Park West.
-Later that day, Morales was arrested and charged with attempted murder and assault as hate crimes after being found barricaded inside a nearby NYCHA building.
-The demonstration organizers and speakers argued that the violence was the direct result of mainstreamed rhetoric targeting Israel and Jewish residents. This friction was compounded by recent controversy surrounding Mamdani’s announcement that his administration reviewed avenues to arrest Prime Minister Benjamin Netanyahu on behalf of the International Criminal Court should he visit New York for the United Nations General Assembly in September, a move that ultimately concluded he could not legally arrest the prime minister, though he urged activists to protest him.
-Speakers and attendees at the rally denounced the mayor and local policies, claiming that public safety has eroded under soft-on-crime legislation and inflammatory political discourse. Protesters carried signs and chanted slogans, demanding accountability and structural changes.
-'Remove Mamdani, Arrest Mamdani'
-Demonstrators chanted "Remove Mamdani," "Arrest Mamdani," and "Zohran, Zohran, you can hide, we charge you with hate and crime." Posters featuring an image of the mayor with blood on his hands were displayed at the event.
-#EndJewHatred also noted that over 300 family members of 9/11 victims and more than 12,000 signatories have signed a petition urging Mayor Mamdani not to attend the 25th anniversary memorial at Ground Zero due to his rhetoric regarding Islamist extremism.
-#EndJewHatred Director Michelle Ahdoot addressed the crowd, stating "We’re here because Mayor Mamdani has blood on his hands," and adding that his obsessive focus against Western ideology and Israel is inciting violence.
-Assembly Member Michael Novakhov announced at the rally that he is formally calling on the US Department of Justice to open a civil rights investigation into New York City, New York State, and Mayor Mamdani, declaring that Jewish New Yorkers should not have to hide their identities.
-Moshe Spern, a History teacher with the United Jewish Teachers advocacy group, remarked that hatred never stops with its first target, arguing that rhetoric framing Israeli leaders as "war criminals" helped create the climate that led to the Upper West Side stabbings.
-'Mamdani is throwing gasoline on the fire' said Rabbi Weiss
-Rabbi Avi Weiss told the crowd, “A mayor of the city of New York is supposed to bring our communities together. You, Mamdani, are throwing gasoline on the fire, pitting one community against the other after that vile video; you've placed a target on the back of each and every one of us, including that attack on the West Side."
-Another protester when asked why she was there told Newsmax "I feel like we have to stand up for the United States of America and I don't want it to get so far gone that we're like why was I silent we can't be silent this man is a danger he is a charismatic man we got to give him that and he's appealing to people that are not naturally born Americans people that don't really have a connection to this country. I think Jewish people are part of the fabric of our country. I'm Catholic, and I believe that our country is first and foremost in everything we do."
-Across the street from the main demonstration, a smaller contingent of anti-Zionist Orthodox Jewish members, associated with groups like Neturei Karta, held a counter-protest, defending the mayor. Rabbi Yisroel Dovid Weiss, of Jews United Against Zionism, told CBS News New York in a live interview at the rally that “They're against Jews because of what the Zionists are doing and they think that the Jews are responsible. He is doing a job to clarify that it's not Judaism. He is doing the Jews a favor."
-Tensions boiled as protesters and counter-protesters clashed verbally and competed for space while police officers attempted to manage the crowds and keep the sidewalks clear. Amidst the shouting matches, police officers stood physically between the opposing factions to maintain order.
-Mamdani responded to the backlash on Sunday during the Dominican Parade in the Bronx. After being asked to respond by CBS reporter Ali Bowman, the mayor stated, "There's no tolerance for antisemitism in this city. We have to root out anti-semitism from across the five boroughs, and that's because this is a city that is one that has no room for hate or bigotry of any kind. And when we make criticisms of a nation state or policies, we have to remember that those are criticisms of exactly that, never of a people, never of a faith."
+Anadolu Staff
+27 July 2026•Update: 27 July 2026
+French regional broadcaster ICI Gironde has launched a solidarity initiative to help people displaced by devastating wildfires in the Gironde department by collecting offers of temporary accommodation.
+ICI Gironde announced that it is making its radio station, digital platforms and local network available to connect people willing to provide housing with authorities and humanitarian organizations assisting families displaced by the fires.
+The initiative invites individuals, businesses and local authorities able to offer an apartment, room, second home or any other type of accommodation to contact ICI Gironde by phone, WhatsApp or through its website.
+According to the broadcaster, accommodation offers will be forwarded within 24 hours to the relevant institutions, local authorities, associations and humanitarian organizations so they can be allocated quickly to people in need.
+The campaign comes as massive wildfires in southwestern France have forced about 220,000 people to evacuate, with thousands taking shelter in emergency reception centers around Bordeaux.
 
 ====================================================================================================
 
-IDF increases West Bank deployment to 26 battalions amid sharp rise in violence
+Ukraine's Zelenskyy in UK to meet new PM Burnham
 Unknown
 Unknown Publisher
 2026-07-27
-16:04:24 UTC
-01:04:24 KST
+18:10:00 UTC
+03:10:00 KST
 
-The IDF has increased its deployment across the West Bank to 26 battalions, adding two battalions amid a sharp escalation marked by Palestinian terrorist attacks and a series of violent attacks by extremist settlers, The Jerusalem Post learned Monday.
-The figure represents the number of battalions operating across the West Bank rather than a disclosed total number of soldiers. The deployment is not static, with forces routinely moved between areas according to operational assessments and changing security needs.
-It is not yet clear whether the additional deployment will remain in place throughout the summer, as the military continues to reassess a rapidly shifting situation.
-The Post was not provided with a separate breakdown of how many forces are specifically assigned to prevent attacks by extremist Israelis against Palestinians. Forces are expected to respond when they encounter violations of the law, but their distribution is determined by broader situational assessments.
-The reinforcement comes after Prime Minister Benjamin Netanyahu ordered increased troop deployments, additional checkpoints and expanded counterterrorism operations following Friday’s deadly shooting near Gilad Farm. Security forces arrested more than 70 terror suspects in operations across the West Bank the following day.
-Confrontations, shootings, Israelis and Palestinians dead
-Friday’s incident began when a group of Israeli civilians entered Palestinian Authority-controlled territory near the village of Tal without coordinating with the military, according to the IDF.
-A confrontation developed with local Palestinians, during which a Palestinian seized a weapon and opened fire. Master-Sgt. (res.) Benayahu Melet, 32, a member of Gilad Farm’s local emergency response squad, and Maj. Yuval Ezra, 27, an Artillery Corps battery commander, were killed.
-The Palestinian shooter was also killed. Palestinian officials said four Palestinians were killed during the broader confrontation, but the precise sequence of events, including the circumstances in which the other Palestinians died, remains unclear and is under investigation.
-The shooting followed a stabbing attack near Elon Moreh on Thursday, in which 51-year-old Itamar Cohen was seriously wounded after attempting to extinguish a fire allegedly set by residents of the nearby Palestinian village of Beit Furik. The two Palestinian attackers were killed at the scene.
-Continuing incidents, fire set to mosque
-On Saturday, an off-duty soldier and another Israeli were injured in a separate confrontation near the Sussiya Junction in the southern West Bank. The IDF said a Palestinian threw stones at the two men and took a weapon from one of them. The weapon was later recovered.
-In the early hours of Sunday, Israelis set fire to a mosque in the village of Kusra and sprayed “Revenge for Benayahu” and a Star of David on its entrance.
-The weekend attacks followed earlier incidents in Jalud and Turmus Aiya, where the IDF confirmed that Israeli civilians attempted to set fire to Palestinian property and became involved in violent confrontations. In both cases, suspects fled before security forces arrived and no arrests were immediately reported.
-IDF Chief of Staff Lt.-Gen. Eyal Zamir has instructed commanders to prevent further friction between Israelis and Palestinians, while senior Central Command officials have warned that both terrorism and violence originating from unauthorized outposts are making it increasingly difficult to maintain security and public order.
+Ukraine's Zelenskyy in UK to meet new PM Burnham
+July 27, 2026Ukrainian President Volodymyr Zelenskyy arrived in the UK on Monday where he and new prime minister Andy Burnhamdiscussed continued defense cooperation. The two visited some 200 Ukrainian service members training with UK troops at Portsmouth Naval Base.
+The Ukrainian forces have been sharpening their war-fighting and countermining measures for operations in the Black Sea.
+Speaking in Portsmouth, Burnham said, "Volodymyr, you are the first leader I have welcomed in person since taking office and that is no accident."
+"It is intended to send a very clear message," the new prime minister added, "We are with Ukraine 100%, I am personally with you 100%, and I will honor every commitment this country has made to Ukraine in full."
+Posting on X after the meeting, Zelenskyy wrote: "We greatly appreciate that our team is the first to visit the United Kingdom since Andy Burnham took office. This is an important signal of support, and the Prime Minister assured us that this support remains unwavering."
+UK providing new radar jamming technology to aid deep strike capabilities
+Burnham announced that the UK is now providing Kyiv with access to its "Stone Cloak" electronic jamming technology, with thousands of the jammers already given to Kyiv according to Downing Street.
+When affixed to drones, the battle-tested, tablet-sized Stone Cloak jammers can shield weapons from Russian air-defense systems detection, providing Kyiv with more lethal long-distance strike capabilities.
+"Stone Cloak is the best of homegrown British innovation and proven on the frontline, and it will be vital to protecting our security in both our countries," Burnham said.
+The deal comes as Ukraine has shifted from a purely defensive posture and increased its attacks on sites deep within Russia, notably its targeting of oil, military and logistics installations.
+On Sunday, Zelenskyy told UK broadcaster Sky News that he hopes to sign a strong "drone deal" with Burnham to boost drone production capacity and technology sharing, adding, "we don't have enough missiles" to defend against Russia's continued air attacks.
+Russia, said Zelenskyy, "can increase the production of ballistic missile missiles and that's why we need air defense as soon as possible."
+UK support for Kyiv continues despite a revolving cast of prime ministers
+Zelenskyy's visit is Burnham's first bilateral meeting with a foreign leader since taking over at Downing Street last week and comes as the Ukrainian prepares to meet US President Donald Trump in Washington on Tuesday.
+Burnham assured Zelenskyy of the UK's "unwavering support" as Kyiv defends itself against a more than four-year Russian invasion.
+"Britain stands with Ukraine, shoulder to shoulder, and our support remains unwavering," according to a statement.
+"Russia should be in no doubt of our resolve, and we will not back down until we achieve long-lasting and just peace for Ukraine."
+Zelenskyy described ties with the UK as "the strongest relationship in the entire history" of the two nations.
+Prior to the meeting, Downing Street said Burnham — the fifth prime minister that Zelenskyy has dealt with since Russia launched its unprovoked full-scale invasion of neighboring Ukraine on February 24, 2022 — would pledge "to continue the unbreakable bond between the two nations."
+Downing Street on Monday said that the UK had provided some 25 billion pounds (€29 billion ,$33 billion) in assistance to Ukraine since the war began, 16 billion of which were given in direct military assistance.
+Next, Zelenskyy will seek support from Trump, who is mired in his own war with Iran
+From the UK, Zelenskyy will travel to Washington, where he will meet with US President Trump at the White House on Tuesday.
+Support from Trump, who is currently bogged down in his own war with Iran, has wavered during his time in office and the two leaders have had a famously contentious relationship.
+Trump did, however, recently announce that Kyiv could be given permission to build US Patriot missile systems as Russian air assaults continue unabated.
+In his Sunday Sky News interview, Zelenskyy expressed understanding for Trump's predicament, saying, "I understand the United States is focussing on the Middle East," adding that he would, "try to manage it [the war in Ukraine] with some Europeans and with Americans and with some other countries."
+"This," he said, is "a big challenge," both for himself and for Ukraine.
+Zelenskyy did get an important bit of assistance from lawmakers in Washington recently when Congress advanced bipartisan legislation targeting countries purchasing Russian energy, potentially making it harder for the Kremlin and President Vladimir Putin to finance its ongoing war.
+While in Washington, Zelenskyy is also expected to attend the funeral of Senator Lindsey Graham, a key proponent of US support for Ukraine who died unexpectedly earlier this month after returning from Kyiv.
+Edited by: Jenipher Camino Gonzalez
 
 ====================================================================================================
 
