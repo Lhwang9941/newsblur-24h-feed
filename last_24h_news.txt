@@ -1,77 +1,32 @@
-Robotics firm unveils tech to turn ground robots into drone bases
+Brazil Sees a Trump-Led Effort to Tilt Election Against Lula
 Unknown
 Unknown Publisher
 2026-07-27
-18:13:54 UTC
-03:13:54 KST
+20:01:00 UTC
+05:01:00 KST
 
-- Target Arm Inc. announced on July 27, 2026 that its Ralar 2 system now integrates with HDT Global's Hunter WOLF and WOLF-X unmanned ground vehicles.
-- The combined system lets certified drones launch, land, recharge, and relaunch from moving vehicles without a human pilot present.
-Robotics company Target Arm Inc. said this week that its drone launch and recovery system has been integrated with unmanned ground vehicles built by HDT Global, a manufacturer of rugged robotic platforms used in military and industrial settings.
-The company announced the integration on social media on July 27, 2026. The combination pairs HDT Global’s Hunter WOLF and WOLF-X unmanned ground vehicles, tracked robots capable of carrying equipment and operating without a human driver inside, with Target Arm’s Ralar 2 system, creating what the company describes as an autonomous mobile drone base.
-Most drones need a stationary platform to take off from and land on. A truck, a ship, or a ground vehicle typically has to stop moving, and often needs a human operator standing by, before a drone launch can happen. That requirement costs time, reduces efficiency, and raises operational risk, particularly in situations where stopping a vehicle means becoming a stationary, exposed target or losing momentum on a mission that cannot afford delays.
-According to Target Arm, its Ralar 1 and Ralar 2 systems remove that requirement. The company describes the technology as AI-assisted robotics and autonomy systems that allow certified drones to launch, land, recharge, and launch again from vehicles that remain in motion, whether on land, in the air, or at sea, without a pilot present to manage the process by hand.
-Footage released alongside the announcement show the system during a field demonstration. A technician works on equipment mounted to a tan-colored wheeled ground vehicle labeled “FURIOSA,” a low-slung robotic platform fitted with sensor and camera housings, built to move across rough terrain without a human inside directing its movement. The vehicle is compact, roughly the size of a small all-terrain machine rather than a dedicated aircraft carrier or command truck.
-Unmanned ground vehicles like the Hunter WOLF and WOLF-X have become increasingly common in military logistics and reconnaissance, valued for their ability to haul equipment, scout terrain, or carry sensor payloads into positions considered too dangerous or impractical for soldiers to occupy directly. Turning one of those vehicles into a moving drone launchpad extends that capability significantly, giving a single unmanned ground vehicle the added function of an unmanned aerial system without requiring a separate team to manage the aircraft.
-Target Arm says the technology applies broadly across sectors rather than to one battlefield use case. The company lists defense operations, public safety work such as search and rescue or surveillance, logistics and package delivery, maritime operations, and protection of critical infrastructure like power plants, pipelines, or water systems among the intended applications.
-Ground robots and aerial drones have largely operated as separate systems, requiring separate teams, separate launch procedures, and separate windows of vulnerability where a vehicle must stop and expose itself just to get a drone airborne. Collapsing that separation, allowing one machine to launch, recover, and relaunch another without stopping or needing a human hand nearby, points toward a broader shift in how autonomous systems are expected to operate together. Whether this particular combination becomes a standard part of that future, or one early attempt among several competing approaches, remains to be seen.
+Brazil Sees a Trump-Led Effort to Tilt Election Against Lula
 
 ====================================================================================================
 
-French broadcaster launches housing campaign for wildfire evacuees
+Viktor Yanukovych fled Ukraine in disgrace in 2014. A new investigation says he now lives in Sochi — under his mother’s maiden name.
 Unknown
 Unknown Publisher
 2026-07-27
-18:10:50 UTC
-03:10:50 KST
+20:00:35 UTC
+05:00:35 KST
 
-Anadolu Staff
-27 July 2026•Update: 27 July 2026
-French regional broadcaster ICI Gironde has launched a solidarity initiative to help people displaced by devastating wildfires in the Gironde department by collecting offers of temporary accommodation.
-ICI Gironde announced that it is making its radio station, digital platforms and local network available to connect people willing to provide housing with authorities and humanitarian organizations assisting families displaced by the fires.
-The initiative invites individuals, businesses and local authorities able to offer an apartment, room, second home or any other type of accommodation to contact ICI Gironde by phone, WhatsApp or through its website.
-According to the broadcaster, accommodation offers will be forwarded within 24 hours to the relevant institutions, local authorities, associations and humanitarian organizations so they can be allocated quickly to people in need.
-The campaign comes as massive wildfires in southwestern France have forced about 220,000 people to evacuate, with thousands taking shelter in emergency reception centers around Bordeaux.
-
-====================================================================================================
-
-Ukraine's Zelenskyy in UK to meet new PM Burnham
-Unknown
-Unknown Publisher
-2026-07-27
-18:10:00 UTC
-03:10:00 KST
-
-Ukraine's Zelenskyy in UK to meet new PM Burnham
-July 27, 2026Ukrainian President Volodymyr Zelenskyy arrived in the UK on Monday where he and new prime minister Andy Burnhamdiscussed continued defense cooperation. The two visited some 200 Ukrainian service members training with UK troops at Portsmouth Naval Base.
-The Ukrainian forces have been sharpening their war-fighting and countermining measures for operations in the Black Sea.
-Speaking in Portsmouth, Burnham said, "Volodymyr, you are the first leader I have welcomed in person since taking office and that is no accident."
-"It is intended to send a very clear message," the new prime minister added, "We are with Ukraine 100%, I am personally with you 100%, and I will honor every commitment this country has made to Ukraine in full."
-Posting on X after the meeting, Zelenskyy wrote: "We greatly appreciate that our team is the first to visit the United Kingdom since Andy Burnham took office. This is an important signal of support, and the Prime Minister assured us that this support remains unwavering."
-UK providing new radar jamming technology to aid deep strike capabilities
-Burnham announced that the UK is now providing Kyiv with access to its "Stone Cloak" electronic jamming technology, with thousands of the jammers already given to Kyiv according to Downing Street.
-When affixed to drones, the battle-tested, tablet-sized Stone Cloak jammers can shield weapons from Russian air-defense systems detection, providing Kyiv with more lethal long-distance strike capabilities.
-"Stone Cloak is the best of homegrown British innovation and proven on the frontline, and it will be vital to protecting our security in both our countries," Burnham said.
-The deal comes as Ukraine has shifted from a purely defensive posture and increased its attacks on sites deep within Russia, notably its targeting of oil, military and logistics installations.
-On Sunday, Zelenskyy told UK broadcaster Sky News that he hopes to sign a strong "drone deal" with Burnham to boost drone production capacity and technology sharing, adding, "we don't have enough missiles" to defend against Russia's continued air attacks.
-Russia, said Zelenskyy, "can increase the production of ballistic missile missiles and that's why we need air defense as soon as possible."
-UK support for Kyiv continues despite a revolving cast of prime ministers
-Zelenskyy's visit is Burnham's first bilateral meeting with a foreign leader since taking over at Downing Street last week and comes as the Ukrainian prepares to meet US President Donald Trump in Washington on Tuesday.
-Burnham assured Zelenskyy of the UK's "unwavering support" as Kyiv defends itself against a more than four-year Russian invasion.
-"Britain stands with Ukraine, shoulder to shoulder, and our support remains unwavering," according to a statement.
-"Russia should be in no doubt of our resolve, and we will not back down until we achieve long-lasting and just peace for Ukraine."
-Zelenskyy described ties with the UK as "the strongest relationship in the entire history" of the two nations.
-Prior to the meeting, Downing Street said Burnham — the fifth prime minister that Zelenskyy has dealt with since Russia launched its unprovoked full-scale invasion of neighboring Ukraine on February 24, 2022 — would pledge "to continue the unbreakable bond between the two nations."
-Downing Street on Monday said that the UK had provided some 25 billion pounds (€29 billion ,$33 billion) in assistance to Ukraine since the war began, 16 billion of which were given in direct military assistance.
-Next, Zelenskyy will seek support from Trump, who is mired in his own war with Iran
-From the UK, Zelenskyy will travel to Washington, where he will meet with US President Trump at the White House on Tuesday.
-Support from Trump, who is currently bogged down in his own war with Iran, has wavered during his time in office and the two leaders have had a famously contentious relationship.
-Trump did, however, recently announce that Kyiv could be given permission to build US Patriot missile systems as Russian air assaults continue unabated.
-In his Sunday Sky News interview, Zelenskyy expressed understanding for Trump's predicament, saying, "I understand the United States is focussing on the Middle East," adding that he would, "try to manage it [the war in Ukraine] with some Europeans and with Americans and with some other countries."
-"This," he said, is "a big challenge," both for himself and for Ukraine.
-Zelenskyy did get an important bit of assistance from lawmakers in Washington recently when Congress advanced bipartisan legislation targeting countries purchasing Russian energy, potentially making it harder for the Kremlin and President Vladimir Putin to finance its ongoing war.
-While in Washington, Zelenskyy is also expected to attend the funeral of Senator Lindsey Graham, a key proponent of US support for Ukraine who died unexpectedly earlier this month after returning from Kyiv.
-Edited by: Jenipher Camino Gonzalez
+Viktor Yanukovych fled Ukraine in disgrace in 2014. A new investigation says he now lives in Sochi — under his mother’s maiden name.
+Former Ukrainian President Viktor Yanukovych is now living in Sochi and using documents in the name of “Oleg Nikolayevich Leonov,” according to an investigation by the Ukrainian YouTube channel “Telebachennya Toronto.”
+The journalists based their findings on Russian registries, leaked databases, photographs, social media posts, and other open sources.
+According to Telebachennya Toronto, Yanukovych is reportedly living at a roughly three-hectare compound called “Blagodat” in Sochi, where he is said to live with his longtime partner, Lyubov Polezhay. Extensive real estate — including tracts of land, Moscow apartments, and several houses — is registered in her name rather than his.
+Yanukovych has used documents bearing the name “Oleg Leonov” since 2014, the investigation’s authors say. Leonova, they note, is his mother’s maiden name.
+Yanukovych’s son, Oleksandr, lives in Russia with his family under the surname “Sokolov,” according to the investigators. Oleksandr’s wife and Yanukovych’s grandson own extensive real estate holdings and several million dollars in bank accounts.
+Yanukovych fled Ukraine for Russia in early 2014.
+A Ukrainian court has since convicted Yanukovych in absentia and sentenced him to several lengthy prison terms on charges of treason, illegal border crossing, and illegal seizure of land.
+At Meduza, we are committed to transparency about our use of artificial intelligence in the newsroom. The story you’re reading was written by one of our living, breathing journalists and translated from Russian using an AI model configured to follow our strict editorial standards. This translation process is the result of extensive testing and refinements to ensure our English-language coverage is timely and accurate. A Meduza editor reviews every draft before publication.
+If you find any errors in this translation, please contact us at [email protected].
+To read Meduza’s exclusive content in English, please subscribe to our newsletter.
 
 ====================================================================================================
 
