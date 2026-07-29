@@ -1,43 +1,66 @@
-Ukrainian F-16 crashes during combat mission, pilot ejects safely
+Space Force to Launch 18 Comms and Targeting Missions by End of 2027
 Unknown
 Unknown Publisher
 2026-07-29
-20:09:25 UTC
-05:09:25 KST
+21:45:01 UTC
+06:45:01 KST
 
-Ukraine's Air Force lost contact with an F-16 fighter jet during a combat mission on July 29 after the aircraft experienced an in-flight emergency, the military said.
-"The pilot is currently safe. He was successfully evacuated and taken to a medical facility for examination and diagnostic tests," the Air Force said in a statement.
-According to the military, the pilot was carrying out a mission to intercept Russian aerial targets in one sector of the front when an in-flight emergency forced the pilot to eject.
-Experts and law enforcement officials are working at the crash site, while authorities reported no civilian casualties or damage on the ground.
-The cause of the incident remains under investigation as specialists work to determine what led to the loss of the aircraft.
-F-16s are used in both offensive and defensive operations. The aircraft have been used for intercepting Russian missiles and drones during aerial strikes against Ukraine. They can also be deployed to launch missiles at Russian positions along the front line.
+The Space Force awarded SpaceX a $1.6 billion contract to conduct 18 launches for communications and targeting satellites by the end of 2027.
+Space Systems Command said July 29 it would issue two task orders to the company as part of Phase 3 Lane 1 of its National Security Space Launch program. All 18 launches will fly on SpaceX’s reusable Falcon 9 rocket from Vandenberg Space Force Base, Calif.
+“We have set an unprecedented two-month acquisition timeline under the Phase 3 Lane 1 contract from requirement identification to award,” Portfolio Acquisition Executive for Space Access Col. Eric Zarybnisky said in a statement. “This includes the one-month period for the launch service providers’ proposal preparation. Ultimately, this timeline results in the speed our warfighter demands more than ever before.”
+The satellites are part of the Space Based Sensing and Targeting Portfolio, which includes the Space-Based Air Moving Target Indication program and the Space Data Network, two high-priority Space Force programs. While SSC’s release didn’t identify those programs by name, it highlighted the importance of both missions.
+“Sensing and targeting of airborne objects from space and providing near-real-time communications across the joint force, are vital to the defense of our nation,” Zarybnisky said. “The rapid acquisition capabilities provided by our NSSL Phase 3 dual-lane approach allows us the flexibility to deliver satellites for our warfighters in an increasingly efficient manner.”
+Along with providing launch services for the programs, SpaceX had already been awarded contracts in late May worth a total of more than $6 billion to build satellites for both efforts.
+The Space Force uses its NSSL Lane 1 contracting mechanism to launch national security payloads with less stringent mission assurance requirements. The new SpaceX launch contracts follow an announcement earlier this month that the service expects demand for Lane 1 launches to nearly triple from 60 missions to 170 over a five-year ordering period. The service started awarding Phase 3 launch services in fiscal 2025 and expects to issue new, competitive task orders to its vendor pool through at least fiscal 2029.
+“The total number of estimated missions has now increased to approximately 170 due to the growing demand to deliver critical capabilities to orbit for the nation and warfighter,” an SSC spokesperson told Air & Space Forces Magazine on July 22. “As a result, it was necessary to increase the … contract value in response to the new estimated mission quantities expected to be ordered under the Phase 3 Lane 1 contract.”
+The service has approved seven companies to compete for missions under its Lane 1 contract:
+- SpaceX
+- United Launch Alliance
+- Blue Origin
+- Stoke Space
+- Rocket Lab
+- Relativity Space
+- Impulse Space
+To qualify for Lane 1 competition, a company’s rocket has to have flown or the firm needs to have a credible path toward flight. All of the companies are on a path toward flight in the next year or two, but to date, only SpaceX, United Launch Alliance, and Blue Origin have rockets that have launched at least one mission. However, due to separate anomalies, both ULA’s Vulcan and Blue Origin’s New Glenn are not currently flying.
 
 ====================================================================================================
 
-US Federal Reserve keeps rate in 3.5-3.75% range
+Russo-Ukrainian war, day 1617: Senate hands Trump power for 500% tariffs on Russian oil
 Unknown
 Unknown Publisher
 2026-07-29
-20:07:41 UTC
-05:07:41 KST
+21:43:50 UTC
+06:43:50 KST
 
-NEW YORK, July 29. /TASS/. The US Federal Reserve System, which serves as the country's central bank, maintained its base rate at 3.5-3.75% following its meeting, according to a statement on the regulator’s website.
-The next meeting of the US regulator on the rate will take place on September 15-16.
-According to the Federal Reserve, economic activity is expanding at a solid pace despite heightened uncertainty, partly driven by the conflict in the Middle East. Labor productivity and capital investment are growing rapidly. Job growth is keeping pace with the expansion of the labor force, while the unemployment rate has remained virtually unchanged.
-Inflation remains high relative to the 2% target, partly reflecting supply-side shocks that have driven up prices in certain sectors, including energy. Currently, consumer inflation in the US stands at 3.5%.
-
-====================================================================================================
-
-Elon Musk's xAI sues Minnesota over its first-in-the-nation law banning 'nudification' technology
-France
-Unknown Publisher
-2026-07-29
-22:00:27 CEST
-05:00:27 KST
-
-JavaScript is disabled in your browser.
-Please enable JavaScript to proceed.
-A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.
+Exclusives
+Military
+Ukrainian drones destroyed nearly 15.4% of Russian retail giant's storage space in July. Ukrainian drones destroyed eight Wildberries warehouses in July, which is about 860,000 square meters.
+Ukraine loses another F-16 to onboard emergency. Ukraine lost an F-16 on 29 July during a mission to intercept Russian air targets.
+Ukraine's army has some brigades starved of soldiers and others overstaffed. New commander is now auditing why. Ukraine's General Staff has launched a check on how its brigades, regiments, and corps are manned.
+Russia is bombing Kostiantynivka to rubble while pushing its infantry into it on foot. Artillery and guided glide bombs hit the city as small Russian groups try to dig into whatever buildings they can reach.
+Ukraine's Defense Forces sent FP-1 drones to Ryazan—a refinery and a warehouse burned. Open-source analysts worked through eyewitness frames to place the blaze at the complex the marketplace calls Ryazan: Tyushevskaya. Later in the morning, the drones reached a Perm refinery 1,500 km from Ukraine.
+Ukraine's interceptors shot down Russian spy drone at 6,400 meters. It's thousand meters above Everest's base camp. Ukrainian National Guard pilots intercepted a Russian ZALA Z-20 reconnaissance drone at one of the highest altitudes at which Ukraine has downed an enemy drone.
+Ukraine hits 201 Russian shadow fleet ships in three weeks. Commander says Crimea's supply route is now blocked indefinitely. The campaign has run alongside strikes on Crimea's power grid and air defenses, part of a broader effort to make holding the peninsula costlier by the week.
+Intelligence and technology
+This Ukrainian 344-kg armored capsule keeps wounded soldier in constant contact with operator, with emergency exit he controls himself. Ukraine's Robotized Complexes unveiled the Murakha CaseEvak, a ground robot with an armored medical capsule that remotely evacuates wounded soldiers from zones where enemy drones hunt rescuers.
+Humanitarian and social impact
+Russian soldiers raped Ukrainian woman and shot her in back when she tried to escape in Bucha. Ukraine has now put their names on record. Ukrainian police charged two Russian soldiers from the 76th Air Assault Division.
+Political and legal developments
+Greece blocked a gas ban, France and Italy softened an entry ban—now Brussels tries 1,600 companies helping Russia's war. Bloomberg sources says the proposed list covers firms feeding Russia's military industry, and the work stayed out of public view.
+US Senate took first step toward Graham sanctions bill on Russia. It gives Trump power to impose 500% tariffs on Russian oil. The US Senate voted 86-12 to advance the Russia sanctions bill renamed for the late Senator Lindsey Graham, hours after his funeral.
+New developments
+The Belarusian tunnel to the EU was almost done. Then Lithuania drilled a hole in exactly the wrong place—for the diggers. Polish tunnel-detection equipment narrowed down the location, and a single bore confirmed a passage running from Belarusian soil.
+Read our earlier daily review here.
+Read Also
+- 
+						
+Russo-Ukrainian war, day 1616: Zelenskyy pushes Patriot production in Washington
+- 
+						
+Russo-Ukrainian war, day 1615: Russia’s ship strikes choke Ukraine’s grain corridor
+- 
+						
+Russo-Ukrainian war, day 1615: Ukraine’s top commanders drew up a new target list for long-range drones and vowed to keep striking, after more than 1,000 strikes into Russia this year
 
 ====================================================================================================
 
