@@ -1,70 +1,103 @@
-Math nerds are Silicon Valley’s latest hot commodity pulling down entry-level pay of half a million dollars
-United Kingdom
-Unknown Publisher
-2026-07-30
-20:03:45 BST
-04:03:45 KST
-
-The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission.
-Math nerds are Silicon Valley’s latest hot commodity pulling down entry-level pay of half a million dollars
-Competition from AI labs such as OpenAI and Anthropic is driving elite quantitative firms to raise entry-level offers to keep top mathematical talent
-- Bookmark
-- CommentsGo to comments
-Top university graduates in math and computer science are landing starting pay packages worth up to a million dollars as AI companies and Wall Street trading firms fight over the same small group of specialists.
-The salary jump is being driven by trading firms shifting toward machine learning and large language models. That shift puts Wall Street in direct competition with AI labs like OpenAI and Anthropic, which are all trying to hire from the same small group of experts.
-“The delineation is pre-OpenAI and post-OpenAI,” Matt Stabile, founder of the recruitment firm Stabile Search, told The Wall Street Journal. “That’s when you saw competition really take off.”
-Stabile noted that while seven-figure packages for early-career hires used to be rare anomalies, “a million dollars is something people don’t even bat an eye at anymore.”
-Standard baseline packages at top trading shops typically land between $350,000 and $500,000, but recruiters say those numbers jump quickly. In some cases, portfolio managers bypass typical pay structures to secure top summer interns before they enter the job market.
-“They happen to intern for a highly successful person on a highly profitable desk who wants to take them off the market,” Kevin Cassata, founder of executive-search firm Karbon Agency, told the publication. “They’ll just say, ‘OK, here’s your return offer — it’s $700,000.’”
-Cassata said he had seen entry-level offers top out at $1.5 million, comparing the current market to free-agency bidding wars in professional sports.
-The financial scale of these firms allows them to rival major tech companies. In the first quarter of 2026, quantitative trading firm Jane Street generated $10.3 billion in profit, roughly double the earnings of Goldman Sachs and Morgan Stanley combined, despite operating with a fraction of their workforce.
-To secure talent early, firms start outreach well before college graduation.
-Optiver, a leading quantitative firm, sponsors chess grandmasters, runs campus events and flies students to its offices. The company currently fills 70 percent of its graduate roles through its internship programs and plans to eventually source all entry-level hiring through that channel.
-“Outstanding people are in more demand than they’ve ever been, and that does create competitive pressure on wages,” Charlie Whitmer, Optiver’s U.S. chief operating officer, told The Wall Street Journal. “As competition increases for outstanding people, prices naturally rise.”
-Students frequently cite high compensation and faster feedback as primary reasons for choosing trading over traditional research.
-Andrew Lai, who completed a doctorate in computer science at the Massachusetts Institute of Technology before joining Optiver full-time, told the publication that he preferred the field because it allowed him to see the practical results of his research quickly.
-Lai noted that about a third of his doctoral lab mates entered quantitative finance, while an equal share went into tech.
-“Comp was a big factor,” Daniel Wu, a Stanford computer science graduate who joined a quantitative firm in 2021, told The Wall Street Journal. “At the time, quant firms were making the most competitive offer financially.”
-However, the lucrative packages are also diverting talent away from academia.
-At Oxford University’s Mathematical Institute, summer internships offering upwards of $30,000 a month frequently convince doctoral students to abandon academic career plans. Graduates entering the field typically secure packages between $300,000 and $1 million, with those specialized in large language modeling landing at the top of that range.
-“Once they have a taste of what it means to work for these firms and the amount of money they could be making, the majority of them would rather go into industry,” Alvaro Cartea, an Oxford math professor and director of the Oxford-Man Institute, said. “All I’m saying is that temptation is extremely strong.”
-Join our commenting forum
-Join thought-provoking conversations, follow other Independent readers and see their replies
-Comments
-
-====================================================================================================
-
-Opinion | With the Saudis, Trump Could Repeat America’s ‘Atoms for Peace’ Error
+Amazon reports strong profits and net sales for 2Q, fueled by robust growth in cloud computing unit
 Unknown
 Unknown Publisher
 2026-07-30
-19:02:00 UTC
-04:02:00 KST
+20:53:02 UTC
+05:53:02 KST
 
-Opinion | With the Saudis, Trump Could Repeat America’s ‘Atoms for Peace’ Error
+Amazon reports strong profits and net sales for 2Q, fueled by robust growth in cloud computing unit
+NEW YORK (AP) — Amazon delivered strong profits and net sales during its fiscal second quarter, helped by surging growth in its prominent cloud computing unit.
+The e-commerce and technology company said Thursday that sales in its cloud computing unit called AWS rose 37% during the April-June period, faster than the 28% clip in the previous quarter and marking the fastest rate of growth rate in 18 quarters.
+The Seattle-based company also offered a sales outlook in the current quarter that beat analysts’ expectations.
+Amazon reported net income of $62.65 billion, or $5.75 per share, in the three-month period ended June 30. That compares with $18.16 billion or $1.68 in the year-ago period.
+Net sales rose to $200.6 billion from $167.7 billion in the year-ago period.
+Analysts were expecting sales of $197.03 billion for the latest quarter.
+The results from the latest quarter underscored that demand keeps growing for Amazon’s services and technology.
 
 ====================================================================================================
 
-Italy raises Po River drought alert to 'high' as over 100 municipalities face water shortages
+A Viable Cesspool Alternative Emerges On Hawaiʻi’s Coasts
 Unknown
 Unknown Publisher
 2026-07-30
-19:00:00 UTC
-04:00:00 KST
+20:53:02 UTC
+05:53:02 KST
 
-Melike Pala
-30 July 2026•Update: 30 July 2026
-Drought conditions across Italy's Po River basin have worsened, prompting authorities to raise the water severity level to "high" amid growing concerns about drinking water supplies, the ANSA news agency reported on Thursday.
-The decision was announced following a meeting of the Permanent Observatory for Water Use, coordinated by the Po River Basin Authority (AdbPo), which monitors water resources across Italy’s largest river basin.
-More than 100 municipalities in the northern regions of Piedmont and Lombardy are experiencing disruptions to drinking water supplies due to the prolonged lack of rainfall and declining river flows, according to AdbPo.
-Authorities said emergency measures have been implemented in several affected municipalities, where water tankers have been deployed for days to replenish aqueduct reservoirs and maintain continuous water service for residents.
-The Po Valley, Italy's most important agricultural and industrial region, has been increasingly affected by recurring droughts in recent years, with prolonged dry conditions placing additional pressure on water resources for households, agriculture and industry.
-Dutch authorities, meanwhile, said no drought measures are planned despite worsening conditions and the Rhine River reaching its lowest level on record at the Lobith measuring station, according to broadcaster NOS.
-The Netherlands has been under Phase 2 of its national water shortage framework since July 16, indicating an "actual" water shortage.
-Authorities are focusing on distributing available freshwater efficiently and retaining water through measures, including emergency pumps, while water abstraction bans remain in effect across large parts of the country.
-Officials also warned of increasing salinization in western regions and deteriorating water quality due to the spread of blue-green algae.
-In Bulgaria, authorities said water levels on the Danube have fallen to historic lows, creating what officials described as an unprecedented force majeure situation that has brought shipping close to a standstill.
-The Danube's water level at the northern city of Ruse has dropped to 87 centimeters (34 inches) below the reference zero level, with officials warning that conditions are expected to worsen in the coming weeks.
+A Viable Cesspool Alternative Emerges On Hawaiʻi’s Coasts
+In Puakō, a coastal community on Hawai‘i island, residents have been working together for over a decade to reduce the destructive impact their wastewater has on the nearby coral reefs, and a workable alternative to cesspools is finally gaining momentum.
+Puakō For Reefs, the volunteer-run nonprofit behind the effort, has drawn up plans to put in what’s called a low-pressure liquid-only sewer system, the only viable alternative to the cesspools and septic systems in low-lying coastal places. And they have been working with Hawaiʻi County on a plan to fund and build it, in hopes of creating a model that can extend far beyond Puakō.
+Faced with a daunting mandate by the state to convert over 49,000 cesspools on the island by 2050, a goal Mayor Kimo Alameda has said isn’t possible, the county is in need of a solution, especially for coastal areas.
+And while Alameda expressed skepticism about the value of a sewer project in Puakō last fall, the mayor and his staff at the county have now gotten on board.
+“This is the most organized community right now. They have a plan. This could be the model for the state,” Alameda told Civil Beat. “After Puakō, it could be Kahalu‘u. After Kahalu‘u it could be Miloliʻi. After Miloliʻi, it could be Keaukaha or any of those kinds of Priority One coastal areas.”
+Cindi Punihaole, director of the Kahalu‘u Bay Education Center, has been working closely with Puakō For Reefs in recent months to develop a similar plan for a low-pressure sewer system near Kahaluʻu. The popular snorkeling destination is located on the Southern end of Aliʻi Drive, about a quarter of a mile away from where the existing sewer line ends, and as a result, it is surrounded by cesspools. As in Puakō, the reef has suffered as a result of the nitrogen runoff.
+“You look at the bay, it’s beautiful,” Punihaole said. “But if you go into the bay, it’s not.”
+She runs a program educating tourists about reef-safe sunscreen, and her center has succeeded at closing the beach during cauliflower coral spawning season each September. However, Punihaole said, those efforts combined won’t bring back a healthy reef without cleaner water.
+“We need to remove these stressors,” she said.
+Pulverizing Waste To Reduce Footprint
+After several years working with nonprofit partners and University of Hawaiʻi Hilo researchers to study the impact of their effluent on the reefs, Puakō For Reefs hired an engineering firm to analyze potential solutions in the region. It came back in 2019 with a surprisingly doable solution.
+Some homes in Puakō have cesspools and others have septic systems, which filter the waste through gravel leach fields. But even in the latter case, large quantities of nitrogen are still filtering to the reefs. So the group went looking for an alternative.
+Removing all the wastewater through a sewer system that routes it to a water treatment plant would ensure that it gets filtered better and — ideally — gets used on land, where it is further filtered before it eventually drains into the groundwater or the ocean.
+Most sewer systems use gravity to move waste through a series of very large underground pipes — up to 60 inches wide — to a centralized water treatment plant. Those large pipes are impractical in many areas of the Big Island because of how deep they would need to be buried in rocky places, and how costly it is to dig into lava.
+The alternative, low pressure system on the table in Puakō would pulverize the waste with a grinder, allow the liquid to rise to the top, and move it through a relatively small, 6-inch pipe. Because of its size, the pipe can be buried much closer to the surface and costs much less to install.
+The bulk of the waste can travel through the pipe, and the remaining waste will be held in a small tank that will need to be pumped out every five to eight years, much like a septic tank. Unlike a gravity system, low-pressure systems keep all the waste contained in a way that won’t be impacted by surges of rain or ocean water during king tides and storms that cause flooding.
+“They compared a low-pressure system to a gravity-fed system, and not only would the traditional gravity-fed not work, but it was 10 times more expensive than the low pressure system — $120 million versus $12 million,” said Karen Anderson, president of Puakō For Reefs.
+Since then, the group has worked to share information with their community, engaged dozens of experts and planned a route for the sewer using public input. In the meantime they have engaged three different county administrations.
+Now, they may finally have a funding model that can work and buy-in from the county.
+Creating a Model
+Low-pressure systems have existed since the 1980s, but Puakō would be an early adopter in Hawaiʻi. The developers behind Kohanaiki, a high-end development surrounding a golf course on the Kona coast, installed a low-pressure system for its 400 planned homes. And members of Puakō For Reefs — and Punihaole’s new spinoff group, Kahaluʻu For Reefs — also met with planners from Vero Beach, a community on the east coast of Florida that installed such a system in 2015.
+The Puakō sewer system, which will serve around 200 homes, has a planned route and a destination for the wastewater: the American Water Plant in the neighboring Mauna Lani resort. And Anderson said the group recently had a kickoff meeting with Hawaiʻi County Department of Environmental Management about the design. The group is hoping to wrap up the planning and permitting process by the end of 2027 so they can start construction in 2028.
+Meanwhile, the Kahaluʻu group is working with Honolulu-based Limtiaco Consulting Group on a project design for a low-pressure sewer system for between 50 and 70 of the 300 homes that need to be converted in the immediate area. It’s a big step, but Punihaole emphasized that having a design doesn’t guarantee funding.
+Indeed, it will cost an estimated $40,000 to connect each home with a cesspool to the sewer system in Puakō. Those with septic systems will pay less because connecting to the sewer will require a smaller modification to their existing systems.
+The community group has applied to become a designated Community Facilities District, which would involve having the county create a bond that provides seed funding for the sewer and then pays it back through a special tax paid by the property owners over several decades. That approach could help ensure that lower-income residents don’t get unfairly hit with high upfront fees in an area that is home to both high-end vacation rentals and long-time local residents.
+“We want to make sure that everyone can afford the connection for their home,” Anderson said. “Our goal is that it can all be financed through a special revenue bond that can be paid off over 40 years.”
+The group also hopes to raise money from local donors and philanthropists who want to see the reef bounce back. If that happens, they said, the ideal would be to roll the funds from one coastal community to another — so that as one project gets paid back, the funds get used to seed the next. Other communities looking toward low-pressure systems include the fishing village of Miloliʻi and a small cluster of houses in Hōnaunau, immediately north of Puʻuhonua o Hōnaunau National Historical Park.
+“It’s a model that’s never been tried,” Alameda said, “but I give them credit because anything is better than nothing.”
+The county’s departments of finance and environmental management are both working closely with Puakō For Reefs, at Alameda’s request. He also signed an Memorandum of Understanding with the group to move this project forward.
+Alameda said he has some concerns about prioritizing one coastal community over others, but he acknowledged that creating a model is valuable and should make it easier for other communities who want to take similar steps — and that can benefit the whole island, not to mention the reefs, which are a vital shared resource.
+Alameda also stressed that the homeowners will still be on the hook to pay a portion of the cost.
+“At the end of the day, it’s not going to be free to either transfer to a septic system or to connect to a sewer line,” he said. “And everybody wants it to be free. I mean, I would like that for my house too.”
+Changing The Industry
+Rick Gaffney, a former member of the county’s Environmental Management Commission, started a community working group focused on keeping wastewater out of the ocean. It meets once a month, includes Punihaole and members of Puakō For Reefs and has helped keep the conversation front and center for the county.
+Gaffney said he is optimistic about the chain reaction the Puakō group envisions.. He added that while most wastewater projects are executed by one of two or three large companies, Puakō For Reefs is playing a very different numbers game.
+“They have reached out to 98 different contractors for pre-bids. The more people who bid, the more likely that you’re going to get a realistic price,” he said.
+Gaffney takes that aspect of the effort as a good sign about the future of community-scale sewer development in Hawaiʻi. Working with smaller companies also has the potential to help build the industry — an important piece of the overall cesspool conversion puzzle.
+Stuart Coleman, executive director of Wastewater Alternatives and Innovations, sees low-pressure liquid-only sewer systems as vital to keeping high-nutrient wastewater out of the ocean. The systems, he says, can aid in building a circular system for waste, water and nutrients — most of which are currently being wasted — but would do much more good on land.
+Smaller systems allow the water to be used locally, because it wouldn’t need to be transported or piped out to other locations.
+“If you’re going to go to all that effort to treat water, let’s reuse it and keep it on land,” Coleman said. “And especially in leeward areas across the state, use it to irrigate a green belt, which also serves as a fire break and a sediment break.”
+Luke Gianni, a spokesperson for American Water, said the company is not currently using the water from the Mauna Lani plant at the surrounding resorts.
+Smaller, decentralized sewers and treatment plants, Coleman added, allow you to turn waste into a resource and keep it in communities where it can be used instead of drinking water.
+“That way, you’re keeping it local,” he said, “not spending all that energy and money pumping or transporting it.”
+Punihaole is collaborating with scientists at UH Hilo and the Reef Check Foundation, a community science nonprofit, to survey the reef and document the state of the coral and the fish in the bay, “so that we have a true baseline of that area, and as we do the conversion of the cesspools, then we can do another survey,” she said.
+At age 75, after decades of studying and nurturing the reef, Punihaole seems convinced that a real turning point is just around the corner. And the fact that so many people are meeting regularly — in Gaffney’s working group — and that the homeowners in Puakō have “taken her under their wing” gives her hope, she said.
+“I’ve gone through times when people didn’t want to share information with one another. But I think we’re past that now,” Punihaole said. “We need to create momentum so that all of us together can make a difference.”
+___
+This story was originally published by Honolulu Civil Beat and distributed through a partnership with The Associated Press.
+
+====================================================================================================
+
+Arlene Smith, lead singer of pioneering ‘50s girl group the Chantels, dies at 84
+Unknown
+Unknown Publisher
+2026-07-30
+20:53:02 UTC
+05:53:02 KST
+
+Arlene Smith, lead singer of pioneering ‘50s girl group the Chantels, dies at 84
+NEW YORK (AP) — Arlene Smith, one of the first “girl group” stars who as a teenager and a founder of the Chantels co-wrote and sang lead on the 1950s doo-wop classic “Maybe,” has died at 84.
+Smith’s manager and close friend, Paul Errante, told The Associated Press that she died of a heart attack Wednesday at a New York City hospital.
+Male harmony groups from the Drifters to Dion and the Belmonts were common in the early years of rock ’n’ roll. But female acts — especially Black female acts — were rare until the late 1950s, when performers such as the Chantels and the Bobbettes broke through and helped make possible a wave of girl groups in the next decade, including the Shirelles, the Ronettes and the Crystals.
+“My thing was, ‘The guys are not the only ones that can do this,’” Smith told the authors of the 2023 oral history “But Will You Love Me Tomorrow?”
+“Maybe,” recorded in a makeshift studio in a Manhattan church, was a spare, pleading ballad that Smith sang with weary force, in part because the group had to run through it more than 50 times. The 1958 release was a Top 20 hit that eventually sold more than 1 million copies and was covered by Janis Joplin and the Three Degrees, among others. Smith and the Chantels were voted into the Vocal Group Hall of Fame in 2002, a year before Rolling Stone ranked “Maybe” at No. 199 on the magazine’s list of the 500 best songs.
+“The Chantels forced listeners to reconsider doo-wop as something more than a man’s domain, and the reality of a girl group holding forth on guys’ turf laid out cultural possibilities in an entirely new way,” NPR music critic Tim Riley wrote in his book “Fever,” published in 2004. “With ‘Maybe,’ Arlene Smith infused her vocal with so much determined naiveté that she transformed all the anxiety of a doomed relationship into a fervent wish for its revival.”
+The Chantels had a handful of other hits, including “Every Night (I Pray)” and “Look In My Eyes,” but never matched the success of “Maybe.” Smith left the group in 1959, around the time their record label went bankrupt, and she worked briefly with producer Phil Spector, recording the single “Love, Love, Love.” But her career soon faded and, by the 1970s, estranged from the other original Chantels, she was touring with a new lineup of backing singers.
+Smith eventually received a master’s degree in education and taught music to elementary school students in New York City before retiring in the 2000s. She never married or had children, Errante said.
+The Chantels were ahead of their time
+The Chantels were pioneers sometimes trapped in the conventions of the era. Smith’s name was initially left out of the credits to “Maybe,” a theft of copyright common in the music industry in the ‘50s. The cover of their first album, “We Are the Chantels,” originally featured a group photograph, but was changed to show an image of two young white people leaning over a jukebox.
+“Things were going on in the country,” Smith told The New York Times in 1995. “There was a lot to transcend.”
+In “But Will You Love Me Tomorrow?” Smith said she never wanted to sing “girl songs” and instead was drawn to male groups whose “harmonies were so rich and full.” She was in high school when “Maybe” came out, but had been performing for years, influenced by Etta James, among others. As a girl, Smith attended the St. Anthony of Padua School in New York’s Bronx borough and began singing with fellow choir members Sonia Goring, Renée Minus, Jackie Landry and Lois Harris in the early 1950s, when all were in their early teens or younger. They named themselves after a nearby school and basketball rival, St. Frances de Chantal, and honed an intricate singing style in part by mastering Gregorian chants.
+“We navigated toward each other. We used to sit in choir practice and make up parts,” Smith told the publication Catholic New York in 2019, around the time they were honored with a Bronx street sign that read, “The Chantels — Hit Record ‘Maybe’ 1958.”
+The Chantels sang at various local talent shows and broke through professionally in 1957, when Richard Barrett, producer and leader of the male harmony group the Valentines, recommended them to End Records owner George Goldner. Their debut single, “He’s Gone,” came out that summer. “Maybe” — widely believed to have been written by Barrett and Smith — was released months later and helped lead to the group’s touring with everyone from Chuck Berry to Ike and Tina Turner.
+“It was fun,” Smith later told ClassicBands.com. “You just take your books, get ’em packed. You don’t have a thing to do all day. You sit next to your buddy on the bus, read, crochet, do your homework, look out at scenery, sleep, eat. C’mon, it was wonderful! I didn’t have a thought or care in the world. It was really a nice time in my life, because I was doing exactly what I wanted to do.”
 
 ====================================================================================================
 
