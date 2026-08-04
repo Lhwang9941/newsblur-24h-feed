@@ -1,99 +1,86 @@
-Former FIFA VP Prince Ali cites ‘blackmail’ by Infantino-led soccer body over unpaid prize money
+Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle
 Unknown
 Unknown Publisher
 2026-08-04
-20:53:02 UTC
-05:53:02 KST
+22:47:49 UTC
+07:47:49 KST
 
-Former FIFA VP Prince Ali cites ‘blackmail’ by Infantino-led soccer body over unpaid prize money
-GENEVA (AP) — Former FIFA vice president Prince Ali bin Al Hussein criticized the soccer body’s leadership headed by Gianni Infantino on Tuesday, describing prize money withheld from his Jordan national team as a kind of blackmail.
-Prince Ali said the Jordanian federation he leads still has not been paid money due for reaching the final of the FIFA Arab Cup played last December in Qatar.
-In a social media post, Prince Ali said that during the World Cup — where Jordan made its debut in June — he was told if he endorsed FIFA President Gianni Infantino “it would go a long way to helping our FA out.”
-Infantino is under pressure to save his 11-year presidency amid a fierce backlash from global soccer leaders about his now-failed plan to sell a stake in future World Cup profits to investors led by Joshua Kushner.
-“We pride ourselves in Jordan in upholding ethical values. We did not endorse him before and certainly will not now,” said Prince Ali, who placed third in a five-candidate FIFA presidential contest when Infantino was first elected in February 2016.
-“But the whole situation amounts to blackmail and we refuse to give in to that,” the Jordanian royal wrote Tuesday.
-FIFA Arab Cup money not paid
-The 2025 FIFA Arab Cup that Jordan lost in the title match against Morocco was set to pay $4.2 million to the beaten finalist, Jordanian media reported last year.
-“The money our team should receive for having reached the final has not been delivered yet,” Prince Ali wrote, “while at the same time FIFA brags about how many billions they have in reserve.”
-“It is clear the problem really is with leadership. For months, FIFA has been refusing to help us on any of these or other matters,” he said.
-FIFA was approached for comment about the claims.
-Prince Ali’s FIFA history
-Prince Ali was elected by Asian soccer to serve on FIFA’s ruling executive committee from 2011-15, and stood against then-president Sepp Blatter in a May 2015 election. That vote to re-elect Blatter was held in the shadow of raids at Zurich hotels two days earlier to arrest soccer officials as part of investigations by U.S. and Swiss federal agencies.
-Infantino had seemed a lock to be re-elected unopposed for a fourth and final term leading FIFA through 2031 when he left New York two weeks after the World Cup final.
-Fallout from his secretive private equity plan revealed one week ago has rocked soccer politics with Infantino’s former colleagues at European soccer body UEFA now looking for a rival candidate. The proposal underwritten by Kushner’s Thrive Eternal fund would have paid $20 million each to Jordan and all other FIFA members had they accepted by a Sept. 19 deadline
-UEFA also is threatening a boycott of FIFA games, events and meetings, while the leadership of the North American soccer body CONCACAF and the Asian Football Confederation, of which Jordan is a member, also have spoken out against Infantino.
-FIFA has set a Nov. 18 deadline for candidates to declare for the election by 211 member federations on March 18 in Rabat, Morocco.
-___
-AP soccer: https://apnews.com/hub/soccer and AP World Cup coverage
+Lucid Group missed Wall Street's second-quarter expectations as the electric vehicle manufacturer conducts an "operational reset" amid leadership changes and cost-cutting efforts.
+Those plans include beginning non-prototype robotaxi production early next year and delaying its upcoming midsize vehicle that was expected at the end of this year until "most likely" the second half of 2027, Lucid CEO Silvio Napoli told CNBC on Tuesday.
+"We're not going to make the mistake of the past where products, great cars, were in fact tainted by launching before things were ready," he said. "I think it's going to be '27. ... Most likely the second half of '27."
+Shares of Lucid fell roughly 8% during after-hours trading.
+Here's how the company performed in the second quarter compared with average estimates compiled by LSEG:
+- Loss per share: $3.30 vs. a loss of $2.46 expected
+- Revenue: $405 million vs. $416 million expected
+'Transformation program'
+The company did not release updated 2026 guidance. Napoli, who started leading the automaker in June, previously suspended production expectations amid a reevaluation of Lucid's business operations.
+He told CNBC the company is "not ready" to give such guidance as Lucid resets investor expectations and has a new, incoming leadership team. Lucid also reduced production at its U.S. plant in Arizona from two shifts to one in June.
+"I want it to be anchored in solid data, and most of all, I want a guidance that I'm confident Lucid will be able to deliver on and possibly even do better than that. This takes time," he said. "I wanted to make sure that we align the reality with consensus, which is today based on outdated business model."
+Napoli did say the company's second-half production is expected to be lower than Wall Street's consensus and the first half of the year, while deliveries are expected to be higher than the first half of the year.
+The company also released broad details of an "operational reset" or "transformation program" that includes identifying $1.4 billion in cash flow improvement opportunities this year.
+They include approximately $600 million to $800 million in vehicle inventory, $500 million in capital expenditures, and $200 million in operating expenses, the company said.
+In addition to the cost-cutting, Lucid said the plan will broadly focus on three key areas: "cash and cost," "customer and quality" and "culture and team."
+More specifically, the company said its efforts will focus on its robotaxi program with Uber and Nuro; a factory that's under construction in Saudi Arabia; and its upcoming midsize vehicle. Lucid called the robotaxi initiative a "top priority."
+Napoli said the company's robotaxi plans continue, including the production of prototype vehicles based on the company's Lucid Gravity SUV instead of its midsize vehicle. He said the company expects to deliver about 100 of the preproduction vehicles by the end of the year to its partners, with actual vehicle production in the beginning of next year.
+"The robotaxi opportunity is huge, and it's an industry that is about to start an exponential growth," he told CNBC. "Not many companies are ready for it. We are a software-defined vehicle company, so we are well positioned."
+Lucid, which reported $3 billion in total liquidity to end the second quarter, said the actions and its current financials are "expected to provide sufficient liquidity runway well into 2027."
+"Silvio and his leadership team are transforming the company, and the Board stands firmly behind their actions," Lucid Chairman Turqi Alnowaiser said in a release.
+The missed results and comments come weeks after Lucid denied an online report that it was considering bankruptcy or taking the company private. The report caused shares of the company to plummet. The stock recovered some of those losses, but remains off nearly 30% in 2026.
+Napoli adamantly denied such plans on Tuesday to CNBC, as he did when they were reported.
+"I wholeheartedly reinforce the denial," he said. "We are here to stay. We are here. We have a plan. We have a board and a majority investor that will help us to go through what is admittedly a moment where we are doing many things at the same time."
+Its largest shareholder is Saudi Arabia's sovereign wealth fund, the Public Investment Fund.
+Second-quarter results
+Lucid's second-quarter results included a net loss of more than $1 billion compared with a loss of $539.4 million during the second quarter of last year. The company reported an adjusted loss of $901.1 million, or $3.30 per share, compared with a loss of $632.1 million, or $2.80 per share, a year earlier.
+The losses were on production of 4,774 vehicles, up 24% year over year, and deliveries of 3,953 vehicles, up 19%, during the second quarter. The company currently offers the Air sedan and Gravity SUV that start at roughly $70,000 and $80,000, respectively.
+Napoli, who formerly led an escalator and elevator manufacturer, replaced interim CEO Marc Winterhoff on June 1. Winterhoff remained with the company until late June as Napoli put together a new leadership team.
 
 ====================================================================================================
 
-US efforts to deport Palestinian mosque leader rely on coerced confessions, witness testifies
+Pinterest shares fall on lukewarm sales guidance
 Unknown
 Unknown Publisher
 2026-08-04
-20:53:02 UTC
-05:53:02 KST
+22:45:26 UTC
+07:45:26 KST
 
-US efforts to deport Palestinian mosque leader rely on coerced confessions, witness testifies
-CHICAGO (AP) — Israeli authorities coerced the leader of Wisconsin’s largest mosque into confessing to crimes but never succeeded in tying him to a terrorist organization, his former attorney testified Tuesday in immigration court, where the Palestinian man is fighting a Trump administration effort to deport him.
-Salah Sarsour, a legal permanent resident of the United States, was arrested by Immigration and Customs Enforcement officers at his Milwaukee home in late March. A judge released him from ICE detention in June, finding that the government had not sufficiently laid out why it was trying to expel him now after allowing him to live in the U.S. for decades.
-The Department of Homeland Security says it wants to deport Sarsour on the grounds that he is a foreign policy threat, based on his convictions in Israel in the 1980s and ‘90s. Sarsour, who has no criminal record in the U.S., has said he is being punished for speaking out against Israel.
-It was Sarsour’s third appearance in Chicago immigration court since his release from detention. One of his attorneys, Patrick Taurel, presented a witness Tuesday to underscore his argument that the Israeli convictions do not stand up to scrutiny.
-Jawad Boulos, who was Sarsour’s lawyer when he was charged in Israel decades ago, testified that Sarsour was tortured in Israeli custody and coerced into making confessions. Boulos also said his former client was convicted of attempting to possess a weapon, but not of any charge tying him to a terrorist organization.
-Human rights organizations have released multiple reports alleging Palestinian prisoners are mistreated, tortured and wrongfully detained in Israeli jails.
-Boulos told the court Sarsour was tortured and that he accepted a plea deal in the mid-1990’s because fighting the charge could lead to a longer sentence behind bars.
-On the first day of the hearing, July 22, Salah Sarsour’s brother, Mohammad Sarsour, testified that his brother appeared gaunt and dirty and complained of pain during his detention in Israeli jail.
-Sarsour will appear remotely for his next hearing on Sept. 14. Taurel said his client will not testify.
-Sarsour is among several people who have been arrested in the U.S. and threatened with deportation after speaking out in favor of Palestinians since the start of the Israel-Hamas war in October 2023.
-___
-Mayes-Osterman is a corps member for The Associated Press/Report for America Statehouse News Initiative. Report for America is a nonprofit national service program that places journalists in local newsrooms to report on undercovered issues.
+Pinterest shares fell 7% in extended trading on Tuesday after the company reported better-than-expected earnings and revenue but issued lukewarm sales guidance.
+Here's how the company did, compared to analysts' consensus estimates from LSEG:
+- Earnings per share: 43 cents adjusted vs. 36 cents expected
+- Revenue: $1.18 billion vs. $1.15 billion expected
+Sales rose 18% from $998.2 million a year earlier, while the company's net loss for the period was $47 million, a loss of 8 cents per share, Pinterest said in a statement. The social media company posted net income of $38.76 million, or 6 cents per share, a year ago.
+"Our Q2 results reflect the scale and strength of our platform," Pinterest CEO Bill Ready said in the release.
+Revenue this quarter should come in between $1.19 billion and $1.21 billion. The midpoint of $1.2 billion was in line with analyst expectations. The guidance "assumes a modest headwind from foreign exchange based on current spot rates," Pinterest said.
+Pinterest finance chief Julia Donnelly told analysts during an earnings call that the World Cup ending and Amazon's Prime Day moving to the second quarter impacted brand spending and thus third-quarter guidance.
+"The shift of Prime Day from Q3 last year into Q2 this year resulted in an approximately half-point benefit to Q2 and will represent a roughly half-point headwind to Q3 as multiple brands and retailers increase their advertising spend around that moment," Donnelly said. "Lastly, in Q2, we saw a nearly one-point benefit from World Cup-related spend that will not repeat in Q3." 
+Adjusted earnings for the quarter of $311 million, topped analyst projections of $270 million, according to StreetAccount.
+The company's global monthly active users, or MAUs, jumped 11% year-over-year to 640 million, beating estimates of 635 million.
+Global average revenue per user, or ARPU, was $1.86, ahead of projections.
+During the earnings call, Ready also discussed Pinterest's use of freely available, so-called open-weight artificial intelligence models, a topic of rising interest in corporate board rooms as companies increasingly focus on AI's high costs.
+"At this point, any CEO that's not taking advantage of open source models is almost certainly wasting a lot of their shareholders' money," Ready said. "And especially that's true now that you have hyperscalers making it really easy to take advantage of that open source in their their secure environment, so that you can leverage the open source in your own cloud environment, so that it's safe, it's secure."
+As Pinterest continues using a mixture of both proprietary and open-weight AI models, Donnelly explained to analysts how the company manages AI-related costs using "model routing infrastructure." This lets Pinterest use "higher-cost models for complex work while using lighter, lower-cost options for routine tasks," she said.
+Still, Donnelly noted that "As AI adoption continues to grow, we expect both AI-related compute and token spend to grow over time." 
+"We see that these investments are ROI positive, and that investment growth is planned and included in our outlook that we've provided," Donnelly said.
 
 ====================================================================================================
 
-Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says
+CDC expands largest known cyclosporiasis outbreak to 15 states - report
 Unknown
 Unknown Publisher
 2026-08-04
-20:53:01 UTC
-05:53:01 KST
+22:39:37 UTC
+07:39:37 KST
 
-Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says
-Amid growing public backlash to the rapid buildout of data centers across Texas, Gov. Greg Abbott on Monday announced a moratorium on the approval of data centers until regulatory agencies can audit proposed data centers seeking connection to the state’s electric grid.
-It is unclear how long the audit will take, but the effort is Abbott’s strongest effort yet to slow the development of these data centers statewide and underscores how little information members of the public, including state leaders, know about the facilities.
-Abbott is asking the Public Utility Commission of Texas and the Electric Reliability Council of Texas to ensure data center developers provide information on tax breaks they will receive; power use and generation; water use and cooling operations; efforts to reduce impacts on local communities; and ownership of the facility. Any projects that fail Abbott’s ordered “comprehensive verification and audit” should be denied connection to the grid, the governor said.
-“Our top priority is to protect Texans’ safety and quality of life,” Abbott wrote in a statement. “Any project that fails to comply with the requirements set forth by the PUCT and ERCOT, and by state law, must be denied connection to the Texas grid. Simply put, Texans must come first.”
-Abbott’s letter to the PUCT and ERCOT directs them to conduct the audit on all data centers advancing through ERCOT’s interconnection queue, or the line for energy intensive projects seeking connection to the electric grid. ERCOT is currently tracking more than 1,800 projects in the queue, representing over 474 gigawatts of electricity, or more than five times the grid’s record for peak demand, according to ERCOT. Approximately 90% of the new power requests are data centers, Abbott said.
-ERCOT and the PUCT are already conducting a review of some of the projects in the queue through a process known as “batch zero.” It is unclear if Abbott wants agencies to audit those projects or all those currently in the queue. Following Abbott’s directive, ERCOT said Monday they are putting the batch zero review on pause.
-There is no state or federal government database of the facilities, but the Texas Tribune has identified at least 335 data centers operating in Texas. The state is currently the second largest market for the facilities in the country, behind Virginia, and is poised to take the top spot. The Tribune has identified at least 248 planned data centers coming to the state, although hundreds more in lesser development phases have lined up in the power queue.
-While Abbott’s directive pauses the approval of new data centers seeking connection to the ERCOT grid, some data centers are building on-site power generation that allows them to bypass traditional connection to the grid. The ERCOT region also does not include the entirety of the state, like El Paso, which has seen the development of several large data centers.
-The Data Center Coalition, a trade group that represents some of the nation’s largest tech companies, said it was hopeful Abbott’s directive could separate responsible developers from irresponsible ones and urged regulators to quickly conduct the audits.
-“Done correctly, this review can showcase the good actors in the data center industry rather than delaying them unnecessarily, ensuring Texas will continue to be the national leader in economic development,” the organization’s spokesman Dan Diorio wrote in a statement Monday.
-Lack of transparency
-Lawmakers have spent much of this year seeking clarity about the facilities’ electricity use, water use and access to tax incentives as the Legislature considers tighter regulation of the industry.
-Abbott cited the failure of some data centers to comply with a recent PUCT’s survey measuring water and power usage as the reason the audit was needed because it hinders the agencies’ ability to make informed decisions.
-Developed by the PUCT in collaboration with the Texas Water Development Board, the survey collects information about a data center’s water consumption, cooling systems, water sources, electricity demand and whether facilities are connected to the state’s electric grid or have their own on-site power source such as a gas-fired power plant. The responses are meant to inform long-term state water planning.
-State law requires the PUCT to share the data with the water development board and state environmental regulators and to submit a report to the governor and the Legislative Budget Board by the end of the year.
-Rep. Brad Buckley, R-Salado, a member of the House Natural Resources Committee called survey participation “pretty pathetic” during a June hearing. Of the 377 companies PUCT staff said it notified when the survey was launched, 28 submitted responses.
-Also in June, Abbott directed the PUCT and ERCOT to require data centers fully fund the costs of electric infrastructure needed to serve them and take other measures to reduce electricity costs to residents.
-On July 17, PUCT Chair Thomas Gleeson responded to Abbott with his own letter outlining efforts the agencies have already taken and calling on the Legislature to grant them more authority to regulate the industry.
-The PUCT did not respond to questions about the scope of the audit, saying the agency would work with ERCOT to ensure Abbott’s new directives are carried out.
-Abbott’s proposal may disrupt ERCOT’s ongoing rework of its approval process for projects in the interconnection queue, requiring large-load projects to provide more detailed information before they can advance. The new rules for the first set of projects under consideration, known as “batch zero,” were approved by the PUCT in June. The agencies are currently working to develop a more permanent set of rules for projects still in the queue.
-An ERCOT spokesperson said the grid manager is reviewing Abbott’s order and will postpone the batch zero transmission planning study that is currently underway.
-Calls for a full moratorium
-City and county governments in the state have tried to slow data center development amid grassroots resistance to the facilities’ construction. Hood County rejected two attempts to pass a countywide moratorium in February after state Sen. Paul Bettencourt, R-Houston, warned the commissioners court it lacked the legal authority to do so. In May, Hill County approved the state’s first moratorium on the development of data centers but rescinded the measure a month later after a developer sued for $100 million in damages. And in June, San Marcos became the first Texas city to issue such a moratorium.
-Nationally, New York Gov. Kathy Hochul, a Democrat, faced criticism from President Donald Trump after she last month issued a year-long pause on the construction of the largest data centers.
-Opponents of the data center industry say Abbott’s Monday directive to regulators comes up short of a true moratorium.
-Texas Department of Agriculture Commissioner Sid Miller called Abbott’s directive vague and said it was not a substitute for legislative action, although he applauded the additional scrutiny.
-“Without legislative action, this directive is all hat and no cattle — empty political rhetoric wrapped in meaningless fluff,” Miller wrote. “Texans need laws with teeth, not another press release designed to make it look like something is being done while hyperscale projects continue moving forward.”
-Miller, along with many other opponents of data center development, has been calling on Abbott to order a special session that would allow legislators to pass laws regulating the industry.
-“AI has real promise, but it shouldn’t come at the cost of our water, our air, and our neighborhoods,” said Luke Metzger, executive director of Environment Texas, in a written statement about the need for a data center-focused special session. “Now that the state is asking the right questions, it needs to use the answers to develop safeguards that protect Texans.”
-State Rep. Gina Hinojosa, an Austin Democrat running against Abbott, said his directives do not go far enough.
-“So nice to see another strongly worded letter from Abbott after he proudly made Texas the wild west of data centers,” Hinojosa wrote in a statement. “Abbott’s call for a ‘pause’ could be for one day – and no one buys it. He’s taken millions from data center CEOs while giving Texans lip service to non-existent restrictions.”
-___
-Alejandra Martinez contributed to this report.
-___
-This story was originally published by The Texas Tribune and distributed through a partnership with The Associated Press.
+The US Centers for Disease Control and Prevention (CDC) is adding six more states to the ongoing cyclosporiasis outbreak linked to iceberg lettuce, bringing the total to 15, the Washington Post reported on Tuesday, citing three individuals familiar with the investigation.
+An FDA investigation linked the outbreak, which has expanded to nine states, to iceberg lettuce served at Taco Bell restaurants and sourced from privately held Taylor Farms operations in central Mexico.
+However, authorities are still looking for other potential sources.
+Missouri, which is reporting 1,095 cases, is one of the states being added, the Post reported, citing a state health department spokesperson.
+Patients who were interviewed by state and local investigators said they consumed Taco Bell before getting sick, the Post reported, citing a spokesperson.
+Information was not immediately available about the five other states, the report said, adding that the individuals spoke on the condition of anonymity to discuss an ongoing investigation.
+Outbreak hits record levels
+US cyclosporiasis cases have climbed to record levels this year, with the current outbreak among the largest caused by foodborne illness in recent US history. The infection can cause diarrhea, nausea and other gastrointestinal symptoms.
+Michigan, the hardest-hit state, reported 11,508 cases on Tuesday, up by more than 200 from the previous day's update.
+The state also reported the first two deaths associated with the outbreak, noting that both individuals had significant underlying health conditions.
+The CDC, whose surveillance lags state reporting by several weeks, has recorded 6,707 laboratory-confirmed cases nationwide, as of July 28, along with more than 11,500 suspected cases not yet confirmed through laboratory testing.
 
 ====================================================================================================
 
