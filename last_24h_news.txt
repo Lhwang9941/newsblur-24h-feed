@@ -1,52 +1,59 @@
-Philip Morris rebuked over AI campaign against EU tobacco rules
+China adds nearly 20 tons of gold to reserves in July
 Unknown
 Unknown Publisher
 2026-08-07
-09:46:49 UTC
-18:46:49 KST
+10:37:16 UTC
+19:37:16 KST
 
-Philip Morris rebuked over AI campaign against EU tobacco rules
-See more DutchNews articles in your Google search results
-The Dutch advertising standards watchdog RCC has reprimanded tobacco behemoth Philip Morris for an AI-powered ad campaign that it says violated the country’s tobacco advertising ban.
-As the EU prepares its biggest tobacco tightening rules in 15 years, the public was invited to share its views via comments.
-But a recent investigation by broadcaster NOS and the journalism platform Pointer found that Philip Morris used AI to generate hundreds of fake “citizen” responses opposing tougher EU rules on vapes, which along with other cigarette alternatives like e-cigarettes and heated tobacco, now account for 40% of the company’s revenue.
-Here’s how the campaign worked: Philip Morris put up yellow posters carrying QR codes in tobacco shops under the slogan “Your Voice Your Choice.” Scanning the code led to a tool that asked multiple-choice questions and then an option to write a first-person text, which users could then send to the Commission.
-The investigation found that some 71% of responses from the Netherlands were written by AI, the second highest after Portugal.
-The RCC had several problems with the campaign, including that the text generator was paid for and owned by Philip Morris. The company defended its actions by saying it contributed to the public debate.
-“The fact that the statements are framed as a call for public consultation does not detract from their commercial character,” said the watchdog.
-The written responses also portray alternative tobacco products positively, which the RCC says constitutes advertising and therefore violates the tobacco advertising ban.
-Doctors
-In June, a group of doctors and healthcare campaign groups made a formal complaint to the RCC, saying the “misleading” campaign used an AI tool to influence European decision-making on tobacco and nicotine products.
-Lawyer Laura van Gijn, who represents the doctors, told NOS that violating the tobacco advertising ban is a criminal offence. “This decision is a clear signal to the tobacco industry that digital influence campaigns do not fall outside the scope of the advertising ban, even when packaged as citizen participation. This precedent is relevant for similar campaigns elsewhere in Europe.”
-Thank you for donating to DutchNews.nl.
-We could not provide the Dutch News service, and keep it free of charge, without the generous support of our readers. Your donations allow us to report on issues you tell us matter, and provide you with a summary of the most important Dutch news each day.
-Make a donation
+Mucahithan Avcioglu
+07 August 2026•Update: 07 August 2026
+China’s central bank added nearly 20 metric tons of gold to its reserves in July, extending its buying streak to 21 consecutive months, official data showed Friday.
+Gold holdings at the People's Bank of China rose by 640,000 ounces to 76.08 million ounces at the end of July from 75.44 million ounces in June.
+The monthly increase, equivalent to about 19.9 metric tons, was the largest since October 2023.
+China had added about 15 tons of gold to its reserves in June.
+The country's total official gold holdings now amount to roughly 2,366 metric tons.
+The continued purchases come as China and other central banks increase their exposure to gold amid geopolitical uncertainty and efforts to diversify reserve assets.
+Gold prices have remained elevated after retreating from record levels earlier this year, with bullion finding support above $4,000 an ounce in recent weeks.
+Spot gold rose as much as 1.8% to above $4,316 an ounce following the release of the Chinese reserve data on Friday, reaching its highest level since mid-June.
+China has also been seeking to strengthen Hong Kong's role as an international gold trading and storage hub, while gradually expanding its domestic bullion market.
 
 ====================================================================================================
 
-Ukrainian energy facilities remain unprotected ahead of winter — lawmaker
+Chinese AI model escapes UK government testing sandbox, researchers say
 Unknown
 Unknown Publisher
 2026-08-07
-09:43:44 UTC
-18:43:44 KST
+10:37:12 UTC
+19:37:12 KST
 
-MOSCOW, August 7. /TASS/. Ukrainian authorities have again failed to provide reliable shelters for energy facilities ahead of the upcoming winter, with Kiev’s main power plants - CHP-5, CHP-6 and the Darnitskaya CHP plant - lacking adequate protection, Verkhovna Rada deputy Alexey Kucherenko said.
-"Has anything changed at CHP-5? No. Has any sort of sarcophagus been built at CHP-6 or the Darnitskaya CHP plant? No, nothing has changed. What they said about decentralization was nothing more than statements completely detached from the issue. They misled people and raised expectations. They convinced people that shelters would protect everything," he said on journalist Natalya Vlashchenko’s YouTube channel.
-Kucherenko noted that energy-sector representatives had sought as early as 2023 to convince Ukrainians that all energy facilities were completely protected. "They did not build a second layer of concrete shelters; they simply placed sandbags around the plants," he said.
-As a result, the coming winter in Ukraine will be difficult, Kucherenko said. "The approaching winter certainly will not be easier. Will we have more missiles? More shelters for energy facilities? I see no system," he continued. "We need to prepare for this realistically, above all psychologically."
-CHP-5, CHP-6 and the Darnitskaya CHP plant are Kiev’s main power plants.
+Mucahithan Avcioglu
+07 August 2026•Update: 07 August 2026
+Chinese artificial intelligence firm Moonshot AI’s latest model escaped from a cyber-testing environment operated by the UK government’s AI Security Institute, according to cybersecurity researchers.
+Kimi K3 was able to find its way out of the institute’s sandbox, a controlled environment designed to safely test AI systems, US-based cybersecurity research firm Frontier Security said Friday.
+Kimi K3 did not attempt to breach external websites, but researchers said the incident exposed weaknesses in its cyber safeguards.
+“Kimi’s model, which is publicly available, does not have these guardrails in place,” Frontier Security founder and CEO Yaron Singer told Bloomberg.
+The incident follows similar cases involving models from Anthropic, OpenAI and Meta, some of which researchers said accessed systems belonging to outside organizations.
+Kimi K3 has drawn attention for benchmark performance rivaling leading models from OpenAI and Anthropic.
+Moonshot has released the model’s weights publicly, allowing developers to download, modify and host it independently.
 
 ====================================================================================================
 
-Russian Forces Liberate Aniskino Settlement in Kharkov Region
+Australian aviation firm carries out rare aeromedical evacuation in Antarctica
 Unknown
 Unknown Publisher
 2026-08-07
-09:42:11 UTC
-18:42:11 KST
+10:37:06 UTC
+19:37:06 KST
 
-Russian Forces Liberate Aniskino Settlement in Kharkov Region
+Saadet Gokce
+07 August 2026•Update: 07 August 2026
+An Australian team carried out a rare midwinter medical evacuation of a US expeditioner from Antarctica, the Australian Broadcasting Corporation (ABC) reported Friday.
+Australian aviation company Skytraders said it deployed an Airbus A319 after receiving an urgent request for assistance late last month.
+After an initial attempt was delayed by bad weather, the aircraft departed Hobart on July 31 and landed at the US-operated McMurdo Station in darkness and freezing conditions.
+Skytraders said the crew operated in extremely challenging conditions and temperatures as low as minus 43C (minus 45.4F), safely transferring the patient before leaving Antarctica ahead of deteriorating weather.
+The aircraft, known as Snowbird 1, then flew to Christchurch, New Zealand, later that day, where the patient was admitted to a hospital.
+Details about the circumstances that led to the medical evacuation have not been disclosed.
+The US National Science Foundation (NSF) told ABC that it had requested assistance from the Australian Antarctic Division and the New Zealand Defence Force to transport the US Antarctic Program (USAP) participant to Christchurch for emergency medical treatment.
 
 ====================================================================================================
 
