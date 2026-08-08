@@ -1,60 +1,40 @@
-Premier League champions Arsenal sign Bruno Guimaraes from Newcastle United
+Iran's president says US stance unchanged despite diplomacy
 Unknown
 Unknown Publisher
 2026-08-08
-13:35:14 UTC
-22:35:14 KST
+14:10:49 UTC
+23:10:49 KST
 
-Halis Sunnetci
+Sahin Demir
 08 August 2026•Update: 08 August 2026
-Premier League champions Arsenal announced Saturday the signing of Brazilian midfielder Bruno Guimaraes from Newcastle United on a long-term contract.
-“We are delighted to announce that Brazil international Bruno Guimaraes has joined us from Newcastle United on a long-term contract,” Arsenal said in a statement.
-The 28-year-old signed a four-year contract with an option for an additional season, while British media reported that the transfer was worth about $101.16 million.
-“Bruno joins us having established himself as one of the most influential players in the Premier League,” the north London club said.
-Arsenal Sporting Director Andrea Berta praised the midfielder’s versatility and said his arrival would strengthen manager Mikel Arteta’s squad.
-“As we have all seen, Bruno can play as a defensive midfielder and as a box-to-box player. He combines quality with quantity, and has provided goals and assists for his team every year,” Berta said.
-“Bruno will allow Mikel to further develop our playing style and will also increase our internal competitiveness, which is essential for maintaining the standards required when we are aiming to win major trophies.”
-Guimaraes joined Newcastle from French club Olympique Lyonnais in January 2022 and made 195 appearances across all competitions, scoring 31 goals.
-He captained Newcastle to the League Cup title in 2025, helping the club secure its first major domestic trophy in 70 years.
-His departure represents another setback for Newcastle following the exits of Anthony Gordon and Sandro Tonali, as well as manager Eddie Howe, who stepped down and was replaced by German coach Matthias Jaissle.
+Iranian President Masoud Pezeshkian on Saturday said that Tehran's position toward the US remained unchanged despite recent diplomacy, defending the memorandum signed between the two countries and insisting Iran has made no concessions.
+Speaking at his second news conference since taking office, Pezeshkian said dialogue had not altered Tehran’s long-standing position toward Washington.
+"The US is colonialist, the US is criminal, and the Islamic Republic remains the Islamic Republic. There is no doubt about that," he said, according to the official IRNA news agency.
+Pezeshkian, however, argued that diplomacy had compelled Washington to negotiate with Tehran.
+"The very fact that we held talks and pursued diplomacy forced the US to come to the table and reach an agreement and understanding with Iran," he said.
+He rejected criticism of the memorandum, saying it contained no provision requiring Iran to relinquish any of its interests or positions.
+"You will not find a single clause in the memorandum in which we gave anything away," he said, adding that Tehran "stands firmly" behind what it signed.
+Pezeshkian accused Washington of violating the memorandum by pursuing alternative shipping routes in the Strait of Hormuz instead of adhering to procedures to be jointly agreed by Iran and Oman.
+He said disputes over the alleged violations should be addressed through mechanisms established under the memorandum and expressed hope the process would continue "with dignity and honor" for Iran.
+Pezeshkian also defended Iran's negotiating team, describing its members as "dedicated, expert and hardworking," and said criticism directed at them was unfair.
+Separately, he said his administration was working with the heads of the three branches of government and the Supreme National Security Council to ease internet restrictions while taking security and infrastructure considerations into account.
 
 ====================================================================================================
 
-Magyar’s party backs former supreme court head for Hungarian president
+Explosions reported in eastern Ukrainian city of Kharkov
 Unknown
 Unknown Publisher
 2026-08-08
-13:31:46 UTC
-22:31:46 KST
+14:10:34 UTC
+23:10:34 KST
 
-Hungarian Prime Minister Péter Magyar’s ruling Tisza party said on Saturday that it had nominated former Supreme Court President András Baka to become the country’s next president.
-Baka, who worked as a judge on the European Court of Human Rights before being elected to head the Supreme Court, was removed from his post by the Fidesz government in 2011 — a move the ECHRruled was unlawful.
-“Throughout his career, Dr. András Baka has considered the principle of the separation of powers to be of paramount importance and has consistently stood up for the rule of law and judicial independence,” Tisza said in a Facebook post.
-Advertisement
-He is “the strongest guarantee that the office of President of the Republic will regain its true dignity and its ability to unite the nation and serve as a counterbalance to the ruling majority,” it added.
-Parliament is set to vote on his candidacy next Tuesday. Tisza, which won a general election in the spring, enjoys a two-thirds majority in the chamber, making Baka’s election to the largely representative post a formality.
-The nomination comes after former President Tamás Sulyok signed a constitutional amendment that removed him from office last month, bowing to months of public pressure from Magyar. The new prime minister had called for Sulyok’s resignation following Tisza’s landslide election victory that ended Viktor Orbán’s 16-year rule.
-Magyar’s first choice for president, chess grandmaster Judit Polgár, declined the nomination, saying the job would be too stressful.
-
-====================================================================================================
-
-Ukraine says it struck 2 oil refineries in Russia
-Unknown
-Unknown Publisher
-2026-08-08
-13:30:37 UTC
-22:30:37 KST
-
-Long-range Ukrainian drones have hit two oil refineries in Russia's Krasnodar Krai and Samara Oblast, the General Staff said on Aug. 8.
-In Krasnodar Krai, in southern Russia, the Ilsky Oil Refinery sustained "a direct hit," sparking a fire on the plant's grounds, according to the General Staff. It added that the refinery has six processing units with a total capacity of about 6.6 million metric tons of crude oil per year and that its products are used to support the Russian military.
-Over 1,000 kilometers northeast in Samara Oblast, the Syrzan Oil Refinery had also sustained "a direct hit," with the General Staff reporting a fire at the facility.
-The refinery belongs to state-controlled oil company Rosneft and produces over 20 types of petroleum products, from motor fuels to road bitumen, according to the General Staff. It has a design capacity of about 8.5 million metric tons of crude oil annually, it added.
-"The facility is one of the key sites in the Samara Region's oil refining industry and supplies fuel, in particular, to meet the needs of the Russian armed forces," the General Staff said in its Telegram statement.
-The Russian Defense Ministry has not commented on the General Staff's claim. Moscow claimed it had downed 83 Ukrainian drones overnight, but did not name Krasnodar Krai or Samara Oblast among the regions over which the drones were intercepted.
-The attacks come as Ukraine ramps up its long-range strikes on occupied Ukrainian territories and deep inside Russia, targeting oil refineries, airfields, vessels belonging to Russia's shadow fleet, energy infrastructure, and military-industrial facilities.
-Outmanned and outgunned on the front, Ukraine is trying to slowly grind down Russia's combat capability from afar.
-Ukraine's recent strikes have targeted some of the biggest oil refineries in Russia, seeking to further exacerbate the country's fuel crisis.
-Russia has tapped into its fuel reserves, with stocks falling by about 4% compared to the previous year, Russian President Vladimir Putin claimed in late June at a meeting with leaders of the Russian energy industry.
+MOSCOW, August 8. /TASS/. Explosions have occurred in the city of Kharkov in eastern Ukraine, the Hromadske-News media outlet reported.
+An air raid warning is currently in effect in the Kharkov Region.
+{{dayPoint.date | date : 'd MMMM yyyy'}}
+{{newsPoint.date * 1000 | date : 'HH:mm'}} {{newsPoint.mark}}
+{{newsPoint.title}}
+{{newsPoint.title+ ' '}}
+{{newsPoint.subtitle}}
 
 ====================================================================================================
 
