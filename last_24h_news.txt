@@ -1,21 +1,73 @@
-Florida company 3D prints a drone boat using robotic arms
+Chinese archaeologists trace Neolithic life in southeastern Türkiye
 Unknown
 Unknown Publisher
 2026-08-09
-09:19:46 UTC
-18:19:46 KST
+10:16:25 UTC
+19:16:25 KST
 
-- Haddy, a St. Petersburg, Florida manufacturing company, announced on Saturday it produced the TF-179 Drone Boat using large-format robotic additive manufacturing.
-- Haddy has previously used the same 3D printing process to build a hull for HavocAI's unmanned surface vehicle and to expand production capacity for Red Cat's Blue Ops maritime division.
-A Florida company that started out printing furniture with giant robotic arms is now applying that same technology to something considerably more consequential, building drone boats for the U.S. military layer by layer instead of piece by piece.
-Haddy, a digital manufacturing company based in St. Petersburg, Florida, announced on Saturday that it has produced a vessel called the TF-179 Drone Boat using large-format robotic additive manufacturing, a process better known as industrial-scale 3D printing, in which robotic arms build up an object gradually from raw material rather than cutting or molding it from a single block.
-Haddy released photos of the finished vessel alongside a statement explaining the company’s broader approach to reshaping how maritime hardware gets built.
-“The maritime industry is redefining how vessels are designed and manufactured. The TF-179 Drone Boat is part of that evolution. Produced using large-format robotic additive manufacturing, projects like this demonstrate how digital manufacturing is enabling more agile development cycles, greater design flexibility, and a faster path from concept to deployment. As demand grows for specialized maritime platforms, manufacturing methods must evolve alongside them. The ability to rapidly produce, evaluate, and refine complex systems is becoming an increasingly important advantage. We’re proud to contribute to the technologies and partnerships helping shape the future of maritime manufacturing,” Haddy said.
-Haddy did not disclose in its statement which customer commissioned the TF-179 or what mission the vessel is intended to perform, leaving those specific details unconfirmed for now. What is clear from the company’s broader track record, however, is that this kind of rapid, robot-built approach to unmanned vessels has become Haddy’s specialty over the past year, as demand for small, expendable maritime drones has surged across the U.S. defense industry.
-Haddy operates out of a roughly 30,000 square foot (2,800 square meter) facility in downtown St. Petersburg equipped with eight large-format additive manufacturing systems built by the Dutch robotics firm CEAD, seven of which run on rails to extend their reach for producing especially large parts, according to a plant tour published by the trade publication CompositesWorld. The company was founded in 2022 by Jay Rogers, a former Marine and Princeton graduate who previously ran a similar 3D-printing venture called Local Motors, and it opened what it describes as the world’s largest 3D printing facility, based on total throughput and machine count, in April 2025 before expanding further as demand grew. What began as a business built around printing custom furniture, architectural elements and molds has increasingly pivoted toward defense work, using the same robotic printing process to produce items ranging from drone hulls to full-scale boat structures far faster than traditional shipbuilding methods typically allow.
-That speed has already proven itself on at least one prior maritime defense project. Haddy partnered with HavocAI, a Rhode Island-based autonomous systems company, to 3D print the carbon-fiber-reinforced hull of a low-profile unmanned surface vehicle, a type of semi-submersible drone boat designed to sit low in the water to reduce its visibility to radar and other detection systems. According to CompositesWorld’s reporting on that collaboration, Haddy delivered a functional, testable vessel from design to sea trial in just nine days, a timeline that would be virtually unheard of using conventional boatbuilding techniques involving molds, hand layup and lengthy curing processes. Haddy has also formed a manufacturing partnership with Blue Ops, the maritime drone division of the publicly traded defense company Red Cat Holdings, to help double Blue Ops’ production capacity for its own line of uncrewed surface vessels, which the company has been selling to U.S. and allied militaries as smaller, cheaper alternatives to traditional crewed patrol boats.
-The push behind all of this is a broader shift reshaping how militaries think about naval hardware, driven largely by lessons learned from Ukraine’s war against Russia, where inexpensive, remotely piloted drone boats have repeatedly damaged or destroyed far more expensive warships belonging to Russia’s Black Sea Fleet. That success has pushed American and allied defense planners to prioritize speed and volume over the traditional, years-long shipbuilding timelines associated with crewed naval vessels, since a fleet of small, disposable drone boats can be replaced and iterated far faster than a single multimillion dollar warship ever could.
-Robotic additive manufacturing fits neatly into that new calculus, because a company like Haddy can adjust a vessel’s design digitally and print a new version within days rather than retooling an entire physical production line, a flexibility that matters enormously when battlefield requirements are shifting as quickly as they have been in recent naval conflicts from the Black Sea to the Middle East.
+Cebrail Kaymaz and Halis Sunnetci
+09 August 2026•Update: 09 August 2026
+Chinese archaeologists are uncovering traces of Neolithic life in Türkiye’s southeastern province of Sanliurfa as part of the Culture and Tourism Ministry's Stone Hills Project.
+Excavation work at the site of Yuogunbrc in the Karakopru district began last month under the direction of Prof. Gan Caichao of the Archaeological Research Center of China's National Cultural Heritage Administration.
+The work is being done in cooperation with the Sanliurfa Archaeology Museum as part of Türkiye-China collaboration under the Stone Hills Project.
+The excavation covers approximately 22,000 square meters (237,000 square feet) and examines remains dating to the same Neolithic period as the famed site of Gobeklitepe, which is also located in Sanliurfa.
+Gan told Anadolu that the team was delighted to be in Türkiye and take part in the Stone Hills Project.
+Saying that the project is recognized worldwide, Gan said the region contains numerous traces of past ages.
+He said the work at Yogunburc is being done by a 22-strong team, including seven Chinese archaeologists.
+"The Sanliurfa region is one of the most important areas for Neolithic-era remains. We hope to uncover many valuable artifacts during this excavation," Gan said.
+ 
+Findings reflect ancient lifestyles
+Gan said trenches were dug along the east-west and north-south axes to gauge the boundaries of the site.
+"With these two trenches, we found which areas had a greater density. We also designated a square-shaped area in the center," he said.
+Gan said that so far at Yogunburc they have uncovered beads, flint, and wild boar teeth.
+"During the excavations, we found stones used by people during the Neolithic period for work, as well as beads worn for decoration. These findings show that the people of that time were very intelligent and clever," he said.
+"These discoveries provide important information for our research into the lifestyles of people who lived in the past."
+ 
+Stone Hills Project
+The Stone Hills Project in Sanliurfa includes a dozen Neolithic archaeological sites: Gobeklitepe, Karahantepe, Sefertepe, Sayburc, Harbetsuvan, Gurcutepe, Cakmaktepe, Yeni Mahalle, Yogunburc, Ayanlar, Mendiktepe, and Sogut Tarlasi.
+Dating back approximately 12,000 years, the settlements shed light on human history through findings revealing the transition of hunter-gatherer communities to a settled way of life, the earliest forms of social organization, and early belief systems.
+
+====================================================================================================
+
+Spain checks 200 Italian arrivals as countries clash over Morrocan migrant crisis at Cueta border
+Unknown
+Unknown Publisher
+2026-08-09
+10:15:16 UTC
+19:15:16 KST
+
+Spain checked around 200 travelers arriving from Italy at the country's six largest airports on the first day of border controls reintroduced following a dispute with Italy over irregular migration.
+Spain's Interior Ministry carried out checks on a total of 199 people on 12 flights from Italy to airports in Madrid, Barcelona, Seville, Bilbao, Alicante and Valencia, it said late on Saturday.
+Spain said on Friday border controls for flights and ships from Italy would remain in force until September 7 after Rome applied its own measures, which it said were motivated by the mass migration rush by 72,000 people to Spain's North African enclave of Ceuta on July 30.
+Italy suspends EU border-free arrangements with Spain
+Italy has suspended the European Union's border-free Schengen arrangements with Spain since August 1 and said it would maintain border controls until at least August 15.
+Rome said the measure would not affect Spanish or other EU citizens traveling to Italy and would instead involve targeted checks on non-EU nationals arriving from Spain by air or sea.
+"We hope to be able to lift the suspension soon, as soon as there is no longer any risk," Foreign Minister Antonio Tajani told Italian daily Corriere della Sera in an interview published on Sunday.
+The Schengen Area allows passport-free travel across 29 European countries, although member states can temporarily reintroduce border controls on security or public-order grounds.
+
+====================================================================================================
+
+Turkey, Saudi, Pakistan defense pact complicates Israel normalization hopes, expert tells 'Post'
+Unknown
+Unknown Publisher
+2026-08-09
+10:15:16 UTC
+19:15:16 KST
+
+The new defense pact signed by Saudi Arabia, Pakistan and Turkey, though far from ideal for Israel, “doesn't shut the door completely on normalization” between Riyadh and Jerusalem, Dr. Yoel Guzansky, head of the Gulf Research Field at the Institute for National Security Studies (INSS), told The Jerusalem Post on Sunday.
+The three Sunni-majority countries signed the defense agreement on Friday, after months of attacks from Iran and its proxies on Gulf states. Though unclear how the Mecca Joint Defense Agreement’s actions will materialize, the member states said in a joint statement that it would strengthen collective deterrence against any act of aggression and stipulates that an armed attack against any of the three would be regarded as an attack on all.
+Saudi Arabia, the hardest-hit of all three countries, likely joined the pact so it would have more leverage and options as trust in Washington is waning in the region, Guzansky said.
+“Countries need stability. Saudis need stability. It’s also a sign of, let’s say, question marks over the US’s readiness and ability to assist the Gulf states,” he explained. “The Saudis feel that they cannot count on the US, not because the US doesn’t want to, but because this administration, like almost every administration, has political, economic and military constraints and limitations. So they need more. This is hedging.”
+Though there were theories that Iran’s attacks would push Gulf states to embrace Israel more closely for its defensive and technological capabilities, Guzansky said Jerusalem’s growing reputation as a “hegemon” made such an embrace difficult, particularly given the perception that Israel is engaged in “endless wars,” which is not a sign of the much-desired stability Riyadh seeks.
+With Jerusalem not being viewed as a viable partner for Riyadh, Guzansky was blunt about his concerns over what it would mean for Saudi Arabia to embrace countries so openly hostile to Israel.
+Israel 'threat to entire Muslim world'
+“I’m worried because the Turks and Pakistanis have a really, really anti-Israel stance that might affect Saudi Arabia. I’m hoping that Saudi Arabia will affect them, but it would perhaps be too naive to think so,” he said. “It will not officially be aimed at Israel per se, but these are countries that are worried about Israel. Most of them are anti-Israel.”
+Notably, only a day after the pact was announced, Pakistan’s Defense Minister Khawaja Asif told Pakistan media that there should be “a united military front” against Israel, which he described as a “threat to the entire Muslim world.”
+“Their attitude towards the Palestinians and their anti-Islamic mindset will not disappear. They continue to incite Muslim countries against each other,” he said, seemingly pointing blame at Israel for the attacks from Iran on Muslim states. “And as long as the Palestinian issue is not permanently resolved, the Islamic world must stand against them as one.”
+Turkey views itself as a regional power
+From Ankara’s side, Guzansky said, “The Turks see themselves as a regional power. They are very sensitive to Israel and what Israel is doing. [Turkish President Tayyip] Erdogan is very, very negative, to say the least, towards Israel. He’s anti-Israel. He’s an antisemite.”
+With rumors of other countries looking to join the pact, namely Qatar and Egypt, Guzansky warned that the outlook “doesn’t look good” for Israel, especially given Doha’s propaganda capabilities with Al Jazeera.
+Guzansky theorized that the pact would be little more than diplomatic, with the possibility of sending some defensive equipment, stating that he doubted Turkey’s willingness to go to war against Iran.
 
 ====================================================================================================
 
