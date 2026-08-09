@@ -1,75 +1,35 @@
-Tracy-Ann Oberman speaks out about impact of activism on her career
-United Kingdom
-Unknown Publisher
-2026-08-09
-12:03:37 BST
-20:03:37 KST
-
-Tracy-Ann Oberman speaks out about impact of activism on her career
-The actor has been vocal about antisemitism in the UK
-- Bookmark
-- CommentsGo to comments
-Tracy-Ann Oberman says that her activism has “given me a voice and enhanced my career”.
-The 59-year-old actor, widely recognised for her roles as Chrissie Watts in EastEnders and Auntie Val in Friday Night Dinner, is a vocal advocate for the Jewish community.
-She was made a Member of the Order of the British Empire in 2025 for her work in Holocaust education and combating antisemitism.
-Speaking to The Telegraph, Oberman said that she had noticed a “herd mentality” within the entertainment industry.
-“What I noticed is that what people would say publicly and what they would say privately are very different things.”
-She recalled her great-grandmother, who spoke in “broken Yiddish”, saying: “When they’re burning down your village and you look around for the neighbours and they’re not there, you’ve got to save yourself.”
-She added: “I think it’s been quite traumatic for the Jewish community in the last few years because I think we’ve suddenly realised: where are the neighbours?”
-Oberman previously said that the war in Gaza has led to a frightening spike in antisemitism across the UK, and has spoken at marches organised by the Campaign Against Antisemitism.
-She is also a keen advocate against antisemitism in the arts, and recently staged a reimagined Shakespeare adaptation called The Merchant Of Venice 1936.
-She co-created, co-wrote and starred in the production as a gender-switched Shylock, an East End Jewish matriarch standing up to British fascists in the 1930s.
-She previously told the BBC that she hired personal security guards to keep her safe, alongside theatre security, while she performed the play.
-“I did have a lot to lose, but I do think that courage calls to courage everywhere, and authenticity brings its own rewards,” she told The Telegraph.
-“In many ways, I feel it has given me a voice and enhanced my career.”
-The TV star added: “I never want another actor to think they’ve got to hide their Star of David because they’re going to be pinned up against a wall and given a political purity test.
-“We’ve just got to be able to dig deep and accept political differences and get on with making fabulous work.”
-In 2022, Oberman had to pay damages to University of Sussex academic Dr Philip Proudfoot after falsely accusing him of antisemitism.
-Beyond her political activism, Oberman is known for her extensive TV work, including Ridley Road, Plebs, It’s A Sin and Siblings.
-Join our commenting forum
-Join thought-provoking conversations, follow other Independent readers and see their replies
-Comments
-
-====================================================================================================
-
-What are datacentres doing to the places we love? In Slough, I found a bleak answer | John Harris
+Myanmar rebuffs Asean call to free Aung San Suu Kyi, questions need for envoy
 Unknown
 Unknown Publisher
 2026-08-09
-11:03:18 UTC
-20:03:18 KST
+12:24:09 UTC
+21:24:09 KST
 
-Amid headlines about the UK’s drought, Europe’s wildfires and impossible global temperatures, it was 28C when I arrived in Slough last Monday. I was there to look around Slough Trading Estate, a place that might once have conjured up images of the TV comedy The Office, many of whose laughs came at the expense of this overgrown patch of suburbia, 20-odd miles west of London.
-But these days, this area of town – an incongruous mixture of old-school businesses such as Mr Clutch and Angling Direct, and vast, metal-clad leviathans that look like something pulled from JG Ballard – has become a byword for the constant expansion of datacentres, those hulking symbols of the vast computing power that big tech now requires, not least because of the ever-more complex workings of artificial intelligence.
-In many people’s minds, datacentres are also a byword for the two totemic issues of yet another searing summer: heat and water. Across the world, the huge amounts of electricity they demand, mostly generated using fossil fuels, indelibly connects them to the climate emergency. The constant machinations of their crammed-in servers require cooling processes that also use vast amounts of water. So it is that the 21st century’s dominant means of communication intensifies our era’s most terrifying threats.
-The first building I loitered around was a datacentre owned by the California-based company Equinix. There were 100 or so cars in its “visitor” and “staff” spaces, no corporate branding to be seen – and, up close, the constant sound of a low industrial whirr. On the other side of the street, poetically enough, was a set of offices occupied by Thames Water, a few of whose employees were taking a break outside. I pointed across the road: did they know what the building contained?
-“There’s loads of AI bits in there,” said a twentysomething woman called Louise. “I saw something about it on Instagram: all the water they use.” She rolled her eyes. “It’s ridiculous. Loads and loads of water because of all the AI.” On her phone, she found one of the posts she had seen. “Slough is quietly running Britain’s AI boom but there’s a problem,” it said. “When a heatwave hits, the machines get thirsty too. Cooling systems work overtime in hot weather, spiking demand for power and water.”
-Someone suggested I make the five-minute journey to nearby Britwell, a housing estate built for bombed-out Londoners after the second world war. The first person I encountered was a mum from the area called Sheryl. “You notice the noise at night: like a whirring, buzzing sound,” she said. “And since we’ve had all these [new] ones up here, there seems to be more heat round here.”
-Early research, including a recent preprint of a paper authored by researchers at Cambridge University earlier this year, does suggest that datacentres can have a “heat island” effect, pushing up temperatures in their immediate vicinity by an average of 2C, and as much as 9C. Last month, the trading estate’s corporate owners said they had “not seen conclusive evidence demonstrating that datacentre operations on Slough Trading Estate are causing increases in local temperatures”.
-Slough has the densest cluster of datacentres in western Europe: as many as 40, with more to come. What has happened here is bound up with the trading estate’s recent history as a partly deregulated “simplified planning zone”, the town’s proximity to London (the faster that digital financial transactions can happen, the better), and the apparently flukish fact that Slough sits atop the cables that connect Britain to the US and Ireland. The datacentres the town hosts are owned and maintained by companies that are far from being household names – Equinix, Digital Realty, Iron Mountain – but serve famous customers including Amazon, Google, Oracle and Microsoft.
-Fierce arguments about datacentres are a big part of the discourse surrounding the upcoming US midterm elections, with Donald Trump taking a predictable position: “You have to convince your community how great these things [are] … You can’t fight it.” But actually, you can. Resistance is now pouring into the US political mainstream: midway through last month, New York became the first state to impose a one-year pause on new “hyperscale” datacentres, and, as litigation is fought out across the country, there is mounting pressure for other parts of the US to follow suit. The leftist insurgent Abdul El-Sayed, who last week won a Democratic Senate primary in Michigan, has crisply captured the mood: “People really effing hate datacentres,” he says. Even the Republican governor of Texas has called for a ban on their development in rural areas, and last week ordered that new centres won’t join the state’s power grid until regulators have reviewed their use of water and energy.
-Increasing numbers of US facilities have their own dedicated gas turbines; in the UK, high-ups at the energy regulator Ofgem say that 100 planned centres here aim to do the same. US sites are putting added pressure on existing power grids that also use coal and oil, and backup generators powered by diesel are a standard industry feature. Green datacentres are attracting growing interest, but many insiders insist that renewables simply don’t cut it: “Our datacentres have to run 100% of the time so we can’t even consider using [renewables] as a primary source,” one industry kingpin told the Financial Times last year.
-With good reason, not many people are minded to listen to private water companies. But only a fortnight ago, Water UK, the organisation that represents firms in the four nations, said that the government’s existing water forecasts were “fatally flawed” and “explicitly exclude” datacentres, which can use up to 5m gallons a day, equivalent to the consumption of up to 50,000 people. What that omission says about our readiness for more datacentres – and what will happen during inevitable future droughts – is an interesting question. Would the public be expected to stoically limit their use of water while datacentres carried on guzzling it?
-All sorts of tensions could soon explode. For all Andy Burnham’s talk of local decision-making, Whitehall’s official aim is still to triple the UK’s number of datacentres by 2030, which could be aided by the fact that they are now classed as critical national infrastructure. In December, a report by the London assembly revealed that datacentres’ electricity requirements had led to stalled housebuilding in the capital; last week brought news of the returned housing secretary, Angela Rayner, approving a redevelopment of the old Truman Brewery site in east London that had been called in by her predecessor, Steve Reed. It will include a datacentre handling transactions in the City, offices and 44 homes, in contrast to plans supported by the local council centred on 350 new dwellings. Whatever that represents, it doesn’t sound like what the new PM calls “good growth in every postcode”. There may, in fact, be a stark choice lurking in such stories that politicians will soon have to face: homes or servers?
-On my way out of Britwell, I had a chat with a woman called Jodie, on her way home from Lidl. “My brother said he saw something on TikTok that said if there was a war, Slough would be a target because of the datacentres,” she said. I grimly laughed: “Come friendly bombs and fall on Slough”, and all that? “Let’s hope not,” she said. In the middle distance, the increasingly gigantic datacentres whirred on, and I thought of a few lines from another of John Betjeman’s poems: “And over all the land, instead of trees / Clean poles and wire will whisper in the breeze / We’ll keep one ancient village just to show / What England once was when the times were slow.”
-- 
-  John Harris is a Guardian columnist
+Myanmar rebuffs Asean call to free Aung San Suu Kyi, questions need for envoy
+Myanmar will continue to work with Asean’s special envoy but does not see the need to continue when Singapore takes over on January 1
+Asean came up with a peace plan for the Southeast Asian country in April 2021 to end hostilities and initiate dialogue among contending parties, to be facilitated by the special envoy. Min Aung Hlaing has since been barred from attending top-level meetings for failing to comply with the plan.
+In an apparent effort to placate critics, the government allowed a representative of the International Committee of the Red Cross to visit 81-year-old Suu Kyi last week, the first known contact with an outside international independent humanitarian organisation since her detention five years ago.
+Suu Kyi is serving her sentence under house arrest at an undisclosed location in the capital Naypyidaw, on charges that her supporters and rights groups have said are politically motivated.
 
 ====================================================================================================
 
-American warship downs drones with laser weapon
-United Kingdom
+Russia and Ukraine exchange overnight strikes, WHO confirms warehouse destroyed
+Unknown
 Unknown Publisher
 2026-08-09
-12:03:14 BST
-20:03:14 KST
+12:23:38 UTC
+21:23:38 KST
 
-The US Navy has confirmed that a frontline destroyer has successfully used a ship-mounted laser weapon to defeat multiple uncrewed aerial threats during a recent at-sea demonstration.
-According to Lockheed Martin, the Arleigh Burke-class destroyer USS Preble employed its High-Energy Laser with Integrated Optical Dazzler and Surveillance system, known as HELIOS, to engage and neutralise four drones during a Navy-run counter-UAS event. The activity took place last year and was disclosed publicly as part of the company’s latest financial update.
-Lockheed Martin chief executive Jim Taiclet said the demonstration showed how lasers could provide a practical alternative to traditional missile-based defences for close-range threats. He described the system as having successfully knocked incoming uncrewed aircraft out of the sky, highlighting the potential to conserve expensive interceptor missiles for higher-end targets.
-“Speaking of amazing technology, we successfully used the shipboard laser system, Lockheed Martin’s Helios, to knock an incoming UAV right out of the sky. The Helios weapon system successfully neutralised four drone threats in a US Navy-operated counter-UAS drone demonstration at sea, showcasing an opportunity to eliminate drone attacks using lasers and saving US and allied air defence missiles for more advanced threats.
-This development of laser weapon systems is just one example of Lockheed Martin’s support of the Homeland Defence Mission, including Golden Dome for America. We also continue to collaborate with government and industry in our prototyping environment at our Center for Innovation in Virginia to support the command and control aspects of Golden Dome.”
-HELIOS is a roughly 60-kilowatt class laser integrated directly into the Aegis Combat System, allowing it to be operated alongside conventional radar, sensors and weapons. Installed aboard USS Preble, a Flight IIA Arleigh Burke-class destroyer, the system is designed to perform both so-called soft-kill functions, such as dazzling or degrading optical sensors, and hard-kill engagements by heating and damaging the structure of a target.
+A World Health Organization (WHO) warehouse storing emergency health supplies in Ukraine has been destroyed, as Kyiv and Moscow exchanged fresh missile strikes overnight, causing several deaths and leaving tens of people injured.
+Russia launched a “massive” strike on Odesa overnight, according to Ukrainian emergency services, with at least eight people injured. Ukrainian President Volodymyr Zelenskyy said in an X post on Sunday that the “brutal strike” on the city targeted energy infrastructure as well as residential buildings and the port.
+A separate Russian strike on the Saltivka district of Kharkiv killed two people and injured at least 21 more, according to the head of the region’s state administration. Ukraine’s emergency services said firefighters rescued seven people from the upper floors of a high-rise building.
+Advertisement
+Another overnight strike on the Zhytomyr region injured three people, Ukrainian emergency services said.
+Meanwhile, five people died in a Ukrainian overnight drone attack on the Russian city of Belgorod, the regional crisis centre said on Sunday. Acting governor Alexander Shuvayev said earlier on Sunday that three people were killed and 25 others injured in the “massive terrorist drone attack” by Kyiv. The death toll later rose to five.
+Zelenskyy condemned what he described as “ballistic terror” attacks on Odesa, Kharkiv, Pavlohrad, and other regions. “Every such attack on human life serves as a constant reminder – we need more pressure, more sanctions against Russia, and more air defense for Ukraine,” he said.
+Tedros Adhanom Ghebreyesus, director-general of the World Health Organization, said on Sunday that a WHO warehouse in Dnipro in Ukraine was destroyed by a strike on Friday.
+The warehouse held humanitarian supplies for frontline health facilities. No casualties were reported, as a WHO staff member and drivers managed to evacuate 130 of approximately 300 pallets and left the area before the attack.
+“I cannot say loudly enough: attacks on health care MUST STOP. Otherwise, people are deprived of lifesaving healthcare,” Tedros said.
 
 ====================================================================================================
 
