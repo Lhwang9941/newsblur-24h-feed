@@ -1,66 +1,102 @@
-Malaysia seeks to deepen trade ties with South Korea in chips, AI, halal sector
+When extreme heat threatens Europe's nuclear power
 Unknown
 Unknown Publisher
 2026-08-10
-05:04:15 UTC
-14:04:15 KST
+07:04:00 UTC
+16:04:00 KST
 
-Malaysia seeks to deepen trade ties with South Korea in chips, AI, halal sector
-South Korea’s biotechnology and pharmaceutical sectors can complement Malaysia’s halal certification system, a Malaysian official says
-In an interview with The Korea Times, Malaysian Investment Development Authority (MIDA) director Redzuan Abd Rahman and Malaysia External Trade Development Corporation (MATRADE) trade commissioner Mohamad Termizi HJ Piee said the two countries’ economic relationship had entered a new phase, with growing opportunities for South Korean companies to leverage Malaysia as both an investment destination and a gateway to the wider Asean market.
-“Malaysia and South Korea have built a strong and enduring economic partnership over the past several decades,” Redzuan said. “We believe the greatest opportunities lie in deepening collaboration in industries that are shaping the future of our economies.”
-According to MIDA, South Korean companies have implemented investments totalling US$11.7 billion across more than 400 projects in Malaysia as of 2025, creating nearly 50,000 jobs. Those investments span chemicals, transport equipment, electrical and electronic products, petroleum products and basic metals.
-Redzuan highlighted that the two countries’ respective national development strategies were highly complementary, explaining that while South Korea continued to advance its leadership in semiconductors, artificial intelligence, advanced manufacturing, mobility, batteries and green technologies, Malaysia was implementing the New Industrial Master Plan 2030, the National Semiconductor Strategy and the National Energy Transition Roadmap “to accelerate industrial transformation towards higher-value, innovation-driven and sustainable industries”.
-This strong strategic alignment presents significant opportunities for deeper Malaysia-South Korea collaboration in investment, technology and industrial partnerships, reinforcing Malaysia’s position as a strategic destination for South Korean companies seeking regional growth.
+When extreme heat threatens Europe's nuclear power
+August 10, 2026
+The state of the Danube is currently showing just how dependent nuclear power plants are on their local conditions. At the power station in Paks, Hungary — which normally produces about 40% of the country's electricity needs — only one of four turbine units is still operating. Due to record-low water levels in the Danube, the country's only nuclear power plant was even briefly at risk of a complete shutdown.
+But for the European electricity market, France is of far greater significance. No other country in Europe relies so heavily on nuclear power, and if output in France drops, the country supplies less electricity to its neighbors, and may even become an electricity importer itself.
+Reduced power
+Over the course of the entire year, heat-related production losses at French power plants are minimal, but during individual weeks of extreme heat, the restrictions can be significant.
+A 2023 report by France's official audit office estimated that, between 2000 and 2022, annual losses across all of the country's nuclear reactors due to high water temperatures and low river levels amounted to less than 1% of annual nuclear power production in any given year. Even in the extremely hot summer of 2003, they amounted to only about 1.5%.
+But the annual figures obscure short-term fluctuations. In the summer of 2003, French nuclear power plants had to temporarily reduce their output by more than six gigawatts, and the most recent heat waves at the end of June and in mid-July 2026 saw the maximum available capacity was temporarily limited by eight to nine gigawatts. This corresponds to up to one-fifth of the nuclear power capacity normally available to France in the summer.
+But eight gigawatts less capacity is not the same as an eight gigawatt overall shortfall. Even without the low water levels, some reactors would not be running at full capacity — either because of lower summer demand, high solar-power production, or bottlenecks in the power grid. According to grid operators, France still had sufficient reserves even during the 2026 heat waves and, on balance, remained an electricity exporter.
+Other countries feel the impact
+Nevertheless, such restrictions are relevant for grid operators and electricity traders. For them, it doesn't matter how much electricity was ultimately produced by nuclear power plants at the end of the year: What is crucial for the stability of the power grids and short-term price surges is whether the power is actually available when it is needed.
+And here, experience shows that heat waves increase electricity demand due to air conditioning. Not only that: As this year's heat waves are affecting large parts of Europe, reserves from abroad are also declining.
+Rivers getting warmer
+Nuclear power plants suffer from low water levels because they must discharge a comparatively large amount of waste heat per kilowatt-hour generated. Only about one-third of the heat generated in a nuclear reactor is converted into electricity; the rest is released into the environment via the cooling system — often into rivers or the sea. But if the river is carrying little water, the waste heat is distributed over a smaller volume of water, and the water temperature rises faster.
+Warm water also contains less oxygen, and legal temperature limits are in place to protect fish and other aquatic life. When operators throttle back a reactor in the summer, it is therefore usually not an emergency shutdown for reactor safety, but rather a measure to protect the local river life.
+In critical situations, French authorities occasionally grant exemptions from these limits. In such cases, water bodies are monitored more closely, allowing the state-owned power company EdF to produce additional electricity in the short term.
+A power plant with cooling towers draws significantly less water from the river and discharges considerably less heat directly into the water than a plant with an open cooling circuit. However, cooling towers do not make a nuclear power plant independent of weather conditions, as the Golfech plant demonstrates.
+Located on the Garonne River, which is particularly warm in summer and frequently experiences low water levels, it is one of the most vulnerable sites, despite its cooling towers.
+Meanwhile in Chooz on the Meuse River, the reactors had to be throttled back in 2020 despite the cooling towers, to avoid jeopardizing the drinking water supply in Belgium.
+Repairs also reduce output
+Not every decline in nuclear power production can be explained by the weather. Four years ago, France's reactors generated nearly 82 terawatt-hours less electricity than in 2021. This headline-grabbing crisis was caused less by climate change than by stress corrosion cracking and postponed maintenance work.
+But looking ahead, the French audit office expects that climate-related reactor downtime could triple or even quadruple by 2050. Given the low baseline so far, even that would not yet constitute a widespread outage, but it could become critical for individual sites.
+With additional cooling towers, deeper water intake structures, and better maintenance planning, France can at least partially counteract this trend. However, making the power plants more heat-resistant costs a lot of money and requires more land.
+In its upcoming nuclear power plant modernization program, France intends to take the consequences of climate change into account. Four of the six modern EPR2 reactors initially planned are to be built on the coast, in Penly and Gravelines. Only the third pair of reactors will be built on the Rhone River near Bugey. Cooling towers there are intended to limit the thermal load on the river and water intake.
+Consequences across Europe
+The consequences of French reactor curtailments are evident in the European electricity market. On June 24, capacity was reduced by approximately 4.1 gigawatts due to high river temperatures. As a result, France's electricity exports fell to about three gigawatts, after the country had supplied 10 to 12 gigawatts to its neighbors just the week before.
+Combined with higher electricity consumption, low wind power generation, and increased use of gas-fired power plants, this contributed to electricity prices in France and Germany briefly climbing to their highest levels since January 2025.
+During the subsequent heat waves in July, the curtailment of reactors was even more extensive, though the impact on other countries was less significant. On July 13, eight reactors with a combined capacity of 6.3 gigawatts were affected, and two were completely taken offline. Nevertheless, France only intermittently exported more than 10 gigawatts and imported affordable solar and wind power from Spain.
+The heat-related curtailments of nuclear power plants currently appear to be a manageable problem for the country. Whether this will develop into a Europe-wide shortage in the future will likely depend not least on the development of foreign demand and the reserves of wind and solar power.
+This article was translated from German.
 
 ====================================================================================================
 
-Court approves last attempt by 11 jailed opposition figures to clear their name
+Despite geopolitical tensions, China’s rare earth producers have profitable first half
 Unknown
 Unknown Publisher
 2026-08-10
-05:04:02 UTC
-14:04:02 KST
+07:03:18 UTC
+16:03:18 KST
 
-Court approves last attempt by 11 jailed opposition figures to clear their name
-Hong Kong court cites five legal issues deserving further scrutiny over appellants’ involvement in unofficial 2020 primary to take over legislature
-A Hong Kong court has endorsed a final attempt by 11 jailed opposition politicians and activists to clear their name, following their convictions for conspiracy to commit subversion in a landmark national security trial.
-In a written judgment delivered on Monday, the Court of Appeal identified five legal issues that deserved further scrutiny by the Court of Final Appeal over the appellants’ involvement in an unofficial legislative primary election in 2020 and a broader scheme to paralyse the Legislative Council.
-Chief Judge of the High Court Jeremy Poon Shiu-chor, appeal justice Derek Pang Wai-cheong and Court of First Instance judge William Tam Yiu-ho acknowledged that the issues were of “great and general importance” because they concerned the boundary between criminal conduct and the exercise of a lawmaker’s constitutional duties, powers and functions.
-“They merit the consideration by the Court of Final Appeal, in particular when it is the first occasion they are to be determined by our apex court,” the judgment said.
-Despite the ruling, the Court of Final Appeal can still decide whether to permit the 11 appellants to advance their case before the top judges.
+Despite geopolitical tensions, China’s rare earth producers have profitable first half
+Rapid expansion of AI supply chain has given rare earth prices a strong upwards trajectory, analyst says
+China’s rare earth producers have reported or anticipated hefty first-half profits, with Beijing’s use of the strategically critical minerals as leverage in trade relations with Japan and the United States not appearing to impede normal activity.
+Shenzhen-listed China Rare Earth Resources and Technology saw its first-half net profit surge 46.53 per cent year on year to 237 million yuan (US$35.1 million), the company said in an exchange filing on Friday.
+Its price-to-earnings ratio, an indicator of investor expectations, was 636.88 in February and currently stands at around 254, still very high compared with the market average.
+The same ratio for Shanghai-listed China Northern Rare Earth (Group) High-Tech, the nation’s largest producer, reached 105.4 in February and now stands at about 58.
+China Northern has said it expects a first-half net profit of between 1.98 billion yuan and 2.06 billion yuan, representing year-on-year growth between 112.74 and 121.33 per cent.
+“Rare earth prices have maintained a strong upwards trajectory driven by the rapid expansion of the AI supply chain and surging demand for hardware components,” said Guo Lingyu, an investment manager at Jianyuan Fund.
 
 ====================================================================================================
 
-Most of the Maldives may be unliveable in 50 years – but these kayaking islanders aren't giving up
+Coalition calls for Albanese to apologise to Japan's PM over melon gesture
 Unknown
 Unknown Publisher
 2026-08-10
-05:02:45 UTC
-14:02:45 KST
+07:01:00 UTC
+16:01:00 KST
 
-From protesting against a mangrove-damaging reclamation project to organising beach clean ups, Maldivian youth are defending their home and identity.
-A group of young people in the Maldives recently paddled kayaks to protest land reclamation work that was cutting through protected mangrove wetlands in a UNESCO biosphere reserve, even spray-painting “ECOCIDE" on a reclaimed patch.
-The nonprofit Project ThimaaVeshi, which means “self and surroundings”, is part of a new generation of activists in the Indian Ocean island nation tackling issues that are part of their daily lives: coastal erosion, plastic pollution and development-damaged ecosystems.
-In Addu City in the south, the activists have focused on overdevelopment, documenting the impact on wetlands and reefs. In the capital, Male, others are tackling the plastic waste suffocating streets, hangout spots and swimming areas.
-As they team up with surfers and others for cleanups, picking fishing lines out of coral reefs and piling up discarded water bottles, the groups educate youth on their right to a clean and healthy environment.
-They are united in knowing that, unlike with previous generations, climate change and environmental damage are no longer a distant threat.
-The Maldives has championed itself as a country fighting its vulnerability to climate change and sea level rise, but the government has said sacrifices must be made at times in favour of development, and the activists say protective measures are not happening fast enough.
-Experts have said the country south of India and Sri Lanka is expected to be around 80 per cent uninhabitable within the next 50 years due to rising sea levels.
-Youth push back against a sense of helplessness
-“It was just us and a bunch of hopes and dreams,” says 21-year-old co-founder of Project ThimaaVeshi, Yameen Maumoon.
-Maumoon along with Mishal Mushahid started their activism as student leaders working with the Addu City council. What started as a group of friends became a movement and a registered nonprofit after they graduated from high school.
-In Male and neighbouring Hulhumale, another youth group seeking formal registration, Ripple, started when friends noticed the trash building up in areas where they hung out.
-“One day when we were playing Minecraft, we were joking around, saying we should start making TikToks and we should start cleaning up," says co-founder, Mariyam Maasha Waheed. What began as an informal cleanup grew after their TikTok videos gained traction.
-The group now organises weekly cleanups and campaigns against plastic pollution, collaborating with others to recycle the plastic they collect.
-Founders say they want environmental action to feel less intimidating and more communal.
-A co-founder of the newest group seeking registration, Barnacles, Yania Hussain Ishan, became interested in environmental issues while preparing a presentation for school on protecting nature. The group focuses on climate education and youth leadership.
-The constant talk on social media and elsewhere about a climate emergency has led to their generation's feeling of a lack of agency over it, Ishan says.
-The groups have faced criticism over their youth
-The age of the activists has drawn comments, even from government officials, that youth equates to naivety and ignorance. All three groups have been told their work is pointless, and that something as simple as a beach cleanup will not fix the overall challenges.
-Young people have too many emotions and can’t be trusted with decision-making, the country's minister of climate change, Ali Shareef, last year told a public forum.
-The activists say they know they cannot solve Maldives's problems alone. But they believe waiting for the bigger problems to be solved isn’t an option. They want to shape a generation who understand their rights and pass the responsibility to future ones.
-“We are deciding what kind of ancestors we will be," Ishan says. “We are defending our home, our heritage and the right of every Maldivian child yet to be born to stand on these shores, look out at the sea and feel the same wonder and security that defines who we are.”
+Taylor demands Albanese apologise to Japan PM Sanae Takaichi over melon gesture
+In short:
+Anthony Albanese is facing backlash over a gesture about two melons amid claims it was in reference to Japanese Prime Minister Sanae Takaichi's body.
+The opposition has called for Mr Albanese to apologise, with cabinet ministers once again defending his track record.
+What's next?
+It remains unclear if the prime minister will publicly apologise, with his team issuing a statement to limited outlets.
+Prime Minister Anthony Albanese is facing pressure to apologise to his Japanese counterpart over a gesture he made about two melons she gifted him, which his office insists was not a crude joke.
+In an interview last month, Mr Albanese gestured to his chest when recalling the melons during an exchange with Bush Deep podcast host Nikki Osborne, who asked how the fruit had been smuggled into the country.
+The incident resurfaced this morning when former Australian ambassador Shingo Yamagami criticised the exchange in The Australian, labelling it "insulting", ignorant and a betrayal of the "close relationship" between Australia and Japan.
+The former Ambassador suggested Mr Albanese was making a quip about Prime Minister Sanae Takaichi's body, but a spokesperson for Mr Albanese told The Australian, "this assertion is wrong".
+The comment has not been supplied to the ABC despite multiple requests.
+Opposition Leader Angus Taylor said it was beneath the office of the prime minister, and demanded Mr Albanese apologise.
+"They were insulting, and the prime minister should make a personal apology. He's done it through a statement. I mean, the hypocrisy of Labor and the foreign minister on this topic," Mr Taylor said.
+The gaffe occurred during the same podcast that landed Mr Albanese in hot water when he said he would shag Kylie Minogue during a game of "shag, marry, date". He later apologised for those comments.
+While Mr Albanese was condemned by several female parliamentarians at the time, including Shadow Communications Minister Sarah Henderson, the main focus was on Minogue and not Ms Takaichi.
+Liberal Deputy Leader Jane Hume added to the criticism, calling the comments "grubby" and "inappropriate".
+Labor ministers defend PM
+Senior cabinet ministers have again been forced to defend Mr Albanese's appearance on the podcast.
+Social Services Minister Tanya Plibersek today deflected criticisms and disagreed with Mr Yamagami's interpretation.
+"We have an excellent relationship with Japan. Japan is a very important strategic and economic partner … and I think the former ambassador is wrong in his interpretation," she told Sunrise.
+Health Minister Mark Butler reiterated Australia's strong economic and security ties with Japan.
+"It's very close. It involves constant communication between our two countries, two at the highest level. I know Prime Minister Albanese feels the deepest respect for that relationship," he told reporters.
+The federal Transport Minister Catherine King argued the comments were being blown up by the opposition.
+Comments 'unfortunate' but not Japan's primary concern
+While officials may have winced in private, nobody in the Japanese government has publicly commented about Mr Albanese's gaffe.
+Ms Takaichi's first visit in May solidified Australia's place as a critical energy partner for Japan, and an increasingly important security partner as well.
+When the episode first came out, officials in the Japanese government told the ABC they were not focused on the exchange and that Tokyo would not comment on a minor episode, particularly given the scale of cooperation between the two countries.
+The episode has also drawn little attention so far in the Japanese press, aside from one scathing opinion piece in the English-language Japan Times which lambasted Mr Albanese and accused him of rank sexism.
+But one member of the Australian business community with close links to Japan said the exchange "had absolutely not gone unnoticed" among Japanese elites, even if they were publicly silent about it.
+In his criticism, Mr Yamagami pointed out that Ms Takaichi has already copped sexist and derogatory attacks from Chinese state media, but it was not expected from Japan's strategic partner.
+Innuendo aside, the former diplomat also highlights that Mr Albanese's comments ignore the cultural significance of crown melons, which are intensely cultivated luxury fruits in Japan.
+In the face of an "increasingly dangerous" geopolitical climate, he urged the prime minister to show greater focus.
+"So, prime minister, please enjoy Japan's sweet and juicy melons without thinking about a woman's anatomy, and instead focus on what our two countries must do together," he said.
+Mr Yamagami had a fraught relationship with Labor when he was in Canberra and was particularly angry when Foreign Minister Penny Wong urged him, while she was still in opposition, to pull back his public criticisms of China.
 
 ====================================================================================================
 
